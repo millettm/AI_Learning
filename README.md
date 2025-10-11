@@ -14,3 +14,9 @@ resolve them all.
 -Processed IRM 6.430.1 with NLTK/Pandas (tokenized, saved key terms).
 -Built basic RAG with LlamaIndex, queried IRM for Introduction to Performance Management.
 Next: Expand RAG with more documents, improve prompt engineering.
+
+## Day 3: Enhanced prompts templates with NLP elements, and a basic agent for chained tasks like quizzes/sims.
+I ran into some more errors and had to switch things around a bit from my first draft with Grok.
+-Fixed ReActAgent init for version compatability.
+-Switched to async .run for ReActAgent compatability with Mistral.
+-Added 300-second timeout for Ollama in agent (took almost 20 minutes to run, but it worked).
