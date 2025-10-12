@@ -50,5 +50,6 @@ async def main():
     response = await agent.run("Explain IRS Performance Management, then generate a 3-question quiz on feedback.")  # Use arun for async
     print(response)
 
+
 if __name__ == "__main__":
     asyncio.run(main())

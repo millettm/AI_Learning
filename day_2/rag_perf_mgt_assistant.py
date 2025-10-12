@@ -10,6 +10,7 @@ Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 # Load CSV with Pandas
 df = pd.read_csv('C:/Users/the-s/PycharmProjects/AI_Learning/data/irs_intro_to_perf_mgt.csv')
 
+
 # Convert rows to Documents (assuming 'sentence' column; swap if different)
 documents = []
 for index, row in df.iterrows():

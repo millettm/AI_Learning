@@ -30,5 +30,6 @@ df = pd.DataFrame({
     'sentence': sentences,
     'key terms': [','.join([w for w in word_tokenize(s.lower()) if w in key_terms]) for s in sentences]
 })
+
 df.to_csv('C:/Users/the-s/PycharmProjects/AI_Learning/data/irs_intro_to_perf_mgt.csv', index=False)
 print(df.head())

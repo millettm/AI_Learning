@@ -28,6 +28,7 @@ query_template = PromptTemplate(
 )
 query_engine = v_index.as_query_engine(text_qa_template=query_template)
 
+
 # Test
 response = query_engine.query("Explain IRS Performance Management to new managers, including feedback and goals examples.")
 print(response)
