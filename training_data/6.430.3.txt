@@ -1,0 +1,588 @@
+6.430.3 Performance Management Program for Evaluating Managers, Management Officials and Confidential Management/Program Analysts
+6.430.3.1 Program Scope and Objectives
+6.430.3.2 Overview and Coverage
+6.430.3.3 Step 1: Planning Critical Performance Expectations
+6.430.3.3.1 Starting the Performance Appraisal Cycle
+6.430.3.3.2 Critical Performance Expectations
+6.430.3.3.2.1 Retention Standard for the Fair and Equitable Treatment of Taxpayers
+6.430.3.3.2.2 Responsibilities
+6.430.3.3.2.3 Commitments
+6.430.3.3.2.4 Objectives
+6.430.3.3.3 Reviewing Responsibilities
+6.430.3.3.4 Establishing Commitments or Objectives
+6.430.3.3.4.1 Guidelines for Developing Well Constructed Commitments or Objectives
+6.430.3.3.4.2 Documenting Commitments or Objectives
+6.430.3.3.4.3 Getting Behind the Numbers
+6.430.3.3.4.4 Use of Employee Survey Scores in Commitments
+6.430.3.3.5 Discussing the Retention Standard for the Fair and Equitable Treatment of Taxpayers
+6.430.3.3.6 National Security Critical Element
+6.430.3.3.7 Documenting the Performance Agreement
+6.430.3.4 Step 2: Monitoring Progress
+6.430.3.4.1 Monitoring Commitments or Objectives
+6.430.3.4.2 Minimally Satisfactory and Not Met Performance
+6.430.3.4.3 Employee Performance File (EPF)
+6.430.3.5 Step 3: Evaluating Performance
+6.430.3.5.1 The Annual Performance Appraisal Process
+6.430.3.5.1.1 Appraisal Period
+6.430.3.5.1.2 Performance Appraisal Due Dates
+6.430.3.5.1.3 Extension of the Appraisal Period
+6.430.3.5.1.4 Dates on the Performance Appraisal Form
+6.430.3.5.2 Requesting the Self-Assessment
+6.430.3.5.2.1 Preparing the Self-Assessment
+6.430.3.5.2.2 Using Records of Tax Enforcement Results (ROTERs) in Self-Assessments
+6.430.3.5.3 Completing the Summary Narrative
+6.430.3.5.4 Rating Critical Performance Expectations
+6.430.3.5.4.1 Rating Responsibilities
+6.430.3.5.4.2 Rating Commitments or Objectives
+6.430.3.5.4.3 Rating Performance Against the Retention Standard For the Fair and Equitable Treatment of Taxpayers
+6.430.3.5.4.4 Rating Performance Against the National Security Critical Element
+6.430.3.5.5 Assigning the Summary Evaluation Rating
+6.430.3.5.5.1 Definitions for Summary Evaluations
+6.430.3.5.6 Probation on Initial Appointment to a Competitive Position
+6.430.3.5.7 Probation on Initial Appointment to a Supervisory/Managerial Position
+6.430.3.6 Additional Reasons for Performance Appraisals
+6.430.3.6.1 Departure Appraisals
+6.430.3.6.2 Appraisals for Merit Promotion
+6.430.3.6.3 Within-Grade Increase (WIGI) Determination
+6.430.3.6.4 Not Ratable Determinations
+6.430.3.6.5 Retroactive Appraisals
+6.430.3.6.6 Presumptive Ratings
+6.430.3.7 Conducting the Performance Appraisal Meeting
+6.430.3.7.1 Evaluation of Managerial Potential
+6.430.3.8 Processing the Signed Performance Appraisal
+6.430.3.9 Tracking Performance Agreements
+6.430.3.10 Reconsidering the Summary Evaluation
+6.430.3.11 Amending a Rating
+6.430.3.12 Step 4: Recognizing Performance
+Part 6. Human Resources Management
+Chapter 430. Performance Management
+Section 3. Performance Management Program for Evaluating Managers, Management Officials and Confidential Management/Program Analysts
+6.430.3 Performance Management Program for Evaluating Managers, Management Officials and Confidential Management/Program Analysts
+Manual Transmittal
+December 8, 2017
+
+Purpose
+(1) This transmits revised IRM 6.430.3, Performance Management Program for Evaluating Managers, Management Officials, and Confidential Management/Program Analysts.
+
+Material Changes
+(1) Editorial changes were made throughout IRM 6.430.3. The web addresses, IRM, and legal resources were checked and corrected, where necessary.
+
+(2) IRM 6.430.3.2.6 (6) was revised to correct the link to information on the Classified National Security Information Critical Element, a Decision Table for Implementation of the National Security Information Critical Job Element (For Managers, Supervisors, and Management Officials), and a link to the Classified National Security Information Critical Element for Evaluating Managers, Supervisors, and Management Officials form.
+
+(3) IRM 6.430.3.2.7 (3) was revised to correct the link to the Employee Performance File document.
+
+(4) IRM 6.430.3.3.1 (8)e was revised to correct the link to the Employee Performance File document.
+
+(5) IRM 6.430.3.3.3 (1) as revised to correct the link to the Employee Performance File document.
+
+Effect on Other Documents
+IRM 6.430.3, Performance Management Program for Evaluating Managers, Management Officials and Confidential Management/Program Analysts, dated October 28, 2011, is superseded.
+Audience
+All Operating Divisions and Functions.
+Effective Date
+(12-08-2017)
+Richard J. Cronin
+Director, Workforce Progression and Management Division
+
+6.430.3.1 (12-08-2017)
+Program Scope and Objectives
+This IRM provides policy and guidance on the Performance Management Program for Evaluating Managers, Management Officials, and Confidential Management/Program Analysts.
+Purpose: It provides the legal basis and manner in which the performance of managers, management officials, and confidential management/program analysts are evaluated.
+Audience: All supervisors, managers, management officials, human resources specialists, and labor relations specialists.
+Policy Owner: Associate Director, Performance Management Branch.
+Program Owner: Associate Director, Performance Management Branch.
+Primary Stakeholders: Business Units Servicewide.
+6.430.3.2 (01-01-2007)
+Overview and Coverage
+This section describes the manner in which managers and management officials are evaluated.
+The requirements and procedures of this section also apply to employees whose positions are classified as management/program analysts, GS-343, and who are officially designated as confidential employees.
+Note: A confidential employee is defined by 5 U.S.C. 7103(a)(13), as "an employee who acts in a confidential capacity with respect to an individual who formulates or effectuates management policies in the field of labor-management relations."
+The performance of employees assigned supervisory codes 2 (supervisor or manager), 4 (supervisor-CSRA), 5 (management official), and in some instances supervisory code 7 (i.e., team leaders who lead management officials) are evaluated against critical performance expectations. In addition, certain non-bargaining unit management/program analysts, GS-343, who are officially classified as confidential and have supervisory codes 7 or 8 are also covered by critical performance expectations. The supervisory code is found on the employees standard position description (SPD) and controls the appropriate performance plan.
+Supervisors should review IRM 6.430.1, Introduction to Performance Management, for background information before proceeding with this section.
+It is the supervisor's responsibility to ensure that he or she administers the IRS Performance Management Program effectively and efficiently as it pertains to his or her employees. Additionally, supervisors must keep current on performance management policies and processes through training courses and on-line resources. For more information, see the performance management website http://hco.web.irs.gov/perfmgmt/index.html.
+6.430.3.3 (01-01-2007)
+Step 1: Planning Critical Performance Expectations
+During this step, the supervisor and the employee work closely together to plan and establish distinct commitments or objectives to be accomplished during the specified appraisal period and discuss how they relate to the responsibilities.
+Effective planning of performance expectations helps ensure the alignment of individual performance with the business goals and objectives of the organization.
+6.430.3.3.1 (10-28-2011)
+Starting the Performance Appraisal Cycle
+Except in rare circumstances such as when the employee is on extended sick leave, the supervisor must meet with the employee within the first 30 days of the beginning of an employee's appraisal period, or when the employee is assigned to a new position for at least 60 days (e.g., temporary promotions, details), to review responsibilities and establish commitments or objectives and discuss the Retention Standard for the fair and equitable treatment of taxpayers.
+The performance appraisal cycle for managers, management officials, and confidential management/program analysts is based on the fiscal year and normally begins October 1.
+The supervisor reviews the employee's assigned SPD, verifying that it accurately reflects the assigned duties. If it does not, the supervisor contacts the Human Capital Office (HCO) for assistance in identifying the appropriate SPD or developing a new one.
+6.430.3.3.2 (06-12-2009)
+Critical Performance Expectations
+Managers, management officials, and confidential management/program analysts are rated against critical performance expectations.
+Critical performance expectations consist of three components:
+Retention Standard for the Fair and Equitable Treatment of Taxpayers.
+Responsibilities.
+Commitments or Objectives.
+6.430.3.3.2.1 (10-28-2011)
+Retention Standard for the Fair and Equitable Treatment of Taxpayers
+The Internal Revenue Service (IRS) Restructuring and Reform Act of 1998, (RRA98) 1204, requires all IRS employees to be evaluated on the fair and equitable treatment of taxpayers. This requirement has been incorporated into a Retention Standard for the fair and equitable treatment of taxpayers that is the same for all employees.
+For more information on the requirements of the Retention Standard for the fair and equitable treatment of taxpayers, see IRM 6.430.3.2.5 and IRM Exhibit 6.430.2-1, Performance Management Program for Evaluating BU & NBU Employees Assigned to CJEs.
+6.430.3.3.2.2 (01-01-2007)
+Responsibilities
+Responsibilities are common to all managers, management officials, and confidential management/program analysts, and are aligned with the IRS Balanced Measurement System.
+Responsibilities guide the actions an employee commits to undertake during the performance appraisal period and describe how the employee performs his or her job.
+Responsibilities for managers are:
+Leadership.
+Employee Satisfaction.
+Customer Satisfaction.
+Business Results.
+Equal Employment Opportunity.
+Responsibilities for management officials are:
+Program Leadership.
+Employee Satisfaction.
+Customer Satisfaction.
+Business Results.
+Professional Expertise.
+Responsibilities for confidential management/program analysts are:
+Analysis and Evaluation.
+Employee Satisfaction.
+Customer Satisfaction.
+Business Results.
+Communications.
+6.430.3.3.2.3 (01-01-2007)
+Commitments
+Commitments are derived from the Strategic Business Plans and establish a linkage between organizational performance and individual performance.
+Commitments are specific for each employee. Each commitment is a distinct action with identified and measurable results to be achieved during the performance appraisal period.
+6.430.3.3.2.4 (10-28-2011)
+Objectives
+Management/Program Analysts, GS-343, designated as non-bargaining unit because of the confidential exclusion have objectives in lieu of commitments.
+Objectives are a limited number of critical actions, goals, and/or results the confidential management/program analyst will be expected to accomplish during the appraisal year. These objectives should be derived from, and directly contribute to, the program priorities and goals established by the organizations annual business or operations plan.
+Objectives are similar to commitments for managers and management officials and are a key component of these employees' critical performance expectations.
+6.430.3.3.3 (01-01-2007)
+Reviewing Responsibilities
+Both the supervisor and the employee should review the responsibilities found in Part I, Section A, of the appropriate performance agreement to ensure mutual understanding of how each responsibility applies to the employees expected performance during the upcoming performance appraisal period.
+6.430.3.3.4 (10-28-2011)
+Establishing Commitments or Objectives
+Commitments and objectives enable managers, management officials, and confidential management/program analysts to develop action items that will, in turn, carry out the Service's day-to-day operations, linking their activities to the IRS' goals and objectives. Each commitment or objective should relate to, and support, one or more of the responsibilities listed in the performance agreement.
+The supervisor should share his or her commitments with the employee prior to the employee's commitments or objectives being developed. The supervisor discusses how the employees commitments or objectives should link to the organizational workplans and balanced measures.
+Note: For additional information, see IRM 1.5.1, Managing Statistics in a Balanced Measurement System - The IRS Balanced Measurement System.
+The supervisor should review documents such as organizational program plans, business plans, site-specific issues/priorities, Equal Employment Opportunity/Affirmative Action plans, and balanced measures data when preparing to discuss with the employee what needs to be included in his or her commitments or objectives.
+The supervisor and employee should identify the most important areas on which to focus.
+The supervisor and the employee jointly develop the employee's commitments or objectives, with the reviewing official having the final authority for approval of the performance agreement.
+6.430.3.3.4.1 (10-28-2011)
+Guidelines for Developing Well Constructed Commitments or Objectives
+Supervisors and employees should think of commitments and objectives as the "What" and responsibilities as the "How."
+Generally, a limited number of commitments or objectives should be established to represent challenges for the employee. Each commitment or objective should be results oriented.
+When developing the commitments or objectives, discussions should include the means of accomplishing the commitments or objectives, such as: specific timing, expected performance levels, methods of measurement, and level of organizational support (funding, staff, and training) needed.
+The following should be considered when writing commitments or objectives:
+State specifically what is to be accomplished, not general tasks, duties, or responsibilities of an ongoing job.
+Describe challenging but realistic actions the employee can accomplish.
+Maintain a "line of sight" to the goals of the Service.
+Include a clear timeframe for accomplishment, some commitments or objectives may take less than one year to accomplish and others may take longer. If the timeframe is longer than one year, interim milestones should be identified in the performance agreement.
+Verify they are achievable and can be monitored. Focus on describing the outcomes or results that will exist when the commitment or objective has been successfully achieved.
+Outline required organizational resources or support. Consider available resources from the employee's assigned organization, as well as other parts of the IRS.
+Keep in mind how the commitments or objectives will be measured, how the employee will demonstrate achievement.
+For managers only: ensure the commitments or objectives are specific enough so that direct reports can understand them.
+Focus on individual actions that support organizational priorities.
+Begin each commitment or objective with the phrase "I will" to frame what the employee will do rather than what the organization will achieve.
+When drafting commitments and objectives, use an explanatory conjunctive phrase such as "so that" , "in order to" or "to ensure that" to tie each commitment or objective to an expected result or outcome.
+Consider what data sources will be used to monitor progress in meeting commitments or objectives.
+Note: For more information on writing commitments, see Writing Performance Commitments, A Reference Guide for Managers and Management Officials at http://hco.web.irs.gov/perfmgmt/perfplan/mgmtoffic/writecommitments.html and ELMS self-instructional Writing Commitments for Managers and Management Officials.
+6.430.3.3.4.2 (06-12-2009)
+Documenting Commitments or Objectives
+After the supervisor and the employee discuss and agree on commitments or objectives, they are recorded under Part I, Section B of the appropriate performance agreement form.
+The supervisor and the reviewing official make the final determination whether the commitment or objective should be included in the performance agreement if the supervisor and the employee cannot agree on the commitments or objectives.
+It is important to document any changes in the commitments or objectives throughout the performance appraisal period.
+6.430.3.3.4.3 (10-28-2011)
+Getting Behind the Numbers
+Commitments or objectives should be qualitative in nature, but can and should be guided by the organization's quantitative performance measures. The reason for this restriction is fundamental to the intent of the balanced measurement approach and critical to changing behaviors. If individuals are held accountable solely for achieving specific numerical targets, the natural response is to focus attention on the numbers and not on the actions.
+"Getting behind the numbers" is a seven-step problem-solving process, as shown in Figure 6.430.3-1. Throughout this process, numbers are only a starting point. The objective is to identify individual commitments, objectives, or actions to improve organizational performance. IRM 1.5.2, Managing Statistics in a Balanced Measurement System - Section 1204 Certification and Independent Review Processes, provides more detail on how to use numbers appropriately in evaluating organizational and individual performance and the prohibition in using Records of Tax Enforcement Results (ROTERs) in evaluating the performance of managers, management officials, and confidential management/program analysts.
+In evaluating the performance of a manager, management official, or confidential management/program analyst, the numerical results achieved with any of the IRS Balanced Measures (Employee Satisfaction, Customer Satisfaction, and Business Results) will never equate directly to a particular rating. Rather, an evaluation should focus on the actions that were taken (commitments or objectives) against the objectives and the results achieved to improve performance in each responsibility. The numerical results are helpful only for making an initial assessment of the impact those actions had on the Responsibilities.
+Figure 6.430.3-1
+
+This is an Image: 37673001.gif
+
+Please click here for the text description of the image.
+
+6.430.3.3.4.4 (06-12-2009)
+Use of Employee Survey Scores in Commitments
+Although employee engagement issues related to Leadership, Employee Satisfaction, Business Results, and Equal Employment Opportunity are proper areas that should be considered in evaluating managerial performance, manager performance commitments should be written in terms of the actions the manager can take to influence the employee survey numerical score.
+Since the employee survey numerical scores do not reflect the specific actions the manager took to improve the issue affecting the workgroup performance, managerial performance commitments should not be written in terms of improving the quantitative score or the participation percentage.
+The employee survey numerical score should only be considered an indicator pointing to areas which might need further consideration and may be used to determine the appropriate workgroup issues for development of managerial commitments.
+Commitments based on organizational performance objectives, such as the employee survey, should focus primarily on what actions the manager will take to improve the workgroup environment and bringing resolution to the issue where possible, since the survey scores may change for many reasons which are outside of the managers ability to control.
+6.430.3.3.5 (06-12-2009)
+Discussing the Retention Standard for the Fair and Equitable Treatment of Taxpayers
+The supervisor must discuss with the employee behaviors that will allow the employee to meet the Retention Standard for the fair and equitable treatment of taxpayers, circumstances that may result in a determination that the employee does not meet the Retention Standard for the fair and equitable treatment of taxpayers, and the potential impact of not meeting the Retention Standard. IRM Exhibit 6.430.2-1, Performance Management Program for Evaluating BU & NBU Employees Assigned to CJEs provides examples of Retention Standard behavior that may result in a "Met" or "Not Met" rating.
+Discussions concerning the Retention Standard for the fair and equitable treatment of taxpayers may include:
+An explanation of the requirements of the Retention Standard for the fair and equitable treatment of taxpayers in relationship to the employees job expectations.
+The potential impacts of not meeting the standard.
+Avoidance of use of the words "deliberately" or "intentionally" in describing behavior that does not meet the standard.
+An explanation of why infrequent lapses that are inadvertent or unavoidable will not result in a "Not Met" rating.
+An explanation of why a "Met" or "Not Applicable" rating will have no effect on the summary evaluation rating, ranking in merit promotion actions, or entitlement to performance awards.
+An explanation of why a "Not Met" rating for the Retention Standard for the fair and equitable treatment of taxpayers will result in a "Not Met" summary evaluation rating. A "Not Met" summary evaluation rating makes the employee ineligible for a performance award, within-grade increase (WIGI), career ladder promotion, competition for promotion, or satisfactory completion of a probationary period, and may result in the employees removal from the position and/or the IRS. A "Not Met" overall rating will also adversely affect an employees retention standing in a reduction in force (RIF).
+Note: See IRM Exhibit 6.430.2-1, Performance Management Program for Evaluating BU & NBU Employees Assigned to CJEs and Retention Standard Guidance at http://hco.web.irs.gov/perfmgmt/evaluation/evalperf/nonmgrpolicy.html for additional information on the Retention Standard for the fair and equitable treatment of taxpayers.
+6.430.3.3.6 (12-08-2017)
+National Security Critical Element
+Executive Order 12958, Classified National Security Information, requires that all managers and management officials whose duties significantly involve the creation or handling of classified information and who handle national security information on a regular basis must have a critical element in their annual performance agreement dealing with this activity.
+Holding a national security clearance does not automatically require that the National Security Critical Element be included in the performance plan. The critical element is only applicable for managers and management officials who have regular, hands-on-work that requires classifying, safeguarding, and declassifying national security information. Each manager must determine on a case-by-case basis if their employees should be covered by this critical element.
+The U.S. Department of the Treasury Classified National Security Information Critical Element form should be added as a separate attachment to the performance agreements of affected managers, supervisors, and management officials.
+Because this element affects a limited number of employees, it has not been incorporated into Form 12450-A, Manager Performance Agreement, or Form 12450-B, Management Official Performance Agreement. The element should be attached to the performance agreement as long as the employee continues to perform work that meets the requirements of the Executive Order.
+Upon deciding to incorporate the element into the performance agreement of a manager, supervisor, or management official, the manager must discuss the critical element with the employee and have the manager or management official acknowledge receipt via signature on the form.
+Information about the Classified National Security Information Critical Element, a Decision Table for Implementation of the National Security Information Critical Job Element (For Managers, Supervisors, and Management Officials), and a link to the Classified National Security Information Critical Element for Evaluating Managers, Supervisors, and Management Officials form can be found under the “Related Links” heading on the Managers Performance Plan page of the HCO Performance Management website at: http://hco.web.irs.gov/perfmgmt/perfplan/mgrperfplan/index.html.
+6.430.3.3.7 (12-08-2017)
+Documenting the Performance Agreement
+The rating official, reviewing official, and employee sign and date the performance agreement to acknowledge that they have discussed the critical performance expectations. This discussion should occur within 30 days of the beginning of the appraisal period.
+The performance agreements for employees covered by the requirements of this section are:
+Managers - Form 12450-A, Manager Performance Agreement.
+Management Officials - Form 12450-B, Management Official Performance Agreement.
+Confidential Management/Program Analysts (GS-343) - Form 12450-D, Management/Program Analyst Performance Agreement (Positions Designated as Confidential Only).
+Following the discussion, the supervisor should give a copy of the performance agreement to the employee and file the original in the Employee Performance File (EPF). For more information on the EPF, see IRM 6.430.3.3.3 and the Employee Performance File document at: https://portal.ds.irsnet.gov/sites/ERCDocs/2002/HCO/CompLvBr/EPFGuideforMgrs.pdf.
+The employee and supervisor should use the performance agreement and the critical performance expectations to monitor accomplishments or other significant events as they occur.
+6.430.3.4 (01-01-2007)
+Step 2: Monitoring Progress
+During this step the supervisor should continuously monitor progress against critical performance expectations, identify accomplishments and deficiencies, and initiate corrective actions when necessary.
+6.430.3.4.1 (12-08-2017)
+Monitoring Commitments or Objectives
+After the supervisor and employee have reached agreement on a set of commitments or objectives, the supervisor should monitor the employee's progress in meeting the responsibilities and achieving the commitments or objectives throughout the appraisal period.
+At a minimum, the supervisor must conduct a mandatory mid-year progress review. This progress review generally occurs in April and should include a discussion of the employees progress in meeting expectations (Responsibilities, Commitments or Objectives, and Retention Standard for the fair and equitable treatment of taxpayers). This mandatory mid-year progress review must be documented on the Manager, Management Official, or Confidential Management/Program Analyst Performance Agreement.
+The supervisor should also document any other progress reviews held and provide a copy to the employee. Documented observations throughout the performance appraisal period serve as an aid in completing the mandatory mid-year progress review and the annual evaluation. The supervisor should identify the actions taken to accomplish commitments or objectives, and responsibilities.
+The supervisor should focus on the employees performance as it relates to the Retention Standard for the fair and equitable treatment of taxpayers and progress toward achieving commitments or objectives. If necessary, the supervisor should identify improvement opportunities.
+At any point during the performance cycle, the supervisor and the employee can review and revise commitments or objectives to reflect changes in the priorities of the Service.
+Changes may be needed for reasons such as: the expectations of commitments or objectives changed; or the Service's mission, strategic business goals, or business plans changed; or the level of available support (e.g., staff, dollars, training) decreased or increased.
+Changes to commitments or objectives must be made at least 60 days before the end of the performance appraisal period to avoid having to extend the appraisal period.
+The supervisor may NOT use Records of Tax Enforcement Results (ROTERs) in monitoring progress against critical performance expectations. The ROTERs do not convey whether an individual performed well under his or her critical performance expectations. For additional information on ROTERs, see IRM 1.5.2, Managing Statistics in a Balanced Measurement System - Section 1204, Certification and Independent Review Processes.
+Progress reviews including mid-year reviews may not be disputed. Assessments of performance at the time of a progress review may differ from the annual summary evaluation. Disputes filed before the end of the appraisal period would be premature. However, employees may submit documentation to the supervisor regarding matters of concern on the progress review.
+The following includes actions the supervisor should take to monitor progress against critical performance expectations:
+Record observations as they occur, recalling past behavior is often difficult.
+Focus on specific actions the employee took to accomplish commitments or objectives, and how responsibilities were demonstrated; avoid evaluating personality traits. Cite performance or results, not conduct or general impressions.
+Document observations in sufficient detail to be understood by another supervisor.
+Document performance for all employees consistently. Avoid comparing one employee to another.
+Maintain performance data in the employees EPF. All documents used in formulating an evaluation must be shared with the employee prior to placing it in his or her EPF.
+Note: For additional information on EPFs, see IRM 6.430.3.3.3 and the Employee Performance File document at: https://portal.ds.irsnet.gov/sites/ERCDocs/2002/HCO/CompLvBr/EPFGuideforMgrs.pdf
+.
+
+6.430.3.4.2 (10-28-2011)
+Minimally Satisfactory and Not Met Performance
+If at any time during the appraisal period an employee's performance in one or more critical performance expectations (Responsibilities, Commitments or Objectives, or the Retention Standard for the fair and equitable treatment of taxpayers) falls below the "Met" level, the manager must provide assistance.
+The supervisor must consult with their servicing Labor Relations/Employee Relations Office regarding any performance rating of "Not Met" or "Minimally Satisfactory" to ensure that all parties understand the implications of failing to improve.
+Employees who do not meet the Retention Standard for the fair and equitable treatment of taxpayers, Commitments or Objectives and/or Responsibilities should be counseled as early as possible in the appraisal period. Failure to improve or to sustain a "Met" rating could impact an employee's ability to remain in his or her position. Failure to improve or to sustain a "Met" rating could also impact an employee's salary review and cause the employee to be ineligible for a pay increase under an IRS Payband System.
+Before a supervisor begins the formal process of taking a performance-based action, the supervisor needs to be aware that he or she has certain options. The law provides for two different processes for taking performance-based actions:
+If a performance-based action is taken under 5 CFR Part 432, a formal opportunity to improve is required.
+If a performance-based action is taken under the adverse action procedures of 5 CFR Part 752, an opportunity period is not required.
+Note: Regardless of the process used, the supervisor must contact the servicing Labor Relations/Employee Relations Office for assistance.
+"Not Met" ratings must be reviewed and approved by an official higher than the rating official.
+When an employee's performance fails to meet established performance expectations at an acceptable level in one or more critical performance expectations (i.e., Retention Standard for the fair and equitable treatment of taxpayers, Commitments or Objectives and/or Responsibilities), the supervisor must notify the employee in writing. This notice must advise the employee of the following:
+That his or her performance is unacceptable.
+Which critical performance expectation(s) are not being performed in an acceptable manner.
+What is required to perform at the rating level of "Met" or above.
+Any assistance that will be provided to the employee.
+What the reasonable period to demonstrate acceptable performance will be.
+Failure to perform at an acceptable performance level may result in removal, reduction in grade, withholding of a WIGI, denial of a performance-based increase, or reassignment depending upon the performance factors.
+Note: Supervisors must contact their servicing Labor Relations/ Employee Relations Office for assistance in dealing with an employees failure of a critical performance expectation.
+If the employee demonstrates acceptable performance during the opportunity period, the rating official retains the notice of unacceptable performance in the EPF for one year from the date the opportunity period became effective.
+In accordance with 5 U.S.C 4303(d) if, because of performance improvement by the employee during the notice period, the employee is not reduced in grade or removed, and the employee's performance continues to be acceptable for one year from the date of the advance written notice, any entry or other notation of the unacceptable performance for which the action was proposed must be removed from any record, manual and automated, relating to the employee.
+The rating official is responsible for removing and destroying such records from the EPF and for initiating removal from the Service's automated personnel records.
+Saving Provision - Any administrative action initiated (e.g., an action taken against "Not Met" employees under 5 U.S.C 4303) must continue to be processed consistent with the procedures and requirements of the program in effect when the action was initiated.
+A rating of "Minimally Satisfactory" or "Not Met" will also lead to the employee's ineligibility to receive a within-grade increase, career ladder promotion, or to complete his or her probationary period.
+A rating of "Minimally Satisfactory" or "Not Met" will also lead to the employee's ineligibility to receive a basic pay increase under an IRS Payband System.
+Note: See IRM 6.531.1.2, Pay Under the General Schedule.
+6.430.3.4.3 (12-08-2017)
+Employee Performance File (EPF)
+The EPF consists of all performance ratings and other performance-related records maintained on an IRS employee in accordance with 5 CFR 293, Subpart D.
+Note: For additional information, see the Employee Performance File document at: Employee Performance File document at: https://portal.ds.irsnet.gov/sites/ERCDocs/2002/HCO/CompLvBr/EPFGuideforMgrs.pdf
+.
+
+Management is responsible for creating records concerning employee performance and maintaining them in accordance with the Privacy Act and Freedom of Information Act regulations.
+At a minimum, the EPF should contain forms and documents which:
+Record and support the performance appraisal and individual performance plans.
+Are used by the supervisor to recommend a personnel action affecting an employee when the basis for the action is performance related.
+Are furnished in support of recommended actions and the agency's final decision on the matter.
+Note: Other types of documents and forms may include Individual Development Plans (IDPs), recommendations for training that are performance-related, and copies of supervisory counseling session records resulting in performance-based personnel actions.
+The following documents must be maintained for four years:
+The Performance Agreement (Forms 12450-A,12450-B, or 12450-D appropriate for the employee's position).
+Progress review(s) documentation.
+Employee self-assessments.
+Documented workload reviews, case file reviews, and job visitations.
+Any other documentation that supports the performance rating.
+The supervisor must keep performance records in the EPF as long as necessary, if needed in connection with a grievance, appeal or judicial proceeding.
+For employees who are permanently changing positions within the IRS, the supervisor will ensure the employee's entire EPF is forwarded to the gaining supervisor.
+For employees who are accepting outside employment and leaving the IRS, who are accepting employment with another government agency, or who are resigning or retiring from the IRS, the supervisor must remove all of the ratings of record completed within the last four years from the separating employees EPF, attach these ratings of record to Transmittal Form 3210, and forward the package to the following address:
+Internal Revenue Service - OPF Consolidation Site
+440 Space Center Drive
+Lee's Summit, MO 64064
+
+The National Archives and Records Administration staff will ensure the ratings of record are filed in the Official Personnel Folder (OPF) before being sent to the Federal Records Center if the employee resigns or to the gaining agency if the employee transfers.
+Supervisors must destroy any remaining performance related documents unless such records are needed in connection with a grievance, appeal, or judicial proceeding.
+6.430.3.5 (06-12-2009)
+Step 3: Evaluating Performance
+During this step the supervisor completes the employee's performance appraisal and conducts a performance appraisal meeting with the employee.
+6.430.3.5.1 (06-12-2009)
+The Annual Performance Appraisal Process
+All employees who have served the minimum appraisal period of 60 calendar days are entitled to an annual performance appraisal that becomes the rating of record.
+Permanent supervisors, complete the annual performance appraisals for employees under their authority.
+Employees who are temporarily promoted or detailed to a supervisory position have the authority to complete the annual performance appraisals for employees under their supervision, as long as the employees meet the requirements for an annual performance appraisal. There is no minimum period of time required for this authority.
+The employees performance must have been observed a minimum of 60 days in the appraisal period by any supervisor who was responsible for assigning, reviewing, and evaluating the employee's work. However, it is not necessary for the employee's current supervisor to have observed the employees performance under a signed performance plan for 60 days or more.
+The supervisor should consider the following when evaluating performance to complete an annual appraisal:
+Position description.
+Performance Agreement.
+Documents in the employees EPF.
+Mid-year and other progress reviews.
+Employee's written documents (management briefings, memos) and/or presentations given
+Employee's self-assessment.
+Feedback from coworkers, taxpayers, and other customers.
+Team assignments and contributions to the work group.
+Special achievements.
+Note: For more information on the various reasons for performance appraisals, see IRM 6.430.2, Exhibit 6.430.2-3.
+6.430.3.5.1.1 (10-28-2011)
+Appraisal Period
+Employees covered by performance agreements are evaluated in accordance with appraisal periods based on the fiscal year.
+In general, the annual rating of record covers the full fiscal year regardless of permanent promotions, temporary promotions, details, projects, or task forces.
+If the employee has not been observed for 60 days on his or her performance plan at the time the employee's annual rating is due, the supervisor must:
+Ensure that a performance agreement has been issued.
+Ensure that the employee has signed the performance agreement.
+Postpone any rating until the employees performance has been observed for a minimum of 60 days.
+Use the employees existing rating of record as the current rating of record until the new performance appraisal is prepared.
+If the employee has no performance during the fiscal year on a signed performance agreement and the fiscal year has ended, the employee is considered "Not Ratable" for that fiscal year. See IRM 6.430.3.5.4 for more information on "Not Ratable" determinations.
+A new performance agreement is not required for an employee returning to his or her permanent position following a temporary personnel action, if the employee is returning during the same appraisal year. In this case, the supervisor for the employee's permanent position may reinstate the performance agreement previously in effect, rather than completing a new performance agreement. The time previously accrued under that performance agreement would count toward the 60 day period for rating eligibility.
+6.430.3.5.1.2 (10-28-2011)
+Performance Appraisal Due Dates
+The supervisor must complete the employee annual appraisal within the scheduled time limits shown in Exhibit 6.430.2-4, provided the employee has been observed for 60 days or more against his or her signed performance plan during the appraisal period.
+Departure appraisals are required for temporary assignments of 60 days or more during the appraisal period. These appraisals should be completed within 30 days after the employee completes the temporary assignment and should be forwarded to the supervisor responsible for assigning the rating of record.
+Note: For more information concerning departure appraisals, see the discussion on departure appraisals in IRM 6.430.3.5.1, IRM 6.430.5, and Exhibit 6.430.2-3.
+6.430.3.5.1.3 (10-28-2011)
+Extension of the Appraisal Period
+When an annual rating of record cannot be prepared at the specified time, the appraisal period shall be extended for the minimum period to meet the conditions necessary to complete a rating of record.
+To extend the appraisal period, the employee must be in work status on the appraisal period ending date and have observed performance under a signed performance agreement during the fiscal year. The supervisor must decide to extend the employee's appraisal period on or before the employee's appraisal period ending date.
+If the employee has no performance under a signed performance agreement during the fiscal year and the appraisal period has ended, the employee is "Not Ratable" . See IRM 6.430.3.5.4 for more information on "Not Ratable" determinations.
+The rating of record shall be prepared in accordance with the instructions in this section.
+Examples of extension situations include, but are not limited :
+To meet the 60 day minimum performance appraisal period. However, the supervisor should not extend the appraisal period of a newly-hired employee solely to provide the employee with a rating of record. In that event, the employee is "Not Ratable" for the appraisal period.
+Note: For more information on "Not Ratable" determinations, see IRM 6.430.3.5.4.
+To provide a new supervisor an opportunity to observe an employee's performance against current requirements when information concerning the employee's past performance is not available.
+To appraise an employee whose overall performance has been less than acceptable due to personal circumstances (e.g., extended illness or other circumstances), and there is evidence of improvement in the employee's performance.
+To provide an employee who has been notified of his or her failure to meet one or more of the critical performance expectations an opportunity to improve performance.
+An extension of the appraisal period will not affect the next appraisal "period covered" ending date; however, it shortens the next "period covered" (specifically, the "from" date) by the length of the extension.
+When the appraisal period is extended, the supervisor shall immediately inform the employee and the reviewing official.
+Supervisors should enter the employee's annual appraisal into the Service's automated performance appraisal system after the extended appraisal period is completed and the rating of record is assigned.
+6.430.3.5.1.4 (10-28-2011)
+Dates on the Performance Appraisal Form
+The supervisor should accurately annotate the appraisal period on the appraisal form.
+The date the annual appraisal period ends will normally be the "to" date under period covered on the performance agreement form.
+The entire appraisal period including any extensions necessary should be indicated under the period covered.
+If an employee's departure from a permanent position is within 60 days from the date the appraisal period ends, the "to" date should reflect the actual departure date since that date reflects the date the employee actually departed his or her position.
+6.430.3.5.2 (10-28-2011)
+Requesting the Self-Assessment
+Self-assessments are narrative descriptions or lists of accomplishments that the employee develops to describe his or her realization of goals, objectives, achievements, and significant accomplishments or shortfalls during a specified appraisal period.
+An effective self-assessment describes the specific actions taken by the employee to accomplish work requirements identified by responsibilities, commitments or objectives, and the Retention Standard for the fair and equitable treatment of taxpayers.
+As the end of the performance appraisal period approaches, the supervisor should request that the employee prepare a written summary of his or her performance not to exceed two pages. The supervisor should explain that the self-assessment becomes a part of the manager's, management official's, or confidential management/program analyst's performance agreement. Providing a self-assessment contributes to the preparation of an accurate summary evaluation.
+6.430.3.5.2.1 (06-12-2009)
+Preparing the Self-Assessment
+In preparing the self-assessment, the employee should:
+Review the duties and responsibilities of the position and the Responsibilities and Commitments/Objectives identified in the performance agreement for the performance period.
+Identify all significant results achieved that were reflected in the agreement especially those that contribute to the overall success of the IRS mission, strategic business goals, and business plans.
+Identify all significant results achieved that were not reflected in the agreement such as contributions to the workgroup, special achievements, and team assignments.
+Review responsibilities required for success in the position and identify areas in which he/she excels or needs improvement.
+The self-assessment should be based on self-analysis. Recognition of performance by customers and peers may be included as well.
+Note: For more information on writing self-assessments, see Writing Self-Assessments Managers and Management Officials at http://hco.web.irs.gov/pdf/writingselfassmnts.pdf .
+6.430.3.5.2.2 (10-28-2011)
+Using Records of Tax Enforcement Results (ROTERs) in Self-Assessments
+Although using ROTERs in self-assessments does not violate the Internal Revenue Service Restructuring and Reform Act of 1998, (RRA98) 1204 or the implementing regulations, to dispel even the appearance of impropriety, employees should not be permitted to use ROTERs in self-assessments.
+It is a violation if a ranking official or panel uses ROTER information in the ranking process or if a supervisor uses the information when evaluating employees' performance.
+If a manager, management official, or confidential management/program analyst submits a self-assessment with ROTERs, it should be returned to the employee for removal of the ROTERs.
+Note: For additional information on ROTERs, see IRM 1.5.2, Managing Statistics in a Balanced Measurement System - Section 1204 Certification and Independent Review Processes.
+6.430.3.5.3 (10-28-2011)
+Completing the Summary Narrative
+This narrative is limited to the space on the form and should outline the key accomplishments for each commitment or objective and relate accomplishments to performance in the responsibilities. The supervisor should also consider all the performance agreements completed during the appraisal period for temporary assignments.
+Do not include ROTERs in the Summary Narrative; ROTERs are not an indication of whether the employee performed well against the critical performance expectations.
+Note: For additional information on ROTERs, see IRM 1.5.2, Managing Section 1204 Statistics in a Balanced Measurement System, Uses of Statistics.
+In completing the Summary Narrative:
+Be concise, but descriptive enough to give the next level reviewer an accurate picture of the strengths, development needs, and overall effectiveness of the employee.
+Focus on what is important for that particular job and the performance agreement.
+Be clear about whether the employee exceeds, meets, or does not meet the Commitments or Objectives and Responsibilities.
+Ensure that the Summary Narrative is consistent with the focus of the commitments or objectives and responsibilities outlined in the performance agreement.
+While the Retention Standard for the fair and equitable treatment of taxpayers is not normally addressed in the Summary Narrative, it must be discussed if the rating for the Retention Standard is "Not Met."
+6.430.3.5.4 (10-28-2011)
+Rating Critical Performance Expectations
+The supervisor must use the rating definitions found in this section.
+6.430.3.5.4.1 (01-01-2007)
+Rating Responsibilities
+The supervisor assigns one of the rating levels to all of the responsibilities based on the definitions provided below:
+Exceeded: In addition to placing appropriate emphasis on the five sets of responsibilities, served as a role model in one or more of the five sets. Actions taken were exemplary in promoting accomplishment of the annual business plan and strategic goals.
+Met: Placed appropriate emphasis on each of the five sets of responsibilities. Appropriate actions were taken to support accomplishment of the annual business plan and strategic goals.
+Not Met: Placed insufficient emphasis on one or more sets of responsibilities. Actions taken were inappropriate, ineffective, or undermined strategic goals or annual business plan accomplishment.
+6.430.3.5.4.2 (01-01-2007)
+Rating Commitments or Objectives
+The supervisor assigns one of the following rating levels to all of the Commitments or Objectives based on the definitions provided below:
+Exceeded: Overcame significant obstacles, such as insufficient resources, conflicting demands, or unusually short time frames, in achieving or exceeding desired results.
+Met: Achieved or made substantial progress toward achievement of desired results.
+Not Met: Did not achieve or make substantial progress toward achievement of desired results.
+6.430.3.5.4.3 (06-12-2009)
+Rating Performance Against the Retention Standard For the Fair and Equitable Treatment of Taxpayers
+The supervisor will determine whether the employee has performed duties with potential impact on taxpayer issues or outcomes during the appraisal period.
+If the employee has performed such duties, the supervisor will determine whether the Retention Standard for the fair and equitable treatment of taxpayers has been met.
+If a rating of "Not Met" is determined, the supervisor must contact the servicing Labor Relations/Employee Relations Office for guidance. Failure of the Retention Standard for the fair and equitable treatment of taxpayers will result in a summary evaluation of "Not Met."
+If the employee has not performed duties with potential impact on taxpayer issues or outcomes during the appraisal period, the supervisor should check the "Not Applicable" block on the performance agreement.
+6.430.3.5.4.4 (01-01-2007)
+Rating Performance Against the National Security Critical Element
+The supervisor will consider whether the employee has performed duties concerning the handling of national security information on a regular basis during the appraisal period for all employees who are assigned this element.
+If the employee has performed such duties, the supervisor will determine whether the critical element has been met.
+If a rating of "Not Met" is determined, the supervisor must contact the servicing Labor Relations/Employee Relations Office for guidance. Failure of the National Security critical element will result in a summary evaluation of "Not Met."
+If the employee has not handled classified national security information during the appraisal period, the supervisor should check the "Not applicable" block on the Classified National Security Information Critical Element form.
+6.430.3.5.5 (10-28-2011)
+Assigning the Summary Evaluation Rating
+The summary evaluation provides one rating for the combined performance against the Retention Standard for the fair and equitable treatment of taxpayers, the Responsibilities, and the Commitments or Objectives.
+The supervisor must also consider the rating for the National Security Critical Element for those managers or management officials who are covered by that element. Failure of the National Security Critical Element is treated in the same manner as the failure of the Retention Standard for the fair and equitable treatment of taxpayers.
+The summary evaluation balances the Retention Standard for the fair and equitable treatment of taxpayers, Responsibilities, and Commitments or Objectives for the final rating and ties the Commitments or Objectives directly to the five Responsibilities and should ensure balance among all of the Responsibilities.
+The supervisor should only assign the annual summary evaluation at the end of the appraisal period for an employee who is on a permanent assignment or who is on a temporary promotion or detail at the end of the employees appraisal period and meets the conditions specified in IRM 6.430.5.3, IRM 6.430.5.4, and IRM 6.430.5.5.
+Note: See IRM 6.430.5, Performance Appraisals for Temporary Assignments, for more information about performance appraisals for temporary assignments.
+Office of Personnel Management (OPM) regulations prohibit setting quotas for summary evaluation ratings (i.e., a forced distribution of summary levels).
+Supervisors can complete a rating up to 364 days following the end of the appraisal period. Lengthy delays should be extremely rare due to the potentially negative impact on both the individual and the organization.
+The approving official has final authority to approve the summary rating.
+It is not necessary for the supervisor to have observed the employees performance under a signed performance agreement for 60 days or more. However, the employees performance must have been observed by at least one other supervisor under a signed agreement for a minimum of 60 days within the appraisal period. In rare cases, it may be necessary to extend the appraisal period until the minimum 60 days has been met.
+Note: See IRM 6.430.3.4.1.3 for more information on extending the appraisal period.
+If the employee has insufficient performance during the appraisal period to be assigned a rating of record, the employee will be designated "Not Ratable" for that period.
+Note: For additional information on "Not Ratable" determinations, see IRM 6.430.3.5.4.
+6.430.3.5.5.1 (10-28-2011)
+Definitions for Summary Evaluations
+The supervisor assigns the summary evaluation rating level based on the employees performance in his or her Responsibilities, Commitments, or Objectives and the Retention Standard for the fair and equitable treatment of taxpayers using the definitions provided below:
+Outstanding - The incumbent met the Retention Standard and performed as a model of excellence by exceeding responsibilities and commitments (or objectives) in his or her Agreement, despite constantly changing priorities, insufficient or unanticipated resource shortages, and externally driven deadlines. He or she consistently demonstrated the highest level of integrity and performance in promoting the annual business plans and the Service's strategic goals and objectives. His or her contributions had impact beyond his or her purview.
+Exceeded - The incumbent met the Retention Standard and generally exceeded both the responsibilities and commitments (or objectives) in his/her Agreement. However, he or she may have met the Retention Standard and demonstrated exceptional performance in either responsibilities or commitments (or objectives) and met the expectations of the other. He or she may have overcome significant organizational challenges such as coordination with external stakeholders (National Treasury Employees Union, Congress, etc.) or insufficient resources. His or her effectiveness and contributions may have had impact beyond his or her purview.
+Met - The incumbent met the Retention Standard and the responsibilities and commitments (or objectives) in his or her Agreement with solid, dependable performance. Incumbent consistently demonstrates the ability to meet the requirements of the job. Challenges encountered and resolved are part of the day to day operation and are generally routine in nature.
+Minimally Satisfactory - The incumbent met the Retention Standard and all responsibilities and commitments (or objectives), however, overall performance contains deficiencies which warrant improvement.
+Not Met - The incumbent failed to meet the Retention Standard, responsibilities, and/or commitments (or objectives). Repeated observations of performance indicated negative consequences in key outcomes (e.g., quality, timeliness, business results, morale, etc.). Immediate improvement is essential.
+6.430.3.5.6 (06-12-2009)
+Probation on Initial Appointment to a Competitive Position
+A new employee begins his or her regularly scheduled annual appraisal period upon entrance on duty. This may be at any point in the period of October 1 through September 30. A supervisor should begin monitoring a new employee immediately to determine if the employee is willing and able to perform the work and is otherwise suited for retention in the position.
+Although formal performance improvement plans are not required for employees who are serving probationary periods, a supervisor should provide an employee who is not meeting his or her Responsibilities and Commitments or Objectives with enough information to help the employee understand how he or she is failing and how the employee might improve.
+Upon determination that a probationary employee either will not or cannot meet expectations, the supervisor must begin action to terminate the employee from his or her position and/or from Federal service.
+A rating of "Met" or higher rendered early during a probationary or trial period does not preclude a subsequent decision that the employee is not performing at expected levels or otherwise suitable to be retained. However, a supervisor should be able to provide specific examples either:
+How performance and/or conduct deteriorated after the rating was assigned, or
+How the conduct used to support the termination was unrelated to the performance appraisal.
+Supervisors should consult with the servicing Labor Relations/Employee Relations Office regarding any performance rating of "Not Met" to ensure that all parties understand the implications of failing to improve.
+6.430.3.5.7 (01-01-2007)
+Probation on Initial Appointment to a Supervisory/Managerial Position
+Employees serving probationary periods for initial appointments to supervisory/managerial positions who do not meet expectations set forth in performance plans that relate to supervisory/managerial responsibilities will be returned to non-supervisory positions. That decision can be made at any time during the one year probationary period.
+Although formal notice and opportunity to improve are not required, supervisors generally should provide at least enough information so that the new supervisor understands specific deficiencies in time to make corrections.
+A rating of "Met" or higher rendered early during the supervisory/managerial probationary period does not preclude a subsequent decision that the individual is not successfully performing the supervisory/managerial aspects of his or her position. However, a supervisor should be able to provide specific examples of deficiencies that occurred after the rating was rendered.
+Decisions to remove probationary employees may be made at any time during the probationary period.
+Supervisors should consult with the servicing Labor Relations/Employee Relations Office regarding any performance rating of "Not Met" to ensure that all parties understand the implications of failing to improve.
+6.430.3.6 (10-28-2011)
+Additional Reasons for Performance Appraisals
+The employee's annual appraisal is the most commonly given performance appraisal and becomes the employee's rating of record. Other performance appraisals, however, may be issued for specialized circumstances. Some of these appraisals may also be used as the employee's rating of record.
+Note: For more information on the various reasons for performance appraisals, see Exhibit 6.430.2-3, and for more information about performance appraisal requirements for temporary assignments, see IRM 6.430.5.
+6.430.3.6.1 (10-28-2011)
+Departure Appraisals
+A departure appraisal is a performance appraisal prepared when either the supervisor or employee moves from a permanent or temporary assignment to another permanent or temporary assignment.
+The employee must have been provided a performance agreement and served in the position for a minimum of 60 days to receive a departure appraisal.
+Each critical performance expectation is given a rating; however, a summary evaluation is not assigned unless the employee or supervisor departs his or her position within the last 60 days of the appraisal period and the appraisal becomes the rating of record.
+Types of departure appraisals:
+Supervisor Departure: If a supervisor departs his or her position, a departure appraisal must be prepared for the employees under the supervisor's work unit. If the employee being rated is a manager or management official, the departure appraisal will become the employee's rating of record if the supervisor's departure occurs within the last 60 days of the employee's appraisal period.
+Employee Departure: If an employee departs his or her position, the supervisor must prepare a departure appraisal for that employee. The employee's departure appraisal will become his or her rating of record if the departure occurs within the last 60 days of the employee's appraisal period. If not within the last 60 days, the employee's new supervisor will consider the departure appraisal when preparing the employee's rating of record.
+If a supervisor is assigned to a new organization and the employee accompanies the supervisor to the new organization and will occupy the same position, a departure appraisal is not required.
+The supervisor must sign the departure appraisal and provide a copy to the employee for the employee's signature. The approving official's signature is not required unless the departure appraisal will become the employee's rating of record.
+All departure appraisals must either be sent to the employee's new office (with the employee's EPF), if the employee is changing positions, or placed in the employee's EPF when the supervisor changes positions.
+The rating official should consider all departure appraisals as input for preparation of the employees annual rating of record.
+Departure appraisals are not required for employees leaving the IRS and not going to other Federal employment. For example, departure appraisals are not required for employees who resign or retire.
+6.430.3.6.2 (10-28-2011)
+Appraisals for Merit Promotion
+The employee's most recent rating of record will be used for merit promotion in nearly all cases.
+A supervisor may prepare a new performance appraisal for merit promotion purposes only when the employee is newly hired or has returned to duty after a lengthy absence and has no rating of record on file.
+To be provided a merit promotion appraisal after a lengthy absence, the employee must not have had at least 60 days of performance under a signed performance agreement for the most recently completed appraisal period.
+The newly hired employee must have been on board for at least 90 days after an initial appointment.
+In either instance, the employee must meet the minimum appraisal period requirements for the current appraisal period.
+These merit promotion appraisals cannot be used as the employee's rating of record and are valid only for the specific merit promotion action.
+Since a merit promotion appraisal cannot become a rating of record, no approving official signature is required and no summary evaluation is assigned.
+Managers, management officials, and confidential management and program analysts who apply for bargaining unit positions must have their most recently completed performance appraisal converted to the performance appraisal form used for bargaining unit employees. Exhibit 6.335.1-4 of IRM 6.335, Promotion and Internal Placement, contains guidance on how that is accomplished.
+For a "Not Ratable" employee who has served 90 days on a competitive appointment but not served 60 cumulative days under a signed performance agreement, the supervisor must submit a statement to the servicing Employment Office indicating that the employee is "Not Ratable."
+These "Not Ratable" employees cannot receive any type of performance appraisal for merit promotion, even a "presumptive" Fully Successful appraisal. Employment Offices will not accept "presumptive" Fully Successful appraisals for merit promotion.
+6.430.3.6.3 (10-28-2011)
+Within-Grade Increase (WIGI) Determination
+The OPM regulations require that the decision to grant or deny a WIGI must be supported by the employee's most recent rating of record. If the most recent rating of record does not support the decision, a new rating must be prepared.
+A new rating of record is required when:
+A WIGI was previously denied and the employee's performance has improved to the "Fully Successful" level making the employee eligible for a WIGI.
+The employee's most recent rating of record is at least "Met" but the employee's performance has now decreased below that level which would make the employee no longer eligible for the WIGI.
+This rating of record prepared to support or deny the WIGI becomes the employee's new rating of record for all purposes.
+6.430.3.6.4 (10-28-2011)
+Not Ratable Determinations
+A supervisor may be unable to rate an employee at the end of the performance appraisal period, in which case no rating of record shall be recorded for the employee for that appraisal period.
+Examples of "Not Ratable" situations :
+The employee was not assigned an approved performance plan for his or her position for at least 60 days during the appraisal period;
+The employee is newly-hired and does not have 60 days remaining in his or her performance appraisal period;
+The employee was on extended leave and did not have at least 60 days of performance during the appraisal period;
+The employee was detailed to a position excluded from the performance appraisal requirements in 5 CFR Part 430, by law, or other OPM regulation.
+If the supervisor determines that the employee is "Not Ratable" at the end of the employees designated performance appraisal period, the supervisor must complete the performance agreement in the automated performance appraisal system and indicate that the employee is "Not Ratable" and specify the reason for that determination in the space provided.
+In those cases where an non paybanded employee cannot be rated, the employee may be granted a "Waiver of Requirement for Determination" for a WIGI as specified in 5 CFR 531.409(d).
+6.430.3.6.5 (06-12-2009)
+Retroactive Appraisals
+The OPM regulations and IRS policy prohibit retroactive ratings of record.
+The OPM regulations (5 CFR 430.208(i)) do not permit the assignment of a rating of record for an earlier appraisal period, if a rating was assigned for a subsequent period or if the agency's established deadline for providing a rating of record has passed.
+It is the Service's policy that supervisors can effect a rating of record up to 364 days following the end of the employee's appraisal period, unless a rating of record for a later period has been completed. Once that 364 day period has passed, no rating of record can be assigned for the previous appraisal period.
+Exceptions include appraisals changed as a result of:
+A grievance, complaint, or other formal proceedings permitted by law or regulation.
+When the Service determines that a rating of record was incorrectly recorded or calculated.
+6.430.3.6.6 (01-01-2007)
+Presumptive Ratings
+Presumptive ratings for ratings of record are prohibited by 5 CFR 430.208 (a)(2).
+A rating of record can be based only on the evaluation of actual job performance for the designated performance appraisal period. A supervisor must not issue a rating of record that assumes a level of performance by an employee without an actual evaluation of that employee's performance.
+6.430.3.7 (01-01-2007)
+Conducting the Performance Appraisal Meeting
+The performance appraisal is final when it is issued to the employee with all appropriate reviews and signatures. Thus, the appraisal should not be discussed with the employee until all appropriate reviews and signatures have been completed.
+For positions covered by Performance Review Boards (PRB), the performance appraisal is not considered final until the PRB has completed its process.
+The supervisor should begin the performance appraisal meeting by reviewing the employee's self-assessment, focusing on the areas of agreement between the self-assessment and the supervisor's assessment of the employee's performance.
+During the performance appraisal meeting, the supervisor should share a copy of the completed performance agreement with the employee and discuss openly the ratings and rationale for those ratings, with an eye towards reaching consensus. For areas of disagreement, the supervisor should determine if any information was overlooked.
+The supervisor should consider the following when conducting an appraisal meeting:
+Always acknowledge the areas of outstanding performance, as well as the areas for improvement to give balance to the appraisal.
+Cite specific examples to demonstrate current performance as well as examples of behavior/results that might occur at the next higher level of performance.
+Focus on the future by jointly developing a plan of action to improve performance.
+Follow a problem solving approach. Discuss key areas for improvement by defining specific solutions to performance issues without assigning blame.
+Manage the emotions involved with evaluating performance. Allow the employee to communicate his or her concerns, listen carefully to the concerns, and provide constructive feedback. In some cases, it may be useful to postpone the remainder of the meeting so both participants can regroup.
+If disagreements cannot be resolved between the employee and the supervisor, the employee may provide a written response, which becomes an attachment to the performance agreement.
+The supervisor should inform the employee about the effect of the rating of record on the salary review process under an IRS Payband System.
+The employee should sign and date the performance agreement at the conclusion of the performance appraisal meeting.
+After current performance has been discussed, the supervisor may decide that it would be useful to discuss the expectations for the next appraisal cycle by conducting the activities outlined in Step 1, Planning Expectations. Often a separate meeting is required to plan future performance goals and should be scheduled as soon as practical.
+6.430.3.7.1 (10-28-2011)
+Evaluation of Managerial Potential
+Supervisors are also required to discuss Form 13236, Evaluation of Managerial Potential (EMP). The EMP is completed at the end of each appraisal period to identify leadership competencies for development and to determine potential in the competitive process. Recently many managers completed the four stages of the Leadership Succession Review (LSR) assessment which also identifies leadership competencies for development. Until further notice, managers who have completed all four stages of the LSR will not be required to complete the EMP annually as part of the appraisal process. Managers who have not completed all four stages of the LSR assessment will continue to complete the EMP as part of the annual appraisal process. Note: In the near future the EMP will be obsoleted and be replaced with LSR leadership competency ratings in the Merit System Promotion competitive process.
+Management officials, confidential management/program analysts, and other first time applicants for management positions may request the form be completed at any time; however, once completed, their EMP will remain in effect for the duration of their performance cycle.
+For additional information on the EMP form, visit the Management Selection Program Resource Center web site at http:/hco.web.irs.gov/recruitstaff/internalplac/meritpromo/msp/index.html.
+6.430.3.8 (06-12-2009)
+Processing the Signed Performance Appraisal
+Both the rating official and approving official must sign the performance appraisal for it to be used as the rating of record. The approving official has the final authority to approve, modify, or disapprove the summary evaluation rating.
+The employee is not required to sign the performance appraisal. If the employee chooses not to sign, the supervisor should document the employee's refusal. The supervisor should inform the employee that refusal to acknowledge receipt of the appraisal does not render the rating of record invalid.
+The original, completed performance agreement form must be filed in the employees EPF along with any back-up documentation and any accompanying narratives or self-assessments.
+The supervisor must ensure that the employees annual appraisal is entered into the Services automated performance appraisal system by the required date.
+6.430.3.9 (10-28-2011)
+Tracking Performance Agreements
+The supervisor should review and take actions based on the information provided in ePerformance or based on the information provided in the Pay Period Performance Management Listings Reports available on the HR Reporting Center website.
+ePerformance reports provide information to the supervisor related to performance management responsibilities including:
+Printable Performance Plans.
+Award Election Report.
+Status Summary Report.
+Missing Performance Documents.
+Performance Document Status.
+Documents Pending Rating Review.
+The Pay Period Performance Management Listings Reports are available to each supervisor and each business unit via the HR Reporting Center website. Supervisors may initiate an OL5081 for access as appropriate for their business unit. These reports provide information to the supervisor related to performance management responsibilities including:
+Annual ratings due/overdue status,
+Employee due/overdue eligibility status for WIGI, and
+Last rating of record and rating dates input in the automated personnel system.
+6.430.3.10 (10-28-2011)
+Reconsidering the Summary Evaluation
+Employees are encouraged to resolve matters of disagreement concerning the summary evaluation with their rating official and approving official.
+An employee who is dissatisfied with his or her summary evaluation may ask for reconsideration from the approving official in lieu of, or in addition to, adding comments to the evaluation.
+If the informal problem solving, as described in (2), is not successful, managers, management officials, and confidential management/program analysts may request reconsideration of their performance appraisal by filing an agency grievance within the time specified in IRM 6.771.1, Internal Revenue Service, Agency Grievance System (AGS).
+Managers, management officials, and confidential management/program analysts should follow the IRS Agency Grievance System procedures specified in IRM 6.771.1, to request reconsideration of their performance appraisals.
+Employees may also consult their servicing Labor Relations/Employee Relations Office to discuss reconsideration procedures.
+Any change to the overall rating must be reviewed against the critical performance expectations of the position to ensure the appropriateness of the changed rating.
+6.430.3.11 (06-12-2009)
+Amending a Rating
+A rating may be amended after it is given to the employee for reasons such as:
+Reconsideration by the rating official resulting from an informal request by the employee within 60 days of issuance.
+Discovery of an error in recording or calculating the rating of record.
+Changes directed as the resolution of a formal complaint procedure.
+A change in the employee's performance after the end of the appraisal period is not a justification for amending a rating.
+The following steps should be followed to amend a rating of Record:
+The supervisor selects Rework Rating from the document in ePerformance.
+The appraisal period remains the same as the original.
+All parties of the original rating should sign the amended rating (employee, rating official, and reviewing official).
+The amended rating must not contain documentation in any section of the form that would indicate the evaluation is the result of a grievance or any similar action. (This includes the performance notes section of the online document.)
+The original copy of the amended form should be placed in the employees EPF.
+The previous rating will be destroyed and replaced with the corrected rating.
+6.430.3.12 (10-28-2011)
+Step 4: Recognizing Performance
+The supervisor may recognize strong performance through informal acknowledgements and formal recognition.
+Note: See IRM 6.451 Employee Performance and Utilization - Awards and Recognition or the Awards and Recognition web page at http://hco.web.irs.gov/perfmgmt/awards/index.html for additional information.
+Newly-hired employees covered by the IRS Payband System who do not meet the IRS minimum appraisal period or do not have a rating of record from another Federal agency for the current performance appraisal period will not be eligible for a performance bonus or performance-based increase. However, employees with a rating of record from another Federal agency or a rating based on another IRS pay system (e.g., GS, WG) will be eligible for the lowest performance-based increase granted and may be eligible for a performance award based on their prior award program.
+Note: See the Payband Resource Center for Managers for more information on manager performance bonuses at http://hco.web.irs.gov/apps/payband/index.htm .

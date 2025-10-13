@@ -1,0 +1,95 @@
+6.430.5 Performance Appraisals for Temporary Assignments
+6.430.5.1 Coverage
+6.430.5.2 General Requirements
+6.430.5.3 Appraisals for Temporary Promotions to GS Positions
+6.430.5.4 Appraisals for Details to GS Positions
+6.430.5.5 Appraisals for Temporary Assignments of IR Payband Employees
+6.430.5.5.1 Appraisals for Temporary Promotions to IR Positions
+6.430.5.5.2 Appraisals for Details to, from, or within IR Positions
+Part 6. Human Resources Management
+Chapter 430. 0 Performance Management
+Section 5. Performance Appraisals for Temporary Assignments
+6.430.5 Performance Appraisals for Temporary Assignments
+6.430.5.1 (06-12-2009)
+Coverage
+This section describes the manner in which employees who are serving on temporary assignments anticipated to last 60 days or more receive performance appraisals that may become ratings of record.
+Temporary assignments include temporary promotions whether competitive or non competitive, and details to a different position with a not to exceed date.
+The requirements of this section are intended to be read in context with the remainder of IRM 6.430.
+6.430.5.2 (01-01-2007)
+General Requirements
+An employee on a temporary assignment within the Service such as a detail or temporary promotion must receive a performance plan as soon as possible (no later than 30 days) from the beginning of each temporary assignment expected to last at least 60 days.
+The performance plan should reflect the employee’s performance expectations for the duration of the temporary assignment.
+Although a temporary assignment may not be anticipated to last 60 days, management must provide to the employee a performance plan once the temporary assignment is expected to last at least 60 days.
+A departure appraisal reflecting the employee’s performance on a temporary assignment of 60 days or more must be prepared by the supervisor of the employee’s temporary assignment position when the employee departs the temporary assignment. These departure appraisals do not require the reviewing official’s signature since they will not become the employee’s rating of record.
+The supervisor of the employee’s position of record must consider all departure appraisals for temporary assignments that occurred during the appraisal period when preparing the employee’s annual rating of record.
+Mid-year progress reviews are required even if the employee is serving on a detail or temporary promotion. Normally, the permanent supervisor will be responsible for conducting the progress review. However, when the employee is serving on a long-term temporary assignment, it may be more appropriate for the supervisor of the employee’s temporary assignment to conduct a progress review.
+Note: For additional information on mid-year progress reviews, see IRM 6.430.2.3.2 for employees evaluated by critical job elements and IRM 6.430.3.3.1 for managers and management officials.
+
+Management should consider the effect on performance appraisals when temporarily assigning employees for extended periods.
+6.430.5.3 (06-12-2009)
+Appraisals for Temporary Promotions to GS Positions
+These requirements for appraisals for temporary promotions only apply to GS and Internal Revenue (IR) employees who are temporarily promoted to GS and equivalent positions (e.g., WG, GM, and GL). Temporary promotions of employees that involve movement into or within the IR payband are covered by the requirements found in IRM 6.430.5.5.1.
+An employee who receives a temporary promotion to a position that is anticipated to last for 60 days or more will receive a performance plan reflecting the performance expectations of the temporary promotion position.
+Normally, the employee’s permanent supervisor will prepare the employee’s rating of record on the performance plan of employee’s permanent position. This rating of record will include feedback from the temporary promotion supervisor as appropriate.
+Exception: The supervisor of the employee’s temporary promotion position will prepare the rating of record on the performance plan of the temporary promotion position if the following two conditions are met:
+
+The temporary promotion was of sufficient duration that the employee is not ratable for the permanent position (i.e., less than 60 days of performance during the appraisal period), and
+The employee’s performance appraisal period ended while the employee was serving in the temporary promotion position.
+
+Employees who are temporarily promoted into a position for 60 days or more assume the performance appraisal period ending date of the temporary assignment. However, the employee will not receive a rating of record for the temporary promotion position unless the conditions described in IRM 6.430.5.3 (3 ) above are met (i.e., the employee does not meet the minimum performance period to be rated for the permanent position).
+Example 1 - A bargaining unit employee on a performance appraisal cycle based on the employee’s SSN receives a temporary promotion for 120 days to another bargaining unit position. While in the temporary assignment, the employee’s performance appraisal period ends based on the employee’s SSN. As long as the employee had at least 60 days of performance in the permanent position at the end of the employee’s appraisal period, the employee would receive a rating of record based on the permanent position. The employee’s temporary promotion supervisor would provide performance feedback to the employee’s permanent supervisor for consideration in the employee’s next rating of record.
+Example 2 – A management official on the fiscal year performance appraisal cycle receives a temporary promotion to a bargaining unit position for 120 days. While in this temporary assignment, the employee’s performance appraisal period ends based on the SSN cycle. Since the employee served at least 60 days in the permanent position at the end of the performance appraisal period based on the SSN cycle, the employee would not receive a rating of record based on the performance plan for the temporary promotion position but remain on the performance appraisal cycle of the permanent position.
+
+It is possible for an employee to receive more than one rating of record in a year based on movement between a permanent position and a temporary promotion position with a different performance appraisal cycle.
+Each rating of record is considered valid for the period covered even though the appraisal period is less than one year for an employee with multiple ratings of record during the annual appraisal period. In addition, none of the performance appraisal periods for these ratings of record may overlap.
+In these cases, the employee’s most recently completed rating of record becomes the employee’s current rating of record for all purposes such as reduction in force, awards, and merit promotion.
+Example: A bargaining unit employee with an appraisal period of December 1 to November 30 receives a temporary promotion to a supervisory position for the period of January 1 to September 30. The employee’s temporary promotion appraisal period now ends on September 30 (fiscal year cycle). The employee receives a rating of record on October 1 on the Manager Performance Agreement because:
+
+
+The performance period ends while the employee is on temporary promotion, and
+The employee is not ratable for the permanent position since the employee has less than 60 days of performance in that position during the appraisal period.
+The employee returns to his or her permanent bargaining unit position on October 1. On November 30, the employee’s appraisal period ends for the permanent bargaining unit position and the employee’s receives a new rating of record on Form 6850-BU for the period of October 1 to November 30 since this period meets the minimum appraisal period of 60 days. This November 30 performance appraisal becomes the employee’s current rating of record.
+
+If the performance appraisal period does not end while the employee is on the temporary promotion, the employee will receive a departure appraisal from the temporary promotion supervisor for any assignment that lasted 60 days or more. This departure appraisal is furnished to the employee’s permanent supervisor for consideration in the employee’s next scheduled rating of record.
+For more information on appraisals for temporary promotions from IR positions to GS positions, see the Job Aid Rating Employees on Temporary Promotions IR to GS found at http://hco.web.irs.gov/pdf/irtempromojobaid.PDF.
+6.430.5.4 (06-12-2009)
+Appraisals for Details to GS Positions
+These requirements for appraisals for details apply to GS and equivalent positions (e.g., WG, GM, GL) only. Details of IR payband employees that involve movement into, within, or out of the payband are covered by the requirements found in IRM 6.430.5.5.2.
+An employee detailed to a position that is expected to last 60 days or more will receive a performance plan reflecting the performance expectations of the detail.
+The employee will receive a departure appraisal from the supervisor of the detail position for his or her performance at the end of any detail that lasted 60 days or more.
+This departure appraisal is furnished to the employee’s permanent supervisor for consideration in the employee’s next scheduled rating of record.
+A departure appraisal for performance on a detail can never be used as the employee’s rating of record.
+The supervisor of an employee’s detail assignment cannot prepare the employee’s annual performance appraisal that is used as the rating of record.
+An employee detailed to another position maintains the performance period ending date of the permanent position.
+Example: A bargaining unit employee whose performance cycle is based on the SSN is detailed to a management official position for one year. Although the management official’s performance appraisal period is based on the fiscal year, the employee retains the SSN cycle and receives an annual appraisal based on his or her SSN.
+
+The detailed employee’s annual appraisal is completed on the employee’s permanent performance plan by the permanent supervisor with feedback received from the supervisor of the detail.
+The employee’s permanent supervisor must request and obtain a departure appraisal from the employee’s detail supervisor.
+It is the responsibility of the employee’s permanent supervisor as the rating official to ensure that the employee’s accomplishments on the detail are considered in the employee’s annual appraisal as appropriate.
+6.430.5.5 (06-12-2009)
+Appraisals for Temporary Assignments of IR Payband Employees
+It is the IRS policy to compensate an employee occupying an IR payband position consistent with the employee’s performance as it is measured by the annual summary performance evaluation. The pay is designed to recognize performance in accordance with the pay administration rules for the IR paybands.
+Performance appraisals for temporary assignments for IR payband employees that involve movement out of the payband for an extended period require special considerations since the employee’s performance as reflected in the performance appraisal has significant impact on the employee’s pay.
+It is important for management to be aware of the performance management ramifications of temporary assignments in and out of payband positions to ensure employees are not adversely affected by these temporary assignments.
+IRM 6.430.5 does not address the IRS policies on pay administration for IR paybands. For more information on pay administration for IR paybands, see the Staffing and Pay Administration Policies for the IRS Payband System, (PPD-9509-02P12) at http://hco.web.irs.gov/policies/intrmguide/1perpolicy.html.
+More information on IR paybands for IRS managers may be found in the Manager's Payband Resource Center at http://hco.web.irs.gov/apps/payband/index.htm.
+6.430.5.5.1 (01-01-2007)
+Appraisals for Temporary Promotions to IR Positions
+These requirements for appraisals for temporary promotions which involve movement into or within the IR payband apply to IR employees only. Temporary promotions of employees into the GS system are covered by the requirements found in IRM 6.430.5.3.
+A GS employee serving on a temporary promotion to an IR position or an IR employee serving on a temporary promotion to a higher IR position at the end of the appraisal period (i.e., September 30) will be evaluated on the employee’s permanent GS or IR position.
+Exception: If the employee is not ratable for his or her permanent position (i.e., the employee has not served the minimum appraisal period of 60 days), the employee will be evaluated on the IR temporary promotion position. The employee will be placed in the bonus pool that covers the position on which the employee’s annual rating of record was based.
+
+Example: A bargaining unit employee who has a performance appraisal cycle based on the employee’s SSN is temporarily promoted to an IR manager position for one year. While serving on the temporary promotion, the performance appraisal period for managers ends on September 30. As long as the employee did not have 60 days or more of performance in the permanent position on September 30, the employee would receive a rating of record based on the IR manager temporary promotion position prepared by the supervisor of the temporary promotion position.
+
+In the event that a GS or IR employee received more than one IR temporary promotion during the appraisal period and is not ratable for that employee’s permanent position, the employee will receive his or her annual rating of record based on the IR temporary promotion position of the longest duration that occurred during the appraisal period. The employee will be placed in the bonus pool that covers the temporary IR position on which the employee’s annual rating of record was based.
+For more information on appraisals for temporary promotions to IR positions, see the Job Aid Rating Employees on Temporary Promotions IR to IR and GS to IR found at http://hco.web.irs.gov/pdf/irtemppromojobaid.PDF
+6.430.5.5.2 (06-12-2009)
+Appraisals for Details to, from, or within IR Positions
+These requirements for appraisals for details that involve movement into, within, or out of the IR payband apply to IR positions only. Details of GS employees are covered by the requirements found in IRM 6.430.5.4.
+An IR employee who receives a detail to a GS or IR position that is anticipated to last for 60 days or more will receive a performance plan reflecting the performance expectations of the detail position.
+Normally, the employee’s permanent supervisor will prepare the employee’s rating of record on the performance plan of the employee’s permanent position. This rating of record will include feedback from the detail supervisor as appropriate.
+Exceptions :
+Details to IR Positions - A GS or IR employee either competitively or non-competitively detailed to an IR position and who is unratable in the permanent GS or IR position of record (i.e., the employee has not served the minimum appraisal period of 60 days) will be evaluated based on performance in the detail IR position. The employee's salary will be included in the organization's bonus pool for performance bonuses and special act awards for IR employees in the detail position.
+Details from IR Positions - An employee occupying an IR position who is either competitively or non-competitively detailed to a GS position and who is unratable in the permanent IR position of record (i.e., the employee has not served the minimum appraisal period of 60 days) will be evaluated based on performance in the detail GS position. The employee will be eligible for a performance award or special act award if the provisions applicable to GS employees covered by that performance appraisal program permit it. Since the employee did not receive an IR performance appraisal, the employee's salary will not be included in the bonus pool for performance bonuses and special act awards applicable to the employee's IR position.
+
+For more information on appraisals for details to or from IR positions, see the Job Aid, Rating Employees on Extended Details, IR to IR, IR to GS, or GS to IR found at http://hco.web.irs.gov/pdf/irjobaidevaldetail.PDF.

@@ -1,0 +1,1946 @@
+6.752.1 Non-disciplinary, Disciplinary, and Adverse Actions
+Manual Transmittal
+December 13, 2024
+
+Purpose
+(1) This transmits revised IRM 6.752.1, Addressing Employee Misconduct, Non-disciplinary, Disciplinary, and Adverse Actions.
+
+Material Changes
+(1) The content in this IRM section is clarified, reorganized, and renumbered for clarity. The revised IRM incorporates plain language; gender-neutral pronouns; updated links, grammar, titles, websites, and references; and operational procedures/content performed/used by the Human Capital Office Labor/Employee Relations & Negotiations Division was deleted. The table below provides a crosswalk and summarizes the significant changes.
+
+Content previously found in:
+
+Is now found in:
+
+Description of significant changes include:
+
+IRM 6.751.1, Discipline and Disciplinary Actions: Policies, Responsibilities, Authorities, and Guidance
+
+IRM 6.752.1, Disciplinary Suspensions Section 1, Disciplinary Suspensions of 14 Calendar Days or Less
+
+IRM 6.752.2, Adverse Actions
+
+IRM 6.752.1, Addressing Employee Misconduct
+
+Merged into one IRM.
+
+IRM 6.715.1.1, Overview and Policy
+
+IRM 6.751.1.1, Overview
+
+IRM 6.752.1.1, Overview/Coverage
+
+IRM 6.752.2.1, Overview
+
+IRM 6.752.2.2, Coverage
+
+IRM 6.752.1.1, Program Scope and Objectives
+
+IRM 6.752.1.1.1, Background
+
+IRM 6.752.1.4, Terms and Acronyms
+
+IRM 6.752.1.6, Adverse Action Coverage
+
+IRM 6.752.1.7, Actions Covered
+
+IRM 6.752.1.9, Concept of Discipline
+
+Added "Internal Controls" (for example, Program Scope and Objectives, Background) in compliance with IRM 1.11.2.2.4, Address Management and Internal Controls.
+
+N/A
+
+IRM 6.752.1.2, Program Management and Review (new)
+
+Added this Internal Control in compliance with IRM 1.11.2.2.4, Address Management and Internal Controls.
+
+N/A
+
+IRM 6.752.1.3, Program Controls (new)
+
+Added this Internal Control in compliance with IRM 1.11.2.2.4, Address Management and Internal Controls.
+
+IRM 6.751.1.2, Definitions for Purposes of this IRM
+
+IRM 6.752.1.2, Definitions
+
+IRM 6.752.2.4, Definitions
+
+IRM 6.752.1.4, Terms and Acronyms
+
+Added the following definitions/acronyms:
+
+Admonishment
+
+Adverse Action
+
+Alternative Discipline
+
+Appellant
+
+Basic Pay (replaced “Pay”)
+
+Cause (prior IRM subsection titled “Cause of Action”)
+
+Clean 50 Settlement (also known as a Clean Record Settlement)
+
+Conduct-related Administrative Leave (replaced “Administrative Leave”)
+
+Corrective Action
+
+Disciplinary Action
+
+Douglas Factors
+
+Drop File
+
+Efficiency of the Service
+
+Harmful Error
+
+Indefinite Suspension
+
+IRS Payband System
+
+IRS Restructuring and Reform Act of 1998 (RRA ‘98)
+
+Last Chance Agreement (LCA)
+
+LERN Specialist
+
+Matter of Record
+
+National Treasury Employees Union (NTEU)
+
+Non-bargaining Unit Employee (NBU)
+
+Non-disciplinary Actions
+
+Official Personnel Folder (OPF)
+
+Penalty
+
+Preponderance of the Evidence
+
+Reduction in Grade/Band
+
+Reduction in Pay
+
+Removal
+
+Reprimand
+
+Standard Form 50 (SF-50)
+
+
+Revised with plain language. Deleted “Day” which is now reflected as “calendar” day(s) or “workday,” as appropriate.
+
+IRM 6.751.1.3, Concept of Discipline
+
+IRM 6.752.1.1(6), Overview/Coverage (referred to IRM 6.751.1.3, Concept of Discipline)
+
+IRM 6.752.2.2(4), Coverage (referred to IRM 6.751.1.3, Concept of Discipline)
+
+IRM 6.752.1.9, Concept of Discipline
+
+Revised with plain language.
+
+IRM 6.751.1.4, Prohibition Against Discrimination
+
+IRM 6.752.1.1(6), Overview/Coverage (referred to IRM 6.751.1.4)
+
+IRM 6.752.2.2(4), Coverage (referred to IRM 6.751.1.4)
+
+IRM 6.752.1.10, Prohibition Against Discrimination
+
+Revised with plain language.
+
+IRM 6.751.1.5, Employee Representation
+
+IRM 6.752.1.1(6), Overview/Coverage (reference to IRM 6.751.1.5, Employee Representation)
+
+IRM 6.752.2.2(4), Coverage (reference to IRM 6.751.1.5, Employee Representation)
+
+IRM 6.752.2.18, Employee Choice of Representative(s)
+
+IRM 6.752.1.17, Employee’s Right to Representation
+
+Revised with plain language.
+
+IRM 6.751.1.6, Progressive Discipline
+
+IRM 6.752.1(6), Overview/Coverage (referred to IRM 6.751.1.6, Progressive Discipline)
+
+IRM 6.752.2.2(4), Coverage (referred to IRM 6.751.1.6, Progressive Discipline)
+
+IRM 6.752.1.1.3.2, Management Responsibilities
+
+IRM 6.752.1.4, Terms and Acronyms, See (3) Alternative Discipline (AD); (16) Douglas Factors; (40) Progressive Discipline
+
+IRM 6.752.1.14, Alternative Discipline
+
+IRM 6.752.1.20, Douglas Factors
+
+Revised with plain language.
+
+IRM 6.715.1.2, References
+
+IRM 6.751.1.7, Authority
+
+IRM 6.752.1.1(6), Overview/Coverage (referred to IRM 6.751.1.7, Authority)
+
+IRM 6.752.2.2(4), Coverage (referred to IRM 6.751.1.7, Authority)
+
+IRM 6.752.2.3, Authorities and Reference
+
+IRM 6.752.1.1.2, Authorities
+
+IRM 6.752.1.5, Related Resources
+
+IRM 6.752.1.8, Delegation of Authority
+
+Revised with plain language and updated links.
+
+IRM 6.751.1.8, Human Capital Office (HCO) Responsibilities
+
+IRM 6.752.1.1(6), Overview/Coverage (referred to IRM 6.751.1.8, Human Capital Office (HCO) Responsibilities)
+
+IRM 6.752.2.2(4), Coverage (referred to IRM 6.751.1.8, Human Capital Office (HCO) Responsibilities)
+
+IRM 6.752.1.1.3, Roles and Responsibilities
+
+IRM 6.752.1.1.3.1, Labor/Employee Relations & Negotiations Division Responsibilities
+
+Revised with plain language.
+
+IRM 6.751.1.9, Responsibilities of Embedded Human Resources (HR) Staff
+
+IRM 6.752.1.1(6), Overview/Coverage (referred to IRM 6.751.1.9, Responsibilities of Embedded Human Resources (HR) Staff)
+
+IRM 6.752.2.2(4), Coverage (referred to IRM 6.751.1.9, Responsibilities of Embedded Human Resources (HR) Staff)
+
+IRM 6.752.1.1.3, Roles and Responsibilities
+
+Deleted operational content. Revised with plain language.
+
+IRM 6.751.1.9.1, Management Responsibilities
+
+IRM 6.752.1.1(6), Overview/Coverage (referred to IRM 6.751.1.9.1, Management Responsibilities)
+
+IRM 6.752.2.2(4), Coverage (referred to IRM 6.751.1.9.1, Management Responsibilities)
+
+IRM 6.752.1.1.3.2, Management Responsibilities
+
+Revised with plain language.
+
+IRM 6.751.1.10, Levels of Accountability
+
+IRM 6.752.1.1(6), Overview/Coverage (referred to IRM 6.751.1.10, Levels of Accountability)
+
+IRM 6.752.2.2(4), Coverage (referred to IRM 6.751.1.10, Levels of Accountability)
+
+IRM 6.752.1.9, Concept of Discipline
+
+IRM 6.752.1.20, Douglas Factors
+
+Revised with plain language.
+
+IRM 6.751.1.11, Security of Personally Identifiable Information
+
+IRM 6.752.1.1(6), Overview/Coverage (referred to IRM 6.751.1.11, Security of Personally Identifiable Information)
+
+IRM 6.752.2.2(4), Coverage (referred to IRM 6.751.1.11, Security of Personally Identifiable Information)
+
+IRM 6.752.1.28, Redacting Letters with Personally Identifiable Information
+
+Added reference to IRM 10.5.1.2.3, Personally Identifiable Information (PII), and revised with plain language.
+
+IRM 6.751.1.12, Administrative/Disciplinary Issues
+
+IRM 6.752.1.1.3.2, Management Responsibilities
+
+IRM 6.752.1.9, Concept of Discipline
+
+IRM 6.752.1.20, Douglas Factors
+
+Revised with plain language.
+
+IRM 6.751.1.13, Management Investigation
+
+IRM 6.752.2.11, Investigating Employee Misconduct
+
+IRM 6.752.1.1.3.2, Management Responsibilities
+
+IRM 6.752.1.11, Management Investigation
+
+Revised with plain language.
+
+IRM 6.751.1.14, Cooperation with Other Investigative Agencies
+
+IRM 6.752.1.11, Management Investigation
+
+IRM 6.752.1.1.3.2, Management Responsibilities
+
+Revised with plain language.
+
+IRM 6.751.1.15, Guidelines for Identifying and Using Tax Information
+
+IRM 6.752.1.11, Guidelines for Identifying and Using Tax Information
+
+IRM 6.752.2.15, Guidelines for Identifying and Using Tax Information
+
+IRM 6.752.1.29, Guidelines for Identifying and Releasing Tax Information for Use in a Personnel Matter
+
+Revised with plain language.
+
+IRM 6.751.1.16, Disciplinary and Non-Disciplinary Action Defined
+
+IRM 6.752.1.1.3.2, Management Responsibilities
+
+IRM 6.752.1.4, Terms and Acronyms, See (1) Admonishment; (14) Disciplinary Action; (32) Non-disciplinary Actions; (45) Reprimand
+
+Revised with plain language.
+
+IRM 6.751.1.16.1, Non-Disciplinary Actions Overview
+
+IRM 6.752.1.4, Terms and Acronyms, See (32) Non-disciplinary Actions
+
+Revised with plain language.
+
+IRM 6.751.1.16.2, Non-Disciplinary Dispositions
+
+IRM 6.752.1.4, Terms and Acronyms
+
+Deleted operational content, such as ALERTS disposition codes. Revised with plain language.
+
+IRM 6.751.1.16.3, Disciplinary Actions
+
+IRM 6.752.1.4, Terms and Acronyms, See (1) Admonishment; (14) Disciplinary Action; (45) Reprimand
+
+IRM 6.752.1.30, Grieving an Admonishment or Reprimand
+
+Deleted operational content, such as ALERTS disposition codes. Revised with plain language.
+
+IRM 6.751.1.17, Alternative Discipline
+
+IRM 6.752.1.8, Alternative Discipline
+
+IRM 6.752.1.4, Terms and Acronyms, See (3) Alternative Discipline (AD)
+
+IRM 6.752.1.14, Alternative Discipline (AD)
+
+Revised with plain language.
+
+IRM 6.751.1.18, Case Processing for LR/ER Field Operations Specialists
+
+Not applicable (N/A)
+
+Deleted operational procedures.
+
+IRM 6.751.1.19, Case Processing for Non-1203 Tax Cases
+
+N/A
+
+Deleted operational procedures.
+
+IRM 6.751.1.20, TIGTA Investigations
+
+IRM 6.752.1.12, TIGTA Investigation
+
+Deleted operational procedures. Revised with plain language.
+
+IRM 6.751.1.21, Retention Records of Non-Disciplinary and Disciplinary Actions
+
+IRM 6.752.1.4, Terms and Acronyms, See (32) Non-disciplinary Actions
+
+IRM 6.752.1.37, Records Retention
+
+Revised with plain language.
+
+IRM 6.751.1.22, Other Records
+
+IRM 6.752.1.24, Records/Reports
+
+IRM 6.752.2.32, Records/Reports
+
+IRM 6.752.1.16, Employee Entitlements
+
+IRM 6.752.1.37, Records Retention
+
+Revised with plain language.
+
+IRM 6.752.1.3, Cause
+
+IRM 6.752.2.5, Cause of Action
+
+IRM 6.752.1.4, Terms and Acronyms, See (2) Adverse Action; (7) Cause; (18) Efficiency of the Service
+
+Revised with plain language.
+
+IRM 6.752.1.4, General Requirements
+
+IRM 6.752.1.4, Terms and Acronyms
+
+IRM 6.752.1.21, Advance Notice (Proposal Letter)
+
+Revised with plain language.
+
+IRM 6.752.1.5, Burden of Proof
+
+IRM 6.752.2.6, Burden of Proof
+
+IRM 6.752.1.4, Terms and Acronyms, See (38) Preponderance of the Evidence; (47) Substantial Evidence
+
+IRM 6.752.1.13, Burden of Proof
+
+IRM 6.752.1.38, Differences Between Performance Actions Under 5 CFR 752 and 432.
+
+Revised with plain language.
+
+IRM 6.752.1.6, Nexus
+
+IRM 6.752.2.8, Nexus
+
+IRM 6.752.2.25, Procedures: Nexus Statement
+
+IRM 6.752.1.4, Terms and Acronyms, See (30) Nexus
+
+IRM 6.752.1.21, Advance Notice (Proposal Letter)
+
+IRM 6.752.1.22, Crime Provision (Exception to 30-day Advance Notice Period)
+
+IRM 6.752.1.25, Decision Letter
+
+Revised with plain language. Deleted operational procedures.
+
+IRM 6.752.1.7, Employee Entitlements
+
+IRM 6.752.2.9, Employee Entitlements
+
+IRM 6.752.1.4, Terms and Acronyms
+
+IRM 6.752.1.15, Last Rights/Voluntary Separations
+
+IRM 6.752.1.16, Employee Entitlements
+
+IRM 6.752.1.17, Employee’s Right to Representation
+
+Revised with plain language.
+
+IRM 6.752.1.9, Research Tools and Consultations
+
+IRM 6.752.2.12, Research Tools and Consultations
+
+IRM 6.752.1.1.3.1, Labor/Employee Relations & Negotiations Division Responsibilities
+
+Revised with plain language.
+
+IRM 6.752.1.10, Procedures
+
+IRM 6.752.2.13, Procedures
+
+IRM 6.752.1.21, Advance Notice (Proposal Letter)
+
+Revised with plain language.
+
+IRM 6.752.1.12, Framing Charges and Evidence
+
+IRM 6.752.2.16, Framing Charges
+
+N/A
+
+Deleted operational procedures.
+
+IRM 6.752.1.13, Delivery of Advance Notice
+
+IRM 6.752.2.19, Delivery of Advanced Notice
+
+IRM 6.752.1.21, Advance Notice (Proposal Letter)
+
+Revised with plain language.
+
+IRM 6.752.1.14, Employee Status During Advance Notice Period
+
+IRM 6.752.2.20, Employee Status During Advance Notice Period
+
+IRM 6.752.1.21, Advance Notice (Proposal Letter)
+
+Revised with plain language.
+
+IRM 6.752.1.15, Denial of Representative
+
+IRM 6.752.1.19, Denial of Representative
+
+Revised with plain language.
+
+IRM 6.752.1.16, Rights of Representatives
+
+IRM 6.752.1.18, Rights of Representatives
+
+Revised with plain language.
+
+IRM 6.752.1.17, Right to Reply
+
+IRM 6.752.2.21, Right to Reply
+
+IRM 6.752.1.16, Employee Entitlements
+
+IRM 6.752.1.22, Crime Provision (Exception to 30- day Advance Notice Period)
+
+IRM 6.752.1.23, Oral/Written Reply
+
+Revised with plain language.
+
+IRM 6.752.1.19, Role of the Oral Reply Officer
+
+IRM Exhibit 6.752.1-5, Guide for Oral Reply Proceedings
+
+IRM 6.752.2.23, Role of the Oral Reply Officer
+
+IRM 6.752.1.23, Oral/Written Reply
+
+Revised with plain language. Deleted operational procedures.
+
+IRM 6.752.1.20, Douglas Factors
+
+IRM Exhibit 6.752.1-6, Douglas Factors
+
+IRM Exhibit 6.752.2-11, Douglas Factors
+
+IRM 6.752.1.1.3.2, Management Responsibilities
+
+IRM 6.752.1.20, Douglas Factors
+
+Revised with plain language. Deleted operational procedures.
+
+IRM 6.752.1.21, Content of the Decision Notice
+
+IRM 6.752.2.29, Content of the Decision Notice
+
+IRM 6.752.1.25, Decision Letter
+
+Revised with plain language.
+
+IRM 6.752.1.22, Rights to Appeal
+
+IRM 6.752.2.30, Rights to Appeal
+
+IRM 6.752.1.30, Grieving an Admonishment or Reprimand
+
+IRM 6.752.1.30.1, Grieving or Appealing a Suspension or Removal, etc.
+
+Revised with plain language.
+
+IRM 6.752.1.23, Settlements
+
+IRM 6.752.2.31, Settlements and Last Chance Agreements
+
+IRM 6.752.1.31, Settling a Corrective Action
+
+Revised with plain language.
+
+IRM 6.752.1.24, Records/Reports
+
+IRM 6.752.2.32, Records/Reports
+
+IRM 6.752.1.37, Records Retention
+
+Revised with plain language.
+
+IRM 6.752.2.7, Erroneous Personnel Actions
+
+IRM 6.752.1.35, Correcting an Action
+
+Revised with plain language. Deleted operational procedures.
+
+IRM 6.752.2.10, Determining Appropriate Action
+
+IRM 6.752.1.1.3.2, Management Responsibilities
+
+IRM 6.752.1.20, Douglas Factors
+
+Revised with plain language.
+
+IRM 6.752.2.11, Investigating Employee Misconduct
+
+IRM 6.752.1.11, Management Investigation
+
+IRM 6.752.1.12, TIGTA Investigation
+
+Revised with plain language.
+
+IRM 6.752.2.14, Exception to Thirty (30) day Advance Notice Period – Crime Provision
+
+IRM 6.752.1.22, Crime Provision (Exception to 30-day Advance Notice Period)
+
+Revised with plain language.
+
+IRM 6.752.2.17, Content of the Written Notice of Proposed Adverse Action
+
+IRM 6.752.1.21, Advance Notice (Proposal Letter)
+
+Revised with plain language.
+
+IRM 6.752.2.18, Employee Choice of Representative(s)
+
+IRM 6.752.1.17, Employee’s Right to Representation
+
+Revised with plain language.
+
+IRM 6.752.2.19, Delivery of Advanced Notice
+
+IRM 6.752.1.21, Advance Notice (Proposal Letter)
+
+Revised with plain language.
+
+IRM 6.752.1.14 Employee Status During Advance Notice Period
+
+IRM 6.752.2.22, Employee Status During Advance Notice Period
+
+IRM 6.752.1.16, Employee Entitlements
+
+IRM 6.752.1.21, Advance Notice (Proposal Letter)
+
+Revised with plain language.
+
+IRM 6.752.1.17, Right to Reply
+
+IRM 6.752.2.21, Right to Reply
+
+IRM 6.752.1.16, Employee Entitlements
+
+IRM 6.752.1.22, Crime Provision (Exception to 30-day Advance Notice Period)
+
+IRM 6.752.1.23, Oral/Written Reply
+
+Revised with plain language.
+
+IRM 6.752.1.18, Oral Reply Procedures
+
+IRM 6.752.2.22, Oral Reply Procedures
+
+IRM 6.752.1.16, Employee Entitlements
+
+IRM 6.752.1.23, Oral/Written Reply
+
+Revised with plain language.
+
+IRM 6.752.1.19, Role of the Oral Reply Officer
+
+IRM 6.752.2.23, Role of the Oral Reply Officer
+
+IRM 6.752.1.23, Oral/Written Reply
+
+Revised with plain language.
+
+N/A
+
+IRM 6.752.1.24, Supplemental Notice (new)
+
+Incorporated content from archived Interim Guidance Memorandum HCO-06-0913-0002, Interim Guidance for Internal Revenue Manuals (IRM) 6.432.1, 6.751.1, 6.752.1 and 6.752.2.
+
+IRM 6.752.2.24, Role of the Deciding Official
+
+IRM 6.752.1.1.3.2, Management Responsibilities
+
+IRM 6.752.1.8, Delegation of Authority
+
+IRM 6.752.1.25, Decision Letter
+
+Revised with plain language.
+
+IRM 6.752.2.26, Procedures: Emergency Situations
+
+IRM 6.752.1.4, Terms and Acronyms, See (10) Conduct-related Administrative Leave
+
+IRM 6.752.1.21, Advance Notice (Proposal Letter)
+
+IRM 6.752.1.22, Crime Provision (Exception to 30-day Advance Notice Period)
+
+Revised with plain language.
+
+IRM 6.752.2.27, Withdrawal and Re-Issuance of a Proposed Adverse Action
+
+IRM 6.752.1.21, Advance Notice (Proposal Letter)
+
+IRM 6.752.1.24, Supplemental Notice
+
+Revised with plain language.
+
+IRM 6.752.2.28, Harmful Procedural Error
+
+IRM 6.752.1.4, Terms and Acronyms, See (21) Harmful Error
+
+IRM 6.752.1.13, Burden of Proof
+
+IRM 6.752.1.25, Decision Letter
+
+Revised with plain language.
+
+N/A
+
+IRM 6.752.1.26, Discipline of Supervisors Based on Retaliation Against Whistleblowers (new)
+
+Incorporated content from Interim Guidance Memorandum HCO-06-1122-0014, Interim Guidance on Performance and Conduct Actions.
+
+IRM 6.715.1.3 Ensuring Voluntariness of Actions
+
+IRM 6.715.1.7, SF-50 Remarks in Voluntary Separations
+
+IRM 6.752.1.15, Last Rights/Voluntary Separations
+
+IRM 6.752.1.27, Agency Finding (Remark) on SF-50, Notification of Personnel Action
+
+Revised with plain language.
+
+IRM 6.715.1.6, Abandonment of Position
+
+IRM 6.752.1.32, Abandonment of Position
+
+Revised with plain language.
+
+IRM 6.715.1.8, Employee Death
+
+IRM 6.752.1.33, Employee Death
+
+Revised with plain language.
+
+N/A
+
+IRM 6.752.1.34, Moratoriums on Addressing Misconduct Matters (new)
+
+Incorporated content from Interim Guidance Memorandum HCO-06-1122-0014, Interim Guidance on Performance and Conduct Actions.
+
+N/A
+
+IRM 6.752.1.36, Legal Findings and Orders (new)
+
+Incorporated content from Interim Guidance Memorandum HCO-06-1122-0014, Interim Guidance on Performance and Conduct Actions.
+
+N/A
+
+IRM 6.752.1.38, Differences Between Performance Actions Under 5 CFR 752 and 432.
+
+Added for clarity.
+
+IRM Exhibit 6.751.1-1, Internal Revenue Service Guide to Penalty Determinations
+
+IRM 6.752.1.5, Related Resources
+
+Added Document 11500, IRS Manager’s Guide to Penalty Determinations, to resources. Deleted exhibit.
+
+IRM Exhibit 6.751.1-26, SUGGESTED LANGUAGE for Employee Request for Material Relied on and for Representative Request for Access to Tax Information
+
+IRM Exhibit 6.752.1-1, Release of Material Relied Upon (if the letter contains tax information)
+
+Exhibit 6.752.1-1, Sample Request for Material Relied On (Evidence) and Representative’s Access to Tax Information (if applicable)
+
+Revised with plain language.
+
+IRM 6.715.1, Clearance Responsibility
+
+N/A
+
+Deleted content. For Separating Employee Clearance information, see the iManage site.
+
+IRM 6.715.1, Procedures
+
+N/A
+
+Deleted operational content.
+
+IRM Exhibits 6.751.1-2 through 6.751.1-25
+
+N/A
+
+Deleted operational content per Interim Guidance Memorandum HCO-06-1122-0014, Interim Guidance on Performance and Conduct Actions.
+
+IRM Exhibits 6.752.1-2 through 6.752.1-4, 6.752.1-7, and 6.752.1-8
+
+N/A
+
+Deleted operational content per Interim Guidance Memorandum HCO-06-1122-0014, Interim Guidance on Performance and Conduct Actions.
+
+IRM Exhibits 6.752.2-1 through 6.752.2-10, 6.752.2-12, and 6.752.2-13
+
+N/A
+
+Deleted operational content per Interim Guidance Memorandum HCO-06-1122-0014, Interim Guidance on Performance and Conduct Actions.
+
+Effect on Other Documents
+
+This IRM:
+a. Replaces IRM 6.715.1, Voluntary Separations and Reductions in Grade or Pay, Policies, Responsibilities, Requirements, and Procedures, dated July 1, 2002, which will be made obsolete.
+b. Replaces IRM 6.751.1, Discipline and Disciplinary Actions, Discipline and Disciplinary Actions: Policies, Responsibilities, Authorities, and Guidance, dated November 4, 2008, which will be made obsolete.
+c. Replaces IRM 6.752.1, Disciplinary Suspensions and Adverse Actions, Disciplinary Suspensions of 14 Calendar Days or Less, dated November 28, 2008.
+d. Replaces IRM 6.752.2, Disciplinary Suspensions and Adverse Actions, Adverse Actions, dated October 15, 2010, which will be made obsolete.
+e. Incorporates relevant content from Interim Guidance Memorandum HCO-06-1122-0014, Interim Guidance on Performance and Conduct Actions, dated September 7, 2023, and effective August 1, 2023.
+
+Audience
+All IRS employees who are not serving a probationary/trial period or a temporary/term appointment excluding contractors and Chief Counsel.
+
+Effective Date
+(12-13-2024)
+
+Signed by
+Traci M. DiMartini
+IRS Human Capital Officer
+
+6.752.1.1 (12-13-2024)
+Program Scope and Objectives
+(1) Purpose: This IRM contains the Servicewide policy to take corrective action to address employee conduct or performance issues (misconduct). As appropriate, actions to address misconduct may be taken in compliance with Title 5 of the Code of Federal Regulations (CFR) Part 752, Adverse Actions.
+
+Note: Performance actions may also be taken in compliance with 5 CFR 432, Performance Based Reduction in Grade and Removal Actions (see IRM 6.432.1, Addressing Poor Performance). See IRM 6.752.1.38, Differences Between Performance Actions Under 5 CFR 752 and 432.
+
+(2) Audience: All IRS employees who are not serving a probationary/trial period or a temporary/term appointment excluding contractors and Chief Counsel.
+
+(3) Policy Owner: Human Capital Office, Policy Office.
+
+(4) Program Owner: Human Capital Office (HCO).
+
+(5) Primary Stakeholders: HCO’s Labor/Employee Relations & Negotiations Division and IRS managers.
+
+(6) Program Goal: To correct employee misconduct.
+
+(7) Contact Information: HCO Policy Office
+
+6.752.1.1.1 (12-13-2024)
+Background
+(1) This IRM provides the Servicewide policy to address misconduct for employees who are not serving a probationary/trial period or a temporary/term appointment.
+
+Note: For guidance about employees serving a probationary/trial period or a temporary/term appointment and supervisors or managers serving a probationary period, see IRM 6.315.1, Career and Career-Conditional Employment, IRM 6.315.2, Probationary Period for Career and Career-Conditional Employment, or IRM 6.316.1, Temporary or Term Appointments, as appropriate.
+
+6.752.1.1.2 (12-13-2024)
+Authorities
+(1) This IRM supplements policies and requirements contained in the authorities cited below. It is not self-contained and must be read in conjunction with cited authorities, and for bargaining unit employees, any applicable collective bargaining agreement (CBA), such as the Internal Revenue Service (IRS) and National Treasury Employees Union (NTEU) National Agreement (Document 11678) and the Addendum to the National Agreement (Document 11678-B ).
+
+Note: For BU employees, if this IRM conflicts with the NA or any other relevant CBA, the agreement prevails.
+
+(2) Executive Order 9830, Amending the Civil Service Rules and providing for Federal personnel administration, effective May 1,1947
+
+(3) Title 5, United States Code (USC), Government Organization and Employees
+
+Chapter 23, Section 2302, Merit System Principles, Prohibited Personnel Practices
+
+Chapter 33, Section 3322, Prohibited Personnel Practices, Voluntary Separation Before Resolution of Personnel Investigation
+
+Chapter 71, Labor-Management Relations
+
+Section 7103, Definitions; application
+
+Section 7106, Management rights
+
+Section 7114, Representation rights and duties
+
+Section 7121, Grievance procedures
+
+Chapter 75, Adverse Actions
+
+Subchapter I, Suspension of 14 Days or Less, Sections 7501-7504
+
+Subchapter II, Removal, Suspension for More Than 14 Days, Reduction in Grade or Pay, or Furlough for 30 Days or Less, Sections 7511-7515
+
+Subchapter V, Senior Executive Service, Sections 7541-7543
+
+Chapter 77, Appeals
+
+(4) 26 USC 6103, Confidentiality and disclosure of returns and return information
+
+(5) 26 USC 7213, Unauthorized disclosure of tax information
+
+(6) 26 USC 7213A, Unauthorized inspection of returns or return information
+
+(7) 26 USC 7431, Civil damages for unauthorized inspection or disclosure of returns and return information
+
+(8) 26 USC 7803, Commissioner of Internal Revenue; other officials
+
+(9) 50 USC 34, National Emergencies
+
+(10) 5 CFR 339.104, Definitions
+
+(11) 5 CFR 715, Nondisciplinary Separations, Demotions, and Furloughs
+
+(12) 5 CFR 752, Adverse Actions
+
+Subpart A, Discipline of Supervisors Based on Retaliation Against Whistleblowers
+
+Subpart B, Regulatory Requirements for Suspension for 14 Days or Less
+
+Subpart D, Regulatory Requirements for Removal, Suspension for More Than 14 Days, Reduction in Grade or Pay, or Furlough for 30 Days or Less
+
+Subpart F, Regulatory Requirements for Taking Adverse Action Under the Senior Executive Service
+
+(13) 5 CFR 1201, Practices and Procedures
+
+(14) 29 CFR 1614, Federal Sector Equal Employment Opportunity
+
+(15) 29 CFR 1625, Age Discrimination in Employment Act
+
+(16) 31 CFR 0.210, Cooperation with official inquiries
+
+(17) Document 12829, The General Records Schedules (see 2.2, Employee Management Records, and 2.3, Employee Relations Records)
+
+(18) The Guide to Processing Personnel Actions (GPPA) (Click Personnel Actions tab)
+
+(19) Public Law 105-206, IRS Restructuring and Reform Act of 1998, Section 1203, Termination of Employment for Misconduct
+
+(20) Public Law 115-91, National Defense Authorization Act for Fiscal Year 2018, Section 1097(b)
+
+(21) Public Law 116-283, William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, Section 1137, Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 Amendments
+
+6.752.1.1.3 (12-13-2024)
+Roles and Responsibilities
+(1) The IRS Human Capital Officer is the executive responsible for the Servicewide misconduct policy.
+
+(2) The HCO Policy Office develops policy and authors this IRM content.
+
+(3) At the discretion of the business unit, the business-based human resources staff, also known as embedded, may assist their managers with misconduct issues.
+
+(4) Employees are responsible for following the standards of ethical conduct and performance procedures.
+
+(5) This subsection also provides responsibilities for:
+
+Labor/Employee Relations & Negotiations (LERN) Division
+
+Management
+
+6.752.1.1.3.1 (12-13-2024)
+Labor/Employee Relations & Negotiations Division Responsibilities
+(1) Collaborating with the Policy Office on the contents of this IRM, ensuring IRM compliance, and assisting managers with addressing employee misconduct.
+
+(2) Receiving misconduct allegations from various sources including Congress, the Commissioner of Internal Revenue, the IRS Tax Compliance Check Service (see IRM 25.29.1, Standard Tax Compliance Checks for Suitability and Monitoring), and the Treasury Inspector General for Tax Administration (TIGTA) and sending allegations, as appropriate, to management for review and potential action.
+
+(3) Providing technical and procedural guidance to managers addressing employee misconduct.
+
+(4) Adding cases to the labor/employee relations (LR/ER) tracking system.
+
+(5) Researching the LR/ER tracking system to determine appropriate comparators for management’s consideration of Douglas Factor 6, Consistency with Other Penalties, when appropriate, and advising management if proposed actions are consistent with actions taken for similar offenses.
+
+(6) Researching the LR/ER tracking system, CyberFEDS, Merit Systems Protection Board or Federal Labor Relations Authority decisions, as appropriate, to determine current case law, ensure consistency, or prepare for third-party appeals.
+
+(7) Ensuring actions taken to address misconduct conform to existing laws, rules, regulations, and prior precedent-setting judicial and appeal decisions.
+
+(8) Ensuring misconduct cases progress timely, absent extenuating circumstances.
+
+(9) Ensuring supporting documentation in the case file is complete.
+
+(10) Drafting disciplinary or adverse action letters for managers.
+
+(11) Following up with management when necessary (for example, to obtain the employee receipt acknowledged copy).
+
+(12) Updating cases on the LR/ER tracking system timely and thoroughly.
+
+6.752.1.1.3.2 (12-13-2024)
+Management Responsibilities
+(1) Maintaining order in the workplace and a business-like work environment.
+
+(2) Ensuring government resources are used efficiently and effectively, with minimum potential for waste, fraud, and mismanagement. As such, they must timely address misconduct in compliance with applicable laws, regulations, and policies.
+
+(3) Consulting with LERN to address misconduct. To request help, contact the Chatbot, submit a request through IRS Service Central, or call the LERN Support Gate at 1-866-743-5748, Option 1, and Option 6, Monday through Friday, 7 a.m. to 7 p.m., Central Time.
+
+(4) Ensuring action is taken, when appropriate, for employees who do not follow the ethics rules or performance requirements.
+
+Note: The National Taxpayer Advocate has responsibility and authority to evaluate and take personnel actions (including removal) with respect to any employee in any local office of a taxpayer advocate. See 26 USC 7803(c)(2)(D)(i)(II).
+
+(5) Investigating misconduct that does not require TIGTA’s special investigative skills (for example, attendance-related offenses, discourteous or unprofessional behavior, misuse of a government credit card).
+
+Exception: Misconduct allegations about the Commissioner of Internal Revenue are sent to the Department of the Treasury for action.
+
+(6) Referring misconduct to TIGTA when required (for example, unauthorized access or breach of an IRS system) or if specialized investigative skills are needed (for example, obtaining affidavits or sworn statements, securing police records, or other evidence not customarily available to management).
+
+(7) Reviewing information received from LERN to determine if action is needed.
+
+(8) Processing misconduct cases timely and efficiently.
+
+(9) Providing supporting documentation to LERN.
+
+(10) Resolving factual disputes raised in an oral/written reply.
+
+Note: If more evidence is obtained while resolving the dispute, it must be shared with the employee and/or their designated representative. See IRM 6.752.1.24, Supplemental Notice.
+
+(11) Considering, after investigating the misconduct and when determining appropriate action:
+
+The evidence/supporting documentation
+
+The IRS Manager’s Guide to Penalty Determinations (Document 11500)
+
+The relevant Douglas Factors, when appropriate (see IRM 6.752.1.20, Douglas Factors)
+
+The reason(s) and specifications(s) stated in the Advance Notice
+
+The oral/written replies and any documents submitted with a reply
+
+Any medical condition, if raised, and the related medical documentation, if provided
+
+Any factual dispute, and
+
+Any claim of discrimination.
+
+(12) Reviewing, approving, and issuing letters drafted by LERN.
+
+(13) Providing the employee receipt/acknowledgment copy to LERN.
+
+6.752.1.2 (12-13-2024)
+Program Management and Review
+(1) This IRM provides the IRS misconduct policy and includes information about taking performance action under 5 CFR 752 in lieu of 5 CFR 432. The Policy Office and LERN gauge the effectiveness of the policies in this IRM based on feedback from customers and program owners. During IRM review and publishing, sections may be revised, added, or deleted, based on feedback or changes in law, rule, or regulations.
+
+6.752.1.3 (12-13-2024)
+Program Controls
+(1) In collaboration with other HCO organizations and Servicewide stakeholders, the Policy Office develops policies to address misconduct in compliance with applicable laws and regulations.
+
+(2) The following activities help ensure program success:
+
+Conducting an annual review of this IRM for needed revisions/clarifications
+
+Publishing educational articles, such as Leaders’ Alert and IRS Headlines
+
+Collaborating on interim guidance for policy changes related to this IRM
+
+Assisting LERN with regulatory and policy guidance during negotiations
+
+Contacting LERN for bargaining unit condition of employment changes (see IRM 1.11.2.5.1.4, IRM Changes Affecting Conditions of Employment of Bargaining Unit Employees), if needed, and notice/bargaining determinations, if needed (see IRM 1.11.9.4.4, Labor/Employee Relations & Negotiations)
+
+Seeking legal advice from Chief Counsel, General Legal Services (GLS), Labor & Personnel Law Branch, as needed, and
+
+Reviewing communications and training materials, as needed, to ensure adherence to policies.
+
+6.752.1.4 (12-13-2024)
+Terms and Acronyms
+(1) Admonishment - The least severe type of discipline. Letters of admonishment related to misconduct are filed in an employee’s non-performance file (Drop File).
+
+(2) Adverse Action - Suspensions, removals, reductions in grade or pay, furloughs of 30 days or less, per 5 CFR 752. Adverse actions are permanent records filed in an employee’s Official Personnel Folder.
+
+Note: Under Article 38 of the National Agreement, suspensions of 14 days or less are considered disciplinary actions.
+
+(3) Alternative Discipline (AD) - A non-traditional approach to correct misconduct. See IRM 6.752.1.14, Alternative Discipline.
+
+(4) Appellant - An individual who submits an appeal to the Merit System Protections Board (MSPB).
+
+(5) Bargaining Unit (BU) Employee - An employee included in a bargaining unit certified by the Federal Labor Relations Authority (FLRA) who can be represented by a labor union.
+
+(6) Basic Pay - The total amount of pay received at a rate fixed by law or administrative action for the position held by an employee before any deductions, including any special rate under 5 CFR 530, Pay Rates and Systems, Subpart C, or any locality-based comparability payment under 5 CFR 531, Pay Under the General Schedule, Subpart F, or other similar payment under other legal authority. Basic pay includes night and environmental differentials for prevailing rate employees. Basic pay excludes additional pay of any other kind. See 5 USC 53, Section 5343(f),Pay Rate and Systems, Prevailing rate determinations; wage schedules; night differentials and 5 CFR 532.511, Environmental differentials.
+
+(7) Cause - An adverse action (suspensions and above) may only be taken against an employee "for such cause as will promote the efficiency of the service."
+
+(8) Clean 50 Settlement (also known as a Clean Record Settlement) - An agreement whereby the employee’s Standard Form 50 (SF-50), Notification of Personnel Action, states they resigned or retired (usually for personal reasons), instead of stating the employee resigned/retired in lieu of receiving an adverse action. A Clean 50 settlement essentially cancels the 5 CFR 752 action. See IRM 6.752.1.31, Settling a Corrective Action.
+
+(9) Complainant - An individual who files a complaint typically through the Equal Employment Opportunity (EEO) complaint process.
+
+(10) Conduct-related Administrative Leave - A type of leave used to place an employee in a non-duty status, without charge to personal leave, loss of pay, or reduction in credit time or service. See Interim Guidance Memorandum HCO-06-0223-0004, Interim Guidance on Conduct-Related Administrative Leave, dated April 24, 2023.
+
+(11) Corrective Action - For purposes of this IRM, a non-disciplinary, disciplinary, or adverse action taken to address misconduct and prevent reoccurrence.
+
+(12) Current Continuous Appointment - A period of employment or service immediately preceding an adverse action without a break in federal civilian employment of a workday.
+
+(13) Deciding Official - The manager with the delegated authority to serve as the Oral Reply Officer and take an adverse action per 5 CFR 752. See IRM 6.752.1.8, Delegation of Authority.
+
+(14) Disciplinary Action - Admonishments and reprimands.
+
+Note: Under Article 38 of the National Agreement, for BU employees, suspensions of 14 days or less are considered disciplinary actions. The Article 38 provisions for suspensions of 14 days or less also apply to non-bargaining unit employees.
+
+(15) Discipline - A disciplinary/adverse action taken to correct employee misconduct.
+
+(16) Douglas Factors - The MSPB identified 12 factors (Douglas Factors) that management considers as appropriate, when determining to suspend, remove, reduce in grade/band, or furlough for 30 days or less. See IRM 6.752.1.20, Douglas Factors.
+
+Note: For BU employees, Article 38 of the National Agreement requires consideration of the Douglas Factors for admonishments and reprimands. This provision does not apply to NBU employees.
+
+(17) Drop File - A personnel file securely maintained by an employee’s manager. It is a temporary file that holds documents unrelated to performance, such as corrective actions addressing misconduct. The Drop File is maintained separately from Official Personnel Folders, Employee Performance Folders, and Employee Medical Folders.
+
+(18) Efficiency of the Service - An adverse action promotes the efficiency of the service when the grounds for the action relate to either an employee's ability to perform their duties satisfactorily or to some other legitimate government interest.
+
+(19) Employee - An individual in the competitive service who is not serving a probationary or trial period under an initial appointment or who has completed one year of current continuous employment in the same or similar position under other than a temporary appointment limited to one year or less. See 5 USC 7501, Definitions.
+
+Note: This includes individuals who move involuntarily into the excepted service. See Coverage in 5 CFR 752.201 and 5 CFR 752.401.
+
+(20) Grievant - An individual who files a grievance per the National Agreement, for BU employees, or IRM 6.771.1, Agency Grievance System (AGS).
+
+(21) Harmful Error - An error made by the IRS in the application of procedures that may have caused the Deciding Official to reach a different decision from the one they would have reached had the error not been made. Examples may include failing to provide the employee with their appeal rights, failing to provide the full Advance Notice period, or considering information/evidence that was not stated in the advance or supplemental notice.
+
+(22) Indefinite Suspension - The placing of an employee in a temporary status without duties and pay pending investigation, inquiry, or further action. Indefinite suspensions continue for an indefinite period and end with the notice of action.
+
+(23) IRS Payband System - The performance-based classification and pay system, outlined in Office of Personnel Management (OPM) criteria, which covers all IRS managers including senior managers, department managers, and frontline managers. Referred to as band instead of grade. See 5 USC 95, Personnel Flexibilities Relating to the Internal Revenue Service.
+
+(24) IRS Restructuring and Reform Act of 1998 (RRA ’98) - On July 22, 1998, the president signed RRA ’98 into law, which requires mandatory termination of any IRS employee who commits any of the ten specific acts or omissions described in Section 1203(b). See Document 12011, IRS Ethics Handbook, Chapter 9E, for the 1203(b) provisions. RRA ‘98 grants the Commissioner of Internal Revenue the exclusive right to mitigate the penalty of termination to a lesser penalty. This authority cannot be re-delegated.
+
+(25) Last Chance Agreement (LCA) - A written agreement that gives employees a final chance to avoid an adverse action (for example, a removal or suspension). The agreement contains conditions related to the misconduct that the employee must meet for a defined period (for example, one year) and a statement waiving appeal and/or complaint (grievance) rights in the event of a breach of agreement.
+
+Note: LCAs are authorized at management’s discretion during/after a Last Rights meeting (see below) or after a proposal letter is issued. For BU employee, see Articles 5 and 8 of the National Agreement.
+
+(26) Last Rights - An optional management-initiated meeting held with an employee prior to issuing a proposed removal action. Prior to receiving the proposal letter, the employee is given an opportunity to voluntarily resign, retire, or request a change to lower grade, to avoid having an adverse action recorded in their Official Personnel Folder (OPF). See IRM 6.752.1.15, Last Rights/Voluntary Separations.
+
+(27) LERN Specialist - Specialists in LERN who provide guidance to managers addressing employee misconduct. They support managers with processing a misconduct case, including any appeal, if applicable.
+
+(28) Matter of Record - Prior discipline referenced and kept to support, for example, Douglas Factor 3, Past Disciplinary Record. See IRM 6.752.1.20, Douglas Factors. See below for matter of record timeframes:
+
+Admonishments - two years
+
+Reprimands -
+1. Two years if the issue is unrelated to a tax matter.
+2. Five years if the issue is related to a tax matter.
+
+Suspensions, removals, reductions in grade or pay, furloughs of 30 days or less – permanent.
+
+Note: Corrective actions may be kept longer than the period stated above if they are referenced in a subsequent corrective action to support Douglas Factor 8, Clarity of Notice. See IRM 6.752.1.20, Douglas Factors.
+
+(29) National Treasury Employees Union (NTEU) - The exclusive representative of IRS BU employees. NTEU is also referred to as the labor union or union.
+
+(30) Nexus - A reasonable connection or factual relationship between the reason(s) for the action taken and the efficiency of the service. Nexus is presumed if the misconduct occurs while on duty or on government premises and must be established if the misconduct occurs while the employee is not on duty or on government premises. In taking an action based on off-duty misconduct, consideration should be given to negative publicity, notoriety of the offense, strained relations, or apprehension on the part of fellow employees, and evidence or indication of dishonesty.
+
+(31) Non-bargaining Unit (NBU) Employee - An employee who is not covered by a CBA, such as the National Agreement, and is not represented by a labor union.
+
+(32) Non-disciplinary Actions - A corrective action that is not considered “discipline” (see list below). Employees may not grieve or dispute non-disciplinary actions unless some action was taken that put the employee at a disadvantage (such as denial of an Alternate Work Schedule). Managers retain these actions in the Drop File for up to two years.
+
+Clearance, No Letter - Usually appropriate when the employee has not been interviewed and there is no credible evidence to support an allegation of misconduct.
+
+Clearance Letter - Usually appropriate when the employee is aware of the matter (for example, has been interviewed) and there is no credible evidence to support an allegation, or the evidence clearly establishes the employee's innocence.
+
+Caution Letter - Usually appropriate when the evidence establishes wrongdoing occurred, but disciplinary action is not warranted.
+
+Close Without Action, No Letter - Usually appropriate when the employee has not been interviewed and/or is not aware of the case, the evidence fails to clearly establish wrongdoing occurred, and further investigation could not resolve the issue.
+
+Close Without Action Letter - Usually appropriate when the employee has been interviewed and/or is aware of the case, when the evidence fails to clearly establish that wrongdoing occurred, and further investigation could not resolve the issue.
+
+Note: A cautionary statement may be added if the employee used poor judgment, demonstrated thoughtless conduct, or made a simple error. Cautionary statements may be used if management believes it would deter future misconduct.
+
+Oral Counseling - Usually appropriate to address minor misconduct, commonly takes place between the manager and the employee, in private, and is an opportunity for the manager to provide guidance or instruction. The conversation may be confirmed in writing via e-mail.
+
+Written Counseling - Usually appropriate to address minor misconduct when a written record is necessary. The counseling is in a memorandum from management identifying the behavior needing correction. It provides guidance to the employee on correcting the behavior and the potential consequences if the inappropriate behavior is repeated.
+
+Note: Written counseling may be kept longer than two years if it is being referenced in a subsequent corrective action to support Douglas Factor 8, Clarity of Notice. See IRM 6.752.1.20, Douglas Factors.
+
+(33) Notice Period - The period that begins the day after the date an employee receives a proposal letter and ends on the effective date of the action, if taken. If the notice period ends on a Saturday, Sunday, or federal holiday, it is extended until the next business day. The IRS must provide notice as required by the National Agreement or by law before a decision can be issued.
+
+(34) Offense - A violation of law, regulation, rule, policy, or procedure.
+
+(35) Official Personnel Folder (OPF) - A file containing records for an employee’s federal employment career. The records in the OPF protect the legal and financial rights of the government and the employee. The OPF is part of the government-wide system of records.
+
+(36) Oral Reply Officer (ORO) - The Deciding Official for the proposed action. See IRM 6.752.1.8, Delegation of Authority, and IRM 6.752.1.23, Oral/Written Reply.
+
+(37) Penalty - A corrective action taken to address an employee’s misconduct.
+
+(38) Preponderance of the Evidence - The degree of relevant evidence that a reasonable person, considering the record as a whole, would accept as sufficient to find that a contested fact is more likely to be true than untrue. This is the standard of proof the IRS must meet when taking a suspension for more than 14 days, removal, reduction in grade/band or pay, or a furlough for 30 days or less.
+
+(39) Prior Offense - A previously imposed penalty which is still a matter of record. An employee’s past discipline record may be reviewed when considering Douglas Factor 3, Disciplinary Record.
+
+Note: Third parties consistently use the following three-part test to determine if an adverse action counts as past discipline (see Bolling v. Air Force, 9 MSPR 335, 339-340 (1981)):
+
+Appellant was informed of the action in writing
+
+The action is a matter of record, and
+
+Appellant was given the opportunity to dispute the charge(s) to a higher level than the authority who imposed the discipline.
+
+(40) Progressive Discipline - The penalty for misconduct is tailored to the facts and circumstances; however, escalating penalties may be imposed for repeat misconduct. Progressive discipline is not required, and subsequent offenses may or may not be the same or like the prior offense. When using progressive discipline and considering Douglas Factor 3, Past Disciplinary Record, the prior penalty must still be a matter of record.
+
+(41) Proposing Official - The manager with the delegated authority to propose a suspension, removal reduction in grade/band or pay, or a furlough of 30 days or less. See IRM 6.752.1.8, Delegation of Authority.
+
+(42) Reduction in Grade/Band - The involuntary assignment of an employee to a position at a lower classification level under a position classification system.
+
+(43) Reduction in Pay - An involuntary reduction in the rate of basic pay fixed by law or administrative action for the position held by the employee. Reduction in pay does not include the involuntary loss of any differentials such as standby pay, night work, overtime, hazardous duty, or holiday pay.
+
+(44) Removal - An involuntary separation based on the decision of a delegated authority which terminates the employer-employee relationship.
+
+(45) Reprimand - A disciplinary action used when an action to address misconduct warrants an action more severe than an admonishment, but less severe than a suspension or an action involving a loss of grade/pay. Letters of reprimand are filed in an employee’s OPF.
+
+(46) Standard Form 50 (SF-50) - A Notification of Personnel Action that contains certain employment information. It is a permanent document that is filed in an employee’s OPF. See Document 12787, SF-50: Notification of Personnel Action – An Overview.
+
+(47) Substantial Evidence - The degree of relevant evidence that a reasonable person, considering the record as a whole, might accept as adequate to support a conclusion, even though other reasonable persons might disagree. This is a lower standard of proof than preponderance of the evidence and is the standard of proof the IRS must meet when taking a suspension of 14 days or less.
+
+(48) Suspension - The placement of an employee in a temporary status without duties or pay for misconduct. Suspensions served solely on non-duty days do not meet the definition of suspension.
+
+Note: In compliance with 5 CFR 752.601, Coverage, Senior Executive Service (SES) employees may not be suspended for 14 days or less.
+
+6.752.1.5 (12-13-2024)
+Related Resources
+(1) Delegation Order 6-29, Authority to Address Employee Performance or Conduct Issues, located in IRM 1.2.2, Servicewide Delegations of Authority
+
+Note: Criminal Investigation (CI) employees see IRM 1.2.2.7.18.1, Criminal Investigation Deviation from Servicewide Delegation Order 6-29, Authority to Address Employee Performance or Conduct Issues.
+
+(2) Document 9300, 14 General Principles of Ethical Conduct for Federal Employees
+
+(3) Document 11500, IRS Manager’s Guide to Penalty Determinations (Penalty Guide)
+
+(4) Document 12011, IRS Ethics Handbook
+
+(5) Interim Guidance Memorandum HCO-06-0223-0004, Interim Guidance on Conduct-Related Administrative Leave, dated April 24, 2023
+
+(6) IRM 6.735.1, Ethics Program Requirements
+
+(7) IRM 6.735.2, IRS Outside Employment
+
+6.752.1.6 (12-13-2024)
+Adverse Action Coverage
+(1) An employee in the competitive service who has completed a probationary and/or trial period.
+
+(2) An employee in the competitive service serving in an appointment which requires no probationary or trial period, and who has completed one year of current continuous employment in the same or similar positions under other than a temporary appointment limited to one year or less.
+
+(3) An employee with competitive status who occupies an excepted service position.
+
+(4) Reference: 5 CFR 752.201(b), Employees covered.
+
+6.752.1.7 (12-13-2024)
+Actions Covered
+(1) This IRM covers:
+
+Non-disciplinary actions
+
+Disciplinary actions
+
+Adverse actions
+
+(2) Per 5 CFR 752, Subparts A, B and D, actions may be taken under these subparts for such case as will promote the efficiency of the service.
+
+(3) Per 5 CFR 752, Subpart F, actions may be taken under this subpart only for reasons of misconduct, neglect of duty, malfeasance, or failure to accept a directed reassignment or to accompany a position in a transfer of function.
+
+6.752.1.8 (12-13-2024)
+Delegation of Authority
+(1) See IRM 1.2.2, Servicewide Delegations of Authority, for Delegation Order 6-29, Authority to Address Employee Performance or Conduct Issues.
+
+Note: If the subject of a corrective action is on a:
+1. Temporary assignment recorded on an SF-50 - The delegated authority(s) is the management chain for the employee’s temporary assignment.
+2. Detail/assignment that is not recorded on an SF-50 - The delegated authority(s) is the management chain for the employee’s permanent position of record.
+
+Note: CI employees see IRM 1.2.2.7.18.1, Criminal Investigation Deviation from Servicewide Delegation Order 6-29, Authority to Address Employee Performance or Conduct Issues.
+
+6.752.1.9 (12-13-2024)
+Concept of Discipline
+(1) Employees are expected to follow the ethics rules from the Office of Government Ethics, the Department of the Treasury, and the IRS (see Document 12011, IRS Ethics Handbook, and IRM 6.735, Ethics Matters). The absence of a specific rule covering an act that discredits an employee or the IRS, does not mean that such an act is condoned or allowed. Employees are also expected to follow work procedures to accomplish the IRS mission. Failure to follow the ethics rules or performance procedures may result in a corrective action.
+
+(2) Management’s right to discipline employees is covered in 5 USC 7106(a)(2)(A).
+
+(3) Management issues a corrective action when called for by the employee’s misconduct.
+
+(4) The IRS does not use a standard schedule of offenses and penalties; however, the Penalty Guide (Document 11500) is available to assist management in determining appropriate penalties. The guide does not cover all offenses. If an offense is not listed, it does not mean a penalty cannot be imposed. Except for mandatory penalties required by law, such as misuse of a government vehicle or violations of RRA ’98, the penalties suggested are guidelines, not a rigid standard. Deviations from the guide are allowed and greater or lesser penalties may be imposed, based on the facts of the case.
+
+Note: Certain offenses carry penalties mandated by law, rule, regulation, or IRS policy. For example, RRA ’98 violations require removal; misuse of a government vehicle violations require a 30-day suspension (see 31 USC 1349, Adverse personnel actions); the willful unauthorized access, attempted access or inspection of taxpayer records violations require removal (see IRM 10.5.5, IRS Unauthorized Access, Attempted Access or Inspection of Taxpayer Records (UNAX) Program Policy, Guidance, and Requirements).
+
+(5) When contemplating a corrective action, management considers each case individually based on its own merits and supporting evidence.
+
+6.752.1.10 (12-13-2024)
+Prohibition Against Discrimination
+(1) Under no circumstances shall discipline be based on race, color, sex (including sexual orientation, gender identity, and pregnancy), parental status, religion, national origin, age (40 or older), disability (mental or physical), genetic information, marital status, political affiliation, or reprisal for protected activity. The IRS also prohibits retaliation for engaging in the EEO process.
+
+6.752.1.11 (12-13-2024)
+Management Investigation
+(1) Incidents of misconduct come to management’s attention in a variety of ways. Management may:
+
+Observe misconduct
+
+Receive information from another employee or supervisor
+
+Have physical evidence an employee engaged in misconduct, or
+
+Receive information from TIGTA or LERN.
+
+(2) Managers must address misconduct immediately and contact LERN for guidance. Contacting LERN ensures managers follow policy and procedures. It also ensures compliance with IRM 6.332.2.4, Prior Performance & Misconduct Check/Screening.
+
+(3) Before scheduling an interview with a BU employee to discuss a misconduct matter, managers must consult with LERN to understand their responsibilities under Article 5, Section 4, of the National Agreement. See 5 USC 7114(a)(2)(B), sometimes referred to as Weingarten Rights, per NLRB v. Weingarten, Inc., 420 U.S. 251 (1975).
+
+(4) During interviews with employees to discuss misconduct, if the employee refuses to respond to questions, management will advise them per 31 CFR 0.210. As directed, employees must respond to questions truthfully and under oath when required, whether orally or in writing, and must provide documents and other materials concerning matters of official interest when directed to do so by competent Treasury authority (for example, TIGTA or an IRS manager). Failure to respond or provide documents, as directed, may result in corrective action.
+
+6.752.1.12 (12-13-2024)
+TIGTA Investigation
+(1) TIGTA initiates conduct investigations based on complaints or allegations about employees originating from management, taxpayers, taxpayer representatives, or allegations made by IRS employees.
+
+(2) Any allegation or information that an employee may have committed a crime must be promptly reported to TIGTA (see IRM 6.735.1.3, Reporting Ethics Violations). Management must not conduct their own investigation into these matters unless authorized by TIGTA.
+
+(3) Referral of TIGTA’s Reports of Investigations (ROI) is only made on a “need to know” basis; however, ROIs are sent to managers with the delegated authority to issue corrective action. All persons must treat the ROI in a confidential manner.
+
+(4) If management thinks the ROI requires clarification, development of more facts, or further investigation, they will contact their assigned LERN specialist for guidance.
+
+(5) Upon TIGTA’s release of a ROI to the IRS for adjudication, the IRS is authorized to use, copy, and release relevant portions when appropriate. Management may only keep a copy of the report for the matter being adjudicated.
+
+6.752.1.13 (12-13-2024)
+Burden of Proof
+(1) When taking an admonishment, reprimand, or a suspension of less than 14 days, the IRS must prove by "substantial evidence" that the employee engaged in the misconduct described in writing. See IRM 6.752.1.4, Terms and Acronyms, for definition of substantial evidence.
+
+(2) When taking a suspension of more than 14 days, removal, reduction in grade/band or pay, or furlough for 30 days or less, the IRS must prove by a “preponderance of evidence” that the employee engaged in the misconduct described in the Advance Notice. See IRM 6.752.1.4, Terms and Acronyms, for a definition of preponderance of evidence.
+
+Note: For the action to be sustained, the IRS must prove the efficiency of the service was or could have been adversely impacted by the misconduct, and the penalty was within the bounds of reasonableness.
+
+(3) An appellant has the burden to prove the IRS committed a harmful error in their suspension of more than 14 days, removal, reduction in grade/band or pay, or furlough for 30 days or less.
+
+6.752.1.14 (12-13-2024)
+Alternative Discipline (AD)
+(1) AD is a non-traditional approach to correct misconduct.
+
+(2) AD objectives:
+
+Modify unacceptable behavior
+
+Prevent future conduct issues, and
+
+Achieve results with less time and resources.
+
+(3) Per Article 38, Section 2, of the National Agreement, management must offer AD to BU employees if they determine a letter of reprimand or suspension of 1 to 14 days will be imposed/proposed. If management believes AD is a feasible option to correct the employee’s conduct issue, discussions must occur prior to entering into an agreement or issuing a reprimand or proposal to suspend for less than 14 days. Management, the employee, and NTEU must agree on the AD.
+
+Note:
+a) Management has the option of offering AD to NBU employees if they believe AD is a feasible option to correct the employee’s conduct issue.
+b) For SES employees, AD is only available when a letter of reprimand is recommended.
+c) CI does not allow AD.
+
+(4) AD options may not be used in combination with traditional discipline, such as civic work plus a one-day suspension or preparing a research paper and issuance of a letter of reprimand.
+
+(5) Management is not required to accept the AD suggested by the employee or their representative.
+
+(6) AD agreements must include the following:
+
+A detailed description of the AD agreed to
+
+A statement of the traditional penalty for which the AD is a substitute
+
+A statement of the misconduct
+
+A statement that the employee admits to engaging in the misconduct
+
+A paragraph about the Age Discrimination in Employment Act (for employees aged 40 or older)
+
+A statement permanently prohibiting the employee from working any type of telework and remote work if the misconduct involves Absence Without Leave for more than five days or at least 41 hours in any one calendar year, or viewing, downloading, or exchanging pornography, including child pornography, on a federal government computer or while performing official federal government duties. See IRM 6.800.2, IRS Telework Program, and, Interim Guidance Memorandum HCO-06-1022-0012, Interim Guidance on The IRS Future of Work Remote Work Project, dated March 6, 2023.
+
+And for BU employees, a statement that the employee and the union agree to waive their rights (that is, an oral and/or written reply, grievance, appeal, and complaints in any forum).
+
+(7) If the employee violates the terms of the AD agreement (does not meet the requirements agreed upon), the penalty outlined in the AD agreement will be imposed immediately. For suspensions, an Advance Notice (proposal letter) is not issued. Instead, a decision letter is prepared outlining the reason(s) for the suspension. Per the terms of the AD agreement, the employee may not grieve the suspension; however, they (or the union for BU employees) may grieve whether the employee failed to comply with the terms of the AD agreement.
+
+6.752.1.15 (12-13-2024)
+Last Rights/Voluntary Separations
+(1) Management has the option of offering “Last Rights” to employees who may be issued a removal action taken under 5 CFR 752.
+
+(2) When an employee faces a potential removal action, they may choose to resign, retire, or request a change to lower grade prior to receiving the Advanced Notice/proposal letter. An employee’s decision to resign, retire, or request a change to lower grade, is voluntary.
+
+(3) If management decides to offer Last Rights to a BU employee prior to issuing a proposal letter, they must read Article 5, Section 5, of the National Agreement.
+
+(4) Management must contact their assigned LERN specialist (or LERN manager) before holding the Last Rights meeting to ensure adherence to policy and hiring compliance (for example, see IRM 6.332.2.4, Prior Performance & Misconduct Check/Screening).
+
+Exception: In the event the LERN specialist/manager is not available, and management determines they must hold a Last Rights meeting with a NBU employee, management must contact their assigned LERN specialist/manager no later than the next workday to notify them the Last Rights meeting was held.
+
+6.752.1.16 (12-13-2024)
+Employee Entitlements
+(1) Alternative Discipline - If management is considering a reprimand or a suspension of 14 days or less, prior to taking the corrective action, management must inform a BU employee that “traditional” discipline is being contemplated and give the employee five workdays to request consideration of an alternative form of discipline (Alternative Discipline). See IRM 6.752.1.14, Alternative Discipline.
+
+Note: SES employees may not be suspended for 14 days or less.
+
+(2) Suspension, Removal, Reduction in grade/band or pay, Furlough of 30 days or less - If management proposes one of these actions, the employee is entitled to:
+
+Advance Notice - A written notice (proposal letter) specifying the reason(s) and example(s) (also known as a specification) for the proposed action. See IRM 6.752.1.21, Advance Notice (Proposal Letter).
+
+Opportunity to Answer (guidance included in the Advance Notice) - An employee and/or their representative may address the information covered in the Advance Notice by:
+
+Requesting an oral reply within seven calendar days of receiving the Advance Notice.
+
+Submitting a written reply within 15 calendar days of receiving the Advance Notice.
+
+Note: The calculation of days begins the day after the notice is delivered. If the deadline falls on a non-workday, the deadline is extended to the next workday.
+
+See IRM 6.752.1.23, Oral/Written Reply.
+
+Representation (guidance included in the Advance Notice) - See IRM 6.752.1.17, Employee’s Right to Representation.
+
+Right to Material Relied On (guidance included in the Advance Notice) - The employee and/or their representative may request the material relied on to support the reason(s) and specification(s). See Exhibit 6.752.1-1, Sample Request for Material Relied On (Evidence) and Representative’s Access to Tax Information.
+
+Consideration of Medical Condition(s) (guidance included in the Advanced Notice) - If the employee chooses to disclose a medical condition(s) contributed to the misconduct described in the Advanced Notice, they or their representative may raise the condition(s) and provide acceptable medical documentation for consideration. If the employee chooses to disclose medical information, LERN will provide guidance to management to comply with 5 CFR 339.104.
+
+Appeal Rights (guidance included in the Advance Notice) - Information regarding the employee’s right to appeal and appeal forums if the proposed action is upheld, per Public Law 115-91 (see Section 1097(b)(2)(A)).
+
+Final Decision with Appeal Rights - After the Advance Notice period expires and any reply is considered, a written decision is issued to the employee, which includes appeal and grievance rights. Per the procedures in 5 CFR 752.203, 5 CFR 752.404, and 5 CFR 752.604, the decision may only be based on the reason(s) specified in the Advance Notice. See IRM 6.752.1.30.1, Grieving or Appealing a Suspension or Removal, etc.
+
+6.752.1.17 (12-13-2024)
+Employee’s Right to Representation
+(1) For BU employees, Article 5 of the National Agreement, and 5 USC 7114 (2)(a)(B), states in part:
+
+The IRS will not impose any restraint, interference, coercion, or discrimination against any employee who exercises their right to designate NTEU to represent them in matters concerning the interpretation or application of the National Agreement.
+
+A BU employee who is the subject of a conduct investigation or is being interviewed as a third-party witness, and who reasonably believes that an interview by a representative of the Employer, such as management or TIGTA, may result in discipline has the right to request representation by a person designated by NTEU.
+
+(2) For suspensions and above, all employees may choose to be represented by an attorney or other representative. See 5 CFR 752.203, 5 CFR 752.404 and 5 CFR 752.604. Per the National Agreement, BU employees may be represented by NTEU.
+
+(3) For letters of admonishment or reprimand, employees have the right to file a grievance in compliance with Article 41 of the Addendum to the National Agreement, for BU employees, or IRM 6.771.1, Agency Grievance System (AGS).
+
+(4) For non-disciplinary actions, BU employees have the right to file a grievance if the action taken put the employee at a disadvantage (such as denial of an Alternate Work Schedule).
+
+(5) The employee’s written designation of a representative is provided to the manager named in the Advance Notice. The manager provides a copy of the designation to their assigned LERN specialist.
+
+6.752.1.18 (12-13-2024)
+Rights of Representatives
+(1) Representatives may exercise their functions without fear of reprisal, intimidation, or coercion.
+
+(2) Per 5 USC 7114(a)(2)(A), BU employees may be represented by the union. For information and requirements for NTEU stewards to request time to represent BU employees in matters such as preparing for and presenting oral and/or written replies, see Article 8, Union Rights, in the National Agreement, Article 8, Union Rights, and see Article 9, Stewards and Official Time (covers time, travel, etc.), of the Addendum to the National Agreement.
+
+(3) Representatives are allowed a reasonable amount of time (bank, official, or administrative, as appropriate) to prepare for and present reply(ies) on behalf of the employee. This includes time to review documents or interview other IRS employees on relevant matters.
+
+6.752.1.19 (12-13-2024)
+Denial of Representative
+(1) Per 5 CFR 752.203 and 5 CFR 752.404, the IRS will allow employees to be represented by an attorney or other representative unless such choice:
+
+Creates a conflict of interest or position - This occurs when the representative’s IRS duties conflict with the functions of the representative. For example, if the requested representative participated in or has special knowledge about the matter by virtue of their assigned duties.
+
+Imposes unreasonable costs to the government - This can include any travel cost, or any expenses requested by the representative to fulfill their role.
+
+Conflicts with the priority needs of the IRS - The IRS mission takes precedence. The requested representative may be disallowed if their priority work assignment precludes their release from official duties.
+
+(2) Within five calendar days of receiving the employee’s written designation of representative, if management is disallowing the representative, they will provide the written disallowance to the employee and the disallowed representative. The written disallowance must include:
+
+The reason(s) and specifics why the representative is being disallowed
+
+Note: If the representative is disallowed due to a conflict of position, a copy of the position description in question must be included with the disallowance notice.
+
+The right to choose another representative, and
+
+The right to appeal the disallowance.
+
+(3) The employee (not the disallowed representative) may appeal the disallowance by submitting a written appeal (e-mail is acceptable) within five calendar days of receiving the disallowance notice. The appeal and a copy of the disallowance notice are sent to LERN’s Deputy Director, Field Operations. To find their name and contact information, go to Labor/Employee Relations & Negotiations Contacts.
+
+(4) Within 10 calendar days of receiving the disallowance appeal, LERN’s Deputy Director, Field Operations will send the employee a final decision to allow or disallow the representative. The final decision may not be grieved, and the corrective action will continue.
+
+(5) The time periods must be enforced to avoid prolonging the Advance Notice period. The Proposing Official should consider reasonable requests for more time to designate another representative.
+
+6.752.1.20 (12-13-2024)
+Douglas Factors
+(1) In Douglas v. Veterans Administration, 5 MSPR 280 (1981), the MSPB identified 12 factors (Douglas Factors) management must consider when determining an adverse action under 5 CFR 752.
+
+Note: The National Agreement combines two factors, Consistency with Other Penalties and Consistency with a Table of Penalties, and therefore identifies 11 factors.
+
+Note: For BU employees, Article 38 of the National Agreement, requires consideration of the Douglas Factors for admonishments and reprimands. This provision does not apply to NBU employees.
+
+(2) Management must consider the relevant Douglas Factors for adverse actions under 5 CFR 752 that do not require a mandatory penalty (for example, misuse of a government vehicle or a Section 1203 violation). Some factors may weigh in the employee’s favor (mitigating factors) and others may constitute aggravating factors. Management’s determination of the appropriate penalty is decided on a case-by-case basis.
+
+Note: When charging in the alternative, management must consider relevant Douglas Factors. Alternative charges are based on the same set of facts. For example, the proposal letter states, you are charged with either violating Section 1203(b)(8) of the Restructuring and Reform Act of 1998 or violating 5 CFR 2635.809, Just Financial Obligations. In this example, the Douglas Factors must be considered for the 5 CFR 2635.809 violation.
+
+(3) If an action is appealed to a third party, the Deciding Official will be questioned about their consideration of the relevant Douglas Factors, and they must be able to explain the reason for their penalty choice. A third party will decide whether management considered all relevant factors and if the penalty choice was within the bounds of reasonableness.
+
+(4) The 12 Douglas Factors are:
+
+Nature and Seriousness - The nature and seriousness of the offense and its relation to the employee’s duties, position, and responsibilities, including whether the offense was intentional or technical and inadvertent, or was committed maliciously or for gain, or was frequently repeated.
+
+Employeeʼs Job - The employee’s job level and type of employment, including supervisory or fiduciary role, contacts with the public, and prominence of the position.
+
+Past Disciplinary Record - The employeeʼs past discipline record (disciplinary/adverse actions).
+
+Past Work Record - The employee’s past work record, including length of service, performance on the job, ability to get along with fellow workers, and dependability.
+
+Effect on Future Performance - The effect of the offense upon the employee’s ability to perform at a satisfactory level and its effect upon supervisors’ confidence in the employee’s work ability to perform assigned duties.
+
+Consistency with Other Penalties - Consistency of the penalty with those imposed upon other employees for the same or similar offenses.
+
+Note: When management considers this factor, they usually ensure the penalty is consistent with similarly situated employees within their work unit who committed the same/similar offense. However, in compliance with the MSPB’s precedential opinion, Singh v. USPS, 2022 MSPB 15, 2022 WL 1772249 (May 31, 2022), special circumstances may justify expanding the scope of the comparison to within the subject’s business unit or Servicewide. For example, if multiple employees commit misconduct together and they each report to a different supervisor/work unit, the comparison can be expanded outside the supervisory chain/work unit.
+
+Consistency with Table of Penalties - Consistency of the penalty with a Table of Penalties if the agency has such a table (they are not required). The IRS Table of Penalties is the Penalty Guide (Document 11500).
+
+Notoriety and Impact - The notoriety of the offense or its impact upon the reputation of the IRS.
+
+Clarity of Notice - The clarity with which the employee was on notice of any rules that were violated in committing the offense or had been warned about the conduct in question.
+
+Potential for Rehabilitation - The potential for the employee’s rehabilitation.
+
+Mitigating Circumstances - Mitigating circumstances surrounding the offense such as unusual job tensions, personality problems, mental impairment, harassment, or bad faith, malice, or provocation on the part of others involved in the matter.
+
+Alternative Sanctions - The adequacy and effectiveness of alternative sanctions to deter such conduct in the future by the employee or others.
+
+(5) Any Douglas Factor considered by management must be specifically identified in the Advance Notice and the decision letter. A generic statement about management’s consideration of the relevant Douglas Factors must be included in admonishments or reprimands for BU employees.
+
+(6) Contact the assigned LERN specialist for guidance about considering the Douglas Factors.
+
+6.752.1.21 (12-13-2024)
+Advance Notice (Proposal Letter)
+(1) Suspensions of 14 days or less - Per 5 CFR 752.203, management must provide an employee with written Advance Notice before effecting a suspension of 14 days or less. Under Article 38 of the National Agreement, the written notice specifying the reason(s) for the proposed action must be issued to BU employees 15 calendar days before effecting the action. The 15-calendar day notice period also applies to NBU employees. The Advance Notice is not grievable.
+
+Note: The calculation of days begins the day after the notice is delivered. If the deadline falls on a non-workday, the deadline is extended to the next workday.
+
+(2) Suspensions of more than 14 days, removals, reductions in grade or pay, furlough of 30 days or less - Per 5 CFR 752.404, management must provide an employee with written Advance Notice, which specifies the reason(s) for the proposed action, 30 calendar days before effecting these types of adverse actions (see Article 39 of the National Agreement, for BU employees). The Advance Notice is not grievable.
+
+Note: The calculation of days begins the day after the notice is delivered. If the deadline falls on a non-workday, the deadline is extended to the next workday.
+
+Note: If there is reasonable cause to believe the employee has committed a crime for which a sentence of imprisonment may be imposed, the Advance Notice period may be shortened, per 5 CFR 752.404. See IRM 6.752.1.22, Crime Provision (Exception to 30-day Advance Notice Period).
+
+(3) The Advance Notice of proposed action is drafted by a LERN specialist. It is reviewed, approved, and issued by the manager with the delegated authority (Proposing Official). See IRM 6.752.1.8, Delegation of Authority.
+
+(4) Management must work with their assigned LERN specialist to ensure the contents of the Advance Notice follow law, rule, regulation, and for BU employees, the National Agreement. Failure to include required information may result in the MSPB reversing the action taken.
+
+(5) An Advance Notice proposing a suspension, removal, reduction in grade/band or pay, or a furlough of 30 days or less will include, as applicable, the following information:
+
+A statement that the proposal letter is issued per 5 CFR 752
+
+A statement that the proposed action promotes the efficiency of the service
+
+A statement that the action may be taken at any time after the Advance Notice period
+
+The proposed action, including the number of calendar days for a proposed suspension
+
+The reason(s) and specification(s) for the proposed action
+
+Note: The reason(s) and specification(s) identify who, what, when, and where, so the employee can respond to the proposed action.
+
+A nexus statement for off-duty misconduct, if applicable
+
+Note: See IRM 6.752.1.24, Supplemental Notice, for requirements if management decides to change the nexus statement after issuing the proposal letter.
+
+A statement describing what management considered in proposing the action
+
+A statement of the employee’s and/or representative’s right to request and review the material relied on (evidence) to support the reason(s) and specification(s)
+
+Note: The LERN specialist is responsible for releasing the material relied on, if requested.
+
+A statement about disclosing tax information if tax return information is used in the specification(s) or material relied on.
+
+Note: The LERN specialist is responsible for releasing the taxpayer key, if requested. See IRM 6.752.1.29, Guidelines for Identifying and Releasing Tax Information for Use in a Personnel Matter.
+
+A statement of the employee’s right to request an oral reply within seven calendar days of receipt of the proposed action
+
+A statement of the employee’s right to submit a written reply within 15 calendar days of receipt of the proposed action
+
+A statement of the employee’s right to a reasonable amount of time to answer orally and/or in writing
+
+A statement of the employee’s right to be represented by an attorney, other representative, or a union representative if they are a BU employee
+
+A statement allowing the employee to disclose any medical condition that may have contributed to the misconduct stated in the reason(s)
+
+A statement about the employee’s right to appeal and appeal forums if the proposed action is upheld, and
+
+A statement that a final decision will be issued after the reply periods passes, any replies are considered, and the Advanced Notice period expires.
+
+For BU employees only, include a statement that the NTEU chapter who represents the employee and the NTEU National Field Office will simultaneously receive a redacted copy of the Advance Notice (that is, personally identifiable information and information protected by the Internal Revenue Code is removed), per Articles 38 and 39 of the National Agreement. See IRM 6.752.1.28, Redacting Letters with Personally Identifiable Information.
+
+Note: If a taxpayer key is attached to the employee’s proposal letter, it is not provided with the simultaneous delivery. The information can be requested in compliance with IRM 6.752.1.29, Guidelines for Identifying and Releasing Tax Information for Use in a Personnel Matter.
+
+Note: If the conduct involves the employee’s personal tax matter, generalized tax information is provided with the simultaneous delivery in compliance with the 2009 IRS-NTEU Settlement Agreement regarding overly sanitized letters. Contact the assigned LERN specialist for more information. See IRM 6.752.1.28, Redacting Letters with Personally Identifiable Information.
+
+(6) Management delivers the Advance Notice to the employee in person when possible. If personal delivery is not possible/appropriate (for example, the manager would need to travel since the employee is not co-located with them), management delivers the Advance Notice by encrypted e-mail. Management asks the employee to acknowledge receipt of the notice with their signature and date. If the employee refuses to acknowledge receipt, the manager delivering the notice attests to delivering the notice by signing and dating it and includes the following statement: Employee refused to acknowledge receipt; hand delivered [or emailed] on (date) at (time).
+
+Note: If an employee is on extended leave, consideration will be given to delivering the notice via certified mail and U.S. Postal mail. Contact the assigned LERN specialist to determine when to start calculating the first day of the Advance Notice period.
+
+(7) Employees usually remain in a duty status during the Advance Notice period unless they are a seasonal employee who is placed in non-duty status due to lack of work.
+
+Note: For occasions when an employee may be placed on conduct-related administrative leave during the Advance Notice period (for example, their continued workplace presence may pose a threat to themselves or others, result in loss of or damage to government property, or otherwise jeopardize legitimate government interests), see Interim Guidance Memorandum HCO-06-0223-0004, Interim Guidance on Conduct-Related Administrative Leave, dated April 24, 2023.
+
+(8) In compliance with the IRM 6.630 series and the National Agreement, for BU employees, employees may request and receive approval for leave during the Advance Notice period.
+
+(9) Management may rescind and reissue an Advance Notice if, for example, new information is discovered that may result in an additional charge (reason) or specification and/or a more severe penalty, a procedural error is found, or there is a change in the nexus. If the Advance Notice is rescinded, the Advance Notice period restarts.
+
+(10) If an employee chooses to resign or submit a retirement application during the Advance Notice period, management must not rescind the proposal letter since a resignation or retirement can be withdrawn or cancelled any time before the effective date.
+
+6.752.1.22 (12-13-2024)
+Crime Provision (Exception to 30-day Advance Notice Period)
+(1) 5 CFR 752 authorizes an exception to the 30-calendar day Advance Notice period if management has reasonable cause to believe the employee committed a crime for which a sentence of imprisonment may be imposed. This exception is referred to as the "crime provision."
+
+(2) The crime provision allows the IRS to shorten the Advance Notice period if management proposes an indefinite suspension or a removal. The Advance Notice period for a crime provision action is seven calendar days. This also applies to NBU employees. All other procedural aspects of an adverse action apply; however, the timeframe to submit a written reply is shortened to seven calendar days. See IRM 6.752.1.21, Advance Notice (Proposal Letter). BU employees can also refer to Article 39 of the National Agreement.
+
+Note: Crime provision letters are drafted by a LERN specialist and must be reviewed by the appropriate Area Counsel, GLS, prior to obtaining signatures.
+
+(3) Reasonable cause describes a situation where the information at hand (evidence, for example) supports management’s belief that the employee committed a crime for which imprisonment may be imposed. A police arrest is not sufficient evidence by itself to establish a reasonable cause; however, a grand jury indictment, arrest, or detainment by a magistrate may be relied on to support reasonable cause.
+
+(4) Proposing an indefinite suspension based on an indictment under the crime provision allows management to defer a decision until judicial proceedings are completed and/or sufficient evidence is available for a removal, or the employee is cleared of the allegation.
+
+(5) If the misconduct occurred off duty and/or off government premises, there must be a nexus between the crime the employee is believed to have committed and the efficiency of the service. The nexus must be stated in the Advance Notice (proposal letter). There are exceptions. For example, if the employee is charged with an egregious act of misconduct or crime, such as murder, nexus can be presumed.
+
+(6) If management proposes a removal under the crime provision and the employee or their representative asserts that a written and/or oral reply to the proposed action would prejudice their defense in the criminal action, management and/or the LERN specialist will consult with Area Counsel, GLS, before the Proposing Official decides if the proposed removal should be replaced with an indefinite suspension. Refusing to reply based on a belief that a written/oral reply would prejudice the employee's defense will not delay the action.
+
+(7) If management does not want to propose and/or take a removal action until the criminal proceedings are adjudicated and/or more evidence is received to support removal, management can consider proposing an indefinite suspension. An indefinite suspension allows the employee to quickly be taken off rolls while the matter is being adjudicated and/or investigated. Unlike a removal, an indefinite suspension is not based on provable misconduct; it is based on the IRS’s reasonable cause belief that the employee committed a crime for which the sentence of imprisonment may be imposed.
+
+(8) In addition to the other requirements in IRM 6.752.1.21, Advance Notice (Proposal Letter), a crime provision Advance Notice for an indefinite suspension must include the following statements:
+
+What condition(s) will end the action (for example, completion of an investigation or adjudication of the criminal matter)
+
+A removal action may be proposed prior to ending the indefinite suspension, and
+
+The employee is immediately being placed in a non-duty status, with pay, if management believes continuing to work may pose a threat to themselves or others, result in loss of or damage to government property, or otherwise jeopardize legitimate government interests, as stated in Interim Guidance Memorandum HCO-06-0223-0004, Interim Guidance on Conduct-Related Administrative Leave, dated April 24, 2023.
+
+6.752.1.23 (12-13-2024)
+Oral/Written Reply
+(1) The purpose of an oral and/or written reply is to give an employee and/or their representative an opportunity to present information in response to the proposed action in the Advance Notice (proposal letter) before a decision is made. Information may include, but is not limited to, a defense to their alleged misconduct, denial of any reasons for the proposed action, mitigating factors, and/or a request for a less severe action. There is no requirement for the employee or their representative, if applicable, to request an oral reply or provide a written reply. An employee may choose to make both a written and an oral reply.
+
+Oral Reply – If the employee requests to have an oral reply, they may attend or not attend the reply. The employee may include affidavits or other evidence in support of the oral reply. Any written documents (including attachments, if provided) are reviewed and considered by the Deciding Official prior to making a decision and are made part of the case file.
+
+Written Reply – If the employee chooses to submit a written reply, there is no requirement that it be in an affidavit form or under oath. The employee may include affidavits or other evidence in support of the written reply. Any written documents (including attachments, if provided) are reviewed and considered by the Deciding Official prior to making a decision and are made part of the case file.
+
+(2) An employee in active-duty status is given a reasonable amount of time, as stated in the Advance Notice (proposal letter), to prepare for (for example, review material relied on, secure affidavits, if desired, write a reply) and present oral and/or written replies.
+
+(3) The Oral Reply Officer is the Deciding Official who may redelegate that authority, in compliance with Delegation Order 6-29.
+
+Note: CI employees see IRM 1.2.2.7.18.1, Criminal Investigation Deviation from Servicewide Delegation Order 6-29, Authority to Address Employee Performance or Conduct Issues.
+
+(4) To prepare for the Oral Reply, the Oral Reply Officer (ORO) will:
+
+Consult with their assigned LERN specialist
+
+Review the proposal letter and supporting documentation (material relied on/evidence), and
+
+Review the appropriate National Agreement provisions if the subject of the action is a BU employee.
+
+(5) During the Oral Reply, the ORO will:
+
+Listen
+
+Ask questions to clarify factual matters, if needed, and
+
+Not discuss or argue the merits of the proposed action or proposal letter.
+
+(6) After the Oral Reply, the ORO will review the verbatim transcript of the oral reply and edit, if needed.
+
+Note: For BU employees, per Article 39 of the National Agreement, verbatim transcripts are required for a suspension of more than 14 days, an indefinite suspension, a reduction in grade/band or pay, and a furlough of 30 days or less. This provision also applies to NBU employees.
+
+(7) Prior to reaching a final decision on the proposed action, if the ORO:
+
+Is not the Deciding Official, they will give a copy of the verbatim transcript to the Deciding Official who will follow the steps in IRM 6.752.1.1.3.2, Management Responsibilities, paragraph (11).
+
+Is the Deciding Official, they will follow the steps in IRM 6.752.1.1.3.2, Management Responsibilities, paragraph (11).
+
+(8) If management receives a request(s) to postpone the oral reply or more time to submit a written reply, they will promptly provide it to their assigned LERN specialist who will assist management with responding. Absent reasonable requests for more time, time periods should be enforced to avoid prolonging the Advance Notice period.
+
+6.752.1.24 (12-13-2024)
+Supplemental Notice
+(1) A supplemental notice is issued to an employee if the Proposing Official and/or Deciding Official want to change the nexus statement or consider new or material information to support their proposal or decision, and the information was not stated in the proposal letter.
+
+(2) If a supplemental notice is issued to the employee, the employee may:
+
+Request an oral reply within five workdays of receiving the supplemental notice, which must be held within ten workdays (absent mutual agreement), and/or
+
+Submit a written reply within ten workdays of receiving the supplemental notice.
+
+(3) If the employee requests an oral reply, management will:
+
+Prepare a written summary of the oral reply, and
+
+Share a copy of the written summary with the employee and/or representative (if applicable) and give the employee/representative three workdays to review and make corrections.
+
+(4) In lieu of a supplemental notice, management has the option to rescind the original proposal letter and issue a new proposal letter, which restarts the Advance Notice period.
+
+6.752.1.25 (12-13-2024)
+Decision Letter
+(1) The decision letter for:
+
+A suspension of 14 days or less may be issued after the 15-calendar day notice period.
+
+Suspensions of more than 14 days, removals, reductions in grade or pay, furlough of 30 days or less may be issued after the 30-calendar day notice period.
+
+(2) The decision about an action proposed under 5 CFR 752 must be made by a higher management position than the Proposing Official. See Delegation Order 6-29, in IRM 1.2.2, Servicewide Delegations of Authority. For CI employees, see IRM 1.2.2.7.18.1, Criminal Investigation Deviation from Servicewide Delegation Order 6-29, Authority to Address Employee Performance or Conduct Issues.
+
+(3) No discussion or consideration of information or evidence other than what was included in the Advance Notice or those raised by the employee or their representative in an oral/written reply (if requested/submitted), may be considered when deciding. If the Deciding Official considers information/evidence not included in the Advance Notice or shared with the employee and/or representative, the action taken could be reversed. See IRM 6.752.1.24, Supplemental Notice.
+
+Note: In the event the employee submits a reply after the written reply deadline and before the end of the notice period, such reply should be given consideration, and the decision letter will include a statement that the late reply was received and considered.
+
+(4) Management must work with their assigned LERN specialist to ensure the contents of the decision letter follow law, rule, regulation, and the National Agreement, for BU employees. In compliance with 5 USC 7701 (c)(2), Appellate Procedures, the MSPB will reverse the action taken if the appellant shows:
+
+Harmful error in the application of the IRS procedures in arriving at such decision
+
+The decision was based on any prohibited personnel practice (see 5 USC 2303(b)), or
+
+The decision was not per law.
+
+(5) The decision letter will include, as applicable, the following information:
+
+A statement that the decision is issued per 5 CFR 752
+
+A reference to the proposal letter (including the action proposed and the date issued)
+
+A statement specifying the decision reached on each reason(s) and specification(s) stated in the Advance Notice and whether the reason(s) and/or specification(s) are sustained
+
+Note: After the Deciding Official considers relevant information, as described in IRM 6.752.1.1.3.2, Management Responsibilities, paragraph (11), they may take the action proposed or impose lesser discipline, except for Section 1203(b) violations.
+
+A statement concluding the action promotes the efficiency of the service
+
+The effective date of the action
+
+Note: Under Article 38 of the National Agreement, for BU employees, for suspensions of 14 days or less, the suspension takes effect as soon as possible, but no sooner than seven workdays after the employee’s receives the decision. This provision does not apply to NBU employees.
+
+Exception: Under Article 38, Section 7, of the National Agreement, for BU employees, suspensions between 4 and 14 days will be stayed pending an arbitration decision provided that:
+
+A grievance is filed within seven workdays of the final decision
+
+Arbitration is invoked within seven workdays of the last step grievance decision, and
+
+The arbitrator’s decision is issued within 180 calendar days of the invocation.
+
+A nexus statement for off-duty misconduct, if applicable
+
+Note: See IRM 6.752.1.24, Supplemental Notice, for requirements if management decides to change the nexus statement in the proposal letter.
+
+A statement identifying the date the oral reply was held, the date the written reply was submitted, and management’s response to what was considered
+
+Note: If an oral reply was not requested and/or a written reply was not submitted, this fact must be included in the decision (for example, you did not request an oral reply or submit a written reply).
+
+A statement referring to the Supplemental Notice, if applicable (see IRM 6.752.1.24, Supplemental Notice)
+
+A statement specifying each Douglas Factor considered, if applicable
+
+A statement specifying what was considered in the IRS Manager’s Guide to Penalty Determinations
+
+A statement describing any factual dispute and the resolution
+
+A statement describing any claim of discrimination and the legitimate nondiscriminatory management reason for the action
+
+A statement describing consideration of any medical condition, if raised, and a reference to the medical documentation, if provided
+
+Note: If the employee meets the requirements for a disability retirement, include a statement about filing an application for disability retirement. See Disability Retirement.
+
+Applicable appeal/grievance rights (see IRM 6.752.1.30.1, Grieving or Appealing a Suspension or Removal, etc.)
+
+A statement that the SF-50 effecting the adverse action will be provided when available, and
+
+For BU employees only, a statement that the NTEU chapter who represents the employee and the NTEU National Field Office simultaneously will receive a redacted copy of the notice (that is, personally identifiable information and information protected by the Internal Revenue Code is removed), per Articles 38 and 39 of the National Agreement. See IRM 6.752.1.28, Redacting Letters with Personally Identifiable Information.
+
+6.752.1.26 (12-13-2024)
+Discipline of Supervisors Based on Retaliation Against Whistleblowers
+(1) 5 USC 7515 established mandatory minimum discipline to be taken when supervisors take or fail to take an action against an employee in violation of paragraph (8), (9), or (14) of 5 USC 2302(b), Prohibited personnel practices. 5 CFR 752, Subpart A, contains the procedures for these actions against supervisors. The definition of supervisor is located in 5 USC 7103.
+
+(2) The mandatory penalties apply to Executives (SES and Administratively Determined), Senior Managers (IR-01), and Frontline Managers (IR-03).
+
+Note: Senior Advisors are not considered supervisors; therefore, they are not covered by these mandatory penalties.
+
+(3) For the first prohibited personnel action the supervisor commits, the IRS will propose a suspension for a period that is not less than three days; and may propose an additional action, as determined appropriate, including a reduction in grade/band or pay.
+
+Note: SES employees are covered in 5 CFR 752, Subpart F; therefore, suspensions must be more than 14 days for SES employees.
+
+(4) For the second prohibited personnel action the supervisor commits, the IRS will propose removal.
+
+(5) Refer to 5 CFR 752.103, procedures.
+
+6.752.1.27 (12-13-2024)
+Agency Finding (Remark) on SF-50, Notification of Personnel Action
+(1) Per the GPPA and Public Law 116-283 (for adverse actions under 5 CFR 752), if an employee, as defined in 5 USC 7501:
+
+Resigns/Retires before receiving a proposal letter - Their SF-50 may not contain a remark describing the underlying misconduct.
+
+Resigns/Retires after receiving a proposal/decision letter unrelated to a tax violation - Their SF-50 must contain a remark describing the misconduct issue, such as Resigned/retired after receiving written notice on (date) of proposal to remove for misuse of a government vehicle.
+
+Resigns after receiving a proposal/decision letter related to a tax violation - Their SF-50 must contain a remark describing the conduct issue stating, for example:
+
+1203 violation - Resigned after receiving written notice of proposal to remove on (date) for violating a tax provision in the IRS Restructuring and Reform Act of 1998.
+
+Non-1203 violation - Resigned after receiving a written suspension decision on (date) for violating a tax provision in 5 CFR 2635.809.
+
+Note: The remark may not contain any reference to, or acknowledgement of, a “return” or “return information.” See IRM 6.752.1.29, Guidelines for Identifying and Releasing Tax Information for Use in a Personnel Matter.
+
+Violates their Alternative Discipline or Last Chance Agreement - The SF-50 must contain a remark describing the underlying misconduct rather than stating the employee failed to meet the terms of the agreement.
+
+Abandons their position - The SF-50 may contain a remark stating the conditions under which the employee abandoned the position.
+
+Transfers or is reassigned to another federal agency before a decision letter is issued - An agency finding may not be placed on the SF-50.
+
+6.752.1.28 (12-13-2024)
+Redacting Letters with Personally Identifiable Information
+(1) As stated in IRM 10.5.1.2.3, Personally Identifiable Information (PII), PII refers to information that can be used to distinguish or trace an individual’s identity, either alone or when combined with other information that is linked or linkable to a specific individual.
+
+(2) PII may include, for example, social security numbers, birth dates, addresses, or telephone numbers.
+
+(3) See IRM 10.5.4.3.1, Timely Reporting: Immediately Upon Discovery, for actions required in response to IRS data breaches, such as PII and tax information.
+
+6.752.1.29 (12-13-2024)
+Guidelines for Identifying and Releasing Tax Information for Use in a Personnel Matter
+(1) For the definition of a tax return, see 26 USC 6103(b)(1).
+
+(2) For the definition of return information, see 26 USC 6103(b)(2).
+
+(3) Upon written request, tax returns and/or return information may be disclosed for use in a personnel matter as described in paragraph (4) below (see 26 USC 6103(I)(4)(A)(i)). If a tax return and/or return information is cited as an example in a corrective action, the confidentiality of the taxpayer’s information must be safeguarded (for example, cited in an attachment or taxpayer key). For more information, see IRM 10.5.6.8, Personnel Records, and IRM 11.3.29.8, Disclosure of Returns and Return Information for use in Personnel or Claimant Representative Matters - IRC 6103(l)(4). See Exhibit 6.752.1-1, Sample Request for Material Relied On (Evidence) and Representative’s Access to Tax Information (if applicable).
+
+(4) Upon written request, returns and/or return information may be disclosed to an employee, former employee, or an approved representative (see 26 USC 6103(I)(4)). See Exhibit 6.752.1-1, Sample Request for Material Relied On (Evidence) and Representative’s Access to Tax Information (if applicable). See IRM 6.752.1.17, Employee’s Right to Representation, for information on designating a representative.
+
+Note: When an employee’s personal tax matter is referenced in an action appealed to a third party, disclosure of the employee’s personal tax records to the third party is allowed. See 26 USC 6103(e)(1)(A)(i).
+
+(5) Form 5466-B, Multiple Records of Disclosure, must be completed when disclosing tax returns or return information (see 26 USC 6103(p)(3)(A)). See IRM 11.3.37, Record keeping and Accounting for Disclosures.
+
+6.752.1.30 (12-13-2024)
+Grieving an Admonishment or Reprimand
+(1) The admonishment or reprimand letter includes grievance details including the time limits to file. The employee and/or their representative may choose to grieve or file an EEO complaint.
+
+BU employees - See Article 38 and 41 of the National Agreement. For matters not grievable per the National Agreement, see IRM 6.771.1, Agency Grievance System (AGS).
+
+NBU non-SES employees - See IRM 6.771.1, Agency Grievance System (AGS).
+
+(2) If any employee believes the action taken, in whole or in part, violated 29 CFR 1614, the allegation may be brought to the attention of an EEO Counselor. See “Where do I go for EEO?”.
+
+6.752.1.30.1 (12-13-2024)
+Grieving or Appealing a Suspension or Removal, etc.
+(1) The decision letter includes details about grievance and appeal options, and the time limits to file. The employee or their representative may choose to grieve or appeal the action. Appeals may be filed as follows:
+
+Allegations about the procedures and merits of the action can be appealed to the MSPB, per 5 CFR 752.405, Appeal and grievance rights, or for SES employees,5 CFR 752.605, Appeal rights. Go to the MSPB website for the appeal form and more information.
+
+Note: BU employees should also see Article 39, Section 6, of the National Agreement.
+
+Allegations involving whistleblowing or other protected activity may be appealed (see 5 CFR 1209.4, Definitions) to either the MSPB (see 5 CFR 1209.6, Content of appeal; right to hearing) or the Office of Special Counsel (OSC; see 5 CFR 1800.2, Filing complaints of prohibited personnel practices or other prohibited activities) with the option to file an Individual Right of Action appeal with the MSPB. Go to the MSPB website for the appeal form and more information. Go to the OSC website for information on those procedures. If the employee or their representative chooses to file an OSC complaint before filing an MSPB appeal, whichever is filed first is considered an election to continue in that forum.
+
+Allegations of discrimination (29 CFR 1614.103, Complaints of discrimination covered by this part) may be appealed to either the MSPB (5 CFR 1201, Subpart E), or the EEO Commission (29 CFR 1614, Subpart A). The employee or their representative may not file both an appeal to the MSPB and EEO on the same matter. Whichever is filed first is considered an election to continue in that forum. For information on MSPB appeals, go to the MSPB web site. For information on the EEO process, see “Where do I go for EEO?”.
+
+Note: If prior to filing an MSPB appeal, the employee or their representative and the IRS agree, in writing, to attempt to resolve the dispute through the EEO Alternative Dispute Resolution process, the time limit for filing an MSPB appeal is extended by 30 calendar days, for a total of 60 calendar days (5 CFR 1201.22, Filing an appeal and responses to appeals).
+
+Note: BU employees or their representative may grieve allegations of discrimination consistent with 5 USC 7121, and Article 41 of the Addendum to the National Agreement. The employee or their representative may raise the matter under the statutory procedure or the negotiated grievance procedure, but not both (see29 CFR 1614.301, Relationship to negotiated grievance procedure).
+
+For BU employees, through the grievance process in Article 41 of the Addendum to the National Agreement, including to binding arbitration (Article 43 of the National Agreement), with the consent of NTEU, so long as the employee has not filed an appeal with a different forum over the same matter. They may not grieve the same matter and appeal it in another forum. The filing of an appeal in both forums will result in the dismissal whichever action is filed later.
+
+6.752.1.31 (12-13-2024)
+Settling a Corrective Action
+(1) After management issues a corrective action (for example, the decision letter), the employee and/or their representative may choose to discuss the possibility of an informal resolution, which can be done before a grievance or an appeal is filed, or arbitration is invoked. The time limit to file a grievance, an appeal, or invoke arbitration is not extended while informal discussions occur.
+
+Note: If the employee or their representative and the IRS agree, in writing, to attempt to resolve the dispute through the EEO Alternative Dispute Resolution process, prior to filing an MSPB appeal, the time limit for filing an MSPB appeal is extended by 30 calendar days, for a total of 60 calendar days (5 CFR 1201.22).
+
+(2) Management must contact their assigned LERN specialist if they want to settle a disciplinary/adverse action by mitigating (reducing) the original penalty if it is not related to a Section 1203 violation.
+
+Note: Only the Commissioner of Internal Revenue has the authority to mitigate Section 1203 violations.
+
+(3) After an appeal is filed or arbitration is invoked, third-party settlements are worked in collaboration with LERN management, and Area Counsel, GLS. Management must contact their assigned LERN specialist for guidance.
+
+Note: Only the Commissioner of Internal Revenue has the authority to mitigate Section 1203 violations.
+
+(4) Any settlement or Last Chance agreement is drafted by a LERN specialist and reviewed by the appropriate Area Counsel, GLS, prior to obtaining signatures.
+
+Note: For BU employees, Articles 5 and 8 of the National Agreement, NTEU is entitled to attend Last Chance meetings and any settlement discussions about a Last Chance agreement. See Article 5, Section 18, of the National Agreement, for minimum terms required in a Last Chance agreement.
+
+(5) A “Clean 50” or “Clean Record” settlement (agreement) is allowed on a case-by-case basis as determined by the employee’s business unit first-level executive or higher. Clean 50 settlements:
+
+Must include an agreement term providing that the subject of the action may never apply for an IRS position or any other position within the Department of Treasury; and that if they reapply for a position within the IRS or within the Department and are rehired, they will be summarily removed and will waive all appeal rights.
+
+Should include a clause stating when the subject’s underlying record may be disclosed and to whom.
+
+6.752.1.32 (12-13-2024)
+Abandonment of Position
+(1) Abandonment of position occurs when an employee fails to report for duty, return from approved scheduled leave, or return from a seasonal furlough and they do not submit a resignation.
+
+(2) If an employee fails to return to duty after a reasonable period (for example, 10 calendar days), management should ask the employee if they plan to continue their employment or if they are resigning. If they do not return to duty or resign or if they cannot be reached by telephone or letter, management can separate the employee from federal service without taking an adverse action.
+
+(3) If management becomes aware that an employee wants to return to work, it must not separate them based on abandonment of position.
+
+Note: The IRS does not normally use an abandonment-of-position action because, if the employee returns to duty and claims they did not abandon their position, OPM usually accepts their word, and the employee must be restored to duty. After the employee is restored to duty, management can begin the discipline or adverse action procedures for leave violations, if appropriate.
+
+6.752.1.33 (12-13-2024)
+Employee Death
+(1) The corrective action process ceases upon receipt of an employee’s proof of death, which may include an SF-50, Notification of Personnel Action.
+
+6.752.1.34 (12-13-2024)
+Moratoriums on Addressing Misconduct Matters
+(1) Types of moratoriums:
+
+National Emergency - If the president declares a national emergency, such as the Coronavirus Disease pandemic, the IRS Human Capital Officer will determine if a moratorium on actions related to a misconduct is appropriate and announce the beginning and ending dates.
+
+Natural Disaster - If the president or other appropriate authority (for example, city or state official) declares a geographic area as a natural disaster, the business-based human resources staff (embedded) will collaborate with LERN and the Senior Commissioner’s Representative to determine if a moratorium is appropriate and announce the beginning and ending dates.
+
+Note: Natural disasters are defined as any natural catastrophe (for example, hurricane, tornado, storm, high water, wind driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mud slide, snowstorm, or drought), or any fire, flood, or explosion, regardless of the cause, in any part of the United States, which the president or city/state official declares is causing damage of sufficient severity and magnitude to warrant major disaster assistance to help alleviate the damage, loss, hardship, or suffering caused by the disaster. Depending on the severity of the incident (for example, explosion, fire), this may include a terrorist attack.
+
+Winter Holiday Season - Annually for four weeks during the winter holidays, beginning two Mondays before December 25 and ending in January, two Fridays after December 25 (for example, December 16, 2024, through January 10, 2025).
+
+(2) What Occurs During a Moratorium - a moratorium does not prohibit all actions. Management may continue with certain actions if appropriate.
+
+When a moratorium is in place, managers continue to work with a LERN specialist to begin addressing misconduct or continue addressing misconduct actions already in progress.
+
+During a moratorium, for employees not serving a probationary/trial period or a temporary/term appointment, managers will consider and decide whether the following activities should be held in abeyance or if they should continue.
+
+Signing/issuing an Advance Notice (proposal letter)
+
+Signing/issuing a Final Decision (decision letter)
+
+Interviewing/questioning an employee about misconduct
+
+Issuing grievance replies/decisions
+
+Holding grievance meetings
+
+Conducting oral replies
+
+If an employee began serving a suspension before the moratorium was effective, they continue serving the suspension until their return to duty date.
+
+6.752.1.35 (12-13-2024)
+Correcting an Action
+(1) Management may unilaterally correct mistakes made when taking a corrective action.
+
+(2) If management determines an action was taken erroneously, they may correct the error, even if an appeal, complaint, or grievance has been filed about the matter.
+
+(3) Management must ensure they remove only the information they determine to be inaccurate or to reflect an action taken illegally or in error.
+
+6.752.1.36 (12-13-2024)
+Legal Findings and Orders
+(1) Management may unilaterally act on a finding of discrimination or implement an EEO, MSPB, arbitrator, or other third-party order.
+
+(2) Management and their assigned LERN specialist must coordinate these actions with Area Counsels, GLS, and/or Equity, Diversity & Inclusion, as appropriate.
+
+6.752.1.37 (12-13-2024)
+Records Retention
+(1) Copies of the Advance Notice, material relied on, any oral/written replies, any supporting material, and the decision are maintained by LERN in a case file. See 5 USC 7503, Cause and procedure.
+
+(2) LERN retains case files for six years in compliance with Document 12829, General Records Schedules (GRS; see 2.3, Employee Relations Records).
+
+Note: All records and documentation (e-mail, electronic documents, system printouts, etc.) relevant to the misconduct case must be kept until all appeal periods have expired, which may be longer than the six-year period.
+
+(3) In compliance with the GRS, 2.2, Employee Management Records, management annually reviews Drop Files and destroys superseded documents. Drop Files are kept for one year after an employee separates or transfers to another agency. After the one-year retention period, the file is destroyed.
+
+Note: Management must keep relevant records in the Drop File if they are needed in connection with a grievance, appeal, or judicial proceeding.
+
+(4) The SF-50 for adverse actions taken under 5 CFR 752 is a permanent record filed in the employee’s OPF.
+
+6.752.1.38 (12-13-2024)
+Differences Between Performance Actions Under 5 CFR 752 and 5 CFR 432
+(1) For SES employees, see:
+
+5 CFR 430, Subpart C, Managing Senior Executive Performance.
+
+5 CFR 752, Subpart F, Regulatory Requirements for Taking Adverse Action Under the Senior Executive Service.
+
+
+
+5 CFR 752, Subpart D (Removal, Suspension for More Than 14 Days, Reduction in Grade or Pay, or Furlough for 30 Days or Less)
+
+5 CFR 432, Performance Based Reduction in Grade and Removal Actions (see IRM 6.432.1, Addressing Poor Performance)
+
+Types of Actions
+
+Suspension, Reduction in grade/band, pay, removal
+
+Reduction in grade/band, pay, removal
+
+Critical Job Element (CJE), Critical Performance Expectation (CPE) or Retention Standard
+
+Must prove the action will promote the efficiency of the service.
+
+Not required to prove the action will promote the efficiency of the service.
+
+Burden of Proof
+
+Preponderance of the evidence. The degree of relevant evidence that a reasonable person, considering the record as a whole, would accept as sufficient to find that a contested fact is more likely to be true than untrue.
+
+Substantial evidence. The degree of relevant evidence that a reasonable person, considering the record as a whole, might accept as adequate to support a conclusion, even though other reasonable persons might disagree. This is a lower standard of proof than preponderance of the evidence.
+
+Note: Must be able to prove the employee’s performance was Unacceptable before issuing the Performance Improvement Plan. See IRM 6.432.1.8, Opportunity to Demonstrate Acceptable Performance Per 5 CFR 432.
+
+Performance Improvement Plan (PIP)
+
+Not required.
+
+Required.
+
+Decline Following One Year of Improvement
+
+No obligation to offer a period of improvement at any point.
+
+If performance improves during the PIP, remains acceptable for one year, and then declines, a new PIP is required before taking an action.
+
+Timing of Action
+
+Can take immediate action after considering oral/written replies and expiration of 30-day Advance Notice period.
+
+60-day PIP required before issuing Advance Notice of proposed action (the proposal letter).
+
+Douglas Factors
+
+Must consider relevant Douglas Factors.
+
+Not used.
+
+Advance Notice (Proposal Letter) Content
+
+Must state specific instances of poor performance that are the basis for the action. No requirement to propose an action within a particular timeframe; however, unexplained excessive delays can have a negative effect on the ability to support the action.
+
+Must state specific instances of Unacceptable performance that are the basis for the action and the CJE/CPE involved and/or the Retention Standard. Limited to performance deficiencies occurring within the one-year period prior to the Advance Notice. Advance Notice of proposed action must be given 30 days in advance of the final action.
+
+Penalty Mitigation
+
+After determining requirements, such as adherence to due process procedures, were met to take action, the MSPB may reduce the penalty.
+
+If requirements, such as a reasonable opportunity period, adherence to due process procedures, etc., were met to take action, the MSPB cannot reduce the penalty.
+
+Exhibit 6.752.1-1
+Sample Request for Material Relied On (Evidence) and Representative’s Access to Tax Information (if applicable)
+(1) I [or the designated representative] am requesting a copy of the material relied on to support the proposal letter issued to [employee’s name] dated _______________. I [or the representative] am requesting relevant tax information (if applicable), such as tax cases or other documents, which support the letter. My request for this information relates to my reply to the proposal letter [or my representational responsibilities regarding [employee’s name] personnel matter.
+
+(2) As stated in IRM 6.752.1.29, Guidelines for Identifying and Releasing Tax Information for Use in a Personnel Matter, and per 26 USC 6103(I)(4), I understand relevant tax returns and return information used in a personnel matter may be disclosed to an employee, former employee, or an approved representative. I understand irrelevant tax information, such as employer identification numbers and/or social security numbers, will be redacted to protect the taxpayer’s privacy.
+
+(3) I understand the evidence provided may not be used in any public proceeding or disclosed to any person other than a Treasury Department employee in connection with the employee’s official duties (for example, the Deciding Official or Oral Reply Officer) regarding this personnel matter. As stated in 26 USC 7431, I understand a taxpayer may bring a civil action against a person who knowingly or negligently discloses tax information in violation of 26 USC 6103.
+
+(4) If the action is appealed, I understand a separate written request is not required for submitting evidence to the Merit Systems Protection Board, for example.
+
+(5) Note: Written requests may be submitted via email or in person if the parties are co-located. If the misconduct/is not related to a tax matter, modify the above.

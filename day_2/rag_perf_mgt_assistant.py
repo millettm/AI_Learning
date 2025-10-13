@@ -21,5 +21,5 @@ v_index = VectorStoreIndex.from_documents(documents)
 
 # Query
 query_engine = v_index.as_query_engine()
-response = query_engine.query("Explain IRS Performance Management in a performance discussion, based on IRS guidelines.")
+response = query_engine.query("Provide a brief overview of the options, actions, and strategies available to managers in relation to poor performers.")
 print(response)

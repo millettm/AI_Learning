@@ -1,0 +1,308 @@
+6.307.1  Veterans Employment Programs and Restoration to Duty
+6.307.1.1  Program Scope and Objectives
+6.307.1.1.1  Background
+6.307.1.1.2  Authority
+6.307.1.1.3  Roles and Responsibilities
+6.307.1.1.4  Terms and Definitions
+6.307.1.1.5  Acronyms
+6.307.1.2  Veterans' Recruitment Appointment
+6.307.1.2.1  VRA Eligibility Requirements and Conditions of Employment
+6.307.1.2.2  Accepting VRA Applications
+6.307.1.2.3  Ranking and Referral of VRA Candidates
+6.307.1.2.4  Training and Education Requirements
+6.307.1.3  Veterans Employment Opportunities Act of 1998
+6.307.1.3.1  VEOA Eligibility Requirements and Conditions of Employment
+6.307.1.3.2  Accepting VEOA Applications
+6.307.1.3.3  Ranking and Referral of VEOA Candidates
+6.307.1.4  Additional Military Appointment Authorities and Provisions
+6.307.1.4.1  Disabled Veterans Affirmative Action Program
+6.307.1.4.2  30 percent or More Disabled Veteran
+6.307.1.4.3  Disabled Veterans Enrolled in a VA Training Program
+6.307.1.5  Military Spouse Appointing Authority
+6.307.1.6  Federal Employees Who Perform Active Military Service and Restoration to Duty
+6.307.1.6.1  Federal Employees Who Perform Active Military Duty
+6.307.1.6.2  Rights and Benefits
+Exhibit  6.307.1-1  Exhibits: Restoration to Duty From Uniformed Service
+Part 6. Human Resources Management
+Chapter 307. Veterans Recruitment Appointments
+Section 1. Veterans Employment Programs and Restoration to Duty
+6.307.1 Veterans Employment Programs and Restoration to Duty
+Manual Transmittal
+August 13, 2025
+
+Purpose
+(1) This transmits revised IRM 6.307.1, Veterans Employment Programs and Restoration to Duty.
+
+Material Changes
+(1) IRM 6.307.1.1.2 Updated formatting on external web links.
+
+(2) Throughout the IRM removed all content with the word "gender" and replaced with male or female, woman, male, he or she, or sex to align with Executive Order (EO) 14168.
+
+(3) Throughout the IRM removed all terms “equity,” “diversity,” “inclusion,” the acronym “EDI” and links to the EDI program, office or content promoting diversity, inclusion and equity if used in the context of the EDI program to align with EO 14151.
+
+(4) Throughout the IRM removed content related to gender neutrality to align with EO 14168.
+
+(5) Throughout document updated names of divisions in the Human Capital Office (HCO). Strategic Talent Analytics & Recruitment Solutions (STARS) Office is changed to Strategic Recruitment and Hiring (SRH) and Employment Operations (EO) Division is changed to Hiring Operations (HOps).
+
+Effect on Other Documents
+IRM 6.307.1, Veterans Employment Programs and Restoration to Duty, dated November 03, 2023 is superseded.
+Audience
+All business operating divisions
+Effective Date
+(08-13-2025)
+Keith A. Henley, acting IRS Human Capital Officer
+
+6.307.1.1 (08-13-2025)
+Program Scope and Objectives
+Purpose. This IRM provides Servicewide policy, standards, requirements, and guidance relating to the employment of veterans and restoration to duty. This IRM must be read and interpreted in accordance with pertinent law, Governmentwide regulations, Treasury Human Resources Directives, and applicable case law. All previous official Service wide policy, guidance, requirements, and authorities formerly contained in memoranda, guides, and other documents are incorporated into this IRM, if current and applicable.
+Audience. Unless otherwise indicated, the policies, authorities, procedures, and instructions contained in this IRM apply to all business units and functions. Bargaining unit employees should review negotiated agreement provisions relating to subjects in this IRM. Should any of these instructions conflict with a provision in the negotiated agreement, the agreement prevails.
+Policy Owner. IRS Human Capital Officer
+Program Owner. Human Capital Office (HCO), Office of HR Operations (OHRO), Talent Acquisition (TA), Program Execution Office (PEO), Strategic Recruitment and Hiring (SRH).
+Primary Stakeholders. HCO, OHRO, TA, PEO, Hiring Operations (HOps), SRH, and Policy Office (PO)
+Program Contact. HCO, OHRO, TA, PEO, HOps, SRH
+Program Goals. Following the policy in this IRM supports the IRS’s goal of building and maintaining a diverse, highly skilled workforce. This IRM is designed to provide IRS guidance relating to strategic talent, analytic and recruitment solutions.
+6.307.1.1.1 (11-03-2023)
+Background
+This IRM is part of the Servicewide effort to provide IRS Human Resource practitioners with the most current policies and procedures from the HCO, PO.
+6.307.1.1.2 (08-13-2025)
+Authority
+Statutes - United States Code (USC):
+5 USC 3112, Disabled Veterans; Noncompetitive Appointment
+5 USC 3304, Competitive Service Examinations
+5 USC 3330, Government wide List of Vacant Positions
+10 USC 101, Definitions
+38 USC 4214, Employment within the Federal Government
+38 USC 4301, Employment and Reemployment Rights of Members of the Uniformed Services
+Public Laws:
+Public Law 106-117, Veterans Millennium Health Care and Benefits Act
+Public Law 107-288, Jobs for Veterans Act
+Regulations - Code of Federal Regulations (CFR):
+5 CFR 302, Employment in the Excepted Service
+5 CFR 307, Veterans Recruitment Appointments
+5 CFR 315, Career and Career-Conditional Employment
+5 CFR 315, Noncompetitive Appointment of Certain Military Spouses
+5 CFR 335, Promotion and Internal Placement, Special Selection Procedures for Certain Veterans Under Merit Promotion
+5 CFR 353, Restoration to Duty from Uniformed Service or Compensable Injury
+5 CFR 720, Affirmative Employment Programs
+Other:
+Executive Order 13832, Enhancing Noncompetitive Civil Service Appointments of Military Spouses
+Executive Order 13223, Ordering the Ready Reserve of the Armed Forces to Active Duty and Delegating Certain Authorities to the Secretary of Defense and the Secretary of Transportation
+6.307.1.1.3 (11-03-2023)
+Roles and Responsibilities
+The IRS Human Capital Officer is the executive responsible for this IRM and overall Servicewide policy for strategic recruitment.
+The HCO, OHRS, PO is responsible for developing, maintaining, and publishing content in this IRM.
+The HCO, OHRO, TA, PEO, and SRH are responsible for recruitment and hiring through the following actions:
+Serve as the primary point of contact for hiring managers and applicants, and partner with business operating divisions to screen applicants prior to hiring
+Clear priority programs such as the Career Transition Assistance Program (CTAP), Interagency Career Transition Assistance Plan (ICTAP), Reemployment Priority List (RPL) and Priority Placement Program
+Adjudicate veteran’s preference
+Determine if applicants meet qualification and eligibility such as citizenship and Selective Service requirements for the position
+Verify applicants are within reach on the job certificate for selection and selection is made following applicable rules and veterans’ preference that are applied correctly
+Verify favorable federal tax compliance and Automated Labor/Employee Relations Tracking System (ALERTS) checks for applicants
+Ensure Personnel Security adjudicated the applicant and they are suitable for IRS employment
+Obtain official transcripts to support positive education requirements or job applicants who qualified in whole, or in part, based on education
+All IRS managers are responsible for ensuring government resources are used efficiently and effectively, with a minimum potential for waste, fraud and mismanagement. They must administer procedures covered in this IRM with integrity and in compliance with applicable laws, regulations, and policies.
+6.307.1.1.4 (11-03-2023)
+Terms and Definitions
+The terms in this IRM have the following meaning:
+Term	Definition
+Applicant	Person considered for employment
+OPM	Office of Personnel Management that serves as the chief human resources agency and personnel policy manger for the federal government
+Qualification Standard	A description of the minimum requirements necessary to perform work of a particular occupation successfully and safely. Minimum requirements may include specific job-related work experience, education, training, or license.
+Selective Service Registration	Selective Service registration is required by the Military Selective Services Act as the first part of a fair and equitable system that, if authorized by the president and Congress, would rapidly provide personnel to the Department of Defense
+Suitability Determination	Decision by OPM or an agency with delegated authority that a person is suitable or is not suitable for employment in covered positions in the federal government or a specific federal agency. Suitability determinations are based on a person’s identifiable character traits and conduct to decide whether an individual’s employment, or continued employment, would protect the integrity and efficiency of the IRS
+U.S. Citizen	A person who is born in the United States (US) or its territories or born in a foreign country to US born parents are US citizens by birth. A person not born in the US can voluntarily become a naturalized US citizen once all eligibility requirements are met. Also, a minor can derive US citizenship following the naturalization of one or both parents. Natives of the following areas are also US citizens: American Samoa, Guam, Northern Mariana Islands, Puerto Rico, Virgin Islands, and some minor outlying islands of the US. 5 CFR 7, General Provisions (Rule VII) requires that all appointments in the competitive service are citizens or nationals of the US.
+6.307.1.1.5 (11-03-2023)
+Acronyms
+The following table lists commonly used acronyms in this IRM:
+Acronyms	Definitions
+ALERTS	Automated Labor/Employee Relations Tracking System
+CFR	Code of Federal Regulations
+CSRS	Civil Service Retirement System
+CTAP	Career Transition Assistance Plan
+DEU	Delegated Examining Unit
+DOL	Department of Labor
+DVAAP	Disabled Veterans Affirmative Action Program
+FEHB	Federal Employee Health Benefits
+FEGLI	Federal Employee Group Life Insurance
+FERS	Federal Employee Retirement System
+HCO	Human Capital Office
+HOps	Hiring Operations
+ICTAP	Interagency Career Transition Assistance Plan
+LWOP	Leave Without Pay
+MSPB	Merit Systems Protection Board
+OHRO	Office of Human Resources Operations
+OHRS	Office of Human Resources Strategy
+OPM	Office of Personnel Management
+PO	Policy Office
+PEO	Program Execution Office
+SRH	Strategic Recruitment and Hiring
+TA	Talent Acquisition
+TSP	Thrift Savings Plan
+USERRA	Uniformed Service Employment and Reemployment Rights Act
+VRA	Veterans’ Recruitment Appointment
+VEOA	Veteran Employment Opportunities Act of 1998
+6.307.1.2 (11-03-2023)
+Veterans' Recruitment Appointment
+The Veterans Recruitment Appointment (VRA) is a special authority by which the Service can appoint eligible veterans without competition to positions at any grade level through GS-11 or equivalent. (The promotion potential of the position is not a factor.) VRA appointees are hired under excepted appointments to positions that are otherwise in the competitive service. There is no limit to the number of VRA appointments an individual may receive, provided the individual is otherwise eligible.
+6.307.1.2.1 (11-03-2023)
+VRA Eligibility Requirements and Conditions of Employment
+The Jobs for Veterans Act, Public Law 107-288, amended 38 USC 4214 by making a major change in the eligibility criteria for obtaining a VRA. Those eligible are:
+Disabled veterans as defined by 38 USC 4211
+Veterans who served on active duty in the Armed Forces during a war, or in a campaign or expedition for which a campaign badge has been authorized
+Veterans who, while serving on active duty in the Armed Forces, participated in a United States military operation for which an Armed Forces Service Medal was awarded pursuant to Executive Order 12985
+Veterans separated honorably within the last three years
+Veterans claiming eligibility on the basis of service defined in letters b and c above must be in receipt of the appropriate campaign badge, expedition medal, or Armed Forces Service Medal.
+In addition to meeting the criteria above, eligible veterans must have been separated with an honorable or general discharge.
+Under the eligibility criteria, not all five-point preference eligible veterans are eligible for a VRA appointment.
+Example 1 - A veteran who served during the Vietnam era, for more than 180 consecutive days, after January 31, 1955, and before October 15, 1976, but did not receive a service-connected disability or an Armed Forces Service medal or campaign or expeditionary medal would be entitled to five-point veterans’ preference. This veteran, however, would not be eligible for a VRA appointment under the above criteria.
+Example 2 - A veteran who served during the Gulf War from August 2, 1990 through January 2, 1992, would be eligible for veterans' preference solely on the basis of that service. Service during that time period, in and of itself, does not confer VRA eligibility on the veteran unless one of the above VRA eligibility criteria is met.
+Under the eligibility criteria, not all VRA veterans are eligible for five-point veterans' preference.
+A recently discharged veteran is eligible for VRA, but will not be eligible for veterans’ preference if the period of service is not listed as qualifying for five-point veterans' preference.
+VRA eligible applicants who meet the basic qualification requirements for the position to be filled may be appointed without applying through a job announcement. However, veterans' preference applies in making appointments under the VRA authority. If there are two or more VRA applicants and one or more is eligible for preference, the agency must apply veterans' preference. An agency must consider all VRA applicants on file who are qualified for the position.
+Example - One applicant is a VRA eligible based on receiving an Armed Forces Service Medal (this medal does not confer veterans’ preference eligibility). The second applicant is VRA eligible based on being a disabled veteran (which does confer veterans’ preference eligibility). In this example, both individuals are VRA eligible but only one of them is eligible for Veterans’ preference. As a result, agencies must apply the procedures of 5 CFR 302 when considering VRA candidates for appointment.
+A VRA appointee may be promoted, demoted, reassigned, or transferred in the same way as a career employee as defined by 5 CFR 335. As with other competitive service employees, the time-in-grade requirement applies to the promotion of VRA’s. If a VRA eligible employee is qualified for a higher grade, an agency may, at its discretion, give the employee a new VRA appointment at a higher grade up through GS-11 (or equivalent) without regard to time-in-grade.
+After two years of satisfactory performance and conduct during continuous service, the VRA appointee must be converted to a career or career-conditional appointment, as appropriate.
+Employees who do not meet the criteria for conversion to permanent status must be terminated.
+Agencies may make a noncompetitive temporary or term appointment based on an individual's eligibility for VRA appointment. The temporary or term appointment must be at the grades authorized for VRA appointment but is not a VRA appointment itself and does not lead to conversion to career-conditional.
+VRA appointees have the appeal rights of excepted service employees. This means that VRA employees who are preference eligible attain full 5 CFR 302.752 adverse action and 5 CFR 302.432 performance action appeal rights after one year of current continuous service in the same or similar position(s). VRA’s who are not preference eligible do not get this protection until they have completed two years of current continuous employment in the same or similar position. In addition, any individual serving under a VRA whose employment under the appointment is terminated within one year after the date of such appointment, has the same right to appeal that termination as a career or career-conditional employee has during the first year of employment.
+6.307.1.2.2 (11-06-2009)
+Accepting VRA Applications
+There are three groups of VRA applicants as follows:
+Applicants from outside the federal service. Selecting officials have broad discretion under the personnel laws to hire from several appropriate sources of qualified candidates. Applicants with noncompetitive appointment eligibility under the VRA authority under 5 CFR 316.302(2) are one such source.
+Current IRS VRA appointees. These employees have the same promotional opportunities and are subject to the same requirements as other employees under the IRS’s merit promotion plan. Veterans under the VRA Program must be permitted to apply under merit promotion procedures. This means the IRS must accept applications from its current employees serving under VRA. Those who meet the promotion requirements and time-in grade are rated and ranked along with status candidates. If selected, time previously served can count towards the two-year period for conversion. Selection does not confer competitive status to the veteran.
+Applicants from other federal agencies. Selecting officials have broad discretion under the personnel laws to hire from several appropriate sources of qualified candidates. Applicants with noncompetitive appointment eligibility under the VRA authority under 5 CFR 316.302(2) are one such source.
+Under certain conditions such as 10 point veteran preference, VRA applicants from outside the federal service and current IRS VRA appointees have the right to reopen competitive examinations that were open for applications from the public. However, the same VRA eligibles, including those with preference, have no right to "reopen" a closed promotion announcement to apply after the closing date.
+6.307.1.2.3 (11-03-2023)
+Ranking and Referral of VRA Candidates
+5 CFR 302, Subpart B and 5 CFR 307 should be followed to ensure that preference is observed for disabled veterans and other veterans entitled to preference.
+Current IRS VRA appointees, like competitive service employees, may apply under an internal merit promotion announcement and are subject to the same requirements.
+Current IRS VRA appointees may also apply under an internal merit promotion announcement as a possible VRA-eligible with eligibility to be confirmed by TA in the hiring process.
+All VRA eligible applicants should be listed on a separate certificate in preference order as follows:
+10% or more compensable service-connected disability
+Other 10 point preference eligible
+Five-point preference eligible
+Non-preference eligible
+Selections must be made from the highest available preference category, as long as there are at least three candidates in that group. When fewer than three candidates are in the highest category, consideration may be expanded to include the next category. The VRA eligible applicants who are not entitled to veterans' preference should be placed in the non-preference category. As long as there is one preference eligible on this list, a selection from the non-preference category may not be made unless the justification to pass over the veteran is adjudicated.
+There is no requirement to select from this source of applicants. This is only one of many applicant sources. A veteran on this list does not block the consideration of other sources. Selections can be made from certificates that contain different sources of applicants.
+6.307.1.2.4 (11-06-2009)
+Training and Education Requirements
+If the VRA appointee has less than 15 years of formal education as defined by the Office of Personnel Management (OPM), the IRS is required to provide a written training program agreement (signed by the veteran) in which the veteran agrees to pursue a training or educational program during the two year employment period. If the VRA appointee has 15 years of formal education or more, they may participate in the same training programs as other employees. A training program could include on-the-job assignments and/or classroom training. To ensure that this requirement is met, a written training or educational plan must be developed.
+The written training or educational plan should include definitive long and short-range objectives. Such objectives are necessary to effectively evaluate on-the-job performance and other training participation in the program.
+6.307.1.3 (11-03-2023)
+Veterans Employment Opportunities Act of 1998
+The Veterans Employment Opportunities Act (VEOA), as amended by Section 511 of the Veterans Millennium Health Care Act, (Public Law 106-117), of November 30, 1999, provides that agencies must allow eligible veterans to apply for positions announced under merit promotion procedures that otherwise only would be available to status candidates when the agency is recruiting from outside its own workforce. “Agency” in this context, means the parent agency Treasury, not IRS. A VEOA eligible who competes under merit promotion procedures and is selected will be given a career or career-conditional appointment. Veterans' preference is not a consideration in these appointments.
+6.307.1.3.1 (11-06-2009)
+VEOA Eligibility Requirements and Conditions of Employment
+To be eligible for a VEOA appointment, a veteran must be a preference eligible applicant or veteran separated after three or more years of continuous active service performed under honorable conditions. Veterans who were released shortly before completing a three-year tour are considered to be initially eligible for VEOA. Active service, defined in 37 USC 101, means active duty in the uniformed services and includes full-time training duty, annual training duty, full-time National Guard duty, and attendance while in active service, at a school designated as a service school by law or by the Secretary concerned.
+VEOA applicants appointed under the VEOA are subject to a probationary period.
+VEOA applicants appointed after December 30, 1999 in the competitive service have the appeal rights of competitive service employees.
+Public Law 106-117(511) will be used as the legal authority for any new appointments under the VEOA.
+6.307.1.3.2 (08-13-2025)
+Accepting VEOA Applications
+IRS Internal Merit Promotion Vacancy Announcements – Internal merit promotion vacancy announcements, open to IRS or Treasury applicants only, are not required to include application information for VEOA eligibles because the agency is not recruiting outside its own workforce. ("Agency," in this context, means the parent agency Treasury, not the IRS.
+Career Transition Assistance Plan (CTAP) Announcements – Because CTAP is limited to internal agency candidates, there is no requirement to include application information for VEOA eligible applicants.
+Merit promotion Vacancy Announcements Open to Status Applicants Outside Treasury – Merit promotion vacancy announcements open to status applicants outside of Treasury must accept applications from VEOA eligibles, wherever they are located. Current federal employees (along with those seeking initial federal employment) with VEOA eligibility can apply for positions opened to status applicants outside of Treasury. VEOA does not exempt VEOA eligible federal employees from eligibility criteria, such as time-in-grade restrictions. In addition to the standard application instructions on USA Jobs, external merit promotion vacancy announcements must include the following VEOA specific language:
+Open to all veterans eligible under the Veterans Employment Opportunities Act of 1998
+Must be a veteran preference eligible under 5 USC 2108(3) or a veteran who substantially completed three or more years of active service under honorable conditions
+Must submit a copy of the document DD-214, Certificate of Release or Discharge from Active Duty, as proof of VEOA eligibility
+Delegated Examining Unit (DEU) Vacancy Announcement – VEOA eligibles applying under a DEU vacancy announcement (competitive examining process) are treated in the same manner as any other DEU applicant and the following applies:
+VEOA eligibility accords no advantage
+Veterans' preference applies
+VEOA eligible applicants must be within reach on a hiring certificate to be referred on the DEU list of eligibles
+Note: When a position is advertised through merit promotion which is open to status applicants outside the agency, and delegated examining using two separate announcements, VEOA eligible applicants who apply for both announcements will receive separate considerations for each vacancy announcement. A VEOA eligible may not be removed from either the merit promotion or DEU selection list solely because he or she is being considered through the other announcement
+Interagency Career Transition Assistance Plan (ICTAP) Vacancy Announcements – VEOA eligibles may apply for ICTAP announcements. When both ICTAP and VEOA eligible applications are received, the "well qualified" ICTAP applicant receives priority over the VEOA applicant. Once the ICTAP candidate has been cleared, the best qualified VEOA eligible candidate can be considered. Veterans' preference does not apply in the ranking. Announcements must include the following VEOA specific information:
+Open to veterans eligible under the Veterans Employment Opportunities Act of 1998
+Must be a veteran preference eligible under 5 USC 2108(3) or a veteran who substantially completed three or more years of active service under honorable conditions
+Must submit a copy of the document, DD-214, Certificate of Release or Discharge form Active Duty, as proof of VEOA eligibility
+6.307.1.3.3 (11-06-2009)
+Ranking and Referral of VEOA Candidates
+VEOA applications from external merit promotion announcements open to status applicants outside of Treasury must be rated and ranked with status applicants, using the same assessment criteria. No distinction is made. VEOA applicants are referred with status applicants on the same certificate. VEOA eligible applicants referred for consideration are not guaranteed selection.
+The VEOA selectee will be given a career or career-conditional appointment. A temporary or term appointment may not be offered.
+6.307.1.4 (11-03-2023)
+Additional Military Appointment Authorities and Provisions
+This section describes the special appointment authority and provisions for hiring those that have performed active military service, are spouses of active military service members, disabled veterans, and actions necessary under the IRS Disabled Veterans Affirmative Action Program (DVAAP).
+6.307.1.4.1 (11-06-2009)
+Disabled Veterans Affirmative Action Program
+The IRS encourages and supports the utilization of all available resources to employ and advance disabled veterans. The Commissioner periodically emphasizes this policy in memoranda and information notices to employees.
+The Disabled Veterans Affirmative Action Program (DVAAP) program responsibility resides with the OPM. All agencies are required to develop a DVAAP Plan. Treasury's Plan covers all its Bureaus and is published as Appendix B to Chapter 720 of the Treasury Personnel Manual. It provides for local offices to develop local plans as appropriate.
+The IRS DVAAP Plan supplements the Treasury’s plan and provides instructions on responsibilities for affirmative actions to be taken by all offices to promote the employment and advancement of disabled veterans. To fully implement their responsibilities, appointing offices may establish and implement local plans.
+6.307.1.4.2 (11-06-2009)
+30 percent or More Disabled Veteran
+The following describes the special appointment authority under 5 CFR 315.707 used for hiring disabled veterans, and provides instructions for implementing the DVAAP.
+The IRS may offer a noncompetitive temporary appointment of at least 60 days, or a term appointment of more than one year but not more than four years, to any veteran:
+Retired from active military service with a disability rating of 30 percent or more
+Rated by the Department of Veterans Affairs (VA) since 1991 or later to include disability determinations from a branch of the Armed Forces at any time, as having a compensable service-connected disability of 30 percent or more.
+There is no grade level limitation for this authority, but the appointee must meet all qualification requirements including any written test requirement.
+The employee may be non-competitively converted (without a break in service) to a career or career-conditional appointment at any time during the employee’s temporary or term appointment. The appointment can be full-time, part-time, or intermittent. The initial appointment need not be to the same position as the proposed conversion position.
+6.307.1.4.3 (08-13-2025)
+Disabled Veterans Enrolled in a VA Training Program
+Disabled veterans eligible for training under the VA vocational rehabilitation program may enroll for training or work experience at an agency under the terms of an agreement between the agency and VA. While enrolled in the VA program, the veteran is not a Federal employee for most purposes, but is a beneficiary of the VA.
+Training is tailored to the individual’s needs and goals and may be as long as needed. If the training is intended to prepare the individual for eventual appointment in the agency and not only to provide work experience, the agency must also ensure that the training will enable the veteran to meet the qualification requirements for the position.
+Upon successful completion, the host agency and VA issues the veteran a Certificate of Training showing the occupational series and grade level of the position for which trained. The Certificate of Training allows any agency to appoint the veteran noncompetitively under a status quo appointment that may be converted to career or career-conditional at any time.
+Reasonable accommodation assistance, if needed, may be coordinated by the Civil Rights and Compliance Office.
+6.307.1.5 (11-03-2023)
+Military Spouse Appointing Authority
+The Military Spouse Appointing Authority allows agencies to appoint certain military spouses without using traditional competitive examining procedures. Agencies can choose to use this authority when filling competitive service positions on a temporary (not to exceed one year), term (more than one year but not more than four years), or permanent basis. The authority does not entitle spouses to an appointment over any other applicant and is used at the discretion of the agency.
+In accordance with revised 5 USC 3330(d)(b), the head of an agency may now appoint noncompetitively the spouse of a member of the armed forces on active duty, the spouse of a 100 percent disabled member of the armed forces, or the spouse of a deceased member of the armed forces. This authority includes all spouses of members of the armed forces on active duty. To qualify, spouses do not have to relocate with his or her active duty spouse.
+Military spouses may be eligible for consideration under this authority if they meet the conditions listed in 5 CFR 315.612.
+Military Spouse Preference is a Department of Defense authority applicable to positions being filled both in the continental United States and at overseas locations. Agencies are not required to use this hiring authority.
+6.307.1.6 (11-06-2009)
+Federal Employees Who Perform Active Military Service and Restoration to Duty
+This section covers the rights and obligations of employees and the IRS in connection with leaves of absence or restoration to duty following uniformed service and restoration for employees who sustain compensable injuries.
+6.307.1.6.1 (08-13-2025)
+Federal Employees Who Perform Active Military Duty
+Current IRS employees who perform active military duty are able to leave his or her employment temporarily with the knowledge that his or her affairs are in order and his or her rights are protected. Federal law provides many important rights and benefits, as required by the Uniformed Services Employment and Reemployment Rights Act of 1994 (USERRA).
+The following addresses rights, benefits, and processing instructions for employees who leave his or her jobs to serve on active duty, either on a voluntary or involuntary basis, in a uniformed service. This includes, but is not limited to, active duty, active duty training, initial active duty training, inactive duty training, full-time National Guard duty and a period that a person is absent from employment for the purpose of examination to determine fitness for duty.
+Guidance on Military Service while also a federal employee can be found on the OPM Military Service Site
+Before an employee leaves for military duty, he or she must be advised of his or her restoration rights, the process to exercise those rights, the time limitations, employee benefits, appeal rights, and any other obligations. A sample letter is shown in Exhibit 6.307.1-1
+Employees are not harmed when they leave his or her employment temporarily to perform active military duty. The USERRA generally requires the employee be placed on Leave Without Pay (LWOP) when entering the military, unless they choose to be placed on military leave or annual leave, as appropriate, or the employee requests to be separated. The Department of Labor, Veterans' Employment and Training Service, has issued comprehensive guidance as mandated by USERRA on the DOL website.
+6.307.1.6.2 (08-13-2025)
+Rights and Benefits
+See IRM 6.630.1, IRS Absence and Leave, for additional guidance on absence and leave.
+Permanent or temporary federal employee. Federal employees who are called to active duty (or volunteer for active duty) are entitled to the rights and benefits contained in this subsection.
+Employee Assistance Programs (EAPs). EAPs can be very helpful to employees and their families in coping with the stress and disruption associated with a call to active military duty. EAPs provide short-term counseling and referral services to help with financial, emotional, and dependent care problems. These services are available to employees who are family members of those who are performing active military duty. In addition, many EAPs offer services to family members of employees.
+Pay. Employees performing active military duty receive compensation from the Armed Forces in accordance with the terms and conditions of his or her military enlistment or commission. They do not receive any compensation from his or her civilian-employing agency unless they elect to use military leave or annual leave as described in paragraphs five and eight, below. Agencies should continue the payment of availability pay for criminal investigators and annual premium pay for administratively uncontrollable overtime work, or regularly scheduled standby duty, on days of military leave or annual leave.
+Military Leave. Employees who perform active military duty may request paid military leave, as specified in 5 USC 6323(a). Under the law, an eligible full-time employee accrues 15 days (120 hours) of military leave each fiscal year. In addition, an employee may carry over up to 15 days (120 hours) of unused military leave from one fiscal year to the next. When the 15 days of military leave that are carried over are combined with the 15 days of military leave accrued at the beginning of the new fiscal year, this produces a maximum military leave benefit of 30 days in a fiscal year. These extra days of carry over military leave must be used in the new fiscal year to avoid forfeiting since an employee cannot carry over more than 15 calendar days to the next fiscal year. Part-time career employees accrue military leave on a prorated basis. Employees who elect to use military leave will receive full compensation from his or her civilian position for each hour charged to military leave, in addition to his or her military pay for the same period. Military leave can only be charged for hours the employee would have worked and does not apply to weekends and other non-workdays. Additional information on charging military leave can be found on the OPM website at: OPM Military Leave Fact Sheet Employees who perform active military duty may be granted an additional 22 days of military leave under 5 USC 6323(b) for emergency duty as ordered by the President, Secretary of Defense, or a State Governor. This leave is granted for the purpose of providing military duty in support of civil authorities in the protection of life and property or who perform full-time military service as a result of a call or order to active duty in support of a contingency operation as defined in 10 USC 101(a)(13).
+Annual Leave. Employees who perform active military duty may request the use of his or her personally accrued annual leave balance (under 5 USC 6303 and 6304), and such requests must be granted by the agency. Requests for advanced annual leave may be granted at the agency’s discretion. In addition to his or her military pay, employees who use annual leave will receive compensation from his or her civilian position for all hours charged to annual leave for the same period.
+LWOP. USERRA generally requires an agency to place an employee reporting for uniformed service on LWOP unless the employee chooses to be placed on military leave or annual leave, as appropriate, or the employee requests to be separated. Full-time employees do not earn annual or sick leave in a pay period in which they have accumulated 80 hours of LWOP. In addition, part-time employees on LWOP also earn less annual and sick leave, since they earn leave based on the number of hours in a pay status.
+Lump-Sum Leave Payments. Employees who enter into active military duty may choose to have his or her annual leave balance maintained until they return to his or her civilian position or they may receive a lump-sum payment for all accrued and accumulated annual leave. However, an agency must make a lump-sum payment for any restored annual leave under 5 USC 6304(d). There is no requirement to separate from a civilian position in order to receive a lump-sum leave payment under 5 USC 5552.
+When an employee who has been on military duty returns to active federal service prior to the end of the period covered by the lump-sum payment, the employee must refund an amount equal to the pay that covers the period between the date of reemployment and the expiration of the lump-sum leave period. Agencies may not re-credit any restored annual leave to the employee’s leave account. Further guidance on the repayment of a lump-sum payment for annual leave can be found at: OPM Military Lump-Sum Leave Payment
+Health Benefits. Employees who are absent from duty due to service in the uniformed services (active duty or active duty for training beyond 30 days) may elect to have his or her health insurance coverage continue for up to 24 months, and the employee continues to pay his or her share of the premium. Employees who remain in the uniformed services beyond 12 months may continue his or her health insurance for an additional 12 months by paying 102 percent of the premium, composed of: the employee’s share, the government’s share, and a two percent administrative fee. Employees are entitled to a free 31 day extension of coverage during which they can convert to a non-group policy. These employees are not eligible for TCC (Temporary Continuation of Coverage). If an employee does not wish to continue the Federal Employee Health Benefits (FEHB) coverage while he/she is in non-pay status, the employee can elect in writing to have the FEHB coverage terminated (the employee is still entitled to the free 31 day extension and the right to convert).
+When an employee who has been on military duty returns to active federal service, he or she can enroll in a FEHB plan within 60 days of the return to service, (as long as the position is not excluded from coverage).
+Life Insurance. Employees who are put in a non-pay status while on military duty can keep his or her Federal Employee’s Group Life Insurance (FEGLI) coverage for up to 12 months. This coverage is free. At the end of 12 months in non-pay status, the coverage terminates. If the employee separates from federal civilian service, FEGLI coverage continues for up to 12 months or 90 days after uniformed service ends, whichever is sooner. Employees who enter on active duty or active duty for training in one of the uniformed services for more than 30 days can elect to continue his or her FEGLI coverage for an additional 12 months, for a total of 24 months. These employees must pay both the employee and agency share of premiums for his or her Basic coverage and pay the entire cost (there is no agency share) for any Optional insurance for the additional 12 months of coverage. For employees who elect to continue FEGLI coverage for the additional 12 month period, FEGLI coverage terminates at the end of the 24 month period or 90 days after military service ends, whichever comes first. For employees who elect to not continue FEGLI coverage for the additional 12 month period, FEGLI coverage terminates at the end of the original 12 month period or 90 days after military service ends, whichever comes first.
+Federal employees with FEGLI who are called to active duty retain and have the same entitlements; death benefits are payable to the employee’s beneficiaries. Accidental death and dismemberment benefits are also payable under Basic insurance (and Option A, if the employee had that coverage) unless the employee was in actual combat at the time. Accidental death benefits are in addition to regular death benefits. Even if accidental death benefits are not payable, regular death benefits are payable.
+When an employee who has been on military duty returns to active federal service, the employee resumes the same life insurance they had before going into non-pay status (as long as the position is not excluded from coverage).
+When an employee’s FEGLI coverage terminates, the employee receives a free 31 day temporary extension of coverage to allow the employee to find new life insurance.
+Retirement. An employee who is placed in a LWOP status while performing active military duty continues to be covered by either the Civil Service Retirement System (CSRS) or the Federal Employees Retirement System (FERS). Death benefits will be paid as if he or she were still in the civilian position. If the employee becomes disabled for his or her civilian position during the LWOP period and has the minimum amount of civilian service necessary for disability benefits (five years for CSRS, 18 months for FERS), the employee will become entitled to disability benefits under the retirement law. Upon eventual retirement from civilian service, the period of military service is creditable under either CSRS or FERS, subject to the rules for crediting military service.
+If an employee separates to enter active military duty, he or she generally will receive retirement credit for the period of separation when the employee exercises restoration rights to his or her civilian position. If the separated employee does not exercise the restoration right, but later reenters federal civilian service, the military service may be credited under the retirement system, subject to the rules governing credit for military service. However, if an employee covered by CSRS is separated to enter active military duty during a period of war or national emergency (as declared by Congress or proclaimed by the President), the employee is deemed not to be separated from his or her civilian position for retirement purposes (unless the employee applies for and receives a refund of his or her retirement deductions).
+Thrift Savings Plan (TSP). Federal civilian personnel who are also in the military may contribute to TSP up to the maximum allowable contribution, both as a member of the uniformed service and as a federal civilian employee. Enrollment into a uniformed service TSP account must be done through the uniformed services’ personnel office. The uniformed service account will be maintained separately from the civilian account, and contributions to the uniformed service account can only be made from uniformed service pay. Similarly, contributions to the civilian account can only be made from civil service compensation. Once separated from either the uniformed service or federal civilian service, TSP accounts can be combined. Specific information on the TSP rules governing uniformed service can be found at: TSP. Additional provisions may apply to employees covered under USERRA such as: the ability to make up missed TSP contributions, entitlement to 1% agency matching contributions, and the ability to pause TSP loan repayment. More information is available on these provisions at: TSP.
+Return to Civilian Duty. An employee who enters active military duty (voluntary or involuntary) from any position, including a temporary position, has full job protection as covered under USERRA provided they apply for reemployment. The following time limits and stipulations apply to USERRA:
+Employees who served less than 31 days must report back to work at the beginning of the next scheduled workday following his or her release from service and the expiration of eight hours after a time for safe transportation back to the employee’s place of residence
+Employees who served more than 30 days but less then 181 days, must apply for reemployment within 14 days of release by the military
+Employees who served less than 91 days must be restored to the position for which they are qualified and would have attained had his or her employment not been interrupted. Employees who served more than 90 days have essentially the same rights, except that the agency has the option of placing the employee in a position for which he or she qualifies that is of like seniority, status, and pay to the position the employee would have attained had his or her employment not been interrupted
+Employees who served more than 180 days have 90 days to apply for reemployment
+Upon return or restoration, an employee generally is entitled to be treated as though he or she had never left for purposes of rights and benefits based upon length of service. This means that the employee must be considered for career ladder promotions, and the time spent in the military will be credited for seniority, successive within-grade increases, probation, career tenure, annual leave accrual rate, and severance pay. An employee who was on a temporary appointment serves out the remaining time, if any, left on the appointment. (the military activation period does not extend the civilian appointment)
+An employee performing active military duty is protected from reduction in force (RIF) and may not be discharged from employment for a period of one year following separation (six months in the case of a Reservist called to active duty under 10 USC 12304 for more than 30 days, but less than 181 days, or ordered to an initial period of active duty for training of not less than 12 consecutive weeks), except for poor performance or conduct or for suitability reasons
+Appeal Rights. An employee or former employee of an agency in the executive branch who is entitled to restoration in connection with military duty may appeal an agency’s failure to properly carry out the law with the DOL. Alternatively, the employee can appeal directly to Merit System Protection Board (MSPB) if they chose not to file with the DOL or they are informed by either DOL or the Office of the Special Counsel that they will not pursue to the case. Further information and applicable time limits are contained in the USERRA appeals regulations in 38 USC 4323 and 5 CFR 1208.
+Note: National Guard technicians do not have the right to appeal to MSPB a denial of reemployment rights by the Adjutant General. Technicians may file complaints with the appropriate district court in accordance with 38 USC 4323.
+Exhibit 6.307.1-1
+Exhibits: Restoration to Duty From Uniformed Service
+Dear: _______________
+
+We received your notice that you are entering military service. While on duty with the uniformed service, you will be carried in leave without pay (LWOP) status unless you request separation. A separation under these circumstances does not affect your restoration rights and benefits. Please have your uniformed service representative notify this office of the date when you actually enter on active duty. The effective date of your (leave without pay or separation) is (date). If you are a permanent or temporary IRS employee and perform duty with a uniformed service (including, but not limited to active duty, active duty training, or inactive duty training), whether voluntary or involuntary, you are entitled to be restored to the position you would have attained had you not entered the uniformed service, provided you have completed all of the following:
+a. Give the IRS advance written or verbal notice of departure (except that no notice is required if it is precluded by military necessity or, under all relevant circumstances, the giving of notice is otherwise impossible or unreasonable)
+b. Were released from uniformed service under honorable conditions
+c. Served no more than a cumulative total of five years (exceptions are allowed for training and involuntary active duty extensions, and to complete an initial service obligation of more than five years)
+d. Apply for restoration within the appropriate time limits
+The provisions of 38 USC 43 and 5 CFR 353 entitle you to restoration rights to your current position, (title, schedule, series, and grade) in the (unit, section, branch, business unit), or to a position of like seniority, status, and pay upon satisfactory completion of military duty. Service exceeding five years, which results from any voluntary action on your part, such as re-enlistment, may void your restoration rights. To protect these rights you must file an application for reemployment within (number of days) after you are relieved from military training and/or service. In the event you are hospitalized in connection with your military duty, application for restoration must be filed within (number of days or months) after your release from the hospital. During your absence for military duty you will be given the same considerations for promotion you would have received had you remained in your present position. If you are selected for a position in a higher grade, the promotion action will be processed after your restoration to duty, but the effective date will be the date the promotion would have been made if you were not absent.
+Annual Leave. You may request the use of accrued and accumulated annual leave to your credit (under 5 USC 6303 and 6304), and such requests will be granted. In addition, requests for advanced annual leave may be granted at the agency’s discretion. If you use annual leave, in addition to your military pay, you will receive compensation from your civilian position for all hours charged to annual leave — in addition to your military pay for the same period. If you are a Reservist or National Guardsman, you may be carried on the rolls in an annual leave status until your annual leave is exhausted. Please notify your servicing Employment Office by (date)of your decision on this matter.
+Sick Leave. Sick leave currently balance will be re-credited to your account upon restoration from military duty. If you are a Reservist or National Guardsman and remain hospitalized in the military service beyond fifteen days of military leave, you may be granted sick and annual leave and receive such leave concurrently with your military pay and allowances.
+Life Insurance. Your life insurance while on leave without pay to enter the uniformed services continues for up to 12 months. If you exercise the option to separate, life insurance continues for up to 12 months, or 90 days after uniformed service ends, whichever is sooner. There is no cost to you, the employee, for this extension of coverage.
+Health Insurance. You may elect to have your health insurance coverage continue up to 12 months, by paying your share of the premium. If you remain in the uniformed service beyond 12 months, you may continue your health insurance for an additional six months by paying 102 percent of the total premium, which consists of the employee’s share, the government’s share, and a two percent administrative fee.
+Thrift Savings Plan (TSP). You may enroll both as a member of the uniformed service and as a federal civilian employee. Enrollment into a uniformed service TSP account must be done through the uniformed services’ personnel office. The uniformed service account will be maintained separately from the civilian account, and contributions to the uniformed service account can only be made from the uniformed service pay. Similarly, contributions to the civilian account can only be made from your civil service compensation. Once separated from either the uniformed service or federal civilian service, TSP accounts can be combined. Additional provisions may apply to employees covered under Uniformed Services Employment and Reemployment Rights Act (USERRA) such as: the ability to make up missed TSP contributions, entitlement to 1% agency matching contributions, and the ability to pause TSP loan repayment. Specific information on TSP rules can be found on OPM’s TSP Website.
+Retirement. If placed in a LWOP status while performing active military duty, you will continue to be covered by the Civil Service Retirement System (CSRS) or the Federal Employees Retirement System (FERS). Death benefits will be paid as if still in the civilian position. If you become disabled during LWOP and you have the minimum amount of civilian service necessary for title to disability benefits, you will become entitled to disability benefits under the retirement law. Upon eventual retirement from civil service, your period of military service is creditable under either CSRS or FERS, subject to the rules for crediting military service. If you separate to enter active military duty, you will receive retirement credit for the period of separation when you exercise restoration rights to your civilian position. If you choose not to exercise your restoration rights, but later re-enter federal civilian service, the military service may be credited under the retirement system, subject to the rules governing credit for military service. If covered by CSRS and you separate to enter military active duty during a period of war or national emergency as declared by Congress or proclaimed by the President, you are deemed not to be separated from your civilian position for retirement purposes, unless you apply for and receive a refund of your retirement deductions. If you desire any further information regarding your rights and benefits, you may contact (benefits point of contact) at (telephone number) for questions on benefits and (personnel point of contact) at (telephone number) located in your servicing Employment Office for any other questions regarding this action.
+Appeal Rights. An employee or former employee of an agency in the executive branch who is entitled to restoration in connection with military duty may appeal an agency’s failure to properly carry out the law with the Department of Labor (DOL). Alternatively, the employee can appeal directly to Merit System Protection Board (MSPB) if they chose not to file with the DOL or they are informed by either DOL or the Office of the Special Counsel that they will not pursue to the case. Further information and applicable time limits are contained in the USERRA appeals regulations in 38 USC 4323 and 5 CFR 1208.
+Acknowledgement Receipt
+
+Name: ________________
+Date: _________________

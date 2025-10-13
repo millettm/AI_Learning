@@ -1,0 +1,519 @@
+6.451.1  Awards
+6.451.1.1  Program Scope and Objectives
+6.451.1.1.1  Background
+6.451.1.1.2  Authority
+6.451.1.1.3  Roles and Responsibilities
+6.451.1.1.4  Program Management and Review
+6.451.1.1.5  Program Controls
+6.451.1.1.6  Terms
+6.451.1.1.7  Related Resources
+6.451.1.2  Basis for Formal Recognition
+6.451.1.3  Documenting Awards
+6.451.1.4  Coverage
+6.451.1.5  Funding Awards
+6.451.1.6  Misconduct Screenings and Tax Compliance
+6.451.1.6.1  Employee Misconduct and Tax Compliance Non-SES Policy
+6.451.1.6.2  Misconduct and Tax Compliance Screening
+6.451.1.6.3  Covered Awards and Recognition
+6.451.1.7  Performance Awards/Bonuses
+6.451.1.7.1  Performance Award/Bonus Monetary Limitation
+6.451.1.7.2  Performance Award/Bonus Eligibility for Separated Employees
+6.451.1.8  Performance Awards - Bargaining Unit (BU)
+6.451.1.9  Performance Awards - Non-Bargaining Unit (NBU)
+6.451.1.9.1  Eligibility - NBU Performance Awards/Bonuses
+6.451.1.9.2  Award/Bonus Structure - NBU Performance Awards/Bonuses
+6.451.1.9.3  Additional Factors - NBU Performance Awards/Bonuses
+6.451.1.9.4  Review Process - NBU Performance Awards/Bonuses
+6.451.1.10  Quality Step Increases
+6.451.1.10.1  QSI Eligibility
+6.451.1.10.2  QSI Nominating Processing Procedures
+6.451.1.10.3  QSI Additional Factors
+6.451.1.10.4  Effects of Promotions
+6.451.1.10.5  QSI Documentation and Review
+6.451.1.10.6  Retroactive Limitation
+6.451.1.11  Special Act and Manager Awards
+6.451.1.11.1  Monetary Special Act and Manager Awards
+6.451.1.11.2  Time-Off Special Act/Manager Awards
+6.451.1.12  Time Off Awards (TOA) (General Provisions)
+6.451.1.12.1  Scheduling and Taking Time Off
+6.451.1.12.2  Calculating Time Off and Supplemental Awards
+6.451.1.13  Bilingual Awards
+6.451.1.13.1  Bilingual Awards Eligibility
+6.451.1.14  Employee Referral Bonus Program (ERBP)
+6.451.1.14.1  Employee Referral Bonus Eligibility Criteria
+6.451.1.14.2  ERBP Award Value and Payment
+6.451.1.15  IRS Employee Recognition Program
+6.451.1.16  IRS Federal Career Service Recognition Program
+6.451.1.17  Albert Gallatin Award
+6.451.1.18  Externally Sponsored Awards
+6.451.1.19  Travel Gainsharing Awards
+6.451.1.20  Award Presentation Ceremonies
+6.451.1.21  Pay and Tax Consideration
+Part 6. Human Resources Management
+Chapter 451. Employee Performance and Utilization
+Section 1. Awards
+6.451.1 Awards
+Manual Transmittal
+September 02, 2025
+
+Purpose
+(1) This transmits revised IRM 6.451.1, Employee Recognition, Awards.
+
+Material Changes
+(1) This IRM has been updated to comply with January 2025 Executive Orders and Office of Personnel Management (OPM) memorandums regarding diversity, equity, inclusion and gender.
+
+(2) Chapter 451 title changed from Employee Performance and Utilization to Employee Recognition to provide a clearer description of the content.
+
+(3) Section title changed from Policies, Authorities, Categories, and Approvals to Awards to provide a succinct description of the content.
+
+(4) IRM 6.451.1.1.2, Authority, revised to add Document 11678-B, 2025 Addendum to the 2022 National Agreement (NA), and replace naked links with hyperlinks.
+
+(5) IRM 6.451.1.5, Funding Awards, revised to state non-bargaining unit (NBU) performance award funding levels will mirror those negotiated for bargaining unit (BU) performance awards.
+
+(6) IRM 6.451.1.10, Quality Step Increases (QSI) adds management discretion for NBU processing cycles to mirror those negotiated for BU employees or one cycle per year for employees rated on Form 6850 BU and Form 6850 NBU. Non-managerial NBU employees will continue to have quality step increases processed once a year in the first quarter of the fiscal year following the rating period.
+
+(7) IRM 6.451.1.11.1, Monetary Special Act and Manager Awards, lowers the minimum allocation for NBU discretionary awards to 10%.
+
+(8) IRM 6.451.1.11.2, Time Off Special Act and Manager Awards removes leave restriction letters from disqualifying factors for time off awards for NBU employees.
+
+(9) IRM 6.451.1.12.1, Scheduling and Taking Time Off, removes leave restriction letters from consideration for managers for who wish to extend the time for using time off awards for NBU employees.
+
+(10) IRM 6.451.1.13, Bilingual Awards, adds interpreter awards for NBU employees on interpreter position description to mirror those available to BU employees on interpreter position descriptions.
+
+(11) IRM 6.451.1.13.1, Bilingual Award Eligibility, adds NBU employees not on an interpreter position description, but who regularly use their interpreter skills for consideration of a bilingual award.
+
+(12) IRM 6.451.1.14 Employee Suggestion Program was removed because the program ended October 1, 2021. Remaining content was moved up and renumbered.
+
+Effect on Other Documents
+(1) This IRM supersedes IRM 6.451.1, Employee Performance and Utilization-Awards and Recognition, dated April 4, 2024.
+(2) This IRM incorporates Interim Guidance Memorandum HCO-06-0824-0015, Interim Guidance on Revisions to the Non-Bargaining Unit (NBU) Award Program dated August 26, 2024.
+Audience
+All Operating Divisions and Functions.
+Effective Date
+(09-02-2025)
+Max R. Wyche
+acting IRS Human Capital Officer
+
+6.451.1.1 (09-02-2025)
+Program Scope and Objectives
+IRM 6.451.1, Employee Recognition - Awards, provides Servicewide awards and recognition policy, standards, requirements and guidance.
+Objectives and Goals: The objectives of the program are to reward and retain competent and talented employees by appropriately recognizing their achievements and contributions to the IRS mission and to promote an organizational culture where supervisors recognize and appreciate their employees’ contributions and achievements. Awards and recognition programs shall be administered consistent with these objectives in an environment in which employees know they are treated with fairness, dignity and respect.
+Note: As required, this IRM is supplemented by Human Capital Office (HCO) interim guidance. This IRM must be read and interpreted in accordance with pertinent law, government-wide regulations, Department of the Treasury (Treasury) Human Capital Issuance System Directives (HCIS), Comptroller General Decisions, and Office of Personnel Management (OPM) Guidance and negotiated agreements, as relevant.
+Audience: This IRM applies to all operating divisions, functions, supervisors and award coordinators.
+Policy Owner: IRS HCO, Policy Office.
+Program Owner: HCO.
+Primary Stakeholders: All organizations and business units who manage or issue instructions to employees pertaining to the types of awards and recognition covered in this IRM.
+6.451.1.1.1 (09-02-2025)
+Background
+This IRM enables the IRS to meet the requirements in 5 USC 45 that gives agencies the discretion to pay a cash award to, and incur necessary expense for the honorary recognition of, an employee who:
+By suggestion, invention, superior accomplishment, or other personal effort contributes to the efficiency, economy or other improvement of government operations or achieves a significant reduction in paperwork, or
+Performs a special act or service in the public interest regarding or related to their official employment.
+6.451.1.1.2 (09-02-2025)
+Authority
+Laws: 5, USC, Government Organization and Employees:
+Chapter 43 -- Performance Appraisal, at 5 USC 43.
+Chapter 45 -- Incentive Awards, at 5 USC 45.
+Chapter 53 -- Pay Rates and Systems, at 5 USC 53.
+2018 Consolidated Appropriations Act: dated March 23, 2018, Section 110 (page 197 of 891), at Public Law 115-141.
+Regulations: 5 CFR, Administrative Personnel:
+5 CFR 451, Awards, Subpart A, Agency Awards.
+5 CFR 531, Pay Under the General Schedule, Subpart E, Quality Step Increases.
+26 USC 7804(a), Appointment and Supervision.
+Treasury Order 102-01, Delegation of Authority Concerning Personnel Management, dated July 5, 2022.
+Treasury Human Capital Issuance (HCIS) TN-15-006, Monetary Recognition and Employee Misconduct (Non-SES), dated December 15, 2014 (copy available in HCO’s Policy Office).
+Awards and recognition requirements of the IRS and National Treasury Employees Union (NTEU) National Agreement (NA), Document 11678.
+The National Performance Awards Agreement (NPAA) between IRS and NTEU establishes policies and procedures for implementing a program to recognize and reward high employee performance.
+Memorandum of Understanding - Employee Referral Bonus Program.
+Document 11678-B, 2025 Addendum to the 2022 National Agreement, Article 18, takes precedence for BU employees. BU employees should review appropriate negotiated agreement provisions relating to this IRM. Should this IRM conflict with a provision of a negotiated agreement, the agreement prevails.
+Delegation Order 6-22 - Authority to Approve Monetary and Time-Off Performance, Performance Bonuses, Individual and Group Special Act Awards, Manager Awards, Bilingual Awards, Honorary Awards, Employee Suggestion Awards, Informal Recognition, and Quality Step Increases at IRM 1.2.2.7.12.
+Note: All Award/Recognition actions submitted by the business unit approving official will be reviewed and have final approval by the authorized official (the IRS Human Capital Officer or their designee). The action will be considered to have final approval once all budget, misconduct and tax compliance screenings are verified and a digital signature recorded on the Personnel Action Request (PAR) or appropriate form.
+6.451.1.1.3 (04-04-2024)
+Roles and Responsibilities
+The IRS Human Capital Officer is the executive responsible for the Servicewide awards policy.
+The HCO Policy Office is responsible for developing policy and authoring this IRM content.
+The Labor/Employee Relations and Negotiations (LERN) Division’s Performance Management and Recognition (PMR) office is responsible for creating specific operational guidance, implementing policy, establishing and providing systems, tools, misconduct and tax compliance screening, and contractual obligations with NTEU, all related instructions to business units and administers the IRS Employee Recognition Program.
+The LERN Field Operations office provides guidance and representation to supervisors in areas such as grievances, discipline, and performance cases.
+The HCO, HR Shared Services (HRSS), Payroll office processes PARs for all awards.
+6.451.1.1.4 (04-04-2024)
+Program Management and Review
+Program Reports and Effectiveness: The Policy Office gauges the effectiveness of the awards program based on feedback from customers and program owners about subjects contained in this IRM. During review and publishing of this IRM, sections are revised, added or deleted based in part on this process. The Policy Office plays an integral role in program management, review and effectiveness by:
+Supporting HCO, HRSS, Payroll processing of all PARs, Mass Update Module, Quality Step Increases (QSIs), employee-generated actions, retroactive actions, corrections and cancellations related to performance and discretionary awards.
+Supporting HCO, LERN to establish labor and employee relations policy on award subjects so they can provide related support and expertise to managers, field and business-based human resources staff and all employees.
+6.451.1.1.5 (04-04-2024)
+Program Controls
+The Policy Office develops and deploys policies, materials and programs to increase Servicewide awareness and understanding of the awards program. Additionally, the Policy Office collaborates with other HCO organizations and Servicewide stakeholders to support education and outreach activities as they relate to bargaining unit (BU) and non-bargaining unit (NBU) Employee Performance Awards, Special Act Awards, Manager Awards, Bilingual Awards, QSIs, and Employee Referral Bonus Awards.
+The following activities help ensure program success:
+Conducting annual policy and compliance reviews,
+Publishing educational articles such as Leaders’ Alerts and IRS Headlines, and
+Contributing content to program websites.
+6.451.1.1.6 (04-04-2024)
+Terms
+Performance Awards/Bonuses - Monetary award to recognize individual employee’s performance as reflected in the most recent rating of record.
+Time-Off Awards (TOA) - Awards granted at management discretion to recognize individual employee’s performance based on the most recent rating of record in the form of time-off from duty, without charge to leave or loss of pay, in lieu of a monetary award. Time-Off Hours can be awarded for the following awards:
+Bilingual - (In-lieu of cash)
+Performance - (In-lieu of cash)
+Special Act
+Manager
+Quality Step Increases (QSI) - Increases eligible general schedule (GS) employees' rates of basic pay from one step of the grade to the next higher step of that grade.
+Special Act Awards - Discretionary awards granted for commendable individual employee or group achievements of a unique employment-related activity or service that contributes to the efficiency, effectiveness or economy of government operations. These have a higher calculated cash or time off value and the level of delegated authority for approval is beyond the employee’s immediate supervisor. Refer to Delegation Order 6-22 at IRM 1.2.2.7.12.
+Manager Awards - Discretionary awards granted for a commendable individual employee or group achievements of a unique employment-related activity or service that contributes to the efficiency, effectiveness or economy of government operations. These have a lower calculated cash or time off value and the level of delegated authority for approval rests with the employee’s immediate supervisor, thereby reducing the number of approvals needed resulting in faster processing. Monetary Manager Awards range in value from $50 to $500 or eight hours of time off. Refer to Delegation Order 6-22 at IRM 1.2.2.7.12.
+Bilingual Awards - Granted to employees who use their bilingual skills on a regular basis and are currently rated at least “Fully Successful.” BU and NBU employees who meet these criteria will be granted this award.
+Foreign Language Awards - Foreign Language Awards are not the same as IRS Bilingual Awards. Foreign Language Awards may be granted only to law enforcement officers as defined in statue (5 USC 4521, et seq.), e.g., series 1811 Criminal Investigators (Special Agents) assigned to the Criminal Investigation Division.
+Honorary Awards - Formally recognize significant employee contributions to the IRS mission, strategic goals, balanced measures or other commendable accomplishments.
+Informal Recognition of Employee Accomplishments - Recognition tools used to recognize employee accomplishments and provide incentives for high performance and serve as a vehicle to increase employee engagement. Many of these tools are of little or no cost to the supervisor or the IRS and do not require complicated procedures.
+Public and Private Sector Awards Sponsored by External Organizations - Designed to improve government operations by motivating and rewarding employee excellence in the workforce.
+6.451.1.1.7 (09-02-2025)
+Related Resources
+Additional guidance regarding the IRS recognition program and procedures is available on the HCO Awards and Recognition website. The information supplements this IRM.
+IRS business units (refer to IRM 1.1.1, Organization and Staffing, IRS Mission and Organizational Structure) may establish recognition policies, programs, and procedures and issue guidance that supplements the provisions of this chapter, but business units are encouraged to consult with the Policy Office as they develop unit-specific recognition programs. When proposed changes to any awards or recognition policy or program affects BU employees, the business unit must comply with IRM 1.11.2.5.1.4, IRM Changes Affecting Conditions of Employment of Bargaining Unit Employees, and IRM 1.11.9.4.4, Labor/Employee Relations & Negotiations.
+General information on federal award programs may be found at OPM’s Performance Management Cycle site under the Rewarding tab, which does not supplement this chapter.
+6.451.1.2 (04-04-2024)
+Basis for Formal Recognition
+At management discretion, awards may be granted to an IRS employee based on:
+Performance as reflected in the employee's properly recorded rating of record, or
+A special act or service in the public interest relating to or related to official employment, and/or
+A superior accomplishment, productivity gain, or other personal effort that contributes to the efficiency, economy or other improvement of government operations or achieves a significant reduction in work.
+6.451.1.3 (04-04-2024)
+Documenting Awards
+Monetary and time-off awards may be initiated, approved, certified, and authorized in an automated human resources (HR) system. The use of an automated HR system meets all documentation requirements for performance related awards.
+Form 14776, Quality Step Increase (QSI) Nomination, is required as documentation in the QSI process, both approved and disapproved, must be retained in employee performance files (EPF) for a minimum of two years.
+Form 9127, Recommendation for Recognition, is required as documentation in the Special Act and Manager Awards process. Form 9127 or documentation that contains the same information as Form 9127, both approved and disapproved, must be retained in the EPF for a minimum of two years.
+Standard Form (SF-50), Notification of Personnel Action, is generated in the automated HR system for all monetary and time-off awards.
+6.451.1.4 (04-04-2024)
+Coverage
+This guidance applies to all bargaining unit (BU) and non-bargaining (NBU) employees.
+Unless otherwise noted, the provisions of this IRM are applicable to all IRS employees, including reemployed annuitant and phased retirement employees, except:
+Employees of the Office of Chief Counsel
+Presidential Appointees
+Members of the Senior Executive Service (SES)
+Critical Pay Executives
+Schedule C Appointees
+Executive and other high-level IRS officials
+Employees of other federal agencies may be granted awards for contributions that benefit the IRS and meet its awards criteria.
+Former federal employees and their legal heirs or estates, if deceased, may be granted awards for contributions made during federal employment that benefited the IRS and meet its awards criteria. This also applies to former members of the armed forces.
+Other persons and organizations not described in paragraphs (1) through (4) above, including volunteers, employees of private contractors and private organizations may not be granted awards under the authorities cited in IRM 6.451.1.1.2, Authority.
+The prohibition regarding contract employees includes those who may work side-by-side with IRS employees as members of the same overall work teams. The pay, awards and discipline of a contract employee is handled by their employer (the contractor), not the IRS.
+These persons and organizations may be presented unframed Informal Awards Certificates to recognize significant, non-routine, contributions to the IRS such as volunteer service performed on behalf of the IRS through activities such as the Volunteer Income Tax Assistance and Tax Counseling for the Elderly programs.
+6.451.1.5 (09-02-2025)
+Funding Awards
+Award funding for BU employees is negotiated by IRS and the National Treasury Employee’s Union (NTEU). Award funding for NBU employees will mirror that of BU employees with regard to the percentage used to calculate overall funding level.
+When a monetary award is approved for an employee of another federal agency, arrangements should be made to transfer funds to the employing agency. If the administrative costs of transferring funds would exceed the amount of the award, the employing agency should absorb the award costs. For example, it would not be practical to transfer funds when an award is $200 or less. When another agency approves an award for an IRS employee, arrangements should be made to transfer funds in the same manner. The Division Finance Officer should be contacted to coordinate the transfer of funds from the former agency. Refer to 5 CFR 451.104, Awards, for additional information.
+6.451.1.6 (04-04-2024)
+Misconduct Screenings and Tax Compliance
+The purpose of misconduct screenings is to protect the integrity of the IRS and to ensure compliance with Section 110 of the Consolidated Appropriations Act (Act), Public Law 115-141, payment to any IRS employee under a bonus, award, or recognition program, and Treasury Human Capital Information System (HCIS) TN-15-006, Monetary Recognition and Employee Misconduct (Non-SES).
+The Act prohibits the IRS from obligating or expending funds to make a payment to any employee under a bonus, award or recognition program unless such program or process considers the conduct and federal tax compliance of such employee or former employee.
+6.451.1.6.1 (04-04-2024)
+Employee Misconduct and Tax Compliance Non-SES Policy
+The IRS will not grant awards or high-level recognition to non-SES employees when it is deemed necessary to protect the integrity of the IRS. The 2022 National Agreement (NA) provides specific information on how screening results for both misconduct and tax compliance will be handled for BU employees. As a matter of policy, the NA screening provision also applies to NBU employees. Refer to the 2025 Addendum to the 2022 National Agreement, Article 18, Section 1.D, at Document 11678-B.
+6.451.1.6.2 (04-04-2024)
+Misconduct and Tax Compliance Screening
+Business unit points of contact (POC) serve as liaisons between the business unit and the Labor/Employee Relations and Negotiation (LERN) office for the misconduct screening process.
+All covered awards and recognition described in IRM 6.451.1.6.3, Covered Awards and Recognition, will be screened for misconduct per the Awards Misconduct Screening and Case Process at Awards Misconduct Screening and Case Process SOP [Standard Operating Procedure], as well as for federal tax compliance prior to initiating any type of covered awards or recognition.
+The applicable period for review will be the 12-month period, or relevant performance year as appropriate, prior to the effective date for the type of award under consideration.
+6.451.1.6.3 (04-04-2024)
+Covered Awards and Recognition
+The following types of awards and recognition are covered by the misconduct and federal tax compliance screenings:
+QSIs
+Performance Awards/Bonuses (monetary and time-off)
+Performance Based Increases (PBIs) for supervisors under the IRS Payband System (IR)
+Special Act / Manager Awards (monetary and time-off)
+Bilingual Awards (monetary and time-off)
+Foreign Language Awards
+Retention, Relocation, Recruitment and Extended Assignment Incentives
+High-level non-monetary recognition such as Commissioner/Deputy Commissioner/Head of Office Awards
+External awards, such as Service to America Medal Awards, Federal Employee of the Year Awards, Flemming Awards, etc.
+Employee Referral Bonuses
+Travel Gainsharing Awards
+6.451.1.7 (04-04-2024)
+Performance Awards/Bonuses
+Performance awards/bonuses may be granted only to individual employees either as monetary or time off awards. Refer to IRM 6.451.1.12, Time-Off Awards (TOA) (General Provisions), for applicable TOA provisions. When granted, these awards must be based on an employee's performance as reflected in the employee’s rating of record for the fiscal year (FY) for which awards are being processed, provided that the rating is at the Fully Successful or Met level or above.
+The employee’s officially approved rating of record provides sufficient basis and justification for granting a performance award/bonus. Programs for granting performance awards/bonuses as designed and applied, must make meaningful distinctions based on levels of performance. This means that employees with higher ratings of record within the same awards grouping must receive larger performance awards than those with lower ratings of record. Under IRS policy, an employee who is granted a QSI is not eligible for a performance award for the same rating period.
+Note: Not all performance appraisals are ratings of record. Refer to IRM 6.430.1, Introduction to Performance Management.
+Employees may receive one performance award/bonus for each properly recorded rating of record.
+Example: An employee receives a Form 6850-BU rating of record for period ending 03/31/2023, then receives a promotion to a management official position on 07/16/2023. Since the employee will have at least 60 ratable days in the management official position on 09/30/2023, they will receive a Form 12450-B (NBU) rating of record for that rating period. This results in the employee having two ratings of record for separate rating periods under different performance agreements in the same FY. The BU award is required if the employee meets all the eligibility criteria. If the business unit also wants to recognize the NBU rating of record and the employee meets all the NBU performance award eligibility criteria, the NBU performance award may be paid as well.
+Note: Employees may not receive any portion of any bonus or award payment in any calendar year, which when combined with the employee’s basic pay, would cause the employee’s aggregate compensation (including premium pay) to exceed the rate of level I of the Executive Schedule at the end of the calendar year. Refer to IRM 6.530.1, Aggregate Limitation on Pay and Special Rate Schedules, for details.
+6.451.1.7.1 (04-04-2024)
+Performance Award/Bonus Monetary Limitation
+5 USC 4505a(a)(2), provides that a monetary performance award/bonus shall not be more than 10% of the employee’s annual rate of basic pay, which must include: any applicable locality-based comparability payments under 5 CFR 531, Subpart F; special rate schedules for recruitment and retention under 5 CFR 530, Subpart C (special salary rate schedules); or similar payment or supplement under other legal authority. For an employee receiving a pay retention under 5 CFR 536, Subpart C (or similar authority, such as 5 CFR 359.705), the rate of basic pay is the maximum payable rate for the employee’s grade or level, rather than the retained rate.
+As an exception to the 10% limitation, a performance award/bonus of not more than 20% of the employee's annual rate of basic pay may be approved by the Commissioner of the Internal Revenue for exceptional performance. Requests for exception to the 10% limitation for NBU employees is covered by this IRM (refer to IRM 6.451.1.4, Coverage). Coverage should be forwarded to the business unit awards coordinator, through the Director, Policy Office to the Deputy Commissioner for approval.
+Performance award/bonus certificates are provided electronically or printed and distributed by the supervisor of record via the self-service offering on the Human Capital website. For more information, refer to the Awards Certificates at Formal Awards Certificates.
+6.451.1.7.2 (04-04-2024)
+Performance Award/Bonus Eligibility for Separated Employees
+Employees who leave the IRS may be eligible to receive a performance award/bonus for their final rating of record if they met the performance award/bonus criteria associated with their performance plan:
+BU and NBU-Other employees on Form 6850-performance plans who meet the eligibility criteria are eligible for consideration to receive a performance award. The employee must have completed the appraisal period, received a rating of record for the current FY, and be in a permanent BU or NBU-Other position as of the last day of the last pay period that ends on or before June 30 preceding the awards payment date for the rating period being recognized. For a BU performance award, BU employees must be on the rolls in a BU position and have 12 continuous months on the rolls as of the last day of the last pay period ending on or before June 30.
+Management officials on Form 12450-performance agreements who meet the eligibility criteria are eligible for consideration to receive a performance award. The employee must have received a rating of record for the current FY and be on the rolls in a management official position on September 30 of the rating period being recognized.
+Supervisors covered under the IRS Payband (IR) system on Form 12450-A performance agreements who meet the eligibility criteria are eligible for consideration to receive a performance bonus. The supervisor must have received an IR rating of record for the current FY and be in an IR position on September 30 of the rating period being recognized.
+6.451.1.8 (04-04-2024)
+Performance Awards - Bargaining Unit (BU)
+BU employees' performance award eligibility and amounts are determined per the 2025 Addendum to the 2022 NA, the 2022 NA, the National Performance Award Agreement (NPAA), and other negotiated provisions. Refer to the HCO Performance Awards site for program information.
+Under the 2025 Addendum to the 2022 NA, Article 18, BU employees who perform work at a grade higher than specified in their official position descriptions during a rating period may be eligible for increased performance awards. Refer to the HCO Performance Awards site at Performance Awards site for information on eligibility requirements and procedures.
+6.451.1.9 (04-04-2024)
+Performance Awards - Non-Bargaining Unit (NBU)
+Under the provisions of this IRM, NBU employees may be granted performance awards/bonuses. This includes non-supervisory NBU management officials, NBU-Other employees and supervisors (IR).
+Management Officials on Form 12450-Performance Agreements - Ratings are based on commitments and responsibilities. Management shall review each "Exceeded" appraisal to determine eligibility for an award. This shall include a review of the overall performance and commitments, obstacles overcome to exceed and complexity of the commitment.
+NBU Employees on Form 6850-Performance Plans (NBU Other) - Ratings are based on Critical Job Element (CJE) scores. A cut-off score will be established to determine the number of employees who received an exceeds rating who will be granted performance awards. Business units should establish their rating cutoff scores in July of each year.
+Supervisors (IR) on Form 12450A Performance Agreements - Ratings are based on commitments and responsibilities. The Performance Review Board (PRB) reviews the summary evaluation ratings of all supervisors on a corporate basis, within their business unit, to ensure performance rating consistency and objectivity. For additional PRB guidance, refer to the Payband Resource Center site.
+Additional information on NBU performance awards/bonuses can be found on the HCO Performance Awards site.
+6.451.1.9.1 (04-04-2024)
+Eligibility - NBU Performance Awards/Bonuses
+The IRS will grant performance awards/bonuses to NBU employees who are assigned Outstanding performance ratings of record.
+The IRS will grant performance bonuses to supervisors (IR) who are assigned an Exceeded rating of record, who exceed in both their responsibilities and their commitments. Supervisors (IR) who are assigned an Exceeded rating of record but do not exceed both their responsibilities and commitments will not receive a performance bonus. There will be no exceptions.
+Non-supervisory employees who are assigned Exceeds performance ratings of record may be provided performance awards at management discretion.
+Performance bonuses will not be provided for supervisors (IR) with a Met rating of record. There will be no exceptions.
+A rating of record for the current FY is required for the employee to be eligible to receive a performance award/bonus.
+Employees occupying an NBU position on the NBU award cut-off date may receive an NBU performance award/bonus if all other NBU award/bonus criteria are met, including those established by the business unit.
+The award/bonus cut-off dates are:
+The last day of the pay period on or before June 30 preceding the awards payment date for the rating period being recognized if rated on a Form 6850 performance plan.
+September 30 for management officials on a Form 12450B/D-performance agreement.
+September 30 for supervisors (IR) on Form 12450A-performance agreement except for the following individuals who will be included in the performance bonus pool and are eligible for a performance bonus:
+1. Permanent supervisors (IR) who are permanently moved out of an IR position and into a non-IR position within the last 60 calendar days of the appraisal period (where the departure appraisal becomes the rating of record);
+
+2. General Schedule (GS) employees on a temporary assignment to an IR position who receive an IR annual rating of record are not eligible for, and can not receive, an annual rating of record in their permanent GS position for the current performance award/bonus payout cycle. They are not eligible for the following reasons:
+
+Did not have 60 calendar days of performance in the permanent GS position,
+Had at least 60 calendar days of performance in the temporary IR position under an established IR performance plan, and
+Left the temporary assignment within 60 calendar days prior to September 30 (the end of the IR annual rating period).
+Eligibility requires the candidate be an IRS employee and assigned to a “permanent” NBU position. The word permanent refers to the position of record, not the appointment type. The requirement is based on the employee’s permanent position of record as recorded in the Treasury Integrated Management Information System (TIMIS), not a temporary assignment to another position, such as a detail or temporary promotion of less than 365 days. Refer to exception below.
+Awards/bonuses will be funded and processed by the business unit the employee is permanently assigned to on the applicable cut-off date.
+Example: Employee A in the Large Business and International Division, GS-7, rated on Form 6850-BU for period ending 02/28/2023, received a permanent promotion to GS-9 in the Small Business/Self Employed Division (SBSE) on 03/12/2023. The cut-off date for employees rated on Form 6850-BU for FY23 ratings was 06/17/2023. The employee’s award was funded and processed by the SBSE Division.
+Exception: Employees on temporary promotions with a not-to-exceed date equal to or greater than 365 days, who are not ratable in their position of record, are rated in the temporary position and are eligible for an award/bonus from the pool they were rated under (Form 6850-NBU or Form 12450-A/B/D). In this instance, the business unit in which the employee was rated will fund and process the applicable award.
+Note: This only applies to temporary promotions and does not apply to detail actions. An employee who is on a detail is considered, for pay and organizational purposes to be occupying their permanent position of record. See IRM 6.430.5, Performance Appraisals for Temporary Assignments, for information about how to address details and temporary promotions.
+6.451.1.9.2 (04-04-2024)
+Award/Bonus Structure - NBU Performance Awards/Bonuses
+Performance award/bonus calculation methods:
+Determined as a percentage of an individual’s salary or share value (including locality pay) as of September 30 for supervisors (IR) and management officials on Form 12450-performance agreements. Applicable percent bonus ranges will be posted annually on the payband resource center or supervisors (IR) performance bonuses, and on the HCO Performance Awards site at Performance Awards for non-supervisory NBU employees.
+Determined as a percentage of individual salary or share value (including locality pay) as of the last day of the pay period on or before June 30 for NBU-Other employees on a Form 6850-performance plan.
+The eligibility criteria beyond the scope of this IRM, determination of the award/bonus amount, and the calculation method will be at the discretion of each business unit. All criteria used to determine the distribution of performance awards/bonuses must be documented in each business units’ NBU Award/Bonus Plan, provided to the Policy Office by November 30 each year, and posted or made readily available to employees, if requested.
+6.451.1.9.3 (04-04-2024)
+Additional Factors - NBU Performance Awards/Bonuses
+A non-supervisory employee is not eligible to receive a QSI and a performance award for the same rating period.
+If the IRS determines the value for a performance award/bonus as a percentage of salary, the performance award/bonus must be based on the employee's rate of basic pay per 5 CFR 531, Subpart B.
+Performance awards/bonuses must make meaningful distinctions based on levels of performance. This means employees with higher ratings of record must receive larger performance awards (either as a dollar amount or as a percentage of salary) than those with lower ratings of record.
+For supervisors (IR), the business unit may divide and/or distribute an IR performance bonus percentage in any fraction within the approved range, provided the percentage awarded, not the dollar amount, for any Outstanding rating is greater than the percentage awarded for any Exceeded rating within the same payband.
+Performance bonuses will not be provided for supervisors (IR) with a Met rating of record; there will be no exceptions.
+Granting of QSIs for NBU-Other and management officials are at management discretion following the QSI Policy Guidance and must adhere to all funding levels set forth by the Chief Financial Officer (CFO).
+Once all NBU performance awards/bonuses have been paid, if there are any funds remaining, the business unit has the option of using those funds for discretionary awards. If excess performance award/bonus funds are realigned to pay NBU discretionary awards, the decision must be documented.
+6.451.1.9.4 (04-04-2024)
+Review Process - NBU Performance Awards/Bonuses
+Annually, each business unit must review the awards pool to determine the eligibility for granting awards/bonuses.
+Each business unit is responsible for establishing the number of Exceeds or Exceeds Fully Successful for non-supervisory employees who are eligible to receive awards based on objective criteria. For management officials, the determination will be made based on reviewing the complexity of their commitments on Form 12450-B/D performance agreement. For NBU-Others, on Form 6850 performance plans, the determination will be based on a cut-off score.
+Each business unit shall document all monetary and TOAs in compliance with OPM guidelines.
+Each business unit will identify a POC for awards/bonuses referred to as award coordinators.
+6.451.1.10 (09-02-2025)
+Quality Step Increases
+A QSI is a faster than normal increase in an employee's rate of basic pay (includes locality or special rate) from one step of an employee's GS or General Scheduled Law Enforcement Officers (GL) grade to the next higher step of that grade. A QSI has the effect of moving an employee through the GS or GL pay range faster than by periodic step increases alone.
+5 CFR 531, Subpart E, outlines provisions for QSI eligibility requirements, which have been incorporated into the IRM 6.451.1.10.1, QSI Eligibility.
+The purpose of a QSI is to provide appropriate incentives and recognition for excellence in performance. As with other types of recognition, QSI nominations and selections will be based on merit factors, with review of employees' significant accomplishments during the rating period. QSIs can provide long-term salary increases, and organizations must consider budgetary impact when deciding on the number of QSIs to approve each FY. Additionally, the maximum number of QSIs that an agency may approve may be subject to limitations established by the Office of Management and Budget and OPM.
+When granting QSIs, business units must use the annualized cost of the QSIs to ensure they remain within their spending allocations.
+With regard to NBU employees whose performance is rated on CJEs, business units have the discretion of effecting QSIs on the same cycle as that used for BU employees (see the 2025 Addendum to the 2022 NA, Document 11678-B, Exhibit 18-1) or in the first quarter of the fiscal year following the rating cycle being recognized. This decision must be documented in the business unit’s NBU Performance Award Plan.
+Non-managerial NBU employees whose performance is rated against responsibilities and commitments / objectives will have their QSIs processed in the first quarter of the FY following the rating of record being recognized.
+
+6.451.1.10.1 (04-04-2024)
+QSI Eligibility
+All GS and GL employees described under the QSI Eligibility criteria are covered.
+The IRS QSI eligibility criteria shall be based on official personnel records, rating of record approved by management and validly processed in the approved performance management system and other information available to supervisors.
+Per regulatory requirements, supervisors may recommend/nominate IRS employees for QSIs who meet eligibility requirements. To be eligible for a QSI, employees must:
+Be below step 10 of their grade level,
+Have been officially assigned a current Outstanding rating of record,
+Have not been granted a QSI within the preceding 52 consecutive calendar weeks and,
+Occupy a permanent position.
+Note: An employee serving on a temporary appointment is not eligible for a QSI. “Permanent position” means a position filled by an employee whose appointment is not designated as temporary and does not have a definite time limitation of one year or less.
+6.451.1.10.2 (04-04-2024)
+QSI Nominating Processing Procedures
+Supervisors may nominate employees for QSIs at their discretion per the criteria in IRM 6.451.1.10.1, QSI Eligibility, and business unit timelines and procedures.
+Supervisors will submit nominations using Form 14776, QSI Nomination, and must include a justification regarding the outstanding accomplishments that warrant the granting of a QSI.
+Each business unit will ensure that all ratings of record are timely completed, approved and validly entered into the approved performance management system within the deadlines described in the IRM 6.430 Performance Management series and the NA.
+For BU and NBU-Other employees, business units must ensure that all ratings of record are completed and input as Rating Reviewed/Approved Status, in the automated performance appraisal system no later than June 30 of each year to ensure all QSI eligible employees are considered for nomination.
+For management officials and management/program analysts (for positions designated as confidential only), business units must ensure that all ratings of record are completed and input as Rating Reviewed/Approved Status, in the automated HR system, no later than October 31 of each year to ensure all QSI eligible employees are considered for nomination. If the business unit has a Commitment Review Board, the deadline is November 30.
+Each business unit will develop and issue nomination timelines and procedures to their supervisors to ensure QSI nominations and selections are timely completed. Business units will not develop any additional QSI nomination criteria.
+Each business unit will determine the approving official(s) for QSIs within their respective divisions in compliance with Delegation Order 6-22 at IRM 1.2.2.7.12.
+Business units may not exceed the QSI funding levels provided by the CFO.
+Employees will be given five business days to decide whether to accept the QSI offer. Supervisors will need to adjust these timeframes for employees on approved leave. Business units will make reasonable attempts to facilitate a timely response. If no response is received, the form will be documented as “no response, QSI not accepted” and the employee will not be granted a QSI.
+For employees in non-work or furlough status, supervisors will forward the Form 14776, QSI Nomination, to their home address via US Mail and allow 10 business days for a response.
+Employees who decline QSIs will remain eligible for performance awards, provided all other performance award requirements are met.
+Each business unit must determine which employees will receive a QSI no later than eight weeks prior to the effective date for the annual IRS-NTEU performance award payments or timeframe indicated in IRS guidance.
+The QSI final approval will be completed by the IRS Human Capital Officer or their designee.
+The HCO Performance Management and Recognition (PMR) office will communicate QSI effective dates annually in coordination with the annual performance award payouts.
+QSI effective dates for NBU-Other employees evaluated on Form 6850 typically will be one pay period prior to the annual performance awards effective date.
+QSI effective dates for BU employees, evaluated on Form 6850, typically will be within the first quarter of the FY.
+QSI effective dates for management officials, evaluated on Form 12450-B/D, will be one pay period after the annual performance awards effective date. (This is due to the rating period ending September 30 and to allow business units ample time to make the QSI selections.)
+Each business unit will be responsible for the timely input of QSI PARs for all BU and NBU employees. The PAR actions must be input into the automated HR system at least two full pay periods prior to the effective date. If not, the date of the PAR action will be changed to the following pay period. The narrative justification used on Form 14776, QSI Nomination, for granting the QSI must be included in the remarks section of the PAR, along with the rating period covered and date the misconduct/tax compliance screenings were complete. Refer to the SOP 451-1, Processing Awards in HRConnect, at Standard Operating Procedures, HR Shared Services SOPs.
+6.451.1.10.3 (04-04-2024)
+QSI Additional Factors
+Once a QSI election is confirmed and accepted by the employee, it cannot and will not be rescinded.
+A QSI does not affect the timing of an employee’s next regular Within-Grade Increase (WGI), unless the QSI places the employee in step 4 or step 7 of their grade. In these cases, the employee must complete the full waiting period for the new step 104 weeks for steps 4-6, or 156 weeks for steps 7-9. However, the time an employee has already waited is not lost; it continues to count towards the waiting period for the next step increase. The QSI provides the employee the benefit of receiving an additional step increase at an earlier date than they originally would have without losing any time creditable towards their next WGI.
+Employees at step 9 should consider the effective date of their next WGI to a step 10 and whether a QSI is advantageous. The example below provides greater detail in determining the benefit of a QSI for employees at the step 9.
+For employees at the step 9, who are due a WGI between January and September of the calendar year, electing a QSI will not provide the benefit of the QSI because the employee’s step would be a step 10 when the QSI becomes effective. QSIs are generally awarded in the first quarter (between October and December) of the FY following the rating of record. The table below illustrates the point that the employee will already have achieved step 10 by the time the QSI is processed.
+Current Step	9
+Due Date of Next WGI	September 22, 2023
+QSI Election Made:	July 3, 2023
+QSI Effective Date:	October 22, 2023
+This example shows that the employee’s WGI would be received on the due date of September 22, 2023; therefore, the QSI would not be granted since the employee would be at step 10 on the QSI effective date of October 22, 2023.
+Further details are available on Form 14776, QSI Nomination.
+6.451.1.10.4 (04-04-2024)
+Effects of Promotions
+A QSI must be applied to the rate of pay for the position on which the rating of record was based. If an employee receives a career ladder promotion or competitive promotion after their rating of record is issued but before the effective date of said QSI, the employee will lose eligibility for the QSI. However, the employee retains eligibility for a performance award.
+If the rating of record is based on the employee’s performance in the temporary promotion, the QSI must be based on the rate of pay for the temporary position. When the temporary promotion terminates, the employee loses the benefit of the QSI because pay is set at the lower grade as if the employee had not been temporarily promoted (refer to IRM 6.531.1.2.11, Setting Pay upon Demotion (Change to Lower Grade/Band)). The employee may receive the benefit of the QSI upon re-promotion provided the temporary promotion is held for over 365 days (refer to IRM 6.531.1.2.15, Rates of Basic Pay that May be Used as the Highest Previous Rate). In this situation, employees should weigh the benefits of the QSI in the temporary position and the impact the QSI will have when moving back down to the lower grade of their prior position.
+If the rating of record was based on the employee’s performance in the permanent position, the QSI cannot be awarded based on the rate of pay received during a temporary promotion. The employee would be eligible to be granted the QSI after termination of the temporary promotion when the employee returns to the lower-graded position. This is an exception to the IRS policy of effecting all QSIs on the same date.
+If an employee is approved for a QSI on their position of record and a temporary promotion becomes permanent, the QSI cannot be granted in the higher-graded position to which the employee was promoted (e.g., if a QSI is approved based on outstanding performance at the GS-9, the QSI cannot be granted at the GS-11). However, the employee retains eligibility for a performance award.
+If an employee is approved for a QSI on their position of record and becomes eligible for a career ladder promotion while on the temporary promotion, or if a competitive permanent promotion is effective prior to the effective date of the QSI, the QSI cannot be granted. However, the employee retains eligibility for a performance award.
+In all cases, a QSI must be effective prior to the employee’s receipt of a subsequent rating of record. If the QSI is not processed due to a temporary promotion and a subsequent rating of record is issued before the employee returns to their position of record, they lose eligibility for the QSI. In these cases, the employee retains eligibility for a performance award.
+6.451.1.10.5 (04-04-2024)
+QSI Documentation and Review
+All documentation for those selected and offered QSIs must be forwarded to the employees’ immediate supervisor for filing in the EPF. Documentation includes the final Form 14776, QSI Nomination, which must include the QSI offer and employee response.
+Business unit QSI Coordinators will maintain records of the nomination and selection process, including names of all nominations, selections, misconduct screening, offer letters, and Personnel Action Request (PARs).
+After QSIs have been made effective, business units and HCO will review QSI distribution patterns.
+6.451.1.10.6 (04-04-2024)
+Retroactive Limitation
+In accordance with decisions of the Government Accountability Office, a QSI may not be granted retroactively. This means that a QSI may not be made effective before the date it was approved by the authorized official (the IRS Human Capital Officer or their designee). However, delays beyond normal processing cycle due to human or computer error may constitute an administrative error, which is grounds for processing the QSI retroactively. The business unit must have completed the QSI Nomination Process within the annual timeframe issued by the HCO PMR office and obtained the business unit approval signatures prior to this cut-off date to satisfy this exception.
+6.451.1.11 (04-04-2024)
+Special Act and Manager Awards
+Special Act/Manager Awards are types of discretionary awards. Refer to IRM 6.451.1.1.6, Terms.
+Only one award (cash or time-off) is allowed for any one contribution.
+Streamlined approval and processing procedures maybe employed during national emergencies.
+Award Certificates are available for presentation with any of the Special Act and Manager Awards.
+6.451.1.11.1 (09-02-2025)
+Monetary Special Act and Manager Awards
+The business units will allocate a percentage of their BU and NBU performance award budgets to fund monetary Special Act/Manager Awards. The percentage to be set aside for BU awards is specified in Article 18, Section 1(B)(3), of the 2025 Addendum to the 2022 NA. Funding allocations for NBU monetary Special Act and Manager Awards will be established as a minimum of 10% of the NBU performance award allocation. Increases in this allocation may be made at the discretion of each business unit and must be documented in the business unit’s annual NBU Performance Award Plan.
+Each business unit will develop internal procedures for their supervisors to ensure award nominations are reviewed against the Special Act/Manager allocations prior to approval and processing.
+There is no limit to the number of monetary Special Act/Manager awards an employee may receive for their accomplishments either as an individual or a member of a group or team. Written justification is required for each monetary Special Act/Manager award and requires approval as outlined in Delegation Order 6-22 at IRM 1.2.2.7.12. For additional guidance, refer to Standard Operating Procedure (SOP) 451-1, Processing Awards in HRConnect at Standard Operating Procedures, HR Shared Services SOPs. Guidance on determining the amount of a Monetary Special Act/Manager award is provided in Form 9127.
+6.451.1.11.2 (09-02-2025)
+Time-Off Special Act/Manager Awards
+Time-Off Special Act/Manager awards are granted in the form of time-off afforded to employees assigned to a BU or NBU position and are granted under guidance by 5 CFR 451.104 (a) and Article 18, Sections 4 and 5 of the 2025 Addendum to the 2022 NA.
+Time-Off Special Act/Manager awards granted under these provisions are not charged to the awards or bonus budgets; however, the value of these awards is limited to a maximum percentage of the business unit’s performance award budget. Business units may utilize any amount up to the designated limitation to ensure organizational needs are met. The designated percentage will be determined corporately on an annual basis and published on the HCO Performance Awards site.
+Each business unit will develop internal procedures for their supervisors to ensure award nominations are reviewed against the defined limitation prior to approval and processing.
+Conversion of a time-off Special Act/Manager Award to a monetary award is prohibited. 5 CFR 451.104 (f) states, “A Time-Off Award granted under this subpart shall not be converted to a cash payment under any circumstances.”
+Exception: If a time-off award is granted in error and the error can be documented, correction of the error by reversing the time off award and granting a monetary award is not a prohibited conversion described in the regulation. These corrections will be limited to cases that are fully documented.
+
+BU employees who were issued a leave restriction letter within 12 months before the award effective date are not eligible for a time-off Special Act/Manager Award under this policy, per Article 18, Section 5D of the 2025 Addendum to the 2022 NA. This provision does not apply to NBU employees.
+Supervisors nominating an employee for a time-off Special Act/Manager Award must complete Form 9127 and include written justification describing the employee accomplishment that is the basis for the time-off Special Act/Manager Award. This form must be maintained in the employee’s EPF.
+Time-Off amounts are limited to a minimum of one hour requiring management approval.
+Note: Please refer to the frequently asked questions (FAQs) on the HCO Performance Awards site for additional information regarding time-off Special Act and time-off Manager Awards.
+6.451.1.12 (04-04-2024)
+Time Off Awards (TOA) (General Provisions)
+This section provides general provisions for all types of TOAs under this IRM.
+Not more than 40 hours of time-off may be granted to any full-time employee for any single contribution during a leave year. (A part-time employee, or an employee with an uncommon tour of duty, may be granted hours not to exceed one-half of the average number of hours in the biweekly scheduled tour of duty.)
+No more than a combined total of 80 hours of time-off may be granted to any full-time employee during a leave year including a TOA in lieu of a monetary performance award/bonus or bilingual award. (A part-time employee, or an employee with an uncommon tour of duty may be granted a total number of hours not to exceed the average number of hours in the biweekly scheduled tour of duty).
+Supervisors are responsible for ensuring an employee has not reached the 80-hour TOA limit in a calendar year. This includes all TOAs (e.g., in lieu of monetary performance, bilingual). This can be done by reviewing the leave balances displayed in the payroll system or through the IRS Human Resources Reporting Center at HRRC via the Secured Business Unit Reports tab.
+Note: Refer to IRM 6.451.1.12.2, Calculating Time-Off and Supplemental Monetary Awards, for procedures applicable when a TOA would exceed the 40- or 80-hour limitation.
+Time-off shall not be used:
+To reduce an outstanding leave deficit such as advanced sick leave,
+As a substitute for other personnel or pay actions, or
+In lieu of payment for overtime worked.
+6.451.1.12.1 (09-02-2025)
+Scheduling and Taking Time Off
+Employees are responsible for obtaining their supervisor’s approval for the use of time-off hours in the same manner as all leave approval requests.
+Employees may not use the TOA until it is posted in Single Entry Time Reporting (SETR). Once available, time-off may be taken in a single block of time or in one-hour increments.
+The granting of time-off does not increase an employee’s “use or lose” annual leave, and time-off should be scheduled so as not to conflict with existing “use or lose” annual leave. Time-off absence is not justification for the restoration of forfeited annual leave.
+Because time-off is not annual leave, it cannot be transferred to another federal employee under the Voluntary Leave Transfer Program.
+Time-off balances will be forfeited if there is a balance at the time of separation.
+Time-off must be scheduled and taken within one year after the effective date of the award unless one of the exceptions in this paragraph applies. Time-off that is not taken within one year (26 pay periods) and not subject to one of the exceptions below, will be forfeited and will not be restored. The second-level supervisor may grant a written exception prior to expiration in the following situations:
+When an employee is granted extended annual or sick leave or leave without pay that would prevent taking the time-off within one year,
+When a BU employee is issued a leave restriction letter after the TOA approval, which would prevent taking the time-off within one year (this provision does not apply to NBU employees.)
+Note: This may occur if the employee requests TOA hours due to illness or injury but fails to provide acceptable medical documentation.
+When physical incapacitation for duty occurs during a period when an employee is taking time-off, sick leave may be granted for the period of incapacitation (medical certification may be required upon the employee’s return to work). Time-off should then be rescheduled, subject to the supervisor’s approval,
+If military service requiring military leave, military leave without pay, annual leave, or sick leave is approved and used. In this situation, leave granted for military service after the effective date of the TOA and before the employee returns to duty with the IRS, shall extend the one-year time limitation based on an eight-hour workday. For example, if a total of 200 hours of this type of leave was approved and used for military service, the one-year limitation shall be extended by five calendar weeks, or
+Note: If the employee provides the immediate supervisor with a copy of the military orders directing the employee to active duty or appointed into Federal Emergency Management Administration (FEMA) service to respond to disasters and emergencies and a copy of the certificate on completion of such duty. This information should be provided to the supervisor upon the employee’s return to duty with IRS and before expiration of the extended period. Higher level approval is not required for this exception. The supervisor shall contact their payroll representative promptly to have the expiration date of the TOA extended.
+In the event of a regional or national emergency, as determined by management, which prevents the employee from taking the time off within one year. For example, an employee disapproved for use of time off due to critical IRS need in response to national disaster/pandemic.
+6.451.1.12.2 (09-02-2025)
+Calculating Time Off and Supplemental Awards
+When time-off is approved as an award, the time-off hours shall be calculated as follows:
+The value of the TOA is divided by the employee’s hourly rate of pay, rounded to the nearest dollar. The result is rounded to the nearest hour.
+Example: If the recommended award amount is $500, and an employee earns $15.72 an hour, the $500 award amount is divided by $16; (the $15.72 hourly rate of pay, rounded to the nearest dollar). The result of 31.25 hours is rounded to a 31-hour TOA.
+If the value of the TOA is divided by the employee’s hourly rate of pay and exceeds the 40-hour limitation, the balance of the award will be paid as a monetary award. For example, if the recommended award amount is $800 and an employee earns $15.72 an hour, the $800, award is divided by $16 (the $15.72 hourly rate of pay, rounded to the nearest dollar). The result of 50 hours exceeds the 40-hour limitation; therefore, the employee would receive a 40-hour TOA, and the balance of $160 would be issued as a monetary award.
+For calculating time-off, the hourly rate of pay is determined by the employee’s basic annual salary on the date the award is approved. The annual rate of basic pay used must include any applicable locality-based comparability payments 5 CFR 531, Subpart F, special rate schedules for recruitment and retention, 5 CFR 530, Subpart C, or similar payment or supplement under other legal authority. For an employee receiving pay retention, 5 CFR 536, Subpart C (or similar authority, such as 5 CFR 359.705), pay, the rate of basic pay is the maximum payable rate for the employee’s grade or level, rather than the retained rate.
+Hourly rates of locality pay for employees paid under the GS are posted on the Office of Personnel Management’s (OPM’s) page, Salaries & Wages. Hourly rates for employees paid under the IRS Payband System are posted on the Payband Resource Center.
+Supplemental Monetary Awards. If the time-off component of a performance award (calculated as described in paragraph 2) results in hours that exceed the 40- or 80- hour limitation described in IRM 6.451.1.12.1, Scheduling and Taking Time Off, or IRM 6.451.1.12.2, Calculating Time Off and Supplemental Awards, a supplemental monetary award shall be paid for the value of the excess hours. This award is paid because the employee is not authorized to receive time-off hours in excess of the limitation.
+Note: Supervisor computation of TOA and supplemental monetary awards is subject to verification and processing by HCO HRSS office.
+Note: Time-Off Special Act/Manager Awards under section IRM 6.451.1.11.2, Time-Off Special Act/Manager Awards, shall not have any time-off in excess of the 40-hour limitation converted into a monetary award per 5 CFR 451.104(f).
+6.451.1.13 (09-02-2025)
+Bilingual Awards
+Bilingual Awards are Special Act Awards automatically granted to BU and NBU employees assigned to a bilingual or interpreter position description (PD) who use their bilingual or interpreter skills on a regular basis and are currently rated at least Fully Successful. These awards will be funded separately from performance awards. BU and NBU employees will receive the same, negotiated award value.
+6.451.1.13.1 (09-02-2025)
+Bilingual Awards Eligibility
+Eligibility is based on the employee’s assigned position. BU and NBU employees assigned to a bilingual PD who, on a regular basis rather than occasionally, utilize their bilingual skills and whose performance is currently rated at least Fully Successful are eligible to receive a Bilingual Award of the negotiated amount beginning with the FY24 performance cycle.
+Bilingual Awards may be granted only to individual employees either as monetary or TOAs.
+Bilingual Awards may be granted to employees with a Fully Successful rating assigned to a bilingual PD for at least 60 calendar days during the rating period.
+Time spent in leave without pay, in a non-pay status, or as a part-time employee does not impact this award.
+These awards are generally issued during the first quarter of the FY based on performance for the prior FY appraisal period.
+Providing a Bilingual Award does not exclude employees from receiving a Performance Award.
+Employees who were not assigned to a bilingual or interpreter PD but who, on a regular basis rather than occasionally, utilize their bilingual or interpreter skills, may be entitled to a Bilingual Award. For BU and NBU employees, the supervisor must apply the criteria in Article 18, Section 6, of the 2025 Addendum to the 2022 NA to determine whether a Bilingual Award is warranted.
+Employees will be eligible to receive only one Bilingual Award per calendar year.
+6.451.1.14 (09-02-2025)
+Employee Referral Bonus Program (ERBP)
+The Employee Referral Bonus Program provides recognition for IRS employees who refer qualified external (i.e., non-IRS) job candidate(s) who are selected for employment and remain on the job for the designated period.
+Covered Employees - All GS and GL employees serving on a permanent appointment and described under IRM 6.451.1.14.1, Employee Referral Bonus Eligibility Criteria, are covered under the ERBP.
+Excluded Employees:
+All employees in the HCO,
+All IR employees,
+All servicewide public officials (refer to Note),
+Note: For this purpose, public official is defined in 5 USC 3110(a)(2), and includes an officer (including the President and a Member of Congress), a member of the uniformed service, an employee and any other individual, in whom is vested the authority by law, rule, or regulation, or to whom the authority has been delegated, to appoint, employ, promote, or advance individuals, or to recommend individuals for appointment, employment, promotion, or advancement in connection with employment in an agency.
+Any employee who is involved in any way in the selection of the referred candidate (including Qualification Review Board Members, developers of selection criteria, recruitment teams, etc.), and
+Any employee whose official duties include recruitment.
+Qualified External Candidates – To qualify under the ERBP, the referred job candidate(s) must not be:
+A relative (refer to Note) of the covered employee referring them,
+Note: “Relative” includes a father, mother, son, daughter, brother, sister, uncle, aunt, first cousin, nephew, niece, husband, wife, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half-brother, or half-sister.
+A current IRS employee,
+A former IRS employee,
+An employee hired on a temporary appointment of less than one year (this includes all student appointments, whether temporary or career),
+A contractor(s) who currently works for the IRS or who worked for the IRS within the past year,
+A consultant(s) who currently works for the IRS or who worked for the IRS within the past year, and
+An Advisory Committee Member who is currently on committees or who have been on committees within the past year.
+Hard-to-Fill Position (HTF) - means the IRS is likely to have difficulty recruiting qualified candidates with the competencies required for a position in the absence of an incentive. IRS must consider factors in 5 CFR 575.106(b), as applicable, to determine whether a position is likely to be HTF. The basis for the determination may include lacking the availability of applicants, hard-to-find skill sets, less than desirable duties, work environment, appointment type, work schedule and/or geographic location.
+6.451.1.14.1 (04-04-2024)
+Employee Referral Bonus Eligibility Criteria
+To be eligible for an ERBP award, the referring employee must meet all the following criteria:
+Be a covered employee and not fall into any of the exclusions outlined above,
+Be on the IRS rolls when the candidate is referred, as of the candidate’s entrance on duty (EOD), and at the time the award is made (see below for exception made when the referring employee retires),
+Must have referred an individual who is not considered a relative. Refer to the definition under IRM 6.451.1.15, Employee Referral Bonus Program (ERBP), (4) Qualified External Candidates, and
+A referring employee who retires prior to the candidate’s EOD will still be eligible for the ERBP award, so long as the referring employee was employed by the IRS on the date the candidate submitted their application.
+Note: Any employee who improperly makes promises of employment to candidates or engages in inappropriate conduct as it relates to this program will be denied an award and may be subject to discipline.
+The IRS HCO will post the positions designated as HTF and eligible for an ERBP award. The HTF listing consists of Mission Critical Occupations (MCO) and Direct Hiring Authority (DHA) series. Business units will socialize the vacancy announcement(s) and any associated ERBP award using established communication outlets. Business units will also:
+Approve the HTF designation for notation in the automated system.
+Ensure funding is available from the Deputy Commissioner for employee referral bonuses.
+6.451.1.14.2 (04-04-2024)
+ERBP Award Value and Payment
+The Employee Referral Bonus amount will not exceed the negotiated amount. Refer to the ERBP Memorandum of Understanding on the National Agreement site.
+One-half of the specified bonus amount will be paid after the new hire completes six months in the HTF position. The other half of the bonus will be paid after one year in the HTF position. The six month and one year counter begins on the new hire’s EOD date.
+There is no limit on the number of ERBP awards an eligible employee may receive.
+An SF-50 is generated for the award payment.
+6.451.1.15 (04-04-2024)
+IRS Employee Recognition Program
+The Employee Recognition Program is the IRS’s exclusive, non-monetary, honorary recognition program that provides an important way to recognize individual and team accomplishments and contributions in support of the IRS mission, strategic goals and values. This Servicewide program provides multiple opportunities for employees to be recognized for exemplary service by various levels of management and by their peers. The program includes Management Awards, Head of Office Awards, IRS Commissioner Awards, and recognition tools.
+Management Awards include Informal Awards, Formal Awards, Going the Extra Mile (GEM) Awards and Vision Awards.
+Head of Office Awards include IRS Excellence Award, Horizon Award, Leadership Excellence Award and Distinguished Service Award.
+IRS Commissioner Awards include the IRS Commissioner Award and Robert E. Wenzel Award.
+Recognition tools include e-cards, Shout Outs and Shared Stories.
+The IRS Managers’ Recognition Toolkit was designed to be a supervisor’s guide to recognition tools and resources. Many of these tools are of little or no cost to the supervisor or the IRS and do not require complicated procedures. These recognition tools can be powerful ways to recognize accomplishments, provide incentives for high performance, and serve as a vehicle to increase employee engagement.
+6.451.1.16 (04-04-2024)
+IRS Federal Career Service Recognition Program
+The IRS values each employee as a vital member of the organization. The IRS Career Service Awards program was established to convey appreciation by recognizing milestones of employees’ creditable federal service. At key points during their careers, IRS employees shall be awarded federal career service recognition items to emphasize appreciation for their IRS service and to the federal government.
+Creditable Federal Service (Eligibility). IRS uses the Leave Service Computation Date, as captured in TIMIS, to determine eligibility for a Career Service Recognition Award. All civilian service for departments or agencies of the federal government and only military service that is creditable for service computation date purposes are used when determining federal career service recognition eligibility. Service credit granted for prior non-federal work experience and experience in a uniformed service for determining the annual leave accrual rate of a newly appointed employee is not creditable to determine eligibility for a Career Service Recognition Award.
+Career service emblems consist of federal career service certificates and the IRS career service plaques.
+Career service certificates for 5 years, 10 years, and 15 years of service are emailed to the employee’s immediate supervisor. The supervisor has the option to email the certificate or present the certificate to the employee.
+Career service plaques recognize creditable federal civilian and honorable military service for 20, 25, 30, 35, 40, 45, 50, 55 and 60 years of service. Career service plaques are standardized throughout the IRS. Plaques are engraved with the employee’s name of record and indicate the specific milestone year.
+Recognition presentation events are discussed in IRM 6.451.1.20, Award Presentation Ceremonies.
+The HCO, HRSS, Philadelphia Payroll Center (PPC) is responsible for requisitioning and providing mementoes to employees. The mementoes typically arrive the month the employee is due the award. The PPC provides guidance and procedures about employee eligibility and the ordering, stocking, distribution and replacement of career service certificates and plaques. Additional information can be found on the Career Service Recognition site.
+6.451.1.17 (04-04-2024)
+Albert Gallatin Award
+The Albert Gallatin Award is Treasury’s highest honorary career service award. It is conferred by the Secretary upon the retirement or death of a federal employee who served 20 or more years in the Department of the Treasury and whose record reflects fidelity to duty. The IRS Benefits and Services Team (BeST) at BeST Responsibilities in the Retirement Process provides guidance and procedures about employee eligibility and the distribution of Gallatin Awards.
+6.451.1.18 (04-04-2024)
+Externally Sponsored Awards
+Periodic announcements are made of prestigious honors in recognition of notable achievements in the public sector that are sponsored by agencies or organizations outside the IRS. When the IRS receives solicitations for nominations, the business units will control and return a consolidated response to the issuing agency. The issuing agency will determine if the nominated employee meets the award criteria.
+6.451.1.19 (04-04-2024)
+Travel Gainsharing Awards
+This is a voluntary program administered by the CFO Financial Management, Travel Management Office that rewards employees who save the IRS money while on official city-to-city travel. Employees share in the savings from the use of less expensive lodging and/or use of frequent flyer benefits to purchase airline tickets for official travel. For a full description of this program, refer to IRM 1.32.14, Gainsharing Travel Savings Program.
+Note: Some business units require that Form 9127 be completed and routed through the appropriate officials. Other offices process gainsharing awards through an automated HR system. Employees should contact their supervisors or finance staff for applicable procedures.
+6.451.1.20 (04-04-2024)
+Award Presentation Ceremonies
+Responsible officials should publicly recognize employees as they reach significant career milestones or are granted other awards. Supervisors may determine the nature (formal or informal), frequency and similar details of recognition events. Recognition events should be coordinated with appropriate IRS officials.
+When a proposed recognition event would affect a BU employee, advice should also be sought from the initiating office’s business-based human resources staff and/or HCO LERN specialist about the negotiated obligation to advise the NTEU in advance of the event.
+Presentations shall be made in an appropriate and dignified setting, such as group or staff meetings or scheduled employee recognition ceremonies. Ideally, presentations should be made as close to the anniversary date of the career milestone or granting of the award as possible. However, supervisors may determine that periodic ceremonies where large numbers of eligible employees may be honored are also appropriate.
+The IRS Managers’ Recognition Toolkit and IRM 1.32.20, Using Appropriated Funds to Purchase Meals and Light Refreshments, provides guidance on purchasing light refreshments for employee recognition events.
+6.451.1.21 (09-02-2025)
+Pay and Tax Consideration
+Monetary awards are in addition to the regular pay of the recipient and are subject to required deductions including federal, state, and local income taxes.
+Note: Some non-monetary awards and monetary equivalent awards such as gift certificates, vouchers, and charge, credit or gift cards are taxable. Refer to the Employee Tax Compliance Information Corner, and Publication 15-B, Employer's Tax Guide to Fringe Benefits, for detailed guidance on the tax treatment of non-monetary awards.
+Monetary awards do not affect the computation of salary differentials.
+Monetary awards are not basic pay for any purpose.
+Individual monetary awards are subject to the limitation on pay described in IRM 6.530.1, Aggregate Limitation on Pay and Special Rate Schedules.

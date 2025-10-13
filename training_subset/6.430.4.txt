@@ -1,0 +1,145 @@
+6.430.4 Performance and Reduction in Force
+6.430.4.1 Overview of Performance and Reduction in Force
+6.430.4.2 Performance Appraisals Used for RIF
+6.430.4.3 Amount of Credit for Performance
+6.430.4.4 Use of a Cutoff Date in RIF
+6.430.4.5 Missing Ratings of Record
+6.430.4.6 Use of the Modal Rating
+6.430.4.7 Multiple Rating Patterns
+Exhibit 6.430.4-1 Multiple Rating Patterns of Summary Levels of Performance
+Part 6. Human Resources Management
+Chapter 430. 0 Performance Management
+Section 4. Performance and Reduction in Force
+6.430.4 Performance and Reduction in Force
+Manual Transmittal
+May 06, 2011
+
+Purpose
+(1) This transmits revised IRM 6.430.4, Performance Management, Performance and Reduction in Force (RIF).
+
+Material Changes
+(1) IRM 6.430.4.4 (5) (b) has been revised to reflect National Agreement II requirements on departure appraisals.
+
+Effect on Other Documents
+IRM 6.430.4 dated June 12, 2009 is superseded.
+Audience
+All Operating Divisions and Functions.
+Effective Date
+(05-06-2011)
+Richard J. Cronin
+Director, Workforce Progression and Management Division
+
+6.430.4.1 (01-01-2007)
+Overview of Performance and Reduction in Force
+Performance is one of the four retention factors used in reduction in force (RIF) as outlined in 5 USC 3501 - 3503.
+This IRM section specifies the policies and procedures that the IRS uses in determining the proper retention service credit for performance ratings in a competitive area undergoing a RIF.
+6.430.4.2 (01-01-2007)
+Performance Appraisals Used for RIF
+Only a rating of record or an equivalent rating of record may be used as the basis for granting retention service credit in RIF.
+An equivalent rating of record means a performance evaluation not given under 5 CFR 430, Subpart B, but meeting the following requirements:
+Was issued as an officially designated evaluation under the employing agency's performance evaluation system.
+Was derived from the appraisal of performance against expectations that were established and communicated in advance and were work related.
+Identified whether the employee performed acceptably.
+
+To be used as the employee's rating of record, an IRS performance appraisal must:
+Be completed on an officially designated performance appraisal form appropriate to the employee's position of record.
+Contain the signatures of the rating official/rater and reviewing/approving official.
+Have been provided to the employee.
+Contain an overall rating or summary evaluation and a rating for the Retention Standard for the fair and equitable treatment of taxpayers (when appropriate).
+Be based on the evaluation of actual job performance for the designated appraisal period.
+Be retained by the rating official in the employee's Employee Performance File (EPF).
+Be entered into the Service's automated personnel system.
+
+Ratings of Record from other Federal agencies and Treasury bureaus may be accepted for RIF purposes if they are given under the requirements of Subpart B, Part 430, Office of Personnel Management (OPM) regulations or meet the requirements of an equivalent rating of record specified above.
+6.430.4.3 (01-01-2007)
+Amount of Credit for Performance
+Each employee in a competitive area undergoing a RIF receives additional retention service credit for performance based on the average of the employee's three most recent ratings of record received the 4-year period prior to the date the IRS freezes ratings before issuing specific RIF notices.
+The IRS will provide additional retention service credit to the employees under the same summary rating pattern in additional years of service on the basis of the mathematical average of each employee's ratings of record:
+20 additional years of service for each rating of record of " Outstanding" or equivalent summary (Level 5);
+16 additional years of service for each rating of record of " Exceeds Fully Successful" or equivalent summary (Level 4); and
+12 additional years of service for each rating of record of " Fully Successful" or equivalent summary (Level 3).
+
+The IRS may not give any additional retention service credit for ratings of record of "Minimally Successful" or equivalent (Level 2), or "Unacceptable" or equivalent summary (Level 1).
+If the average is a fraction, the Service will round up the fraction to the next higher whole number.
+6.430.4.4 (05-06-2011)
+Use of a Cutoff Date in RIF
+The IRS has established the use of a cutoff date of a minimum of 60 days prior to the planned issuance of the specific RIF notices to freeze ratings of record from being used in a RIF.
+The purpose of the cutoff date is to provide sufficient time to properly determine employees' retention standings prior to a RIF.
+The cutoff date must be stated as a specified number of days occurring prior to the issuance of the specific RIF notices.
+
+After this cutoff date, no new ratings of record may be put on the record and used for RIF purposes.
+Ratings of record received after the cutoff date may still be used for other purposes such as awards, merit promotion actions, etc.
+Note: To be put "on the record" means the completed valid performance appraisal is entered into the Service's automated personnel system and is available for use in a RIF.
+
+The performance appraisal cutoff date may be longer than 60 days based on the results of negotiations with the National Treasury Employees Union (NTEU).
+No annual performance appraisal will be completed before the ending date of the employee's appraisal period to circumvent the specified cutoff date. The only exceptions to the prohibition of early appraisals are:
+A departure appraisal prepared for an employee who permanently departs his or her position within the last 60 days of the employee's appraisal period.
+A departure appraisal prepared for an employee whose supervisor is departing his or her position within the last 60 days of the employee's appraisal period.
+Note: These departure appraisals become the employee's rating of record. See IRM 6.430.2.5.1 and 6.430.3.5.1 for more information on departure appraisals used as ratings of record.
+
+
+6.430.4.5 (01-01-2007)
+Missing Ratings of Record
+If an employee in a competitive area undergoing a RIF has not received three actual ratings of record during the applicable 4-year period prior to the date the IRS freezes ratings, the IRS provides additional retention service credit using the following procedures:
+An employee who has received at least one but fewer than three previous ratings of record during the applicable 4-year period receives retention service credit for performance on the basis of the value of the actual rating(s) of record divided by the number of actual ratings received.
+An employee who has not received any rating of record during the applicable 4-year period receives retention service credit for performance based on the modal rating for the summary level pattern that applies to the employee's official position of record at the time of the RIF. Examples : The modal rating would be necessary for an employee who did not receive a rating of record for a variety of reasons (e.g., active military duty, injury compensation, an assignment under the Intergovernmental Personnel Act, work on behalf of a collective bargaining unit, or insufficient time in a pay status for a seasonal employee).
+
+6.430.4.6 (01-01-2007)
+Use of the Modal Rating
+The modal rating is the summary rating level assigned most frequently among the actual ratings of record that are:
+Assigned under the summary level pattern that applies to the employee's official position of record on the date of the RIF.
+Given within the same competitive area.
+On the record (issued to the employee with all appropriate reviews and signatures).
+For the most recently completed appraisal period prior to the cutoff date the IRS specifies prior to the issuance of notices after which no new ratings will be put on the record.
+
+The IRS bases the modal rating on the competitive area undergoing a RIF.
+At the time a RIF is contemplated for a competitive area, the Service will review the affected employees' records to determine if the use of modal ratings will be necessary.
+If one or more employees in the competitive area do not have at least one rating of record during the previous 4- year period, the modal rating is calculated separately for each competitive area facing a RIF.
+There is no requirement for the IRS either to determine or to use modal ratings when every employee in the competitive area has at least one rating of record during the applicable 4-year time period.
+The modal rating can only used for RIF purposes.
+6.430.4.7 (01-01-2007)
+Multiple Rating Patterns
+Although all IRS employees have five summary rating levels (e.g. "Outstanding," "Exceeds Fully Successful" ) based on their IRS performance, some employees in a competitive area may have performance ratings from other Federal agencies or Treasury bureaus. These performance ratings may be under more than one pattern of summary levels as specified in 5 CFR 430.208.
+In the event that a competitive area undergoing a RIF has employees with ratings of record under other summary rating patterns, the IRS is required to consider the mix of rating patterns and to specify additional retention service credit for employees who have the same summary level, but are under different patterns.
+The range of additional service credit is still limited from 12 to 20 years.
+Exhibit 6.430.4-1 shows the amount of additional years of retention service credit for performance provided to employees undergoing a RIF and who have a different summary rating pattern.
+Exhibit 6.430.4-1
+Multiple Rating Patterns of Summary Levels of Performance
+Multiple Patterns of Summary Levels
+Rating levels	Rating Pattern	Years of Service for Retention Credit
+Pattern H (All IRS positions)
+5	Outstanding	20
+4	Exceeds Fully Successful/Exceeded	16
+3	Fully Successful/Met	12
+2	Minimally Successful	0
+1	Unacceptable/Not Met	0
+Pattern A
+3	Pass	16
+1	Fail	0
+Pattern B
+5	Outstanding	20
+3	Fully Successful	12
+1	Unacceptable	0
+Pattern C
+4	Exceeds Fully Successful	16
+3	Fully Successful	12
+1	Unacceptable	0
+Pattern D
+3	Fully Successful	16
+2	Minimally Successful	0
+1	Unacceptable	0
+Pattern E
+5	Outstanding	20
+4	Exceeds Fully Successful	16
+3	Fully Successful	12
+1	Unacceptable	0
+Pattern F
+5	Outstanding	20
+4	Fully Successful	12
+3	Minimally Successful	0
+1	Unacceptable	0
+Pattern G
+4	Exceeds Fully Successful	16
+3	Fully Successful	12
+2	Minimally Successful	0
+1	Unacceptable	0

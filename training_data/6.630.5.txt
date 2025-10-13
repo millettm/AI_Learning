@@ -1,0 +1,481 @@
+6.630.5  Leave and Flexibilities for Birth, Adoption, Foster Care, or Child Bereavement
+6.630.5.1  Program Scope and Objectives
+6.630.5.1.1  Background
+6.630.5.1.2  Authority
+6.630.5.1.3  Roles and Responsibilities
+6.630.5.1.4  Program Management and Review
+6.630.5.1.5  Program Controls
+6.630.5.1.6  Terms
+6.630.5.1.7  Related Resources
+6.630.5.2  Leave for Birth, Adoption and Foster Care Placement of a Child
+6.630.5.3  Paid Parental Leave (PPL)
+6.630.5.3.1  General Eligibility
+6.630.5.3.2  Interactions Between PPL and FMLA
+6.630.5.3.3  Care of a Child
+6.630.5.3.4  Application Requirements
+6.630.5.3.5  Types of Supporting Documentation
+6.630.5.3.6  Duration of PPL Benefit
+6.630.5.3.7  Intermittent Use
+6.630.5.3.8  Work Obligation
+6.630.5.3.9  Recovery of IRS Costs for Health Insurance
+6.630.5.3.10  Cases of Employee Incapacitation
+6.630.5.3.11  Employee Transfer
+6.630.5.3.12  Multiple Birth, Adoption, or Foster Care Placement Events
+6.630.5.4  Additional Leave Options for Birth and Care of a Child
+6.630.5.4.1  Sick Leave
+6.630.5.4.2  Annual Leave
+6.630.5.4.3  Advanced Leave
+6.630.5.4.4  Donated Leave Under the Voluntary Leave Transfer and Leave Bank Programs
+6.630.5.4.5  Family and Medical Leave Act (FMLA) Leave
+6.630.5.4.6  Leave Without Pay (LWOP)
+6.630.5.5  Additional Leave Options for Adoption and/or Foster Care
+6.630.5.5.1  Sick Leave
+6.630.5.5.2  Annual Leave
+6.630.5.5.3  Advanced Leave
+6.630.5.5.4  Family and Medical Leave Act (FMLA) Leave
+6.630.5.5.5  Leave Without Pay (LWOP)
+6.630.5.6  Advanced Leave for Childbirth, Adoption, and Foster Care
+6.630.5.6.1  Advanced Sick Leave for Childbirth, Adoption, and Foster Care
+6.630.5.6.2  Advanced Annual Leave for Childbirth, Adoption, and Foster Care
+6.630.5.7  Additional Flexibilities for Family Purposes
+6.630.5.8  Parental Bereavement Leave
+6.630.5.8.1  Eligibility
+6.630.5.8.2  Limitations
+6.630.5.8.3  Multiple Deaths
+6.630.5.8.4  Documentation and Requirements
+6.630.5.8.5  Transfer or Separation
+6.630.5.8.6  Retroactive Use
+Part 6. Human Resources Management
+Chapter 630. Absence and Leave
+Section 5. Leave and Flexibilities for Birth, Adoption, Foster Care, or Child Bereavement
+6.630.5 Leave and Flexibilities for Birth, Adoption, Foster Care, or Child Bereavement
+Manual Transmittal
+August 26, 2025
+
+Purpose
+(1) This transmits revised IRM 6.630.5, Leave and Flexibilities for Birth, Adoption, Foster Care, or Child Bereavement.
+
+Material Changes
+(1) IRM 6.630.5 is revised throughout to comply with January 2025 executive orders and Office of Personnel Management guidance.
+
+(2) IRM 6.630.5.3.1, General Eligibility, incorporates policy guidance in HCO-06-1124-0022, Interim Guidance (IG) on Inclusion of Certain Military Active Service for Family and Medical Leave and Paid Parental Leave Eligibility , dated November 20, 2024.
+
+(3) IRM 6.630.5.8.1, Eligibility, incorporates policy guidance in HCO-06-0924-0017, Interim Guidance (IG) on Parental Bereavement Leave - Unborn Child Allowance, dated September 27, 2024.
+
+Effect on Other Documents
+This IRM supersedes IRM 6.630.5, Leave and Flexibilities for Birth, Adoption, Foster Care, or Child Bereavement, issued June 2, 2023, and incorporates and obsoletes Interim Guidance Memorandums HCO-06-1124-0022, Interim Guidance (IG) on Inclusion of Certain Military Active Service for Family and Medical Leave and Paid Parental Leave Eligibility, and HCO-06-0924-0017, Interim Guidance (IG) on Parental Bereavement Leave - Unborn Child Allowance.
+Audience
+All Business Units
+Effective Date
+(08-26-2025)
+Keith A. Henley,
+Acting IRS Human Capital Officer
+
+6.630.5.1 (08-26-2025)
+Program Scope and Objectives
+Purpose: This IRM provides Servicewide policies, standards, requirements and guidance on the administration of leave and worklife flexibilities available to IRS employees for purposes related to the birth, adoption, foster care, and bereavement following the death of a child. This IRM must be read and interpreted in accordance with pertinent law, government wide regulations, and Treasury Human Resources Directives, as well as applicable case law. This guidance may be supplemented periodically by interim policy guidance from the IRS Human Capital Office (HCO).
+Audience: Unless otherwise indicated, the policies, authorities, procedures, and instructions contained in this IRM apply to all business units. Bargaining unit (BU) employees should review negotiated agreement provisions relating to subjects in this IRM. Should any of these instructions conflict with provisions in the negotiated agreement, the agreement prevails.
+Policy Owner: The IRS Human Capital Officer.
+Program Owner: The Human Capital Office (HCO).
+Program Goals: This IRM provides Servicewide policy and guidance on leave and flexibilities an employee may use to cover absences due to pregnancy, birth, adoption, foster care placement, or death of a child.
+6.630.5.1.1 (08-26-2025)
+Background
+This IRM provides policy and guidance on leave and flexibilities related to pregnancy, birth, adoption, foster care placement, bonding, or death of a child.
+6.630.5.1.2 (08-26-2025)
+Authority
+Law: Title 5, U.S. Code (USC) Chapter 63, Government Organization and Employees, at: :
+Subchapter I – Annual and Sick Leave
+Subchapter II – Other Paid Leave
+Subchapter III – Voluntary Transfers of Leave
+Subchapter IV – Voluntary Leave Bank Program
+Subchapter V – Family and Medical Leave
+Regulations: Title 5, Code of Federal Regulations (CFR), Part 630, Absence and Leave, at:
+Subpart C – Annual Leave
+Subpart D – Sick Leave
+Subpart I – Voluntary Leave Transfer Program
+Subpart J – Voluntary Leave Bank Program
+Subpart L – Family and Medical Leave, and
+Subpart Q – Paid Parental Leave
+Title 29, CFR, Part 1636, Pregnant Workers Fairness Act
+Delegation of Authority:
+Delegation Order 6-12, Absence and Leave, at IRM 1.2.2.7.9
+Delegation Order 6-13, Authority to Certify Time and Attendance Records, at IRM 1.2.2.7.10
+Other:
+Treasury Human Capital Issuance System (HCIS) Transmittal Notice 21-003, Federal Employee Paid Leave Act - Paid Parental Leave Policy
+The HCIS Transmittal Notice 102-01, Delegation of Authority Concerning Personnel Management
+6.630.5.1.3 (08-26-2025)
+Roles and Responsibilities
+The IRS Human Capital Officer is the executive responsible for this IRM and overall Servicewide policy for absence and leave.
+The HCO, Policy Office is responsible for developing and publishing content in this IRM.
+The HCO, Office of HR Operations (OHRO) Human Resources Shared Services (HRSS), Worklife and Leave Sharing Office, Worklife & Wellness Program Branch, is responsible for health services for IRS employees available through the IRS designated health services provider.
+The HCO, OHRO, Labor/Employee Relations and Negotiations (LERN) provides guidance and representation to managers in areas such as grievances, discipline, adverse and performance cases, and contractual obligations with the National Treasury Employees Union (NTEU).
+The HCO, OHRO, HRSS office is responsible for providing systems, tools, and all related instructions to employees to accomplish proper recordation of absence and leave on official source documents from which an employee is paid (for example, time and attendance (T&A) documents).
+All managers are responsible for:
+Ensuring government resources are used efficiently and effectively, with minimum potential for waste, fraud, and mismanagement;
+Administering and counseling employees on leave rules, regulations, and procedures in accordance with applicable laws, regulations, and established policies;
+Reviewing, approving, validating, and certifying the accuracy of official T&A records for their employees in accordance with Delegation Order 6-13, Authority to Certify Time and Attendance Records, at: IRM 1.2.2.7.10;
+Ensuring that employees submit appropriate documentation of absences as required (for example, medical documentation or adoption placement agreement);
+Identifying, investigating, and correcting leave abuse;
+Working with business unit points of contact and/or appropriate HCO organizations, as needed, to report, and/or manage issues for resolution; and
+Ensuring all supporting documentation for requests of leave and absence is retained according to records retention policies.
+All employees are responsible for:
+Observing designated duty hours, complying with leave rules, regulations, and established business procedures, and requesting and using leave in accordance with its intended purpose;
+Accurately reporting their work schedule, leave taken, and telework hours onto official T&A records;
+Providing appropriate documentation concerning absences, as required by established policies and negotiated agreement provisions;
+Reporting leave discrepancies to management and providing documentation to correct erroneous posting and/or leave balances. Any necessary corrections may result in a debt; and
+Contacting management for assistance with any problems relating to time and attendance, input, or validation.
+6.630.5.1.4 (08-26-2025)
+Program Management and Review
+This IRM provides policy guidance on leave and flexibilities available for childbirth, adoption, foster care placement, and bereavement following the death of a child.
+6.630.5.1.5 (08-26-2025)
+Program Controls
+The Policy Office develops and issues policies, materials, and programs to increase Servicewide awareness and understanding of leave programs in this IRM and collaborates with other HCO organizations and Servicewide stakeholders to support education and outreach activities as they relate to leave and flexibilities for birth, adoption, foster care, or child bereavement.
+6.630.5.1.6 (08-26-2025)
+Terms
+Adoption: Legal process in which an individual becomes the legal parent of another's child. The source of an adopted child – for example, whether from a licensed placement agency or otherwise – is not a factor in determining eligibility of leave or other programs.
+Advanced Leave: Annual leave and/or sick leave hours that may be granted to an employee prior to accruing them, upon request and after submitting supporting documentation, as appropriate. See IRM 6.630.5.6, Advanced Leave for Childbirth, Adoption, and Foster Care. For more information on advanced leave in general, see IRM 6.630.1.6, Advanced Leave.
+Annual Leave: Hours accrued for federal service that may be used for vacations, rest and relaxation, and personal business or emergencies.
+Any 12-month period: For purposes of the Family and Medical Leave Act (FMLA) entitlement, this is the 12-month period beginning on the date of birth or placement of the child’s birth, adoption, or foster care placement. Or, in the case of a serious medical condition of the employee or family member, the 12-month period begins on the date an employee first takes leave under the FMLA for an approved FMLA need and continues for 12 months. An employee may use only 12 weeks of FMLA leave in any 12-month period. Use of FMLA (for other purposes during the 12-month period) will reduce the amount of FMLA an employee may substitute for paid parental leave (PPL).
+
+In the case of the death of an employee’s child, the 12-month period begins on the date of the child’s death.
+Birth: The delivery of a living child. When the term “birth” is used in connection with the use of leave before birth, it refers to an anticipated birth. PPL may not be granted based on an anticipated birth or placement.
+Certain military service: Honorable active service in the Army, Army National Guard, Navy, Air Force, Air National Guard, Space Force, or Marine Corps of the United States, or service on active duty or full-time National Guard duty.
+Child: A person who is under the care or guardianship of a parent through birth (biological), adopted or foster child, stepchild, a legal ward, or a person standing in loco parentis who is under 18 years of age; or 18 years of age or older and incapable of self-care because of a mental or physical disability.
+Family and Medical Leave Act (FMLA): A federal law that entitles most federal employees to a total of up to 12 workweeks (480 hours) of unpaid leave during any 12-month period for serious health conditions, such as incapacity due to pregnancy, childbirth, care for the newborn child and for new adoption or foster care placement of a child. The amount of FMLA leave used within the 12-month period will reduce the amount of PPL available for birth or placement purposes. For example, the use of FMLA leave for a serious health condition during a 12-month FMLA period may reduce the PPL available for birth or placement purposes within a calendar year of when the employee initially invoked FMLA. See IRM 6.630.1.9, Family and Medical Leave Act (FMLA), for more information.
+FMLA-eligible employee: An employee who is covered by the federal leave system under the authority in 5 USC and meets the following eligibility requirements under the FMLA:
+Has completed 12 consecutive or nonconsecutive months of federal service.
+Has a part-time or full-time work scheduled (i.e., employees with an intermittent work schedule are ineligible).
+Has an appointment of more than one year in duration (i.e., employees with temporary appointments not-to-exceed one year are ineligible).
+Federal civilian service: Service of a type that is covered under the title 5, United States Code, FMLA provisions.
+Foster care: Care for a child in substitution for, and away from, their parent(s) or guardian(s) that lasts at least 24-hours. Such placement, made by or with the agreement of the state, includes a voluntary agreement by the parent or guardian that the child be removed from the home and an agreement between the state and foster family to take the child. Although foster care may be with relatives of the child, state action is involved in the removal of the child from parental custody.
+Leave Sharing Program: Benefit programs to include the Leave Bank Program and Leave Transfer Program that permit employees who do not have available paid leave to use donated annual leave when they have a personal or family medical emergency. See IRM 6.630.1.11, Leave Sharing Program, for more information.
+Leave Year: The period beginning on the first day of the first full biweekly pay period (PP) in a calendar year and ending on the day immediately before the first day of the first full biweekly PP in the following calendar year. See IRM 6.630.1, IRS Absence and Leave, for more information.
+Paid Parental Leave (PPL): Paid time off that any eligible employee may substitute for unpaid FMLA for purposes relating to spending time with a child (bonding) after birth or new child placement (adoption or foster care). The employee must have a current parental role in connection with the birth of their child, adoption, and/or foster care placement.
+Parent: A person who is the guardian of a child through birth (biological), adoptive, step, or foster care placement.
+Placement: A new placement of a child with an employee for adoption or foster care. The adoption of a stepchild or a foster child who has already been a member of the employee's household and has an existing parent-child relationship with an adopting parent is excluded.
+Sick Leave: A paid absence from duty that an employee is entitled to use for personal medical needs, family care or bereavement, care of a family member with a serious health condition or a communicable disease, and adoption-related purposes. See IRM 6.630.1.5, Sick Leave, for more information.
+6.630.5.1.7 (08-26-2025)
+Related Resources
+IRM 6.630.1, IRS Absence and Leave
+The Timekeeping & Leave page on IRS Source
+The U.S. Office of Personnel Management (OPM) Pay & Leave Fact Sheets
+Organization Function Program (OFP) Codes on IRS Source
+6.630.5.2 (08-26-2025)
+Leave for Birth, Adoption and Foster Care Placement of a Child
+There are various leave options available for pregnancy, birth, placement and care of a child, as well as additional benefits for family purposes.
+Any employee, regardless of sex, who experiences a birth, adoption, or foster care placement and meets eligibility requirements, may request to use the following leave types:
+PPL as a paid substitution for FMLA-LWOP;
+Accrued annual and/or sick leave;
+Advanced annual and/or sick leave;
+FMLA-LWOP;
+LWOP;
+Donated annual leave under the voluntary leave transfer and leave bank programs.
+The employee must meet eligibility requirements to use the leave requested.
+6.630.5.3 (08-26-2025)
+Paid Parental Leave (PPL)
+The PPL benefit is available to federal employees experiencing a birth, adoption, and/or foster care placement occurring on or after October 1, 2020.
+All eligible employees covered by the FMLA, regardless of sex, are entitled to request and use up to 12 administrative workweeks (480 hours) of PPL, as a substitute for unpaid FMLA leave in connection with the birth, adoption, or foster care placement of a child under 5 USC 6382, and 5 CFR 630.1703. The number of hours available for part-time employees will be prorated.
+An employee cannot use 12 administrative workweeks (480 hours) of PPL and then an additional 12 administrative workweeks (480 hours) of unpaid FMLA leave, or vice versa, during the same 12-month period following the birth, adoption, or foster care placement.
+An employee cannot be required to use accrued annual or sick leave before using PPL (but an employee may request to do so) and managers cannot deduct PPL from an employee’s accrued leave balances.
+An employee may decline the use of PPL and elect to use unpaid FMLA leave.
+6.630.5.3.1 (08-26-2025)
+General Eligibility
+Any fulltime employee, regardless of sex, is eligible to request and use up to 12 administrative workweeks (480 hours) of PPL during a 12-month period beginning on the date of the birth, adoption, or foster care placement of a child occurring October 1, 2020, or later, if they are covered by the federal leave system under the authority in 5 USC 6381 and meet the following eligibility requirements under the FMLA:
+Have completed 12 consecutive or nonconsecutive months of federal service, or a combination of certain military service and federal civilian service that equates to at least 12 months (see Terms for definitions of “certain military service” and “federal civilian service”); and
+Have an appointment of more than one year in duration. Employees on a temporary or intermittent appointment are not eligible.
+Part-time employees are eligible for a prorated amount of PPL calculated in the same manner as for prorated FMLA. See IRM 6.630.1.9.1, FMLA-Description, which states, "An eligible part-time employee is entitled to a prorated amount of unpaid FMLA leave, which may not exceed an amount equal to 12 times the average number of hours in their scheduled tour of duty (TOD) each week (for example, 20 hours per workweek X 12 = 240 FMLA hours)."
+The PPL may not be applied on a holiday or any other nonwork day when the employee would be excused from duty.
+Seasonal employees, who meet eligibility requirements are entitled to PPL when in work status. Seasonal employees cannot use PPL as a basis for extending their work season.
+An employee who is ineligible for FMLA at the time of a birth, adoption, or foster care placement of a child occurring October 1, 2020, or later, may establish FMLA eligibility during the 12-month period following the birth, adoption, or foster care placement of a child and use PPL during that period.
+Example: If all other eligibility requirements are met, an employee may become eligible for FMLA by completing the required 12 months of federal service or by changing to a qualifying work schedule or appointment. Once FMLA eligibility is established and FMLA is invoked, an employee may be able to substitute PPL in connection with a birth or placement during the 12-month period following the birth, adoption, or foster care placement of a child.
+When eligible parents are both employed by the federal government, each has a separate entitlement to PPL; however, one parent may not transfer any portion of their entitlement to the other parent.
+6.630.5.3.2 (08-26-2025)
+Interactions Between PPL and FMLA
+PPL is substituted for unpaid leave under FMLA; therefore, the use of FMLA leave for purposes other than the birth or placement of a child, (such as leave based on a serious health condition) during a 12-month FMLA period may reduce the PPL available for birth or placement purposes. See IRM 6.630.1.9, Family and Medical Leave Act (FMLA), for more information on FMLA leave.
+Example: An employee expects the birth of their child in March 2021. The employee’s parent is in a serious car accident on November 1, 2020, and the employee invokes FMLA on this date. As a result, the employee uses 280 hours of FMLA leave beginning on November 1 (to care for a family member with a serious health condition) while their parent is hospitalized and then caring for them at home when they cannot care for themselves.
+
+When the employee’s baby arrives on March 30, 2021, they would only have 200 hours remaining under FMLA through October 31, 2021. However, the employee may take the additional 280 hours of PPL (as a substitute for unpaid FMLA leave) after October 31, 2021, as long as they do so before March 29, 2022 (within 12 months of the applicable birth).
+An employee may not use PPL before the birth or placement of a child, even if an employee used unpaid FMLA leave for birth or placement purposes prior to the birth or placement event.
+Example: An employee is on medically prescribed bed rest for three weeks prior to the birth of their child and wishes to take time off from work for this purpose from January 1, 2021, through January 22, 2021. The employee cannot use PPL since the child has not yet been born. The employee invokes FMLA for a serious health condition (bed rest) on January 1, 2021, and uses 120 hours of unpaid FMLA leave until their child is born on January 23, 2021. Beginning January 23, 2021, the employee substitutes the additional 360 hours of PPL available under the 480-hour FMLA entitlement.
+
+Once the employee’s invoked FMLA for a serious health condition expires on December 31, 2021 (12 months after the start date), they can use the remaining 120 hours of PPL, between January 1, 2022, through January 22, 2022 (within 12 months of the applicable birth).
+6.630.5.3.3 (08-26-2025)
+Care of a Child
+To use PPL, in addition to meeting the definition of a parent under the FMLA, an employee must also be caring for a newly born or newly placed child, in the home with the child or otherwise involved in spending time with the child, acting in a parental role and engaged in activities directly connected with the care of the child whose birth or placement triggered the PPL entitlement such as parent-child bonding.
+
+Caring for a newly born or placed child may include short periods away from the child’s physical presence to purchase supplies needed to support the care for the child, such as buying baby food, diapers, or other supplies. It may also include circumstances where the newborn or newly placed child is in the Neonatal Intensive Care Unit (NICU) or is hospitalized. A parent would not be considered caring for the child if they are physically located outside the local geographic area where the child is located and not engaged in activities directly connected to the care of the child. For example, a biological parent who lives separately from the child must be involved in care activities to be eligible for PPL use.
+The PPL may be used for the new placement of a child for adoption or foster care. The adoption of a current stepchild or foster child, one who is already a member of the employee’s household with an existing parent-child relationship with an adopting parent, does not qualify for use of PPL.
+6.630.5.3.4 (08-26-2025)
+Application Requirements
+In order to substitute PPL for unpaid FMLA leave, an employee must invoke FMLA for the birth, adoption or foster care placement of a child in written, oral, or electronic form, as outlined in IRM 6.630.1.9.6, Requirements.
+When an employee requests PPL, they must submit the following completed forms to their approving designated management official before they intend to begin using PPL:
+Form 9611-A Paid Parental Leave (PPL) Request and
+Form 9611-B Agreement to Complete 12-Week Work Obligation
+The employee must request and use PPL within 12 months of the birth, adoption, or foster care placement of a child.
+Where the need for PPL is foreseeable, the employee must submit advance notice using Form 9611-A, Paid Parental Leave (PPL) Request, no less than 30 days before PPL is to begin. If the need for leave is not foreseeable, such as a medical emergency, unexpected birth of a live child or unexpected availability of a child for adoption or foster care, and the employee cannot provide 30 days’ notice, the employee must provide notice within a reasonable timeframe appropriate to the circumstances involved. See IRM 6.630.5.3.10, Cases of Employee Incapacitation for more information.
+Prior to using PPL, the employee must enter into a written service agreement by signing Form 9611-B, Agreement to Complete 12-Week Work Obligation confirming they will return to work for 12 weeks after the PPL period ends or reimburse the IRS the cost of the government's contribution toward their Federal Employee Health Benefits insurance premiums. See IRM 6.630.5.3.8, Work Obligation, for more information.
+The employee must provide their approving designated management official with appropriate documentation as outlined in IRM 6.630.5.3.5, Types of Supporting Documentation, to support the use of PPL.
+The approving designated management official for FMLA requests, including PPL requests, is determined by the business unit’s delegation of authority.
+6.630.5.3.5 (08-26-2025)
+Types of Supporting Documentation
+An employee must provide appropriate documentation to their approving designated management official within 15 calendar days of the approving official’s request, which shows the use of PPL is directly connected to a birth or placement of a child. If it is not practical for an employee to respond within the 15-day timeframe, despite the employee’s diligent, good faith efforts, the employee must provide the documentation within a reasonable timeframe, but no later than 30 calendar days after the date of the approving official’s original request.
+Appropriate documentation to support the request to use PPL for childbirth includes:
+Birth certificate;
+Document naming employee as second parent, such as declaration of paternity or court order of filiation;
+Appropriate court documents;
+Consular report of birth abroad;
+Documentation provided by the child's healthcare provider;
+Hospital admission form associated with the delivery; or
+Other documentation approved by the IRS.
+Appropriate documentation to support the request to use PPL for adoption includes:
+Documentation provided by the adoption agency confirming the placement and date of placement;
+Letter signed by the parent's/parents' attorney confirming the placement and date of placement;
+Immigrant visa for the child issued by U.S. Citizenship and Immigration Services;
+Adoptive placement agreement;
+Independent adoption placement agreement; or
+Other documentation approved by the IRS.
+Appropriate documentation to support the request to use PPL for foster care includes:
+Foster care placement record;
+Other documentation from the foster agency confirming the placement and date of placement;
+Foster care placement letter issued by the relevant local department of social services or authorized voluntary foster care agency; or
+Other documentation approved by the IRS.
+Management may grant the use of PPL prior to receiving any requested documentation or certification based on an employee’s communications with management, as appropriate. The employee’s notice of their intent to take leave may suffice as the employee’s confirmation to invoke their entitlement.
+
+This granting of PPL is considered to be provisional, pending receipt of the requested documentation and/or certification within 15 calendar days of the request, or 30 calendar days with justification, agreed upon between the employee and their management, as appropriate.
+If the employee fails to provide the required documentation and/or certification within the specified timeframe, the IRS may determine that the employee is not entitled to PPL and may:
+Allow the employee to request the absence be charged to LWOP, sick leave, annual leave, or other form of paid time off, as appropriate; or
+If the employee acted fraudulently, charge the employee as absent without leave (AWOL) and pursue any other appropriate action. Being charged with AWOL can lead to a disciplinary action by the IRS, up to and including removal. See IRM 6.630.1.13, Absence Without Leave (AWOL), for more information on AWOL.
+If an employee’s request to use PPL is denied, the approving designated management official will provide the reasons of the denial to the employee in writing. For example, if an employee submitted an incomplete PPL request, the approving designated management official would state in writing what additional information is needed to make the request complete.
+It is critical that an employee’s privacy be safeguarded when requesting, receiving, and storing medical documentation. Information concerning an employee’s medical condition or history should be maintained in a separate confidential medical file. The presence of medical documentation in an employee performance file (EPF) violates the Rehabilitation Act. The confidential medical file should always be secured in a locked cabinet. For more information regarding the requirements to safeguard medical information, see IRM 10.5.1.2.2, Sensitive But Unclassified (SBU) Data.
+The approving designated management official will retain the documentation for records maintenance per IRS policy requirements. For additional information, see IRM 1.15, Records and Information Management and Document 12829 General Records Schedules.
+6.630.5.3.6 (08-26-2025)
+Duration of PPL Benefit
+The PPL may not be used before the birth, adoption, or foster care placement of a child.
+The PPL benefit expires 12 months after the date of the applicable birth, adoption, or foster care placement.
+An employee may elect to substitute PPL for FMLA leave at any time during the 12-month period, beginning on the actual date of the birth or placement of the child.
+If all PPL is not used by the end of the twelfth month following the birth, adoption, or foster care placement of a child, the employee forfeits any remaining hours. There are no carryover provisions for unused PPL and an employee may not be paid for unused or expired PPL.
+The PPL is available as long as an employee has a continuing parental role in connection with the child whose birth or placement was the basis for the leave entitlement during the 12-month period, beginning on the actual date of the birth or placement of the child.
+In the unfortunate incident that the child dies while the employee is on PPL, the use of PPL would end. The employee may request and be approved to use other leave to cover the employee’s absence due to the child’s death. Examples of leave the employee may be approved to use are:
+Parental bereavement leave as outlined in IRM 6.630.5.8, Parental Bereavement Leave;
+Sick leave for general family care or bereavement as outlined in IRM 6.630.1.5.5, Sick Leave for Family Care;
+Annual Leave as outlined in IRM 6.630.1.3, Annual Leave;
+LWOP as outlined in IRM 6.630.1.10, Leave Without Pay (LWOP); and
+Other leave, as appropriate, to account for the absence.
+6.630.5.3.7 (08-26-2025)
+Intermittent Use
+An employee may request to use PPL intermittently, or on a reduced leave schedule to bond with and/or care for their child. Approving designated management officials are encouraged to approve requests for intermittent PPL for bonding to the maximum extent practicable to balance the needs of the employee and the IRS.
+
+An employee must provide dates (actual or estimates) for intermittent use of PPL on Form 9611-A, Paid Parental Leave (PPL) Request.
+6.630.5.3.8 (08-26-2025)
+Work Obligation
+Prior to being granted approval to use PPL, an employee must agree in writing to return to work for the IRS for 12 weeks beginning on the date on which PPL concludes by submitting Form 9611-B, Agreement to Complete 12-week Work Obligation, to their approving designated management official. If an employee is incapacitated and unable to enter into such an agreement, an exception to this rule is provided, as outlined in IRM 6.630.5.3.10, Cases of Employee Incapacitation.
+The date that PPL concludes is:
+The workday on which an employee finishes using the 12 workweeks of PPL; or
+If the employee uses less than 12 workweeks of PPL during the 12-month period following the birth or placement, the last workday on which the employee used PPL in connection with the given child.
+Any periods of work between intermittent use of PPL do not count toward completion of the 12-week work obligation. The work obligation is met by performing work after the use of PPL concludes.
+
+For employees charged leave on an hourly basis (to include fractions of an hour), the 12-week work obligation will be converted to hours as it was converted for PPL. For example, a full-time employee charged leave on an hourly basis must complete 480 hours of work after the PPL concludes.
+The 12-week work obligation includes only those periods during which the employee is in a pay and duty status. Any periods of paid or unpaid leave, time off or other periods of nonduty status or intermittent work during the use of PPL, do not count toward completion of the 12-week work obligation. Examples of hours which do not count toward the 12-week work obligation are:
+Leave (paid or unpaid);
+Time off (including holidays);
+Furlough;
+AWOL.
+Any periods in which an employee is in non-duty status or periods of leave taken while in duty status will extend how long it will take for the employee to fulfill the 12-week work obligation.
+The 12-week work obligation is statutorily fixed and applies regardless of the actual amount of PPL used. For example, an employee who uses less than the full 12 administrative workweek (480 hours) entitlement of PPL is still obligated to work 12 weeks after the day PPL concludes.
+An employee who separates from the IRS before completing the 12-week work obligation is considered to have failed to return to duty and the employee will owe a debt to the IRS. An intra-agency reassignment without a break in service will not be considered a separation.
+An employee who doesn’t fulfill the 12-week work obligation after using PPL will be required to reimburse the IRS for the cost of the government's contribution toward the employee's federal health insurance, during the period of PPL use. See IRM 6.630.5.3.9, Recovery of IRS Costs for Health Insurance.
+6.630.5.3.9 (08-26-2025)
+Recovery of IRS Costs for Health Insurance
+If an employee fails to complete the 12-week work obligation, the IRS may recoup the total amount of contributions paid by the IRS for the employee to maintain the employee's health insurance coverage during the period of PPL.
+The employee will owe a debt to the IRS for failing to complete the work obligation.
+There is no authority for a partial waiver of the amount owed.
+The IRS will grant a waiver of, and not seek reimbursement for, the contributions paid by the IRS to maintain the employee’s health insurance coverage during the period of PPL in circumstances where an employee is unable to complete the 12-week work obligation due to:
+The continuation, recurrence, or onset of a serious health condition (including mental health) of the employee only if the condition is related to the applicable birth or placement;
+The serious health condition of the child whose birth or placement was the basis for the PPL; or
+Any other circumstances beyond the employee’s control.
+An employee’s request for a waiver due to circumstances beyond the employee’s control must be based upon circumstances that truly preclude the employee from returning to work.
+Example: An employee chooses to stay home because the child, whose birth or placement was the basis for the PPL, has a serious health condition or an employee moves because the employee's spouse is unexpectedly transferred to a job location more than 75 miles from the employee's POD.
+Matters of employee preference or convenience for failing to complete the work obligation will not constitute circumstances beyond the employee’s control. For example, an employee who chooses not to return to work in order to stay home with a well, newborn child would not constitute a circumstance beyond the employee's control.
+If the employee says they cannot return to work because of a serious health condition or circumstances beyond the employee’s control, the IRS may require the employee to provide medical certification from the health care provider of the employee or child, as appropriate, or other appropriate documentation to support the waiver request. The employee must provide such supporting certification within 30 calendar days of the date it is requested.
+For employees who fail to complete the 12-week work obligation and are not eligible for the mandatory waiver of the reimbursement, managers must promptly notify the Ogden Payroll Center to initiate collection of the IRS’s portion of the employee’s health insurance contributions, by submitting a ticket under category Employee Resources, Insurance, Federal Employees Health Benefits (FEHB). Employees normally receive written notice of the debt 30 days prior to when collection actions will begin.
+6.630.5.3.10 (08-26-2025)
+Cases of Employee Incapacitation
+If it is determined that an otherwise eligible employee, who could have elected to substitute PPL for unpaid FMLA leave and enter into a work obligation agreement was physically or mentally incapable of doing so during the period prior to use, the employee may, within five workdays of their return to duty status, make an election to retroactively substitute PPL for unpaid FMLA leave.
+The retroactive PPL is effective on the date an election would have been effective if the employee had not been incapacitated at the time. The IRS must, upon the request of a personal representative of the employee with whom the IRS finds acceptable, provide conditional approval of substitution of PPL for applicable unpaid FMLA leave on a prospective basis.
+The conditional approval is based on the presumption that the employee would have elected to substitute PPL for unpaid FMLA leave and would have entered into the work obligation agreement if the employee had not been incapacitated.
+Within five workdays after returning to work, the employee must complete Form 9611-B, Agreement to Complete 12-week Work Obligation, agreeing to complete the work obligation described in IRM 6.630.5.3.8, Work Obligation, or pay the required reimbursement (if applicable) unless the IRS determines the employee experiences:
+The continuation, recurrence, or onset of a serious health condition (including mental health) of the employee only if the condition is related to the applicable birth, adoption or foster care placement of a child;
+The serious health condition of the child whose birth or placement was the basis for the PPL; or
+Any other circumstances beyond the employee’s control.
+If the IRS determines the employee is no longer incapacitated, and the employee declines to enter into the written work obligation, the IRS must cancel any portion of the 12 administrative workweeks (480 hours) of PPL that has not been used and invalidate any PPL that was used based on the conditional approval.
+The invalidated PPL must be converted to LWOP unless the employee requests other paid leave or paid time off to the employee’s credit, be applied, as appropriate, in place of the invalidated PPL. Pay received for any invalidated PPL hours not replaced by other paid leave or paid time off, is considered a debt to the IRS and is subject to collection.
+6.630.5.3.11 (08-26-2025)
+Employee Transfer
+If an employee transfers from the IRS to a different agency, or from a different agency to the IRS, while using PPL in connection with a birth, adoption, or foster care placement of a child, the 12-week work obligation will be owed to the agency employing the employee at the time the use of PPL concludes.
+The agency employing the employee at the time the use of PPL concludes will be responsible for documenting whether the employee fulfills the 12-week work obligation.
+When an employee transfers from the IRS to another employing agency and fails to fulfill the 12-week work obligation with that agency, the new agency will inform the IRS of the employee's failure. At that time, the IRS will make its own determination whether to recover the health insurance coverage paid by the IRS during the employee’s use of PPL.
+6.630.5.3.12 (08-26-2025)
+Multiple Birth, Adoption, or Foster Care Placement Events
+When multiple children are born (two or more) or placed for adoption or foster care on the same day, the multiple-childbirth/placement event is considered to be a single event that initiates a single entitlement of up to 12 administrative workweeks (480 hours) of PPL for a full-time employee.
+An employee who experiences another, separate placement or birth that does not occur on the same day during a 12-month period, is entitled to a new 12-month period. The eligibility for PPL starts with the date of the second birth or placement. The maximum PPL an employee can take during a 12-month period remains 480 hours (or appropriate prorated amount for part- time employees). Any PPL taken during overlapping 12-month periods will count toward both entitlements.
+Example: If an employee gives birth to a child on June 1, 2021, and has another child placed for adoption on October 1, 2021, each event will generate entitlement to substitute up to 12 administrative workweeks (480 hours) of PPL during the separate 12-month periods beginning on the date of the birth and on the date of the placement, respectively.
+The two 12-month periods would be June 1, 2021, to May 31, 2022, for the birth, and October 1, 2021, to September 30, 2022, for the adoption. The overlap period for these two 12-month periods is October 1, 2021, to May 31, 2022.
+If the employee substitutes PPL for FMLA leave during that overlap period, that amount of PPL would count towards both the 12-week limit associated with the birth event and the 12-week limit associated with the placement event.
+6.630.5.4 (08-26-2025)
+Additional Leave Options for Birth and Care of a Child
+In addition to any leave the employee may be entitled to under the FMLA and/or the Paid Parental Leave Act, an employee may be granted an additional six months of unpaid leave unless the employee provides substituted paid leave for parental reasons. The IRS will not ordinarily require an employee to return to duty earlier than nine months after childbirth, subject to workload requirements.
+An employee is not required to invoke entitlement to FMLA to request up to nine months of parental leave. However, the employee must invoke entitlement to FMLA to receive leave under the FMLA, including the substitution of PPL. An employee may use a combination of annual leave, sick leave, advanced leave, LWOP, previously earned credit hours, previously earned compensatory time off, or time off award hours during any PP.
+An employee is responsible for notifying the supervisor of their intent to request leave for parental reasons, (birth, adoption, or foster care placement of the employee’s child), including the type of leave, approximate dates, and anticipated duration.
+In addition to any entitlement to which a parent may have under FMLA or sick leave, and subject to workload, an employee may be absent on approved part-time or full-time annual leave or approved LWOP for a reasonable period of time for the purpose of assisting or caring for their minor children or the birthing parent while they are incapacitated due to childbirth.
+6.630.5.4.1 (08-26-2025)
+Sick Leave
+An employee is entitled to request and use sick leave while pregnant for personal medical appointments, any periods of incapacitation due to pregnancy (to include morning sickness and/or medically prescribed bed rest), childbirth, hospitalization, and recovery from childbirth. Most doctors certify that the recovery period is about six to eight weeks.
+
+Note: There is no limit on the amount of sick leave an employee may use for their own personal medical needs; however, an employee has no entitlement to sick leave except for authorized sick leave purposes. See IRM 6.630.1.5, Sick Leave, for more information.
+A full-time employee may use up to 480 hours (12 weeks) of sick leave to care for an eligible employee’s family member with a serious health condition, such as a pregnant family member. For a part-time employee, the amount of sick leave that may be used to care for a family member with a serious health condition is prorated in proportion to the average number of hours of work in the employee's scheduled TOD each week. See IRM 6.630.1.9, Family and Medical Leave Act (FMLA), for more information.
+An employee is not entitled to use sick leave to be absent from work to bond with or care for a healthy child. However, they may use up to 104 hours (13 days) of sick leave for general family care to care for a child with a minor illness, or to accompany a child to medical, dental, optical appointments, or well-baby doctor visits.
+An employee may use sick leave for general family care to:
+Provide care for a family member who is incapacitated as a result of physical or mental illness, injury, pregnancy, or childbirth.
+Accompany a pregnant family member to attend medical appointments (see IRM 6.630.1.5.5, Sick Leave for Family Care, for the definitions of family member)
+See IRM 6.630.1.5.5, Sick Leave for Family Care, for additional uses of sick leave for general family care.
+A full-time employee may request up to 480 hours (12 weeks) of sick leave each year to care for a family member, such as a child with a serious health condition. For a part-time employee, the amount of sick leave that may be used to care for a family member with a serious health condition is prorated in proportion to the average number of hours of work in the employee's scheduled TOD each week. See IRM 6.630.1.5.5, Sick Leave for Family Care, for more information.
+If any sick leave hours are used for general family care, they must be subtracted from 480 hours of sick leave available for care of a family member with a serious health condition. See IRM 6.630.1.5.5, Sick Leave for Family Care, for more information.
+6.630.5.4.2 (08-26-2025)
+Annual Leave
+An employee may request annual leave for their own pregnancy, care of a pregnant family member, childbirth and recovery from childbirth, to be absent from work to bond with or care for a newborn, and for other childcare responsibilities, to include taking the child to medical, dental, optical appointments, or well-baby doctor visits. The use of annual leave is subject to managerial approval. See IRM 6.630.1.3, Annual Leave, for more information.
+6.630.5.4.3 (08-26-2025)
+Advanced Leave
+See IRM 6.630.5.6, Advanced Leave for Childbirth, Adoption, and Foster Care, for information on eligibility, conditions for approval, procedures for applying, and other requirements.
+6.630.5.4.4 (08-26-2025)
+Donated Leave Under the Voluntary Leave Transfer and Leave Bank Programs
+If an employee exhausts their sick and/or annual leave, they may receive donated annual leave under the Voluntary Leave Transfer and/or Leave Bank Programs. These programs are for employees experiencing a personal or family medical emergency and who have exhausted their own available paid leave.
+Donated annual leave may be used only for a medical emergency. For example, the donated leave may be used for the birthing parent’s period of incapacitation or the illness of a child and may not be used to bond with or care for a healthy child. More information on the Leave Sharing Program is available on the IRS Source.
+6.630.5.4.5 (08-26-2025)
+Family and Medical Leave Act (FMLA) Leave
+An eligible employee, who meets qualifying criteria, is entitled to use a total of up to 480 hours (12 weeks) of LWOP under the FMLA for their own pregnancy, care of a pregnant family member (as defined in IRM 6.630.1.9.3, FMLA – Definitions), childbirth and recovery from childbirth (most doctors certify that the recovery period is about six to eight weeks), and care of the newborn.
+An employee’s entitlement to FMLA leave begins on the date an employee first takes FMLA leave and continues for 12 months. If an employee takes FMLA leave prior to or on the actual date of birth, the 12-month period begins on that date. The employee is not entitled to an additional 480 hours (12 weeks) of FMLA-LWOP until the previous 12- month period ends.
+The FMLA leave may be taken intermittently or under a work schedule reduced by the number of hours of FMLA leave, when medically necessary. See IRM 6.630.1.9, Family and Medical Leave Act (FMLA), for more information.
+An employee may elect to substitute paid leave, such as PPL, annual leave and/or sick leave, advanced annual and/or advanced sick leave, and leave made available through the voluntary Leave Sharing Programs, for any or all of the LWOP used under the FMLA, consistent with the laws and regulations governing these types of leave. An employee’s use of FMLA, including paid leave in substitution for unpaid FMLA, may reduce the amount of PPL available for birth or placement purposes as outlined in IRM 6.630.5.3.2, Interactions Between PPL and FMLA. See IRM 6.630.1.9, Family and Medical Leave Act (FMLA), for more information.
+The FMLA-LWOP may affect various employee entitlements, including the accrual of annual and/or sick leave. See IRM 6.630.1.2, Eligibility for Annual and Sick Leave, and OPM’s fact sheet, Effect of Extended Leave Without Pay (LWOP) (or Other Nonpay Status).
+See IRM 6.630.1.9, Family and Medical Leave Act (FMLA), for more information.
+6.630.5.4.6 (08-26-2025)
+Leave Without Pay (LWOP)
+In addition to other leave entitlements, and subject to managerial approval, an employee may request and use LWOP for their own pregnancy, care of a pregnant family member, childbirth and recovery from childbirth, or to be absent from work to bond with or care for a newborn, in accordance with current business unit policy, and the negotiated agreement for BU employees. Please see IRM 6.630.1.10, Leave Without Pay (LWOP), for more information on LWOP.
+The LWOP may affect various employee entitlements, including the accrual of annual and/or sick leave. See IRM 6.630.1.2, Eligibility for Annual and Sick Leave, and the OPM’s fact sheet, Effect of Extended Leave Without Pay (LWOP) (or Other Nonpay Status), for more information.
+This category of LWOP should not be confused with FMLA-LWOP. See IRM 6.630.1.9, Family and Medical Leave Act (FMLA) Leave, for information on FMLA-LWOP.
+6.630.5.5 (08-26-2025)
+Additional Leave Options for Adoption and/or Foster Care
+This section discusses leave options for adoption and/or foster care.
+6.630.5.5.1 (08-26-2025)
+Sick Leave
+An employee is entitled to request and use sick leave for absences from duty for purposes relating to the adoption of a child, including appointments with adoption agencies, social workers and attorneys, court proceedings, required travel, any periods of time during which the employee is ordered or required by the adoption agency or by the court to take time off from work to care for the adopted child, and any other activities necessary to allow the adoption to proceed. An employee may be asked to provide administratively acceptable evidence for the use of sick leave for absences related to adoption proceedings.
+There is no limitation on the amount of sick leave that may be used for adoption-related purposes as described in (1) above. Sick leave for adoption-related purposes does not count towards the 104-hour (13 days) limit of sick leave each leave year for family care and bereavement purposes or the overall limit of 12 weeks of sick leave each leave year for all family care purposes.
+An employee who is accompanying a family member to activities related to the placement of a child for adoption is not entitled to use sick leave for adoption.
+An employee is not entitled to use sick leave for fostering a child unless the employee is adopting the foster child.
+An employee is not entitled to use sick leave to be absent from work to bond with or care for a healthy child unless ordered or required by the adoption agency or court. However, an employee may use up to 104 hours (13 days) of sick leave for general family care to care for a child with a minor illness or to accompany a child to medical, dental, optical appointments, or well-child doctor visits (if applicable). For a part-time employee, the amount of accrued sick leave for general family care that may be used for all family care purposes is prorated in proportion to the average number of hours of work in the employee's scheduled TOD each week. See IRM 6.630.1.5.5, Sick Leave for Family Care, for more information.
+A full-time employee may request up to 480 hours (12 weeks) of sick leave each year to care for a child with a serious health condition. For a part-time employee, the amount of sick leave that may be used to care for a family member with a serious health condition is prorated in proportion to the average number of hours of work in the employee's scheduled TOD each week.
+The amount of accrued sick leave an employee may use for all family care purposes may not exceed 480 hours (12 weeks) in a leave year. If any sick leave hours are used for general family care, they must be subtracted from the 480 hours of sick leave available for care of a family member with a serious health condition. See IRM 6.630.1.5.5, Sick Leave for Family Care, for more information.
+6.630.5.5.2 (08-26-2025)
+Annual Leave
+An employee may request and use annual leave for purposes related to the adoption of a child or for foster care purposes. In addition, an employee may use annual leave to be absent from work to bond with or care for a healthy child, and/or for other childcare responsibilities including taking the child to medical, dental, optical appointments, well-child visits (if applicable), or any other purpose. The use of annual leave is subject to managerial approval. See IRM 6.630.1.3, Annual Leave, for more information.
+6.630.5.5.3 (08-26-2025)
+Advanced Leave
+Pursuant to business requirements, an employee may be advanced up to 30 days (240 hours) of sick leave, to include purposes relating to adoption. For a part-time employee, the amount of advanced sick leave that may be used for adoption purposes is prorated in proportion to the average number of hours of work in the employee's scheduled TOD each week.
+An employee may be advanced the amount of annual leave hours that would accrue during the remainder of the current leave year for purposes of adoption and foster care regardless of their length of service.
+An employee is required to repay all advanced sick leave, except in very limited circumstances such as disability or death. For information regarding the use and repayment of advanced sick leave, see IRM 6.630.1.6, Advanced Leave.
+See IRM 6.630.5.6, Advanced Leave for Childbirth, Adoption and Foster Care, for information on eligibility, approval requirements, procedures for applying, etc.
+6.630.5.5.4 (08-26-2025)
+Family and Medical Leave Act (FMLA) Leave
+An eligible employee is entitled to use a total of up to 480 hours (12 weeks) of LWOP under the FMLA for the placement of a child with the employee for adoption or foster care, or for care of their child with a serious health condition. An employee who is accompanying a family member to activities related to the placement of a child for adoption is not entitled to unpaid leave under the FMLA.
+An employee’s entitlement to FMLA-LWOP begins on the date of placement and expires 12 months from that date.
+FMLA-LWOP may be taken intermittently or under a work schedule reduced by the number of hours of FMLA-LWOP unless mutually agreed upon between the manager and employee. See IRM 6.630.1.9, Family and Medical Leave Act (FMLA), for more information.
+An employee may elect to substitute paid leave to include PPL, accrued annual leave and/or sick leave, advanced annual and/or advanced sick leave and leave made available through the Leave Sharing Programs, for any or all FMLA-LWOP, consistent with the laws and regulations governing these types of leave.
+FMLA-LWOP may affect various employee entitlements, including the accrual of annual and/or sick leave. See IRM 6.630.1.2, Eligibility for Annual and Sick Leave, and OPM’s fact sheet, Effect of Extended Leave Without Pay (LWOP) (or Other Nonpay Status), for more information.
+See IRM 6.630.1.9, Family and Medical Leave Act (FMLA), for more information.
+6.630.5.5.5 (08-26-2025)
+Leave Without Pay (LWOP)
+Subject to managerial approval, an employee may request and use LWOP for adoption proceedings or to be absent from work to bond with or care for a newly adopted child, and for foster care purposes. See IRM 6.630.1.10, Leave Without Pay (LWOP) for more information on LWOP.
+LWOP may affect various employee entitlements, including the accrual of annual and/or sick leave. See IRM 6.630.1.2, Eligibility for Annual and Sick Leave, and OPM’s fact sheet, Effect of Extended Leave Without Pay (LWOP) (or Other Nonpay Status), for more information.
+This category of LWOP should not be confused with FMLA-LWOP that is used for the placement of a child with the employee for adoption or foster care as described in IRM 6.630.5.5.4, Family and Medical Leave Act (FMLA) Leave.
+6.630.5.6 (08-26-2025)
+Advanced Leave for Childbirth, Adoption, and Foster Care
+Barring unusual or extenuating circumstances, requests to use advanced annual and/or advanced sick leave must be approved to the extent permitted by law for purposes relating to childbirth, adoption, and foster care.
+Advanced leave may be used in conjunction with other applicable leave programs such as the FMLA and leave acquired under the Voluntary Leave Sharing Program.
+The option for this type of leave begins on the date of first use and may occur prior to or on the actual date of birth of the child, or placement for adoption or foster care.
+An employee must submit requests to their immediate supervisor using existing business unit procedures no less than 30 calendar days before the leave is to begin, if the need for leave is foreseeable, or within a reasonable period of time appropriate to the circumstances if the leave is not foreseeable.
+An employee is required to repay all advanced sick leave, except in very limited circumstances such as disability or death. For information regarding the use and repayment of advanced sick leave, see IRM 6.630.1.6, Advanced Leave.
+6.630.5.6.1 (08-26-2025)
+Advanced Sick Leave for Childbirth, Adoption, and Foster Care
+An employee may request and be advanced up to 30 days (240 hours) of sick leave for childbirth and adoption. For a part-time employee, the amount of advanced sick leave that may be used for childbirth and adoption is prorated in proportion to the average number of hours of work in the employee's scheduled TOD each week.
+An employee’s request to use advanced sick leave for childbirth and adoption must be granted as long as the request meets eligibility requirements and the employee’s negative sick leave balance does not exceed 240. For additional information such as the use, eligibility and repayment of advanced sick leave, see IRM 6.630.1.6.2, Advanced Sick Leave.
+An employee may request and be approved to use advanced sick leave to care for a family member with a serious health condition, such as the employee’s child. See IRM 6.630.1.6.2, Advanced Sick Leave for additional information.
+Advanced sick leave may not be used for fostering a child.
+An employee is required to repay all advanced sick leave, except in very limited circumstances such as disability or death. For information regarding the use and repayment of advanced sick leave, see IRM 6.630.1.6, Advanced Leave.
+6.630.5.6.2 (08-26-2025)
+Advanced Annual Leave for Childbirth, Adoption, and Foster Care
+An employee may request and be advanced the amount of annual leave hours that would accrue during the remainder of the current leave year.
+While an employee does not have a right to advanced annual leave, advanced annual leave for purposes related to childbirth, adoption, and foster care may be granted within the limits as described in (1) above even if they have an existing negative annual leave balance.
+An employee is required to repay all advanced annual leave, except in very limited circumstances such as disability or death. For information regarding the use and repayment of advanced annual leave, see IRM 6.630.1.6, Advanced Leave.
+6.630.5.7 (08-26-2025)
+Additional Flexibilities for Family Purposes
+The IRS offers various leave and work scheduling flexibilities to assist an employee in meeting work and personal obligations. For more information on these flexibilities, refer to the IRS Source and search on the subject of interest.
+Flexible and Compressed Work Schedules:
+If work requirements and business unit needs permit, an employee may request a flexible or compressed work schedule to help balance work and personal responsibilities.
+For more information, see IRM 6.610.1.5.2, Alternative Work Schedules, and for BU employees, see also Article 23 of the National Agreement available at: Document 11678, National Agreement.
+The IRS Telework Program:
+Telework enhances work-life balance and supports continuity of operations.
+For more information, see IRM 6.800.2, IRS Telework Program, and for BU employees, Article 50 of the National Agreement available at: Document 11678, National Agreement.
+The IRS Lactation Program:
+The IRS provides a supportive environment to enable nursing employees to express milk during business hours. See IRM 6.800.4, IRS Lactation Program for more information on workplace accommodations for employees who are nursing a baby.
+The IRS Reasonable Accommodation Program:
+In accordance with the Pregnant Workers Fairness Act (29 USC Part 1636), a reasonable accommodation may be requested and must be approved for a qualified employee in relation to, affected by, or arising out of pregnancy, childbirth, or related physical or mental medical conditions. The request does not have to identify a medical condition or use medical terms.
+The Pregnant Workers Fairness Act includes a non-exhaustive list of examples for the definition of “pregnancy” and “childbirth” to include current pregnancy, past pregnancy, potential or intended pregnancy (which can include infertility, fertility treatments, and the use of contraception), and labor and childbirth (including vaginal delivery and cesarean section). “Related medical conditions” are medical conditions that relate to pregnancy or childbirth, and need not be caused solely, originally, or substantially by pregnancy or childbirth, and can include but are not limited to, lactation (including breastfeeding and pumping), miscarriage, stillbirth, having or choosing not to have an abortion, preeclampsia, gestational diabetes, and HELLP (hemolysis, elevated liver enzymes and low platelets) syndrome.
+For more information, see IRM 1.20.2, Providing Reasonable Accommodation for Individuals with Disabilities, and for BU employees, Article 55 of the National Agreement available at: Document 11678, National Agreement.
+6.630.5.8 (08-26-2025)
+Parental Bereavement Leave
+Parental bereavement leave is a separate paid leave entitlement for eligible employees and is distinct from sick leave earned in accordance with IRM 6.630.1.5.5, Sick Leave for Family Care which may also be used for bereavement purposes. Parental bereavement leave does not affect the accrual or balances of other paid leave or paid time off.
+An employee may continue to use sick leave for bereavement purposes found in IRM 6.630.1.5.5, Sick Leave for Family Care. For example, an employee may request and be approved to use parental bereavement leave, sick leave for bereavement purposes, LWOP, annual leave or another type of paid or unpaid leave, as appropriate to cover an absence due to their child’s death.
+Eligible employees are entitled to use a total of two administrative work weeks of paid parental bereavement leave within a 12-month period due to the death of the employee’s child. The 12-month period used for this purpose begins on the date of the child’s death.
+6.630.5.8.1 (08-26-2025)
+Eligibility
+To be eligible for parental bereavement leave, the individual must:
+Be on a permanent, seasonal, or term appointment. Employees on a temporary or intermittent position are not eligible; and
+Have completed 12 consecutive or nonconsecutive months of federal service; and
+The eligible employee’s absence must be due to the occurrence of the death of the employee’s child on or after December 27, 2021. “Child” means a biological, adopted or foster child, stepchild, a legal ward, or a child of a person standing in loco parentis who is:
+Under 18 years of age; or
+18 years of age or older and incapable of self-care because of a mental or physical disability; or.
+Unborn (e.g., miscarriage or stillbirth).
+6.630.5.8.2 (08-26-2025)
+Limitations
+Full-time employees with an 80-hour biweekly schedule, may use up to 80 hours of paid parental bereavement leave within a 12-month period.
+Part-time employees and employees on an uncommon TOD may use up to the total number of regularly scheduled work hours in their biweekly TOD within a 12-month period.
+Example: A part-time employee working 24 hours per week (48 hours in their biweekly TOD) may use up to 48 hours of parental bereavement leave within a 12-month period.
+An employee may not receive more than two administrative workweeks of parental bereavement leave within a 12-month period.
+Parental bereavement leave may not be taken intermittently or on a reduced leave schedule unless mutually agreed upon between the manager and employee. If bereavement leave is subject to the continuous use requirement, a holiday or other nonwork day is not considered to be an interruption in continuous use even though bereavement leave is not charged for those hours.
+If an employee does not use all available parental bereavement leave for a given 12-month period, the employee will not be able to use the remaining balance unless the employee experiences the death of another child within the 12-month period.
+Parental bereavement leave may not be used on a holiday or any other nonwork day. For example, a seasonal employee may not use parental bereavement leave during off-season periods when the employee is placed in a nonduty/nonpay status.
+An employee who is on leave, such as PPL to cover absences related to the care of a newborn or new placement of a child, may request and be approved to use parental bereavement leave to cover an absence if that child should pass away.
+If there is a change in the employee’s scheduled TOD before they use the full two workweeks of parental bereavement entitlement, the remaining balance of parental bereavement leave must be recalculated based on the change in their TOD hours.
+Example: If a full-time employee has a balance of 40 hours of unused parental bereavement leave, then converts to a part-time schedule of 24 hours per week, the new recalculated parental bereavement leave balance would be 24 hours.
+
+To explain, the old full-time schedule was 80 hours per biweekly TOD, and the new part-time schedule is 48 hours per biweekly TOD. The new part-time schedule is 60% of the former full-time schedule or (48 hours / 80 hours = 60%). Therefore, the employee has already used 60% of their entitlement. Multiply 60% by the unused balance of 40 hours to arrive at 24 hours of converted parental bereavement leave (48 hours / 80 hours) = 60% x 40 hours = 24 hours).
+If an employee is found by proper authority to have deliberately caused the child’s death, the employee is not entitled to parental bereavement leave. Any parental bereavement leave that was used prior must be retroactively canceled.
+6.630.5.8.3 (08-26-2025)
+Multiple Deaths
+In the unfortunate event more than one qualifying child of the employee dies during a 12-month period that does not occur on the same day, a new 12-month period will begin on the date of the most recent child’s death. An employee may have overlapping 12-month periods. Any parental bereavement leave used during the overlapping periods will count against the two-week limit for each affected 12-month period.
+6.630.5.8.4 (08-26-2025)
+Documentation and Requirements
+Employees must request and secure approval of their intent to use parental bereavement leave in accordance with their business unit’s procedures within a reasonable and practicable advance notice.
+An employee is entitled to use parental bereavement leave upon request if the employee meets eligibility requirements.
+The IRS may request the employee to provide a written self-certification or other documentation, such as a death certificate, to certify the leave request.
+6.630.5.8.5 (08-26-2025)
+Transfer or Separation
+If an employee transfers to the IRS from another agency, a determination must be made whether the newly hired or transferred employee is within a 12-month period based on the date of death of the employee’s child and the number of parental bereavement leave hours the employee has already used.
+Any unused balance of parental bereavement leave transfers with the employee as long as the employee is within the 12-month eligibility period for parental bereavement leave.
+Any agreement between the employee and the previous employing agency regarding intermittent use of parental bereavement leave is not binding on the receiving agency.
+If an employee separates from the IRS with an unused balance of parental bereavement leave, any right to the unused leave is terminated.
+6.630.5.8.6 (08-26-2025)
+Retroactive Use
+If it is determined that an employee used LWOP to cover an absence due to the death of their child occurring on or after December 27, 2021, the employee may request to retroactively substitute the unpaid leave for parental bereavement leave, and the request must be granted retroactively.
+If an employee used other paid leave to cover an absence for which parental bereavement leave could have been used, an employee’s request to retroactively substitute parental bereavement leave may be granted if it is determined the employee lacked information on parental bereavement leave or was not allowed to use parental bereavement leave at the time.
+Parental bereavement leave cannot be retroactively used prior to December 27, 2021.

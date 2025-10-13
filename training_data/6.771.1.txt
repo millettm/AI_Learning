@@ -1,0 +1,388 @@
+6.771.1  Processing Agency Grievances
+6.771.1.1  Program Scope and Objectives
+6.771.1.1.1  Background
+6.771.1.1.2  Authorities
+6.771.1.1.3  Responsibilities
+6.771.1.1.4  Program Management and Review
+6.771.1.1.5  Program Controls
+6.771.1.1.6  Terms/Acronyms
+6.771.1.1.7  Related Resources
+6.771.1.2  Policy
+6.771.1.3  Moratoriums on Agency Grievance Matters
+6.771.1.4  Grievant’s Representative
+6.771.1.5  Disallowing Grievant’s Representative
+6.771.1.6  Employee Coverage
+6.771.1.7  Grievance Coverage
+6.771.1.7.1  Appealable Decisions Excluded from Agency Grievances
+6.771.1.8  Grievance - Step 1
+6.771.1.9  Grievance - Step 2
+6.771.1.10  Threshold Information
+6.771.1.10.1  Threshold Denials
+6.771.1.10.2  Threshold Appeals
+6.771.1.11  Factfinding
+6.771.1.12  Cancellation or Rejection of a Grievance
+6.771.1.13  Records Retention
+Part 6. Human Resources Management
+Chapter 771. Agency Grievance System
+Section 1. Processing Agency Grievances
+6.771.1 Processing Agency Grievances
+Manual Transmittal
+August 29, 2025
+
+Purpose
+(1) This transmits revised IRM 6.771.1, Agency Grievance System, Processing Agency Grievances.
+
+Material Changes
+(1) Changed IRM section title from Agency Grievance System (AGS) to Processing Agency Grievances.
+
+(2) Agency grievances on ratings of record are no longer permitted for non-bargaining unit employees in compliance with Executive Order 14171, Restoring Accountability to Policy-Influencing Positions Within the Federal Workforce, dated January 20, 2025, which reinstated Executive Order 13839, Promoting Accountability and Streamlining Removal Procedures Consistent with Merit System Principles, dated May 25, 2018. Therefore, former IRM 6.771.1.10, Grievance Process - Performance Grievances for Payband Employees, was deleted.
+
+(3) Reorganized the subsections to follow the order that a grievance typically follows.
+
+(4) IRM 6.771.1.1, Program Scope and Objectives, revised to comply with IRM 1.11.2.2.4, Address Management and Internal Controls; updated organizational names; added contact information.
+
+(5) IRM 6.771.1.1.1, Background, revised; deleted 5 CFR 771, Agency Administrative Grievance System, and Department of Treasury Transmittal Number 68, Administrative Grievance System. 5 CFR 771 , Agency Administrative Grievance System, is appropriately covered in IRM 6.771.1.2, Authority; 5 CFR 315.908 , Appeals, takes precedence over Department of Treasury Transmittal Number 68, Administrative Grievance System.
+
+(6) IRM 6.771.1.1.2, Authorities, revised; added 5 CFR 315.908, Appeals, and deleted Department of Treasury Transmittal Number 68, Administrative Grievance System. 5 CFR 315.908, Appeals, takes precedence over Department of Treasury Transmittal Number 68, Administrative Grievance System.
+
+(7) IRM 6.771.1.1.3, Responsibilities, updated organizational name; revised procedures for contacting a specialist in the Labor/Employee Relations and Negotiations Division.
+
+(8) IRM 6.771.1.1.4, Program Management and Review, revised; added subheadings to comply with IRM 1.11.2.2.4, Address Management and Internal Controls.
+
+(9) IRM 6.771.1.1.5, Program Controls, revised organizational name, added list of activities to ensure program success.
+
+(10) IRM 6.771.1.1.6, Terms/Acronyms, revised title to comply with IRM 1.11.2.2.4, Address Management and Internal Controls; revised the definitions for Factfinder, Factfinding, Factual Dispute, Grievance Deciding Official; added definition for Bargaining Unit Employee, National Treasury Employees Union and Personal Concern; replaced definition for Days with Calendar Days, deleted Executive Misconduct Unit, Grievance Examiner, and Senior Executive Services, which do not need to be defined in this IRM.
+
+(11) IRM 6.771.1.1.7, Related Resources, deleted 5 CFR 771, Agency Administrative Grievance System, and Department of Treasury Transmittal Number 68, Administrative Grievance System. 5 CFR 771 , Agency Administrative Grievance System, is appropriately covered in IRM 6.771.1.2, Authorities, and 5 CFR 315, Career and Career-Conditional Employment, takes precedence over Department of Treasury Transmittal Number 68, Administrative Grievance System; added Document 11678, IRS and NTEU National Agreement, and Document 12829, The General Records Schedules.
+
+(12) IRM 6.771.1.2, Policy, deleted Deputy Commissioner for Operations Support and Deputy Commissioner for Services and Enforcement, which were replaced with the Deputy Commissioner in April 2024.
+
+(13) IRM 6.771.1.3, Moratoriums on Agency Grievance Matters, added new subsection per Interim Guidance Memorandum HCO-06-1122-0014, Interim Guidance on Performance and Conduct Actions, dated September 7, 2023.
+
+(14) IRM 6.771.1.4, Grievant’s Representative, moved from former IRM 6.771.1.3.
+
+(15) IRM 6.771.1.5, Disallowing Grievant’s Representative, moved from former IRM 6.771.1.4; replaced “LERN Associate Director, Field Operations” with “LERN Field Operations Deputy Director.”
+
+(16) IRM 6.771.1.6, Employee Coverage, moved from former IRM 6.771.1.5.
+
+(17) IRM 6.771.1.7, Grievance Coverage, moved from former IRM 6.771.1.6; moved “Failure to receive a non-competitive promotion” to a separate line.
+
+(18) IRM 6.771.1.7.1, Appealable Decisions Excluded from Agency Grievances, revised title; listed in order of regulations; moved from former IRM 6.771.1.6.1.
+
+(19) IRM 6.771.1.8, Grievance – Step 1, moved from former IRM 6.771.1.7; corrected timeframes; Form 5877 is now filed with the second-level manager instead of the first-level manager; added the following: the second-level manager has seven calendar days to determine the appropriate Grievance Deciding Official, the Step 1 Grievance Deciding Official can be outside the grievant’s management chain, the Step 1 Grievance Deciding Official’s responsibilities, including what is required in the Step 1 decision, and the appeal of the Step 1 decision, which was moved from former IRM 6.771.1.8, Grievance - Step 2.
+
+(20) IRM 6.771.1.9, Grievance – Step 2, moved from former IRM 6.771.1.8; deleted non-payband performance grievances, which are no longer permitted (see number 2 above); disciplinary action grievances and appeals of Step 1 decisions are now filed with the third-level manager; the Step 2 decision is final and can no longer be appealed.
+
+(21) IRM 6.771.1.10, Threshold Information, revised title and moved content from former IRM 6.771.1.7.1, Threshold Issues. Created this new subsection after IRM 6.771.1.8, Grievance - Step 1, and IRM 6.771.1.9, Grievance - Step 2, since threshold issues can apply at Step 1 or 2 of the grievance process.
+
+(22) IRM 6.771.1.10.1, Threshold Denials, moved content from former IRM 6.771.1.7.2, Threshold Denials.
+
+(23) IRM 6.771.1.10.2, Threshold Appeals, revised title and moved content from former IRM 6.771.1.7.3, Threshold Decisions.
+
+(24) IRM 6.771.1.11, Factfinding, moved from former IRM 6.771.1.9, Factfinding; the Step 2 Grievance Deciding Official can request a factfinder by contacting a specialist in the Labor/Employee Relations and Negotiations Division; eliminated the pre-meeting to discuss the factfinder’s preliminary findings; added a step to send written feedback to the factfinder in response to the preliminary analysis; moved the Grievance Deciding Official’s written decision requirements to IRM 6.771.1.9, Grievance - Step 2.
+
+(25) Deleted former IRM 6.771.1.11, Grievance – Step 3, Final Appeal, because the grievance process was changed from a three-step to a two-step process.
+
+(26) IRM 6.771.1.12, Cancellation or Rejection of a Grievance, replaced “LERN Associate Director, Field Operations” with “LERN Field Operations Deputy Director.”
+
+(27) Added IRM 6.771.1.13, Records Retention.
+
+(28) Deleted IRM Exhibit 6.771.1-1, Agency Grievance System Grievance Deciding Official Request for Factfinder, which is an operational form kept by the Labor/Employee Relations and Negotiations Division.
+
+Effect on Other Documents
+IRM 6.771.1, dated September 29, 2021, is superseded. Incorporates relevant content from Interim Guidance Memorandum HCO-06-1122-0014, Interim Guidance on Performance and Conduct Actions, dated September 7, 2023, and effective August 1, 2023.
+Audience
+All IRS employees excluding contractors and Chief Counsel.
+Effective Date
+(08-29-2025)
+David Traynor
+Acting IRS Human Capital Officer
+
+6.771.1.1 (08-29-2025)
+Program Scope and Objectives
+Purpose: This IRM provides the policy for non-bargaining unit (NBU) employees to grieve matters of personal concern related to their IRS employment. It also provides the policy for bargaining unit (BU) employees for matters that are not covered in the 2022 Internal Revenue Service (IRS) and National Treasury Employees Union (NTEU) National Agreement (NA), Document 11678, and the 2025 Addendum to the 2022 National Agreement, Document 11678-B.
+Audience: All IRS employees excluding contractors and Chief Counsel.
+Policy Owner: Human Capital Office, Policy Office (PO)
+Program Owner: Human Capital Office (HCO)
+Primary Stakeholders: HCO’s Labor/Employee Relations and Negotiations (LERN) Division and IRS managers
+Program Goal: To provide IRS employees an opportunity to raise matters of personal concern or dissatisfaction to management for consideration.
+Contact Information: Complete and submit the HCO PO contact form (.pdf) with questions about this IRM.
+6.771.1.1.1 (08-29-2025)
+Background
+This IRM provides the policy and procedures for:
+NBU employees to grieve matters of personal concern affecting their IRS employment, and
+BU employees to grieve matters of personal concern affecting their IRS employment that are not covered in the 2022 IRS and NTEU NA and the 2025 Addendum to the 2022 NA.
+6.771.1.1.2 (08-29-2025)
+Authorities
+This IRM supplements policies and requirements contained in the authorities cited below. It is not self-contained and must be read in conjunction with cited authorities, and for BU employees, any applicable collective bargaining agreement (CBA), such as the NA.
+Note: For BU employees, if this IRM conflicts with the NA, the addendum to the NA, or any other relevant memorandum of understanding, the agreement prevails.
+5 CFR 315.908, Appeals
+5 CFR 771, Agency Administrative Grievance System
+6.771.1.1.3 (08-29-2025)
+Responsibilities
+The IRS Human Capital Officer is the executive responsible for this IRM and the Servicewide agency grievance policy.
+The HCO PO is responsible for developing, updating, publishing and socializing this IRM content.
+The HCO LERN Division collaborates with the PO on the IRM content and related communications, ensures adherence to the IRM, helps managers address agency grievances, and conducts periodic agency grievance assessments.
+At the discretion of the business unit, the Human Resource Business-Based Professionals, also known as embedded, may assist their managers with agency grievances.
+A LERN specialist advises and guides the managers on all aspects of the grievance process, including for example, attending the grievance meeting, taking notes and drafting the grievance response.
+Supervisors (managers) will:
+Resolve an employee’s complaint/grievance at the lowest level possible,
+Contact LERN upon receipt of Form 5877, Agency Grievance and Authorization for Representative’s Access to Personnel Records. You can contact a LERN specialist by submitting a request through IRS Service Central, or see Labor/Employee Relations & Negotiations Contacts,
+Decide if the grievance meets threshold issues (e.g., timeliness or grievability). See IRM 6.771.1.10, Threshold Information,
+Allow/disallow the grievant’s representative (if applicable). See IRM 6.771.1.5, Disallowing Grievant’s Representative and
+Decide which manager is the Grievance Deciding Official to resolve the grievance. See IRM 6.771.1.1.6, Terms/Acronyms, paragraph 12.
+Employees will:
+Attempt to resolve their concern(s) with the immediate manager, if the manager has authority to provide relief, as an informal grievance prior to submitting Form 5877,
+Follow the time limits in this IRM,
+Provide Form 5877 with enough detail and supporting documentation (if applicable) to clearly describe the matter (issue) being grieved and
+Specify the relief (remedy) they are requesting.
+6.771.1.1.4 (08-29-2025)
+Program Management and Review
+Program Reports: LERN tracks agency grievances in their Labor/Employee Relations (LR/ER) case management system.
+Program Effectiveness: LERN analyzes the data in their LR/ER case management system to conduct periodic agency grievance assessments (e.g., quality reviews). The PO and LERN gauge the effectiveness of the policies in this IRM by considering feedback from customers and key stakeholders. During IRM review and publishing, sections may be added, revised or removed based on feedback or changes in law, rule or regulations.
+6.771.1.1.5 (08-29-2025)
+Program Controls
+The PO develops and deploys policies, materials and programs to increase Servicewide awareness and understanding of the contents of this IRM. The PO also collaborates with business units to support education and outreach activities as they relate to agency grievances.
+The following activities help ensure program success:
+Conducting an annual review of this IRM for needed revisions/clarifications,
+Publishing educational articles, such as Leaders’ Alerts and IRS Headlines,
+Collaborating on interim guidance for policy changes related to this IRM,
+Seeking legal advice from Chief Counsel, General Legal Services, Claims, Labor and Personnel Law Branch, as needed, and
+Reviewing communications and training materials, as needed, to ensure adherence to policies.
+6.771.1.1.6 (08-29-2025)
+Terms/Acronyms
+Alternative Dispute Resolution (ADR) - ADR is used to describe methods to resolve issues that are expeditious, less formal and more cost effective than a court trial (e.g., negotiation, conciliation, mediation). ADR is available for Equal Employment Opportunity (EEO) matters; however, it is not available for agency grievances.
+Bargaining Unit Employee - An employee represented by a union certified by the Federal Labor Relations Authority (FLRA) who is included in the bargaining unit and covered by a collective bargaining agreement.
+Calendar Days - All days on a calendar, regardless of work schedule. If the due date falls on a weekend or federal holiday, the due date is the next business day.
+Control of Management - A decision exclusively within the delegated authority of management.
+Disciplinary Actions - For the purpose of this IRM, admonishments, reprimands and suspensions of 14 calendar days or less.
+Employee - An individual currently or formerly employed by the IRS for whom a remedy (personal relief) is available including a BU employee for matters not covered by the NA.
+Factfinder - An individual assigned to a grievance case who gathers information and provides an independent, unbiased written analysis documenting the relevant facts enabling the Step 2 Grievance Deciding Official to make an informed decision. Factfinding may only be performed by persons not involved in the grievance matter. Factfinders may not occupy a position subordinate to the manager(s) involved in the grievance; however, they may be in a position subordinate to the Grievance Deciding Official. See IRM 6.771.1.11, Factfinding.
+Factfinding - The process of investigating a factual dispute(s) raised in a Step 2 grievance.
+Factual Dispute - A disagreement or conflicting evidence of a fact(s) in a Step 2 grievance that may result in requesting a factfinder.
+Formal Grievance - Begins when an employee completes and submits Form 5877 (the grievance).
+Grievance - A complaint requesting personal relief by an employee, or group of employees acting as individuals, over a matter of personal concern or dissatisfaction relating to their employment which is subject to management’s control. This may include allegations of coercion or any claimed violation, misinterpretation or misapplication of any law, rule or regulation affecting conditions of employment.
+Grievance Deciding Official (GDO) - A manager who decides the outcome of a formal grievance. The GDO is the manager who has the authority to provide the requested relief. In each agency grievance step, the GDO at Step 2 must be a higher grade than the GDO at Step 1.
+Grievance File/Case File - A file required and maintained by LERN containing documents related to the grievance, including, but not limited to the informal attempts to resolve the grievance, Form 5877, and supporting documentation, such as evaluative data, witness statements, factfinder report(s), related correspondence and all decisions (e.g., threshold, representative, grievance).
+Grievant - An employee or former IRS employee who files a grievance covered by this IRM.
+Group Grievance - A group of employees who file a grievance about a matter impacting all members of the group. All participants must be identified by name and signature, showing their voluntary participation at each step of the grievance and their agreement to accept the finality of the decision rendered. In addition, the group will name a spokesperson to present the grievance and attend meetings on their behalf. The decision in a group grievance is binding to all named grievants.
+Informal Grievance - Begins when an employee attempts to resolve his/her complaint(s) with management before submitting Form 5877.
+LERN Specialist - For the purpose of this IRM, specialists in LERN who provide guidance to managers addressing grievances.
+National Treasury Employees Union (NTEU) - The exclusive representative of IRS BU employees. NTEU is also referred to as the labor union or union.
+Non-bargaining Unit Employee - An employee who is not covered by a CBA, such as the National Agreement, and is not represented by a labor union.
+Personal Concern - A matter of concern or dissatisfaction relating to the employment of the employee(s) (excluding ratings of record) which is subject to management’s control.
+Personal Relief (remedy) - A specific resolution directly helping the grievant.
+Representative - A person the grievant designates in writing (and allowed by the GDO; see IRM 6.771.1.4, Grievant’s Representative) to act on his/her behalf in the agency grievance process.
+Threshold Issue - A determination of grievability, timeliness and completeness of a grievance addressed prior to considering the merits of the grievance. See IRM 6.771.1.10, Threshold Information.
+6.771.1.1.7 (08-29-2025)
+Related Resources
+Document 11678, 2022 National Agreement Between the IRS and the National Treasury Employees Union (NTEU)
+Document 11678-B, 2025 Addendum to the 2022 National Agreement Between the IRS and the NTEU
+Document 12829, The General Records Schedules (see 2.3, Employee Relations Records)
+IRM 10.5.6.8, Personnel Records
+Form 5877, Agency Grievance and Authorization for Representative’s Access to Personnel Records
+5 CFR 294, Availability of Official Information
+5 CFR 297, Privacy Procedures for Personnel Records
+5 CFR 330, Recruitment, Selection, and Placement (General)
+5 CFR 351, Reduction in Force
+5 CFR 352, Reemployment Rights
+5 CFR 353, Restoration to Duty from Uniformed Service or Compensable Injury
+5 CFR 430, Performance Management
+5 CFR 432, Performance Based Reduction in Grade and Removal Actions
+5 CFR 511, Classification Under the General Schedule
+5 CFR 532, Prevailing Rate Systems
+5 CFR 536, Grade and Pay Retention
+5 CFR 551, Pay Administration Under the Fair Labor Standards Act
+5 CFR 752, Adverse Actions
+5 CFR 870, Federal Employees Group Life Insurance Program
+5 CFR 890, Federal Employees Health Benefit Program
+29 CFR 1614, Federal Sector Equal Employment Opportunity
+6.771.1.2 (08-29-2025)
+Policy
+It is IRS policy to support an environment in which employees or grievants may express concern(s) informally or use this IRM to seek a formal resolution.
+Employees may file grievances without fear of restraint, interference, coercion or discrimination. Grievances are to be fairly and objectively considered and processed timely.
+Most grievances are addressed within the business unit’s management chain. On occasion, grievances may be addressed outside the grievant’s management chain (e.g., if the remedy cannot be granted by the grievant’s management chain).
+A grievance will not be elevated to the Commissioner of Internal Revenue (Commissioner) or the Deputy Commissioner unless the grievant reports directly to them.
+If an executive (i.e., Senior Executive Service (SES), Administratively Determined and Streamlined Critical Pay), the head of the business unit, Deputy Commissioner or Commissioner is the GDO, there is only one grievance step.
+Management may grant up to four hours of administrative time to grievants and authorized representatives to discuss, prepare and present the grievance. No more than four hours of administrative time is allowed regardless of the number of steps the grievance involves.
+Note: Grievants (and authorized representatives (if applicable)) must request and receive approval for administrative time in advance.
+6.771.1.3 (08-29-2025)
+Moratoriums on Agency Grievance Matters
+Types of moratoriums:
+National Emergency - If the president declares a national emergency, such as the coronavirus disease pandemic, the IRS Human Capital Officer will decide if a moratorium on LR/ER activity (e.g., conduct or performance issues/actions) is appropriate and announce the beginning and ending dates.
+Natural Disaster - If the president or other appropriate authority (e.g., city or state official) declares a geographic area as a natural disaster, the business-based human resources staff (also known as embedded) will collaborate with LERN and the Senior Commissioner’s Representative to determine if a moratorium is appropriate and announce the beginning and ending dates.
+Note: Natural disasters are defined as any natural catastrophe (e.g., hurricane, tornado, storm, high water, wind driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mud slide, snowstorm, or drought), or any fire, flood, or explosion, regardless of the cause, in any part of the United States, which the president or city/state official declares is causing damage of sufficient severity and magnitude to warrant major disaster assistance to help alleviate the damage, loss, hardship, or suffering caused by the disaster. Depending on the severity of the incident (e.g., explosion or fire), this may include a terrorist attack.
+Winter Holiday Season - Annually during the winter holidays, beginning two Mondays before December 25 and ending in January, two Fridays after December 25 (e.g., December 16, 2024, through January 10, 2025).
+What Occurs During a Moratorium - A moratorium does not prohibit all LR/ER activity (e.g., conduct or performance issues/actions). Management may continue with LR/ER activity if appropriate.
+When a moratorium is in place, managers continue to work with a LERN specialist on LR/ER activity already in progress.
+During a moratorium, for employees not serving a probationary/trial period or a temporary/term appointment, managers will consider and decide whether the following activities should be held in abeyance or if they should continue.
+- Issuing grievance replies/decisions
+- Holding grievance meetings
+6.771.1.4 (08-29-2025)
+Grievant’s Representative
+Employees may choose a representative who is willing to serve and allowed by the GDO (see IRM 6.771.1.5, Disallowing Grievant’s Representative).
+Employees may designate a representative at any grievance step.
+Designation of the grievant’s representative must be in writing and given to the GDO.
+Only one individual may serve as an employee’s representative.
+Grievants may change the designation of a representative at any time.
+6.771.1.5 (08-29-2025)
+Disallowing Grievant’s Representative
+The IRS will allow grievants to choose a representative unless such choice:
+Creates a conflict of interest or position - This occurs when the representative’s IRS duties conflict with the functions of the representative. For example, when a GDO’s manager is chosen by the grievant to serve as his/her representative.
+Imposes unreasonable costs to the government - This can include any travel costs or expenses requested by the representative to fulfill his/her role.
+Conflicts with the priority needs of the IRS - The IRS mission takes precedence. The requested representative may be disallowed if a priority work assignment precludes his/her release from official duties. Use the same criteria as approving annual leave.
+If applicable, within 15 calendar days of receiving the grievant’s written designation of representative, the GDO will provide a written disallowance decision to the grievant and the disallowed representative. The disallowance decision includes the grievant’s appeal rights and becomes part of the case file.
+Within 15 calendar days of receiving the disallowance decision, the grievant (not the disallowed representative) may appeal the disallowance decision by:
+Submitting a written appeal (via email) to LERN’s Field Operations Deputy Director named in the disallowance decision. To find the name of the Deputy Director of Field Operations, see Labor/Employee Relations & Negotiations Contacts.
+Attaching a copy of the disallowance decision to his/her appeal.
+Within 20 calendar days of receiving the appeal of the disallowance decision, the LERN Field Operations Deputy Director will make and communicate a final decision on either allowing or disallowing the representative. The disallowance decision is not grievable, and the grievance process resumes after the decision is issued.
+6.771.1.6 (08-29-2025)
+Employee Coverage
+Agency grievances cover the following individuals:
+Current NBU employees,
+Current BU employees if the grievance issue is not covered under the NA (e.g., the ranking procedures used to fill a supervisory position) and
+Former IRS employees on a matter that arose during their IRS employment with a plausible remedy (e.g., a pay issue) after separation.
+Agency grievances are not available to the following individuals:
+Applicants for employment,
+BU employees if the matter grieved is covered by the NA,
+Former IRS employees unless the matter grieved arose during their employment and could lead to a remedy after separation (e.g., a pay issue) and
+Estate of deceased employees unless the grievance involves a pay-related matter.
+Note: Proof of appointment must be provided by a court-appointed personal representative or the executor of the estate prior to releasing any information.
+6.771.1.7 (08-29-2025)
+Grievance Coverage
+Except as listed below, agency grievances apply to matters relating to the employment of a covered employee that is subject to management’s control.
+Employees cannot file an EEO complaint and an agency grievance on the same issue. If an employee files a formal agency grievance and files an EEO complaint for the same issue, whichever was filed first prevails.
+Note: If an employee files an EEO complaint that is rejected or denied, the employee may file an agency grievance within 20 calendar days of receiving the EEO decision provided the matter is grievable (see paragraph 3 below).
+Agency grievances exclude matters about:
+The content of established IRS regulations and policies,
+Any matter subject to review and adjudication by the Merit Systems Protection Board, the Office of Personnel Management (OPM), the FLRA, or the Equal Employment Opportunity Commission. See IRM 6.771.1.7.1, Appealable Decisions Excluded from Agency Grievances,
+A matter administered by the Government Accountability Office or the Office of Workers' Compensation Programs, Department of Labor,
+Any matter for which the IRS Deputy Ethics Official has issued a response,
+Non-selection for promotion from a group of properly ranked and certified candidates,
+Failure to receive a non-competitive promotion,
+The termination/separation of probationary employees,
+The termination or expiration of a time-limited excepted service appointment or term appointment unless the employee does not have appeal rights under 5 CFR 432, Performance Based Reduction in Grade and Removal Actions, or 5 CFR 752, Adverse Actions,
+A reduced penalty or other lesser action resulting from a decision on a grievance,
+The termination of a term or temporary promotion that either returns the employee to the position from which he/she was temporarily promoted or reassigns the employee to a different position at the same grade or pay,
+The substance of an employee’s critical job elements and performance standards established under 5 United States Code (USC) 43, Performance Appraisal, and 5 CFR 430, Performance Management,
+The granting of, or failure to grant, or the amount of any type of discretionary award or recognition,
+The adoption of or failure to adopt an employee suggestion or invention,
+Any SES performance-based action or any decision about SES pay, awards or performance evaluations,
+The expiration of an SES limited emergency or term appointment on the date specified as a condition of employment at the time of the appointment or promotion,
+Return of SES members to another pay system during their one-year probationary period for less than fully successful executive performance, or failure to recertify, conditional recertification or termination during probation for unacceptable performance,
+A receipt of an advance notice (proposal letter) for an action that has not been decided or taken place (e.g., a proposal for a suspension, adverse action or an intent to deny a within grade increase),
+A receipt of a non-disciplinary action such as a cautionary, clearance, close without action or counseling memorandum or notice,
+A receipt of a mid-year performance appraisal or a Performance Improvement Plan,
+An action taken for violating a Service Agreement per IRM 1.32.12, Servicewide Travel Policies and Procedures, IRS Relocation Travel Guide and
+The assignment of ratings of records for NBU employees per Executive Order 13839, Promoting Accountability and Streamlining Removal Procedures Consistent With Merit System Principles, dated May 25, 2018 (see Section 4, Managing the Federal Workforce).
+Note: In compliance with 5 CFR 430.208(i), Rating Performance, and the Amending a Rating section in IRM 6.430.1, Performance Management - Introduction to Performance Management, a rating may be amended after it is given to the employee if he/she informally requests reconsideration within 60 days of receiving the rating.
+6.771.1.7.1 (08-29-2025)
+Appealable Decisions Excluded from Agency Grievances
+Appealable decisions subject to the adjudication of other federal agencies referred to in IRM 6.771.1.7, Grievance Coverage, include but are not limited to:
+A denial of a Freedom of Information Act request (request for certain personnel records) appealable under 5 CFR 294, Availability of Official Information,
+A denial of access or amendment to a personnel record in OPM’s system of records appealable under 5 CFR 297, Privacy Procedures for Personnel Records,
+An alleged violation of the reemployment priority list, appealable under 5 CFR 330, Recruitment, Selection, and Placement (General),
+A Reduction-in-Force action appealable under 5 CFR 351, Reduction in Force,
+An alleged violation of reemployment or reinstatement rights appealable under 5 CFR 352, Reemployment Rights,
+An alleged violation of military or compensable injury restoration rights appealable under 5 CFR 353, Restoration to Duty from Uniformed Service or Compensable Injury,
+A reduction in grade or removal for unacceptable performance appealable under 5 CFR 432, Performance Based Reduction in Grade and Removal Actions,
+A position classification decision appealable under 5 CFR 511, Classification Under the General Schedule,
+A job-grading decision appealable under 5 CFR 532, Prevailing Rate Systems,
+A grade or salary retention decision appealable under 5 CFR 536, Grade and Pay Retention,
+An action appealable under the Fair Labor Standards Act compliance and complaint procedures covered in 5 CFR 551, Pay Administration Under the Fair Labor Standards Act,
+An adverse action appealable under 5 CFR 752, Adverse Actions,
+A life insurance decision appealable under 5 CFR 870, Federal Employees' Group Life Insurance Program,
+A health benefits decision appealable under 5 CFR 890, Federal Employees Health Benefits Program and
+An allegation or complaint of discrimination appealable under 29 CFR 1614, Federal Sector Equal Employment Opportunity.
+6.771.1.8 (08-29-2025)
+Grievance - Step 1
+Before filing a formal grievance, employees are encouraged to seek informal resolution as soon as possible and no later than 14 calendar days from the event or the date the employee became aware of the matter being grieved.
+Note: Seeking informal resolution does not extend the timeframe to file a formal grievance.
+In the event a formal grievance is filed, the GDO, the grievant (and the representative (if applicable)) will try to resolve the grievance at the lowest level of the grievance process.
+If an employee chooses to formally grieve a personal work-related issue (other than a disciplinary action), he/she must complete Form 5877 and provide it to the second-level manager within 20 calendar days of the event or the date the employee became aware of the matter being grieved. Employees should present a matter of personal concern about a continuing practice/condition as soon as possible.
+Note: For grievances on disciplinary actions, see IRM 6.771.1.9, Grievance - Step 2.
+Upon receipt of Form 5877, the second-level manager will contact LERN to discuss the grievance and next steps (See IRM 6.771.1.1.3, Responsibilities, paragraph 4, for LERN contact information). The second-level manager will review Form 5877 to decide if he/she has the authority to provide the remedy requested. If the second-level manager cannot provide the relief requested, he/she will provide Form 5877 and any supporting documents to the proper GDO within seven calendar days.
+Note: The Step 1 manager may delegate the grievance to a GDO at a lower level. In addition, the Step 1 GDO may be outside the grievant's management chain if the remedy cannot be granted by the grievant’s management chain.
+The Step 1 GDO procedures:
+Within 10 calendar days of receiving Form 5877, review the grievance and any supporting documentation, and if necessary, issue a written threshold decision. See IRM 6.771.1.10, Threshold Information.
+Within 15 calendar days of receiving Form 5877, hold a Step 1 meeting with the grievant (and his/her representative (if applicable)) if there are no threshold issues, to consider the issue(s) and the remedy requested.
+Within 15 calendar days of holding the grievance meeting, issue a written decision. The written decision will include:
+- A summary of the Step 1 issue(s),
+- A summary of the consideration given to the issue(s),
+- The conclusion(s) reached,
+- The decision on the issue(s) including any remedy/remedies,
+- The next higher-level manager (i.e., the Step 2 GDO) to submit an appeal and
+- Appeal rights to Step 2 and the 20 calendar-day time limit.
+Within 20 calendar days of receiving the Step 1 decision, if the grievant disagrees and chooses to appeal, he/she may submit a written appeal to the Step 2 GDO named in the grievance response stating the issue was not resolved at Step 1. The grievant will attach Form 5877 and any supporting documentation.
+Note: No new issue(s) may be added to the Step 2 grievance (i.e., issues not stated on Form 5877 or raised in the Step 1 grievance meeting).
+6.771.1.9 (08-29-2025)
+Grievance - Step 2
+Step 2 grievances involve consideration of disciplinary actions and appeals of Step 1 decisions.
+Disciplinary Actions - If an employee chooses to grieve a disciplinary action, he/she must complete Form 5877 and provide it to the third-level manager within 20 calendar days. After receiving the grievance, the manager will confirm he/she is the Step 2 GDO. If he/she is not the GDO, Form 5877 is sent to the proper GDO with any supporting documentation within seven calendar days.
+Note: The Step 2 manager may delegate the grievance to a GDO at a lower level.
+Appeals of Step 1 Decisions - After receiving the appeal of the Step 1 decision, the GDO named in the Step 1 decision will confirm he/she is the Step 2 GDO. If he/she is not the GDO, Form 5877 is sent to the proper GDO with any supporting documentation within seven calendar days.
+Note: The Step 2 GDO must not consider any issue(s) not previously raised in the Step 1 grievance.
+The Step 2 GDO procedures:
+The Step 2 GDO will contact the assigned LERN specialist to discuss the grievance and next steps. See IRM 6.771.1.1.3, Responsibilities, paragraph 6, for LERN contact information.
+Within 10 calendar days of receiving Form 5877, review the grievance and any supporting documentation and if necessary, issue a written threshold decision. See IRM 6.771.1.10, Threshold Information.
+Note: If a factual dispute is raised, the Step 2 GDO may request a factfinder. See IRM 6.771.1.11, Factfinding.
+Within 15 calendar days of receiving Form 5877, hold a Step 2 meeting with the grievant (and his/her representative (if applicable)) if there are no threshold issues, to consider the issues and the remedy requested.
+Within 15 calendar days of the Step 2 meeting (if a factfinder has not been requested), issue a written decision. The written decision will include:
+- A summary of the Step 2 issue(s),
+- A summary of the consideration given to the issue(s), including any fact-finding information (if applicable),
+- The conclusion(s) reached,
+- The decision on the issue(s) including any remedy/remedies and
+- The following statement: This Step 2 decision is final, binding, and not subject to further review.
+6.771.1.10 (08-29-2025)
+Threshold Information
+Threshold issues include:
+Timeliness,
+Completeness (based on the nature of the grievance),
+Note: Grievants have 10 calendar days from receiving the threshold decision to resubmit a corrected grievance.
+Grievability (if the issue is excluded; see IRM 6.771.1.7, Grievance Coverage, paragraph 3 and IRM 6.771.1.7.1, Appealable Decisions Excluded from Agency Grievances),
+Appropriate Scope (if the issue falls within the scope of the IRM policy) and
+Appropriateness of Representative (see IRM 6.771.1.5, Disallowing Grievant’s Representative).
+6.771.1.10.1 (08-29-2025)
+Threshold Denials
+Within 10 calendar days of receiving Form 5877, the GDO in conjunction with the LERN specialist provides a written threshold decision to include the appeal process if the grievance does not meet all threshold issues.
+Within 15 calendar days of receiving a threshold decision, employees may appeal to the LERN Field Operations Deputy Director named in the decision.
+6.771.1.10.2 (08-29-2025)
+Threshold Appeals
+Within 20 calendar days of receiving the appeal, the LERN Field Operations Deputy Director provides a written response to the grievant and copies the GDO, the grievant’s representative (if applicable) and the assigned LERN specialist.
+The appeal decision will include:
+A summary of the issue(s) leading to the threshold denial,
+A summary of the consideration given to the issue(s),
+The reason(s) for the threshold denial,
+The appeal decision and
+The following statement: This threshold appeal decision is final, binding, and not subject to further review.
+6.771.1.11 (08-29-2025)
+Factfinding
+The Step 2 GDO may request a factfinder to address a factual dispute prior to issuing a Step 2 decision.
+To request a factfinder, the GDO contacts a LERN specialist for information (see IRM 6.771.1.1.3, Responsibilities, paragraph 4, for contact information).
+A factfinder may obtain the evidence necessary to address the issue(s) within a reasonable time.
+The factfinder provides his/her preliminary findings to the GDO, the grievant (and the representative (if applicable)).
+The GDO, the grievant (and the representative (if applicable)) have eight calendar days to independently review the information. If the GDO, the grievant (and the representative (if applicable)) have more evidence and/or comments, they must provide a written reply/email to the factfinder.
+After the factfinder reviews the additional information, if provided, from the GDO, the grievant (and the representative (if applicable)), he/she will prepare a written analysis of the findings and send it to the GDO, the grievant (and the representative (if applicable)) and the LERN specialist.
+If the GDO decides more fact-finding is necessary (e.g., finding(s) are insufficient or inadequate), he/she may ask for additional fact-finding. If this occurs, the GDO will inform the grievant (and the representative (if applicable)) of the reason for his/her request. If the factfinder changes the analysis, he/she will send copies to the GDO, the grievant (and the representative (if applicable)) and the LERN specialist.
+Within 15 calendar days of receiving the final written analysis of findings, the GDO will issue a written Step 2 decision. See IRM 6.771.1.9, Grievance - Step 2, paragraph 4d.
+6.771.1.12 (08-29-2025)
+Cancellation or Rejection of a Grievance
+At any time prior to issuing the final decision (at any step), a GDO may cancel or reject a grievance:
+At the grievant’s request,
+Due to the grievant’s termination/separation from the IRS, unless a remedy for the former employee’s concern may be granted after termination,
+For failure to pursue the grievance in an acceptable manner (e.g., the grievant does not provide information requested that is necessary to address the concern),
+For failure to specify the personal relief (remedy) requested,
+Because the matter(s) is not within management’s control to resolve,
+By an employee who is not covered by this IRM (e.g., a BU employee submits Form 5877 when he/she should be following Article 41 of the addendum to the NA) and/or
+If this IRM is not followed.
+The written notice of cancellation or rejection will include:
+The reason(s),
+Citation(s) (e.g., an IRM section) and
+Appeals rights with 15 calendar-day time limit.
+Within 15 calendar days of receiving the notice of cancellation or rejection, if the grievant (or representative (if applicable)) chooses to appeal, he/she may submit an appeal via email to the LERN Field Operations Deputy Director named in the written notice of cancellation or rejection. To find the name of the Deputy Director of Field Operations, see Labor/Employee Relations & Negotiations Contacts.
+Within 20 calendar days of receiving the appeal, the LERN Field Operations Deputy Director will issue a written decision to the grievant and provide copies to the grievant’s manager and the LERN specialist.
+If the decision is upheld, the grievance is closed. The decision is final, binding and not subject to further review.
+If the decision is in favor of the grievant, the grievance is returned to the GDO to address the grievance.
+6.771.1.13 (08-29-2025)
+Records Retention
+LERN retains grievance case files for six years after a case is closed, final settlement on appeal or final adjudication by the courts if involved in a related legal matter (e.g. Federal court case) in compliance with Document 12829, The General Records Schedules (see 2.3, Employee Relations Records).

@@ -1,0 +1,678 @@
+6.432.1 Addressing Poor Performance
+Manual Transmittal
+May 15, 2023
+
+Purpose
+(1) This transmits revised IRM 6.432.1, Addressing Poor Performance.
+
+Material Changes
+(1) Revised and reorganized IRM 6.432.1 to comply with Title 5 of the Code of Federal Regulations (CFR) Parts 432 and 531, Subpart D.
+
+(2) Revised the IRM chapter and section titles, Reduction in Grade/Band and Removal Based on Unacceptable Performance, Section 1, Policies, Authorities, Requirements, and Procedures, with Addressing Poor Performance.
+
+(3) Changed title in IRM 6.432.1.1, from Overview to Program Scope and Objectives, which includes Background, Authority, Roles and Responsibilities, Program Management and Review, Program Controls, Related Resources, and Terms and Acronyms.
+
+(4) Revised and moved content from IRM 6.432.1.2, References, to IRM 6.432.1.1.6, Related Resources. Moved 5 USC 4301-4305 (now 5 USC Chapter 43) and 5 CFR Part 432 to IRM 6.432.1.1.2, Authority; added IRM 1.2.2, Servicewide Delegations of Authority, IRM 6.531.1, Pay Under the General Schedule and IRS Payband System, and Document 11678, National Agreement; and replaced IRMs 6.751 and 6.752 with IRM 6.751.1, Discipline and Disciplinary Actions: Policies, Responsibilities, Authorities, and Guidance, IRM 6.752.1, Disciplinary Suspensions of 14 Calendar Days or Less, and IRM 6.752.2, Adverse Actions.
+
+(5) Added the following definitions to IRM 6.432.1.1.7, Terms and Acronyms: Critical Job Elements, Critical Performance Expectations, Deciding Official, Executive Misconduct Unit, Opportunity to Demonstrate Acceptable Job Performance, Performance-based Actions, Performance Improvement Plan, Proposing Official, Reasonable Accommodation, Oral Reply Officer, Servicing Labor Relations Specialist, and Standard Form 50.
+
+(6) Revised and moved content from IRM 6.432.1.3, Definitions, to IRM 6.432.1.1.7, Terms and Acronyms.
+
+(7) Revised and moved content from IRM 6.432.1.4, Actions Covered, to IRM 6.432.1.2.
+
+(8) Revised and moved content from IRM 6.432.1.5, Employees Covered, to IRM 6.432.1.3, Employees Covered for Performance Based Actions.
+
+(9) Revised and moved content from IRM 6.432.1.6, Authority, to IRM 6.432.1.1.2. Deleted obsolete Delegation Order 81; added Title 5 United States Code (USC) 3321, 5 USC Chapter 43, 5 USC Section 7511, 5 USC Section 7512, 5 USC Section 9508, 26 USC Section 7803, Title 5 Code of Federal Regulations (CFR) Section 339.104, 5 CFR Part 430, 5 CFR Part 432, 5 CFR Part 531, Subpart D, 5 CFR Part 715, 5 CFR Part 752, 29 CFR Part 1614, Document 12829, General Records Schedules (2.3, Employee Relations Records), The Guide to Processing Personnel Actions, and the Office of Personnel Management (OPM) Civil Service Retirement System (CSRS) and Federal Employees Retirement System (FERS) Handbook, Chapter 44.
+
+(10) Revised and moved content from IRM 6.432.1.7, General Requirements, to IRM 6.432.1.5, General Requirements for Performance Actions.
+
+(11) Revised and moved content from IRM 6.432.1.8, Guidelines for Identifying and Using Tax Information, to IRM 6.432.1.15, Guidelines for Identifying and Releasing Tax Information for Use in a Personnel Matter.
+
+(12) Revised and moved content from IRM 6.432.1.10, The Opportunity To Demonstrate Acceptable Performance to Opportunity, to IRM 6.432.1.8, Opportunity to Demonstrate Acceptable Performance Per 5 CFR Part 432.
+
+(13) Revised and moved content from IRM 6.432.1.11, Determining an Appropriate Action, to IRM 6.432.1.12, Determining Action After Opportunity to Improve.
+
+(14) Revised and moved content from IRM 6.432.1.12, Effect on Within Grade Increase, to IRM 6.432.1.19, Within Grade Increase - Action Required for Less Than Fully Successful Performance.
+
+(15) Revised and moved content from IRM 6.432.1.13, Notice of Proposed Action Based on Unacceptable Performance, to IRM 6.432.1.10, Advance Notice (Proposal Letter) Based on Unacceptable Performance.
+
+(16) Revised and moved content from IRM 6.432.14, Delivery of Advance Notice, to IRM 6.432.1.10, Advance Notice (Proposal Letter) Based on Unacceptable Performance.
+
+(17) Revised and moved content from IRM 6.432.1.15, Unacceptable Performance File, to IRM 6.432.1.23, Records Retention.
+
+(18) Revised and moved content from IRM 6.432.1.16, Oral Reply, to IRM 6.432.1.12, Oral/Written Reply.
+
+(19) Revised and moved content from IRM 6.432.1.17, The Decision Notice, to IRM 6.432.1.14, Decision.
+
+(20) Revised and moved content from IRM 6.432.1.18, Right to Representation, to IRM 6.432.1.7.
+
+(21) Revised and moved content from IRM 6.432.19, Extension of the Advance Notice Period, to IRM 6.432.1.11, Advance Notice Period.
+
+(22) Revised Exhibit 6.432.1-1 and changed title from Suggested Language for Employee Request for Material Relied on and for Representative Request for Access to Tax Information to Sample Request for Material Relied On (Evidence) and Representative’s Access to Tax Information.
+
+(23) Moved Exhibit 6.432.1-2 to a table in IRM 6.432.1.28.
+
+(24) Deleted Exhibits 6.432.1-2 through 6.432.1-9 (operational procedures).
+
+(25) Added the following new subsections:
+
+IRM 6.432.1.4, Delegation of Authority.
+
+IRM 6.432.1.13, Supplemental Notice, from HCO memorandum HCO-06-0913-0002, Interim Guidance for Internal Revenue Manuals (IRM) 6.432.1, 6.751.1, 6.752.1 and 6.752.2, dated September 17, 2013, at http://imdtrack.web.irs.gov/IG_Uploads/IRS.gov_No/IG%20Memo%20--%20HCO-06-0913-0002.pdf.
+
+IRM 6.432.1.16, Appealing the Performance-Based Decision.
+
+IRM 6.432.1.17, Settlements for a Performance-Based Action, from HCO memorandum HCO-06-0821-0018, Interim Guidance on Title 5 of the Code of Federal Regulations (5 CFR), Parts 432, Performance Based Reduction in Grade and Removal Actions, and 752, Adverse Actions, dated March 22, 2022, at http://imdtrack.web.irs.gov/IG_Uploads/IRS.gov_No/hco-06-0821-0018.pdf.
+
+IRM 6.432.1.18, Last Rights/Voluntary Separation; Last Rights content was added from HCO memorandum HCO-06-0821-0018, Interim Guidance on Title 5 of the Code of Federal Regulations (5 CFR), Parts 432, Performance Based Reduction in Grade and Removal Actions, and 752, Adverse Actions, dated March 22, 2022, at http://imdtrack.web.irs.gov/IG_Uploads/IRS.gov_No/hco-06-0821-0018.pdf, and performance content for Voluntary Separation was moved from IRM 6.715.1, Voluntary Separations and Reductions in Grade or Pay.
+
+IRM 6.432.1.20, Moratoriums on Address Performance Matters, from HCO memorandum HCO-06-0821-0015, Revised IRS Interim Guidance (IG) - Implementing Moratoriums on Labor/Employee (LR/ER) Matters, dated August 1, 2021, at http://imdtrack.web.irs.gov/IG_Uploads/IRS.gov_No/ig%20hco-06-0821-0015.pdf.
+
+IRM 6.432.1.21, Correcting an Action, from HCO memorandum HCO-06-0821-0018, Interim Guidance on Title 5 of the Code of Federal Regulations (5 CFR), Parts 432, Performance Based Reduction in Grade and Removal Actions, and 752, Adverse Actions, dated March 22, 2022, at http://imdtrack.web.irs.gov/IG_Uploads/IRS.gov_No/hco-06-0821-0018.pdf.
+
+IRM 6.432.1.22, Legal Findings and Orders, from HCO memorandum HCO-06-0821-0018, Interim Guidance on Title 5 of the Code of Federal Regulations (5 CFR), Parts 432, Performance Based Reduction in Grade and Removal Actions, and 752, Adverse Actions, dated March 22, 2022, at http://imdtrack.web.irs.gov/IG_Uploads/IRS.gov_No/hco-06-0821-0018.pdf.
+
+IRM 6.432.1.24, Differences Between 5 CFR Parts 432 and 752 Actions; formerly Exhibit 6.432.1-2.
+
+(26) Removed operational procedures performed by the Human Capital Office (HCO) Labor/Employee Relations and Negotiations (LERN) division.
+
+(27) Removed redundant language, rewrote in plain language with gender-neutral pronouns, and updated links.
+
+Effect on Other Documents
+This IRM:
+1. Supersedes IRM 6.432.1, Reduction in Grade and Removal Based on Unacceptable Performance, dated January 6, 2009.
+2. Incorporates the 5 CFR Part 432 content in HCO memorandum HCO-06-0821-0018, Interim Guidance on Title 5 of the Code of Federal Regulations (5 CFR), Parts 432, Performance-Based Reductions in Grade and Removal Actions, and 752, Adverse Actions, dated March 22, 2022.
+3. Incorporates the performance content in HCO memorandum HCO-06-1121-0026, Reissuance of Interim Guidance (IG) on Conduct and Performance Policy for High-Level Employees, dated December 3, 2021.
+4. Incorporates the performance content in HCO memorandum HCO-06-0821-0015, Revised IRS Interim Guidance (IG) - Implementing Moratoriums on Labor/Employee Relations (LR/ER) Matters, dated August 1, 2021.
+5. Incorporates the performance content in IRM 6.715.1, Voluntary Separations and Reductions in Grade or Pay.
+
+Audience
+All IRS employees who are not serving a probationary/trial period or a temporary/term appointment excluding contractors and Chief Counsel.
+
+Effective Date
+(05-15-2023)
+
+David M. Aten
+Acting IRS Human Capital Officer
+
+6.432.1.1 (05-15-2023)
+Program Scope and Objectives
+(1) Purpose: This IRM contains the Servicewide policy to address employees performing below the Fully Successful level (Minimally Successful or Unacceptable). As appropriate, actions to address less than Fully Successful performance may be taken in compliance with 5 CFR Parts 432, 531 or 752.
+
+(2) Audience: The policies, authorities, and instructions contained in this IRM apply to all IRS employees who are not serving a probationary/trial period or a temporary/term appointment excluding contractors and Chief Counsel.
+
+(3) Policy Owner: The IRS Human Capital Officer (HCO).
+
+(4) Program Owner: The Policy and Audits division, in the HCO Office of HR Strategy.
+
+(5) Operations Owner: The Labor/Employee Relations and Negotiations (LERN) division, in HCO’s Office of HR Operations.
+
+(6) Primary Stakeholders: LERN and IRS managers.
+
+(7) Program Goal: To correct employee performance deficiencies.
+
+6.432.1.1.1 (05-15-2023)
+Background
+(1) This IRM provides Servicewide guidance to address employees performing below the Fully Successful level who are not serving a probationary/trial period or a temporary or term appointment. Note: For guidance about supervisors or managers serving a probationary period and individuals serving a probationary/trial period or a temporary or term appointment who are performing at the less than Fully Successful level, see IRM 6.315.1, Career and Career-Conditional Employment.
+
+6.432.1.1.2 (05-15-2023)
+Authority
+(1) This IRM supplements policies and requirements contained in the authorities cited below. It is not self-contained and must be read in conjunction with cited authorities and applicable collective bargaining agreements (CBA).
+
+(2) Title 5, United States Code (USC) Government Organization and Employees, at http://uscode.house.gov/
+
+Section 4303, Actions Based on Unacceptable Performance
+
+Section 7511, Definitions; Application
+
+Section 7512, Actions Covered
+
+Section 9508, General Workforce Performance Management System
+
+(3) Title 26 USC, Internal Revenue Code, at http://uscode.house.gov/ Section 7803, Commissioner of Internal Revenue; Other Officials
+
+(4) 5 CFR Part 339.104, Definitions
+
+(5) 5 CFR Part 430, Performance Management
+
+(6) 5 CFR Part 432, Performance Based Reduction in Grade and Removal Actions
+
+(7) 5 CFR Part 531, Subpart D, Pay Under the General Schedule
+
+(8) 5 CFR Part 715, Nondisciplinary Separations, Demotions and Furloughs
+
+(9) 5 CFR Part 752, Adverse Actions
+
+(10) 29 CFR Section 1614, Federal Sector Equal Opportunity
+
+(11) Document 12829, General Records Schedules (see 2.3, Employee Relations Records)
+
+(12) The Guide to Processing Personnel Actions at https://www.opm.gov/policy-data-oversight/data-analysis-documentation/personnel-documentation/#url=Personnel-Actions
+
+(13) Office of Personnel Management (OPM) Civil Service Retirement System (CSRS) and Federal Employees Retirement System (FERS) Handbook, Chapter 44, at https://www.opm.gov/retirement-services/publications-forms/csrsfers-handbook/c044.pdf
+
+(14) Treasury Non-SES Employee Performance Management Policy, Transmittal Number TN-21-004, dated October 1, 2021, at https://home.treasury.gov/about/general-information/orders-and-directives
+
+6.432.1.1.3 (05-15-2023)
+Roles and Responsibilities
+(1) The IRS Human Capital Officer is the executive responsible for this IRM and overall Servicewide performance policy.
+
+(2) The HCO, Policy and Audits (P&A) division, in the HCO Office of HR Strategy, develops policy and authors this IRM content.
+
+(3) The HCO, Labor/Employee Relations and Negotiations division, in HCO’s Office of HR Operations, collaborates with P&A on this IRM content, ensures IRM compliance and assists managers with addressing employee performance issues.
+
+(4) A manager is responsible for ensuring government resources are used efficiently and effectively, with minimum potential for waste, fraud, and mismanagement. As such, they must timely address performance issues in compliance with applicable laws, regulations, and policies.
+
+(5) An employee is responsible for putting forth an honest effort in the performance of their duties and following procedures.
+
+6.432.1.1.4 (05-15-2023)
+Program Management and Review
+(1) This IRM provides performance policy guidance for the IRS. The P&A and LERN divisions gauge effectiveness of these policies based on feedback from customers and program owners. During IRM review and publishing, sections may be revised, added, or deleted based in part on this process.
+
+6.432.1.1.5 (05-15-2023)
+Program Controls
+(1) In collaboration with other HCO organizations and Servicewide stakeholders, the P&A division develops policies to address performance deficiencies in compliance with applicable laws and regulations.
+
+(2) The following activities help ensure program success:
+
+Conducting an annual review of this IRM for needed revisions/clarifications;
+
+Publishing educational articles, such as Leaders’ Alert and IRS Headlines;
+
+Collaborating on interim guidance for policy changes related to this IRM;
+
+Assisting LERN with regulatory and policy guidance during term and mid-term negotiations;
+
+Contacting LERN for bargaining unit condition of employment changes, if needed, and notice/bargaining determinations, if needed;
+
+Partnering with General Legal Services for legal advice, as needed; and
+
+Reviewing communications and training materials, as needed, to ensure adherence to policies.
+
+6.432.1.1.6 (05-15-2023)
+Related Resources
+(1) IRM 1.2.2, Servicewide Delegations of Authority, Servicewide Delegations of Authority
+
+(2) IRM 6.430.2, Performance Management Program for Evaluating Bargaining Unit and Non Bargaining Unit Employees Assigned to Critical Job Elements (CJEs)
+
+(3) IRM 6.430.3, Performance Management Program for Evaluating Managers, Management Officials and Confidential Management/Program Analysts
+
+(4) IRM 6.531.1, Pay Under the General Schedule and IRS Payband System
+
+(5) IRM 6.751.1, Discipline and Disciplinary Actions: Policies, Responsibilities, Authorities, and Guidance
+
+(6) IRM 6.752.1, Disciplinary Suspensions of 14 Calendar Days or Less
+
+(7) IRM 6.752.2, Adverse Actions
+
+(8) Document 11678, National Agreement - Internal Revenue Service (IRS) and National Treasury Employees Union (NTEU), for bargaining unit employees; referred to as the National Agreement. Review applicable articles in the National Agreement before addressing performance deficiencies.
+
+Note: If this IRM conflicts with the National Agreement or any other relevant CBA, the agreement prevails.
+
+6.432.1.1.7 (05-15-2023)
+Terms and Acronyms
+(1) The definitions in 5 USC Sections 4301, 4303 and 7511, and the definitions in 5 CFR Parts 430 and 432 are applicable to this IRM. For bargaining unit (BU) employees, the National Agreement and any other relevant CBA also apply.
+
+(2) Critical Job Element (CJE) - the critical actions, objectives and results the IRS expects its employees to accomplish during an appraisal year. Employees whose performance are evaluated against CJEs have the same five CJEs, which are:
+
+Employee Satisfaction - Employee Contribution
+
+Customer Satisfaction - Knowledge
+
+Customer Satisfaction - Application
+
+Business Results - Quality
+
+Business Results - Efficiency
+
+(3) Critical Performance Expectation (CPE) – Managers, management officials, and confidential management/program analysts are rated against CPEs. The CPEs consist of three components:
+
+Retention Standard for the Fair and Equitable Treatment of Taxpayers
+
+Responsibilities
+
+Commitments or Objectives
+
+(4) Deciding Official - the manager with the delegated authority to effect a performance-based action.
+
+(5) Executive Misconduct Unit (EMU) - the office in LERN that provides support to managers for high-level employees in the following positions: Executives (Senior Executive Service [SES], Administratively Determined, and Streamlined Critical Pay), Senior Level (also known as Senior Advisors), Senior Managers (IR-01), Frontline Managers (IR- 03), and GS-15 non-bargaining unit (NBU) employees. The EMU Human Resource Specialists provide guidance from consultation, to processing the case, and through any appeal, if applicable. Managers may find the EMU specialist at https://irssource.web.irs.gov/HCO/Lists/LERN/DispItemForm.aspx?ID=19&.
+
+Note: The servicing Labor Relations Specialists (defined below) provide support to managers of employees who are detailed or temporarily promoted to GS-15 (NBU), IR-01, and IR-03 positions.
+
+(6) Minimally Successful - the minimum performance level required for retention in a position. It is the level of performance between Fully Successful and Unacceptable.
+
+(7) Opportunity to Demonstrate Acceptable Performance - a chance for an employee whose performance is determined to be Unacceptable in one or more CJEs or CPEs to demonstrate acceptable performance in the CJE or CPE at issue.
+
+(8) Oral Reply Officer - this is usually the deciding official for the proposed performance-based action. In compliance with Delegation Order (DO) 6-29, management may redelegate this authority. See IRM 6.432.1.4, Delegation of Authority, for more information.
+
+(9) Performance-based Actions - the reduction in grade/pay/payband or removal of an employee based on performance at the Unacceptable level.
+
+(10) Performance Improvement Plan (PIP) - a letter issued to an employee performing at an Unacceptable level which gives them an opportunity to demonstrate acceptable performance.
+
+(11) Proposing Official - the manager with the delegated authority to propose a performance-based action.
+
+(12) Reasonable Accommodation -  a change or adjustment that enables a qualified person with a disability to apply for a job, perform job duties, or enjoy benefits and privileges of employment. See IRM 1.20.2, Equity, Diversity and Inclusion, Providing Reasonable Accommodation for Individuals with Disabilities
+
+(13) Servicing Labor/Employee Relations Specialist (LRS) – one of the many specialists in LERN’s Field Operations office who provides support to managers of employees who are not covered by the EMU. The LRS provides guidance from consultation, to processing the case, and through any appeal, if applicable. Managers may find their servicing LRS at https://irssource.web.irs.gov/HCO/Lists/LERN/DispItemForm.aspx?ID=1.
+
+(14) Standard Form 50 (SF-50) - a Notification of Personnel Action that contains certain employment information. It is a permanent document that is filed in an employee’s Official Personnel Folder (OPF). See Document 12787, SF-50: Notification of Personnel Action - An Overview, for details.
+
+6.432.1.2 (05-15-2023)
+Actions Covered
+(1) This IRM covers:
+
+Reduction in grade/pay/payband or removal actions for employees covered by 5 USC Section 4303, whose performance, per 5 CFR Section 432.103(h), is Unacceptable because they fail to meet established performance standards in one or more Critical Job Element(s) (CJE) or Critical Performance Expectation(s) (CPE) of their IRS position. See IRM 6.432.1.3, Employees Covered for Performance Based Actions, for more information.
+
+Note: Except for a within grade increase (WGI), a performance matter may be addressed as a conduct matter (e.g., refusing to follow IRM procedures). For information about the differences between taking an action under 5 CFR Part 432 and 5 CFR Part 752, see IRM 6.432.1.24, Differences Between 5 CFR Parts 432 and 752 Actions. For additional information about taking an action based on conduct, see IRMs 6.752.1 and 6.752.2.
+
+Intent to deny and/or denial of WGI actions, per 5 CFR Part 531, Subpart D, for employees performing below Fully Successful.
+
+6.432.1.3 (05-15-2023)
+Employees Covered for Performance Based Actions
+(1) An employee in the competitive service who is not serving a probationary or trial period under an initial appointment.
+
+(2) An employee in the competitive service serving in an appointment that requires no probationary or trial period, who has completed one year of current continuous employment in the same or similar positions under other than a temporary appointment limited to one year or less.
+
+(3) An employee in the excepted service who has completed one year of current continuous employment in the same or similar positions.
+
+(4) Reference: 5 CFR Section 432.102(e) and (f).
+
+6.432.1.4 (05-15-2023)
+Delegation of Authority
+(1) See IRM 1.2.2 , Servicewide Policies and Authorities, Servicewide Delegations of Authority, and DO 6-29, Authority to Address Employee Performance or Conduct Issues, for the management levels authorized to issue letters (proposals, decisions, etc.) addressing performance and conduct matters.
+
+Note: Business units should check with their HR business-based professionals to determine if they have a delegation order for these actions. Functional/division delegation orders are located in the IRM 1.2 series.
+
+6.432.1.5 (05-15-2023)
+General Requirements for Performance Actions
+(1) If management determines an employee’s performance is less than Fully Successful and/or the employee is not meeting the Retention Standard, the employee’s manager must promptly contact their servicing LRS or the EMU, as appropriate, for guidance.
+
+(2) An employee covered (see IRM 6.432.1.3, Employees Covered), may be reduced in grade/pay/payband or removed at any time during their performance appraisal cycle if their performance becomes Unacceptable in one or more CJE(s) or CPE(s) or they fail to meet the Retention Standard. Prior to proposing an action in accordance with 5 CFR Part 432, the employee is given an opportunity to demonstrate an acceptable level of performance (at least Minimally Successful).
+
+Note: While a performance improvement plan (PIP) is required in order to address performance under 5 CFR Part 432, no PIP is required to address performance under 5 CFR Part 752. See IRM 6.432.1.24 for more information.
+
+(3) All performance actions will be fair, equitable, and administered as timely as possible.
+
+6.432.1.6 (05-15-2023)
+Employee Entitlements
+(1) If an employee’s performance remains at the Unacceptable level and/or they do not meet the Retention Standard after their opportunity to demonstrate acceptable performance, and management initiates a performance-based action under 5 CFR Part 432, the employee is entitled to:
+
+Advance Notice - A 30-day (calendar days) written notice (proposal letter) identifying specific instances of Unacceptable Performance describing the CJE(s) and performance standards, or the CPE(s), and/or the Retention Standard, as appropriate, the employee is failing to meet. This period may be extended for specific reasons under certain circumstances. See , Advance Notice Period, for more information. The Advance Notice is not grievable.
+
+Opportunity to Answer (guidance included in the Advance Notice) - An employee and/or their representative may address the information covered in the Advance Notice by:
+
+1) Requesting an oral reply within 7 calendar days of receiving the Advance Notice.
+2) Submitting a written reply within 15 calendar days of receiving the Advance Notice.
+Note: See IRM 6.432.1.12, Oral/Written Reply, for more information.
+
+Representation (guidance included in the Advance Notice) - See IRM 6.432.1.7, Right to Representation, for details.
+
+Right to Material Relied On (guidance included in the Advance Notice) - The employee and/or their representative may request the material relied on to support the reasons and specifications.
+
+Consideration of Medical Condition(s) (guidance included in the Advance Notice) - If the employee chooses to disclose a medical condition(s) contributed to their Unacceptable performance or failure to meet the Retention Standard, they or their representative may raise the condition(s) and provide acceptable medical documentation for consideration, per 5 CFR Section 432.105(a)(4)(iv). If the employee chooses to disclose medical information, additional guidance will be provided in compliance with 5 CFR Section 339.104, and the definition, Medical Documentation or Documentation of a Medical Condition.
+
+Final written decision with Appeal Rights - After the Advance Notice period expires and any reply is considered, a decision letter is issued to the employee, which includes appeal and grievance rights. Per 5 CFR Section 432.105, a decision to reduce in grade/pay/payband or remove an employee for Unacceptable performance may only be based on instances of Unacceptable performance and/or failure to meet the Retention Standard that occurred during the one-year period ending on the date the Advance Notice (proposal letter) is issued. See IRM 6.432.1.16, Appealing the Performance-Based Decision, for more information.
+
+6.432.1.7 (05-15-2023)
+Right to Representation
+(1) Per Article 40 in the National Agreement, a BU employee may request to be accompanied by a union representative at a meeting between the employee and management if the principal topic of discussion is action or potential action based on Unacceptable performance and/or failure to meet the Retention Standard.
+
+(2) Per 5 CFR Section 432.105, the IRS will allow the employee to be represented by an attorney, other representative, or a NTEU representative (for BU employees), unless such choice:
+
+Conflicts with the priority needs of the IRS - The IRS mission takes precedence. The requested representative may be disallowed if their priority work assignment precludes their release from official duties.
+
+Creates a conflict of interest or position - This occurs when the representative’s IRS duties conflict with the functions of the representative. For example, if the requested representative participated in or has special knowledge about the matter by virtue of their assigned duties.
+
+Imposes unreasonable costs to the government - This can include any travel cost, or any expenses requested by the representative to fulfill their role.
+
+Note: The employee’s written designation of a representative is provided to the manager named in the Advance Notice. The manager will provide a copy of the designation to their servicing LRS or the EMU, as appropriate.
+
+(3) If management disallows the designated representative based on any of the above reasons, within 10 workdays of receiving the employee’s written designation of representative, management will provide the written disallowance to the employee and the disallowed representative. The written disallowance includes notice of the right to appeal the disallowance decision.
+
+(4) The employee (not the disallowed representative) may appeal the decision to disallow the representative by:
+
+Submitting a written appeal (e-mail is acceptable) within 10 workdays of receipt of a decision. Send the appeal to the LERN Associate Director, Field Operations (AD Field Ops). To find the name of the AD Field Ops, see LERN's Field Operations Service Delivery Listing, at https://irssource.web.irs.gov/HCO/Lists/LERN/DispItemForm.aspx?ID=1.
+
+Including a copy of the disallowance decision in the appeal.
+
+(5) Within 15 workdays of receiving the appeal about the initial representative disallowance decision, the AD Field Ops will make and communicate a final decision to allow or disallow the representative. The final decision may not be grieved, and the performance action will proceed.
+
+6.432.1.8 (05-15-2023)
+Opportunity to Demonstrate Acceptable Performance Per 5 CFR Part 432
+(1) When management determines the performance of an employee, as described in IRM 6.432.1.3, Employees Covered, is Unacceptable in one or more CJE(s) or CPE(s), and/or they fail to meet the Retention Standard, the employee’s manager will discuss their performance concerns with the employee and encourage them to improve their performance to at least an acceptable level (Minimally Successful) and/or to meet the Retention Standard to avoid being issued a PIP. After this discussion, management will issue a performance counseling memorandum to the employee and file a copy in the employee’s Employee Performance Folder. Managers also provide oral feedback to assist the employee with improving their performance.
+
+(2) If the employee’s performance remains Unacceptable and/or they continue to fail to meet the Retention Standard, the manager will meet with the employee and advise them they are being issued a PIP with 60 calendar days to demonstrate at least an acceptable level of performance (Minimally Successful) to prevent a performance-based action. The PIP period begins with the employee’s receipt of the written PIP letter. The PIP is drafted by management’s servicing LRS or the EMU, as appropriate. It is reviewed, approved, and issued by the manager with the delegated authority. See IRM 6.432.1.4, Delegation of Authority.
+
+(3) The PIP must contain the following:
+
+The CJE(s) and performance standard(s), or CPE(s), as appropriate, including the Retention Standard, if applicable, the employee is failing to meet. The PIP must include specific instances of Unacceptable performance that occurred within the one-year period prior to the date of the PIP;
+
+Advice as to what the employee must do to bring their performance up to an acceptable level (at least Minimally Successful);
+
+A statement that the employee has 60 calendar days, per Article 40 in the National Agreement (as a matter of policy, provision is extended to NBU employees), to bring their performance up to an acceptable level; and
+
+A description of what management will do during the PIP period to assist the employee to improve their Unacceptable performance (e.g., additional training, an on-the-job instructor, weekly meetings).
+
+Note: A grievance may not be filed on the substance or procedural aspects of the PIP. However, if a proposal letter is issued, concerns regarding the PIP may be raised in the oral/written reply and/or in an appeal/grievance after the decision letter is issued.
+
+(4) The opportunity to demonstrate at least an acceptable level of performance may be extended by the manager for up to 60 calendar days. Management will notify the employee in writing of the extension.
+
+(5) A rating of record will not be assigned to the employee while they are on a PIP. The rating of record will be postponed until the PIP expires, and if needed, the manager will advise the employee in writing that their appraisal period is being extended. See IRM 6.430.2.4.2.2, Extension of the Appraisal Period, for more information.
+
+6.432.1.9 (05-15-2023)
+Determining Action After Opportunity to Improve
+(1) If the employee’s performance improves to Minimally Successful or better, the employee will be notified in writing of their improved performance. The letter will also inform the employee that if the employee’s performance becomes Unacceptable in the same CJE(s) or CPE(s), or the Retention Standard at any time during the year after receiving their PIP, an Advance Notice (proposal letter) will be issued to reduce them in grade/pay/payband or remove them without an additional PIP.
+
+Note: If the employee’s performance becomes Unacceptable in a different CJE, CPE or the Retention Standard, a new PIP must be implemented to address the new CJE, CPE or Retention Standard.
+
+(2) If the employee’s performance remains Unacceptable, a 30-day Advance Notice of a performance-based action will be issued as soon as possible. The examples of Unacceptable performance and/or failure to meet the Retention Standard cited in the Advance Notice (proposal letter) must have occurred within the one-year period prior to issuing the Advance Notice (proposal letter).
+
+Consideration may be given to options other than a reduction in grade/pay/payband or removal, such as:
+
+1) Reassignment to Another Position - a reassignment to the employee’s former position or a similar position at the same grade as the current position.
+2) Voluntary Reduction in Grade/Pay/Payband or Reassignment - an employee may acknowledge their inability or unwillingness to fulfill the responsibilities of their position and may voluntarily request a reassignment or downgrade to a lower-graded position.
+3) Retirement or Resignation- An employee may advise their manager they are eligible to retire or plan to resign in lieu of an involuntary performance action. Unreasonable delay in submitting a retirement application or resigning will not prevent management from issuing a performance-based action.
+4) Disability Retirement - An employee’s Unacceptable performance may be the result of a mental and/or physical disability. Unreasonable delay in submitting a disability retirement application will not prevent issuing a performance-based action.
+5) Discontinued Service Retirement (DSR) - DSR is a management tool that lessens the impact of an involuntary separation if the employee is not eligible for a voluntary retirement. If the separation is against the will and without the consent of the employee, and they are being removed for Unacceptable performance and/or failure to meet the Retention Standard, unrelated to misconduct (which is an action taken under 5 CFR Part 752), DSR may be an option. To qualify for DSR, an employee must receive a specific written notice of a proposed involuntary separation (the Advance Notice/proposal letter). See OPM Chapter 44, Discontinued Service Retirement, at https:www.opm.gov/retirement-services/publications-forms/csrsfers-handbook/c044.pdf, for age and length of service requirements.
+6.432.1.10 (05-15-2023)
+Advance Notice (Proposal Letter) Based on Unacceptable Performance
+(1) Advance Notice of proposed action is drafted by management’s servicing LRS or the EMU, as appropriate. It is reviewed, approved, and issued by the manager with the delegated authority. See IRM 6.432.1.4, Delegation of Authority.
+
+(2) A 30-day Advance Notice proposing the employee’s reduction in grade/pay/payband or removal must include the following information:
+
+Specific instances of Unacceptable performance and/or failure to meet the Retention Standard that occurred within the one-year period prior to the date of the Advance Notice (proposal letter);
+
+The CJE(s) or CPE(s), and/or Retention Standard the employee is failing to meet;
+
+The performance standard(s) not met for each specification;
+
+A statement of the employee’s right to be represented by an attorney, other representative, or a NTEU representative, if they are a BU employee;
+
+A statement of the employee’s right to a reasonable amount of time to answer orally and/or in writing; and
+
+A statement of the employee’s right to request and review the material relied on (evidence) to support the reason(s) and specifications in the notice.
+
+Note: The servicing LRS or the EMU, as appropriate, is responsible for releasing material relied on and/or tax information, if requested. See IRM 6.432.1.15, Guidelines for Identifying and Releasing Tax Information for Use in a Personnel Matter.
+
+(3) The Advance Notice is delivered to the employee in person when possible. If personal delivery is not possible/appropriate (e.g., the manager would need to travel since the employee is not co-located with them), the Advance Notice is delivered by encrypted e-mail. If an employee is on extended leave, consideration should be given to delivering the notice via certified mail and U.S. Postal mail. The employee should acknowledge receipt of the notice with their signature and date. If the employee refuses to acknowledge receipt, the manager delivering the notice attests to delivering the notice by signing and dating it and includes the following statement: Employee refused to acknowledge receipt; delivered on (date) at (time).
+
+(4) When the Advance Notice (proposal letter) is issued to a BU employee, the NTEU chapter that represents the employee and the NTEU National Field Office simultaneously receive a redacted copy (personally identifiable information and information protected by the Internal Revenue Code is removed) of the notice, per Article 40 of the National Agreement.
+
+Note: If a taxpayer key is attached to the employee’s letter, it is not provided with the simultaneous delivery.
+
+See IRM 6.432.1.15, Guidelines for Identifying and Releasing Tax Information for Use in a Personnel Matter.
+6.432.1.11 (05-15-2023)
+Advance Notice Period
+(1) Per 5 CFR Section 432.105(a)(4)(i)(A), the agency shall afford the employee a 30-day Advance Notice of the proposed performance-based action identifying both the specific instances of Unacceptable performance by the employee on which the proposed action is based and the CJE(s) or CPE(s) of the employee's position involved in each instance of Unacceptable performance.
+
+(2) Per 5 CFR Section 432.105(a)(4)(i)(B), an agency may extend the Advance Notice period for a period not to exceed 30 days under regulations prescribed by the head of the agency. An agency may extend this notice period further without prior OPM approval for the following reasons:
+
+To obtain and/or evaluate medical information when the employee raises a medical condition(s) in their reply to the proposed performance-based action;
+
+To consider the employee's reply if an extension to the reply period is granted (e.g., because of the employee's illness or incapacitation);
+
+To consider reasonable accommodation of a disability;
+
+To consider positions to which the employee might be reassigned or reduced in grade; or
+
+To comply with a stay ordered by a member of the MSPB per 5 USC Section 1208(b).
+
+(3) If an extension of the Advance Notice period is necessary for another reason, the agency must request prior approval. Management will contact their servicing LRS, or the EMU, as appropriate, to request prior approval from the Manager, Employee Accountability, Accountability and Workforce Relations, Employee Services, OPM, 1900 E Street NW, Washington, DC 20415.
+
+6.432.1.12 (05-15-2023)
+Oral/Written Reply
+(1) The purpose of an oral and/or written reply is to give an employee and/or their representative an opportunity to present information in response to the Advance Notice (proposal letter) before a decision is made.
+
+(2) The Oral Reply Officer who hears the oral reply will be different than the manager who proposed the performance-based action.
+
+(3) The Oral Reply Officer will conduct an oral reply, if requested, and ask questions to clarify factual matters, if needed. To prepare for the oral reply, the Oral Reply Officer will:
+
+Consult with their servicing LRS or the EMU, as appropriate;
+
+Review the written proposal notice and supporting documentation (material relied on/evidence);
+
+Review the appropriate National Agreement provisions if the subject of the action is a BU employee;
+
+Listen;
+
+Not discuss or argue the merits of the proposal; and
+
+Review the verbatim transcript of the oral reply and edit, if needed.
+
+(4) If management receives a request to postpone the oral reply, it will be promptly provided to their servicing LRS or the EMU, as appropriate, who will assist management with responding.
+
+6.432.1.13 (05-15-2023)
+Supplemental Notice
+(1) A supplemental notice is issued to an employee if the deciding official wants to consider new or material adverse information to support their decision, and the adverse information was not covered in the proposal letter.
+
+(2) If a supplemental notice is issued to the employee, the employee may:
+
+Request an oral reply within two workdays of receiving the supplemental notice, which must be held within 10 workdays, and/or
+
+Submit a written reply within 10 workdays of receiving the supplemental notice.
+
+(3) In lieu of a supplemental notice, management has the option to rescind the proposal letter and reissue one containing the new or material adverse information, which restarts the Advance Notice period.
+
+6.432.1.14 (05-15-2023)
+Decision
+(1) Per 5 USC Section 4303(c)(1), the decision (decision letter) on the proposed action shall be made within 30 calendar days after the Advance Notice period expires.
+
+(2) The decision regarding a proposed performance-based action for Unacceptable performance and/or failure to meet the Retention Standard must be made by a higher management position than the proposing official. See DO 6-29, at https://irm.web.irs.gov/imd/del/DOProcessor.aspx?DocID=DO6-29, for details.
+
+(3) The decision will sustain or not sustain the reason(s) and specification(s) in the Advance Notice (proposal letter). The decision will also address factual disputes if any were raised in the oral/written reply, and if applicable, will explain how they were resolved.
+
+(4) The decision will inform the employee of their appeal and/or grievance rights.
+
+(5) The deciding official will consider any medical condition raised by the employee, and the decision will inform the employee the medical condition they raised was considered. In addition, if the employee has the required years of CSRS or FERS service, they will be provided information concerning application for disability retirement.
+
+(6) If a removal decision is issued and the employee accepts a position with a different federal agency before the effective date, a statement about the employee’s performance (also known as a remark or agency finding) may not be placed on the SF-50.
+
+(7) When the decision letter is issued to a BU employee, the NTEU chapter that represents the employee and the NTEU National Field Office simultaneously receive a redacted copy of the notice (i.e., personally identifiable information and information protected by the Internal Revenue Code is removed), per Article 40 of the National Agreement.
+
+6.432.1.15 (05-15-2023)
+Guidelines for Identifying and Releasing Tax Information for Use in a Personnel Matter
+(1) For the definition of a tax “return,” see 26 USC Section 6103(b)(1), at https://www.govregs.com/uscode/26/6103.
+
+(2) For the definition of “return information,” see 26 USC Section 6103(b)(2), at https://www.govregs.com/uscode/26/6103.
+
+(3) Upon written request, per 26 USC Section 6103(I)(4)(A), tax returns, and/or return information may be disclosed for use in a personnel matter as described in (4) below. If a tax return and/or return information is cited as an example in a performance action, the confidentiality of the taxpayer’s information must be safeguarded (e.g., cited in an attachment or taxpayer key). For general guidance, see IRM 10.5.6.8.1, Privacy Act Requirements for Personnel Records, and IRM 11.3.29.8, Disclosure of Returns and Return Information for use in Personnel or Claimant Representative Matters - IRC 6103(l)(4). See Exhibit 6.432.1-1, Sample Request for Material Relied On (Evidence) and Representative’s Access to Tax Information.
+
+(4) Upon written request, per 26 USC Section 6103(I)(4), returns and/or return information may be disclosed to an employee, former employee, or an approved representative. See IRM 6.432.1.7, Right to Representation, for more information on designating a representative.
+
+(5) In compliance with 26 USC 6103(p)(3)(A), Form 5466-B, Multiple Records of Disclosure, at http://publish.no.irs.gov/cat12.cgi?request=CAT1&catnum=63063, is completed when disclosing tax returns or return information. See IRM 11.3.37, Disclosure of Official Information, Recordkeeping and Accounting for Disclosures, for more information.
+
+6.432.1.16 (05-15-2023)
+Appealing the Performance-Based Decision
+(1) Appeal Rights include:
+
+An appeal to the MSPB. In most cases, an MSPB appeal must be filed no later than 30 calendar days after the effective date of the action being appealed, or 30 calendar days after the receipt date of the agency’s decision, whichever is later. See MSPB.gov, at https://mspb.gov/, for details.
+
+If the employee believes the action was taken in retaliation for whistleblowing, the employee may file an appeal to the MSPB or a negotiated grievance, per the National Agreement (for BU employees), or a complaint with the Office of Special Counsel with the option to file an Individual Right of Action appeal with MSPB. See MSPB.gov, at https://mspb.gov/, for details.
+
+If the employee believes the action, in whole or in part, violated 29 CFR 1614, Federal Sector Equal Employment Opportunity (EEO), the allegation may be brought to the attention of an EEO Counselor within 45 calendar days of the effective date of the action. See “Where do I go for EEO?” at https://irssource.web.irs.gov/EDI/Lists/EDI/DispItemForm.aspx?ID=58.
+
+BU employees may file a grievance following the procedures in Article 41 in the National Agreement.
+
+Note: BU employees must choose either a MSPB appeal or a grievance. Per Article 40 of the National Agreement, "Under no condition may an employee appeal an adverse action to both MSPB and arbitration."
+
+6.432.1.17 (05-15-2023)
+Settlements for a Performance-Based Action
+(1) A “Clean Record” or “Clean 50” settlement agreement (settlement) is not authorized after a 432 proposal/decision letter is issued.
+
+A clean record/50 settlement means the SF-50 states the employee resigned or retired for personal reasons instead of stating they resigned/retired in lieu of receiving a performance-based action. Consistent with The Guide to Processing Personnel Actions, if an employee resigns/retires after receiving a proposal or decision letter, the SF-50 must contain a statement referring to their performance issue(s).
+(2) Mitigating a Performance Action - Management may settle a performance-based action by mitigating (reducing) the original penalty if the mitigated penalty:
+
+Preserves the original performance issue
+
+Results in a record filed in the employee’s OPF, and
+
+Has an SF-50 record retention period equal to the record retention period for the original penalty.
+
+(3) Third Party Settlement - Must be coordinated with the servicing LRS or the EMU, as appropriate, and with the appropriate Area Counsel, General Legal Services.
+
+6.432.1.18 (05-15-2023)
+Last Rights/Voluntary Separations
+(1) When an employee is faced with the prospect of a performance-based action, they may choose to resign, retire, or request a change to lower grade prior to receiving the proposal notice/letter. Whether to resign, retire, or request a change to lower grade, are voluntary. Management’s meeting with the employee to discuss their options are known as “Last Rights” discussions.
+
+(2) If an employee chooses to resign/retire prior to management issuing a proposal letter, managers must contact their servicing LRS or the EMU, as appropriate.
+
+Note: For BU employees, see Articles 5 and 37 in the National Agreement to ensure compliance.
+
+(3) In compliance with this IRM and the National Agreement (for BU employees), management may consider offering “Last Rights” to employees who may be issued a performance-based action.
+
+(4) Per The Guide to Processing Personnel Actions, if an employee chooses to resign, retire, or request a change to lower grade,
+
+Before management issues a proposal letter, their SF-50 may not contain a statement referring to their performance issue.
+
+After management issues a proposal letter, their SF-50 must contain a statement referring to their performance issue, such as “Resigned/retired after receiving written notice on (date) of proposal to remove for Unacceptable performance."
+
+6.432.1.19 (05-15-2023)
+Within Grade Increase - Action Required for Less than Fully Successful Performance
+(1) See IRM 6.531.1, Pay Under the General Schedule and IRS Payband System, for more information about Within Grade Increases.
+
+(2) Per 5 CFR Part 531, Subpart D, an employee occupying a permanent position, classified and paid under the General Schedule or Law Enforcement Officers (identified by the GL pay plan), who is not an SES employee or on a payband position, must be performing at a Fully Successful level to receive their WGI. If they are performing at a Minimally Successful or Unacceptable level, approximately 90 days before they complete their waiting period for the WGI, the manager must contact their servicing LRS or the EMU (regarding GS-15 NBU employees only), for guidance and preparation of the intent to deny WGI notice to the employee.
+
+(3) Per 5 CFR Section 531.409(e) and Article 17 of the National Agreement (as a matter of policy, provision is extended to NBU employees), at least 60 days before the employee completes their required WGI waiting period, management will issue a notice of intent to deny the employee’s WGI unless their performance improves to at least Fully Successful. The letter is drafted by management’s servicing LRS or the EMU, as appropriate. It is reviewed, approved, and issued by the manager with the delegated authority. See IRM 6.432.1.4, Delegation of Authority. The letter provides the employee an opportunity to improve and identifies which CJE(s) or CPE(s), as appropriate, and/or the Retention Standard the employee is failing to meet and provides examples of their less than Fully Successful performance.
+
+(4) If the employee’s performance does not improve to at least Fully Successful, they are issued a notice advising them the WGI is denied. The letter is drafted by management’s servicing LRS or the EMU, as appropriate. It is reviewed, approved, and issued by the manager with the delegated authority. See IRM 6.432.1.4, Delegation of Authority. The notice advises them:
+
+of their right to request the designated agency official reconsider the negative determination, per 5 CFR Section 531.410, and
+
+that acceptable level of competence evaluations will continue. Per 5 CFR Section 531.411, a new rating of record may be prepared at any time after a WGI is withheld. The employee’s WGI may be granted if management determines the employee has demonstrated sustained performance at least at the Fully Successful level. Management may not wait more than 52 weeks from the employee’s original WGI eligibility to make another acceptable level of competence determination. For as long as the WGI continues to be denied, a new determination must be made in no more than 52 weeks.
+
+Note: For BU employees: redacted copies of the notices referenced above are provided simultaneously to the NTEU chapter that represents the employee, per Article 17 of the National Agreement. Refer to Article 17 for more information on requesting reconsideration of a negative WGI determination.
+
+(5) If the employee’s performance improves to at least Fully Successful after a negative determination, management inputs the new rating in the automated performance appraisal system and issues the employee a notice advising them of the effective date of their WGI. The effective date of the WGI is the first day of the first pay period after the acceptable level of competence (at least Fully Successful) determination.
+
+6.432.1.20 (05-15-2023)
+Moratoriums on Addressing Performance Matters
+(1) Types of moratoriums and the annual holiday moratorium.
+
+National Emergency - If the president declares a national emergency, such as the Coronavirus Diseases pandemic, the IRS Human Capital Officer will determine if a moratorium on actions related to a performance matter is appropriate and announce the beginning and ending dates.
+
+Natural Disaster - If the president or other appropriate authority (e.g., city or state official) declares a geographic area as a natural disaster, the business units’ strategic human resource liaisons will collaborate with their servicing labor relations section chief and the Senior Commissioner’s Representative to determine if a moratorium is appropriate and announce the beginning and ending dates.
+
+Note: Natural disasters are defined as any natural catastrophe (e.g., hurricane, tornado, storm, high water, wind driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, or drought), or any fire, flood, or explosion, regardless of the cause, in any part of the United States, which the president or city/state official declare is causing damage of sufficient severity and magnitude to warrant major disaster assistance to help alleviate the damage, loss, hardship, or suffering caused by the disaster. Depending on the severity of the incident (e.g., explosion, fire), this may include a terrorist attack.
+
+Winter Holiday Season - Annually for four weeks during the winter holidays, beginning two Mondays before December 25 and ending in January, two Fridays after December 25 (e.g., December 12, 2022, through January 6, 2023).
+
+(2) What Occurs During a Moratorium - a moratorium does not prohibit all actions. Management may proceed with certain actions if appropriate.
+
+When a moratorium is in place, managers continue to work with their servicing LRS or the EMU, as appropriate, to begin addressing a performance matter or continue addressing performance actions already in progress.
+
+During a moratorium, for employees not serving a probationary/trial period or a temporary/term appointment, managers will consider whether the following activities should be held in abeyance or if they should proceed:
+
+a) Signing/issuing an Advance Notice (proposal letter);
+b) Signing/issuing a Final Decision (decision letter);
+c) Interviewing/questioning an employee about a performance matter;
+d) Issuing grievance replies/decisions;
+e) Holding grievance meetings;
+f) Holding performance discussions with an employee on a PIP; and
+g) Oral replies.
+6.432.1.21 (05-15-2023)
+Correcting an Action
+(1) Management may unilaterally, after consultation with their servicing LRS or the EMU, correct mistakes made processing a performance-based action (e.g., modifying an employee’s personnel record to remove inaccurate information or an SF-50 for an erroneous/illegal action).
+
+(2) If management determines a performance-based action was taken erroneously, they may take corrective action, even if an appeal/complaint has been filed about the matter.
+
+(3) Management must ensure it removes only the information they determine to be inaccurate or to reflect an action taken illegally or in error.
+
+6.432.1.22 (05-15-2023)
+Legal Findings and Orders
+(1) Management may unilaterally act on a finding of discrimination or implement an EEO, MSPB, arbitrator, or other third-party order.
+
+(2) Management and their servicing LRS or the EMU, as appropriate, must coordinate these actions with Chief Counsel’s Labor & Personnel Law Branch and/or Equity, Diversity & Inclusion, as appropriate.
+
+6.432.1.23 (05-15-2023)
+Records Retention
+(1) In compliance with Document 12829, General Records Schedules (see 2.3, Employee Relations Records), LERN retains performance case files for six years.
+
+Note: All records and documentation (e-mail, electronic documents, system printouts, etc.) relevant to the performance case must be retained until all appeal periods have expired, which may be longer than the six-year period.
+
+(2) Per 5 CFR Section 432.107(b), if the employee is not reduced in grade/pay/payband or removed because their performance improved and their performance continues to be acceptable for one year from the date of the Advance Notice (proposal letter), any entry or other notation of the Unacceptable Performance for which the action was proposed shall be removed from any agency record relating to the employee.
+
+(3) The SF-50 for the performance-based action is a permanent record file in the employee’s OPF.
+
+6.432.1.24 (05-15-2023)
+Differences Between 5 CFR Parts 432 and 752 Actions
+(1) For SES employees, see
+
+5 CFR Part 430, Subpart C, Managing Senior Executive Performance.
+
+5 CFR Part 752, Subpart F, Regulatory Requirements for Taking Adverse Action Under the Senior Executive Service.
+
+
+
+5 CFR Part 432, Performance Based Reduction in Grade and Removal Actions
+
+5 CFR Part 752, Adverse Actions
+
+Types of Actions
+
+Reduction in grade/pay/payband, Removal
+
+Suspension, Reduction in grade/pay/payband, Removal
+
+CJE, CPE or Retention Standard
+
+Not required to prove the action will promote the efficiency of the service.
+
+Must prove the action will promote the efficiency of the service.
+
+Burden of Proof
+
+Substantial evidence. The degree of relevant evidence that a reasonable person, considering the record as a whole, might accept as adequate to support a conclusion, even though other reasonable persons might disagree. This is a lower standard of proof than preponderance of the evidence.
+
+Note: Must be able to prove the employee’s performance was Unacceptable before issuing the PIP. See IRM 6.432.1.8, Opportunity to Demonstrate Acceptable Performance Per 5 CFR Part 432
+
+Preponderance of the evidence. The degree of relevant evidence that a reasonable person, considering the record as a whole, would accept as sufficient to find that a contested fact is more likely to be true than untrue.
+
+PIP
+
+Required.
+
+Not required.
+
+Decline Following One Year of Improvement
+
+If performance improves during the PIP, remains acceptable for one year, and then declines, a new PIP is required before taking an action.
+
+No obligation to offer a period of improvement at any point.
+
+Timing of Action
+
+60-day PIP required before issuing Advance Notice of proposed action (the proposal letter).
+
+Can take immediate action after considering oral/written replies and expiration of 30-day Advance Notice period.
+
+Douglas Factors
+
+Not used.
+
+Must consider relevant Douglas Factors.
+
+Advance Notice (Proposal Letter) Content
+
+Must state specific instances of Unacceptable performance that are the basis for the action and the CJE/CPE involved and/or the Retention Standard. Limited to performance deficiencies occurring within the one-year period prior to the Advance Notice. Advance Notice of proposed action must be given 30 days in advance of the final action.
+
+Must state specific instances of poor performance that are the basis for the action. No requirement to propose an action within a particular timeframe; however, unexplained excessive delays can have a negative effect on the ability to support the action.
+
+Penalty Mitigation
+
+If requirements, such as a reasonable opportunity period, adherence to due process procedures, etc., were met to take action, the MSPB cannot reduce the penalty.
+
+After determining requirements, such adherence to due process procedures, were met to take action, the MSPB may reduce the penalty.
+
+Exhibit 6.432.1-1
+Sample Request for Material Relied On (Evidence) and Representative’s Access to Tax Information
+Sample Request for Material Relied On (Evidence) and Representative’s Access to Tax Information
+
+I [or the designated representative] am requesting a copy of the material relied on to support the performance letter issued to ____(employee’s name)____ dated _______________. I [or the representative] am requesting relevant tax information, such as tax cases or other documents, that support the letter. My request for this information relates to my reply to the proposal letter [or my representational responsibilities regarding ____(employee’s name)____ personnel matter].
+
+As stated in IRM 6.432.1.18 and per Title 26 of the United States Code (USC) Section 6103(I)(4), I understand relevant tax returns and return information used in a personnel matter may be disclosed to an employee, former employee, or an approved representative. I understand irrelevant tax information, such as employer identification numbers and/or social security numbers, will be redacted to protect the taxpayer’s privacy.
+
+I understand the evidence provided may not be used in any public proceeding or disclosed to any person other than a Treasury Department employee in connection with the employee’s official duties (e.g., the deciding official or reply officer) regarding this personnel matter. As stated in 26 USC Section 7431, I understand a taxpayer may bring a civil action against a person who knowingly or negligently discloses tax information in violation of 26 USC Section 6103.
+
+If the action is appealed, I understand a separate written request is not required for submitting evidence to the Merit Systems Protection Board.
+
+Note: Written requests may be submitted via email or in person if the parties are co-located. If the performance matter is not related to a tax matter, modify the above.

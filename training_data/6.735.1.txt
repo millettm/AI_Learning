@@ -1,0 +1,147 @@
+6.735.1  Ethics and Conduct Matters: Guidance
+6.735.1.1  Program Scope and Objectives
+6.735.1.1.1  Background
+6.735.1.1.2  Authorities
+6.735.1.1.3  Roles and Responsibilities
+6.735.1.1.4  Program Management and Review
+6.735.1.1.5  Program Controls
+6.735.1.1.6  Terms and Acronyms
+6.735.1.1.7  Related Resources
+6.735.1.2  IRS Ethics Handbook Overview
+6.735.1.3  Reporting Ethics Violations
+6.735.1.4  Contact Information
+Part 6. Human Resources Management
+Chapter 735. Ethics and Conduct Matters
+Section 1. Ethics and Conduct Matters: Guidance
+6.735.1 Ethics and Conduct Matters: Guidance
+Manual Transmittal
+July 08, 2024
+
+Purpose
+(1) This transmits revised IRM 6.735.1, Ethics Matters, Ethics Program Requirements.
+
+Material Changes
+(1) Revised the IRM chapter title from Ethics and Conduct Matters to Ethics Matters.
+
+(2) Revised the IRM section title from Ethics and Conduct Matters: Guidance to Ethics Program Requirements.
+
+(3) IRM 6.735.1.1, Program Scope and Objectives, revised by adding IRM 6.735.1.1.4, Program Management and Review, and IRM 6.735.1.1.5, Program Controls, in compliance with IRM 1.11.2.2.4, Address Management and Internal Controls.
+
+(4) IRM 6.735.1.1.1, Background, moved prior employee responsibility content to IRM 6.735.1.1.3, Roles and Responsibilities, and moved prior content in (2), about the National Agreement, to IRM 6.735.1.1.7, Related Resources, paragraph (2).
+
+(5) IRM 6.735.1.1.2, Authorities (formerly titled Authority), added 5 CFR 2638.304, Initial Ethics Training, and 5 CFR 2638.705, Annual Ethics Training for Other Employees; deleted 5 CFR 734, 5 CFR 2635, 31 CFR Part 0, and 5 CFR 3101.
+
+(6) IRM 6.735.1.1.3, Roles and Responsibilities, added paragraph (1), which was moved from former IRM 6.735.1.2, IRS Ethics Handbook Overview, about the new hire requirements in compliance with 5 CFR 2638.304; added a reference to Article 52 in the National Agreement in paragraph (5).
+
+(7) IRM 6.735.1.1.4, Program Management and Review, added new subsection in compliance with IRM 1.11.2.2.4, Address Management and Internal Controls.
+
+(8) IRM 6.735.1.1.5, Program Controls, added new subsection in compliance with IRM 1.11.2.2.4, Address Management and Internal Controls.
+
+(9) IRM 6.735.1.1.6, Terms and Acronyms, added new subsection in compliance with IRM 1.11.2.2.4, Address Management and Internal Controls.
+
+(10) IRM 6.735.1.1.7, Related Resources, moved from former IRM 6.735.1.1.4; resources placed in numeric order; added Document 11678 (the National Agreement) and the related “Note” (the note was moved from former IRM 6.735.1.2, IRS Ethics Handbook Overview), added Mandatory Briefings; and deleted Document 12011-A, IRS Outside Employment and Business Activity Rules, which is obsolete.
+
+(11) IRM 6.735.1.2, IRS Ethics Handbook Overview, moved former paragraphs (2) and (3) to IRM 6.735.1.1.3, Roles and Responsibilities, paragraphs (1) and (4).
+
+(12) IRM 6.735.1.3, Reporting Ethics Violations (formerly titled Reporting Misconduct), moved from former IRM 6.735.1.8; revised to replace links and mailing address.
+
+(13) IRM 6.735.1.4, Contact Information, moved from former IRM 6.735.1.9; revised to include the Labor/Employee Relations and Negotiations division’s current procedures for contacting a specialist.
+
+(14) Former IRM 6.735.1.3, Performance of Duty, deleted subsection because it is covered in the IRS Ethics Handbook, Chapter 9, A. Use of Official Time.
+
+(15) Former IRM 6.735.1.4, Observation of Duty Hours, deleted subsection because it is covered in the IRS Ethics Handbook Chapter 9, B. Attendance and Leave.
+
+(16) Former IRM 6.735.1.5, Reserved, deleted subsection.
+
+(17) Former IRM 6.735.1.6, Reserved, deleted subsection.
+
+(18) Former IRM 6.735.1.7, Outside Employment and Business Activities, deleted subsection because it is covered in IRM 6.735.2, IRS Outside Employment.
+
+(19) Throughout the IRM, revised in plain language and updated links.
+
+Effect on Other Documents
+This IRM supersedes IRM 6.735.1 dated November 23, 2020.
+Audience
+All IRS employees excluding contractors and Chief Counsel.
+Effective Date
+(07-08-2024)
+Traci M. DiMartini
+IRS Human Capital Officer
+
+6.735.1.1 (07-08-2024)
+Program Scope and Objectives
+Purpose: This IRM provides requirements for the ethics program and the Internal Revenue Service Ethics Handbook (IRS Ethics Handbook), Document 12011.
+Audience: All IRS employees excluding contractors and Chief Counsel.
+Policy Owner: Human Capital Office, Policy Office.
+Program Owner: Human Capital Office (HCO).
+Primary Stakeholders: All IRS employees.
+Program Goal: To ensure employees know their ethics responsibilities.
+6.735.1.1.1 (07-08-2024)
+Background
+This IRM provides requirements for the ethics program. The Office of Government Ethics, Department of the Treasury (Treasury), and IRS ethics rules are in the IRS Ethics Handbook (Document 12011).
+6.735.1.1.2 (07-08-2024)
+Authorities
+5 CFR 735, Employee Responsibilities and Conduct, Subpart A, General Provisions
+5 CFR 2638.304, Initial Ethics Training
+5 CFR 2638.705, Annual Ethics Training for Other Employees, at https://www.govinfo.gov/app/details/CFR-2016-title5-vol3/CFR-2016-title5-vol3-sec2638-705
+6.735.1.1.3 (07-08-2024)
+Roles and Responsibilities
+Per 5 CFR 2638.304, within three months of a new employee’s appointment, they must complete initial ethics training covering the basic ethical obligations of federal service. New employees must also receive and acknowledge receipt of the IRS Ethics Handbook, Document 12011, within three months of their enter on duty date.
+Most newly hired employees (new hires) download a copy of the IRS Ethics Handbook to their assigned IRS computer and acknowledge receipt electronically.
+New hires who are not assigned an IRS computer receive a copy of the IRS Ethics Handbook at orientation or from their manager and acknowledge receipt at a kiosk or via Form 13393, IRS Ethics Handbook - Acknowledgement of Receipt. The signature and date on the form can be an original or electronic/digital. Managers file Form 13393 in the employee’s non-performance file (drop file). See New Hire Briefings, at https://irsgov.sharepoint.com/sites/ETD-EoT-MB/SitePages/New-Hire-Briefings.aspx, for detailed training information.
+Employees are responsible for reading the IRS Ethics Handbook, knowing the ethics rules, and abiding by the ethics rules throughout their IRS employment. Failure to abide by the ethics rules could result in appropriate corrective action, disciplinary or adverse action, in addition to any penalty prescribed by law. Employees who have ethics questions are encouraged to contact their manager or an ethics official for guidance. See IRM 6.735.1.4, Contact Information.
+Managers are responsible for:
+Monitoring completion of the required learning assignments, such as the ethics new-hire training, via the approved automated system
+Ensuring their employees abide by the IRS Ethics Handbook, and
+Taking corrective action, such as disciplinary or adverse actions, as appropriate, for ethics violations.
+HCO management determines when existing IRS employees must acknowledge receipt of the IRS Ethics Handbook. (For example, when substantive non-editorial revisions are made.)
+Business units have an annual requirement to hold ethics discussions with all employees to cover the ethics rules. Refer to Article 52 in the National Agreement for bargaining unit employees.
+6.735.1.1.4 (07-08-2024)
+Program Management and Review
+This IRM provides ethics requirements for the IRS. The HCO Policy Office gauges the effectiveness of these policies based on feedback from customers and program owners. During IRM review, sections may be revised, added, or deleted based in part on this process.
+Managers monitor completion of required learning assignments, such as the ethics new-hire training, via the approved automated system.
+6.735.1.1.5 (07-08-2024)
+Program Controls
+In collaboration with General Legal Services, Ethics & General Government Branch, the HCO Policy Office develops ethics guidance to ensure compliance with applicable laws and regulations.
+The following activities help ensure program success:
+Conducting an annual review of this IRM for needed revisions/clarifications
+Publishing educational articles, such as Leaders’ Alert and IRS Headlines
+Collaborating on interim guidance for policy changes related to this IRM, and
+Reviewing communications and training materials, as needed, to ensure adherence to policies.
+6.735.1.1.6 (07-08-2024)
+Terms and Acronyms
+Bargaining Unit (BU) Employee - an employee included in a bargaining unit certified by the Federal Labor Relations Authority who can be represented by a labor union.
+National Treasury Employees Union - the exclusive representative of IRS BU employees.
+Treasury Inspector General for Tax Administration (TIGTA) - TIGTA was established in January 1999 in accordance with the Internal Revenue Service Restructuring and Reform Act of 1998 to provide independent oversight of Internal Revenue Service (IRS) activities.
+6.735.1.1.7 (07-08-2024)
+Related Resources
+Document 9300, 14 General Principles of Ethical Conduct
+Document 11678, Internal Revenue Service and National Treasury Employees Union National Agreement (National Agreement), for BU employees.
+Note: If this IRM conflicts with the National Agreement or any other relevant collective bargaining agreement, the agreement prevails.
+Document 12011, IRS Ethics Handbook
+Form 13393, IRS Ethics Handbook - Acknowledgement of Receipt
+EthicsLink at https://ccintranet.prod.irscounsel.treas.gov/Common/EthicsLink/Pages/default.aspx
+Mandatory briefings at https://irsgov.sharepoint.com/sites/ETD-EoT-MB
+6.735.1.2 (07-08-2024)
+IRS Ethics Handbook Overview
+The IRS Ethics Handbook summarizes the Office of Government Ethics, Treasury, and IRS rules of ethical conduct. It is a valuable tool for day-to-day ethics questions. The IRS Ethics Handbook includes the 14 Principles of Ethical Conduct, ethics regulations, examples of ethical dilemmas, and much more. It is not intended to cover every ethics situation, and it is not a replacement for the advice of your manager or an ethics official.
+6.735.1.3 (07-08-2024)
+Reporting Ethics Violations
+If you have information indicating an employee may have engaged in criminal conduct or violated any of the ethics standards, you must promptly report that information to your manager or TIGTA.
+Report allegations of ethics violations to your manager or TIGTA at https://www.tigta.gov/reportcrime-misconduct.
+Note: Per IRM 10.5.4.3.2, Intentional Unauthorized Disclosures of Tax Information, employees must report data breaches involving intentional unauthorized disclosures of Sensitive But Unclassified data, including Personally Identifiable Information and tax information, to TIGTA (see above link). See IRM 11.3.38.5, Reporting Suspected Willful Unauthorized Accesses or Disclosures, for more information.
+6.735.1.4 (07-08-2024)
+Contact Information
+The Associate Chief Counsel, General Legal Services, is the IRS Deputy Ethics Official (DEO). The DEO assists IRS managers and employees with advice regarding interpretation or application of the ethics rules, related statutes, or other ethical questions.
+If you have a question of personal interest, or you are a manager who needs assistance interpreting the ethics rules, you may contact the DEO as follows:
+E-mail:GLS.Ethics@irscounsel.treas.gov
+Mail:
+Internal Revenue Service
+Office of the Associate Chief Counsel
+General Legal Services
+Ethics and General Government Law Branch (CC:GLS:EGG)
+Room 6404
+1111 Constitution Avenue NW
+Washington, DC 20224
+
+To address ethics violations, managers must request help from Labor/Employee Relations & Negotiations (LERN) by submitting a request at IRS Service Central, at https://irworks.for.irs.gov/, or calling the LERN Support Gate (toll free) at 866-743-5748, pressing option 1, then option 6, Monday through Friday, 7 a.m. to 7 p.m., Central Time.

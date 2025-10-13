@@ -1,0 +1,2649 @@
+Performance and Goal Management in SAP SuccessFactors: Test Script
+
+
+
+
+
+
+
+
+
+THE BEST RUN
+
+Content
+
+
+
+1	Performance & Goal Management in SAP SuccessFactors	4
+2	Prerequisites	5
+2.1	System Access and Roles	5
+2.2	Business Conditions	6
+2.3	Preliminary Steps	6
+Preliminary Steps for Goal Management	6
+Preliminary Steps for Performance Management	11
+Preliminary Steps for 360 Degree Review	15
+2.4	Activate SAP SuccessFactors Mobile Application (Optional)	16
+3	Overview Table	17
+4	Test Procedures	20
+4.1	Goal Management	20
+Establish Goals for Self and Team	20
+Review Goal Plan and Add Individual Goals	25
+Update Goal Plan	28
+4.2	Continuous Performance Management	31
+Maintain Activities	31
+Maintain Employee Activities	34
+Request Feedback on Activities	37
+Provide Feedback on Activities	39
+View Feedback on Activities	42
+Prepare 1:1 Meeting	45
+Conduct 1:1 Meeting (Process Step Outside Software)	47
+Capture 1:1 Meeting	47
+Maintain Achievements	50
+Maintain Employee Achievements	52
+Update Goal Plan (Optional)	55
+4.3	Performance Management	56
+Launch Performance Review Forms	56
+Request Performance Feedback (Optional)	58
+Provide Feedback on Employee Performance (Optional) (Process Step Outside Software)	59
+Review Feedback on Employee Performance (Optional)	59
+Perform Self-Assessment	60
+Rate and Compare Employees Competencies (Optional)	61
+Perform Employee Review	63
+Plan Calibration Session	65
+Conduct Performance Calibration	67
+Finalize Performance Review	69
+Discuss Year-End Performance Review (Process Step Outside Software)	71
+Sign Off Year-End Review	71
+Sign Off Employee Year-End Review	72
+4.4	360 Degree Review (Optional)	74
+Create 360 Degree Review Form for Self	74
+Review and Modify Rater List	75
+Review Employee Rater List	77
+Perform 360 Degree Review	79
+Review "Detailed 360 Degree Report"	81
+5	More Information	83
+5.1	Process Integration	83
+Succeeding Processes	83
+
+1	Performance & Goal Management in SAP SuccessFactors
+
+
+The detailed procedure for testing the scope item Performance & Goal Management in SAP SuccessFactors
+after solution activation is described in the following. Each process step is covered in its own section.
+This document describes the process of performing Goal Management, Continuous Performance Management, Performance Management with Calibration, and 360 Degree Reviews.
+Goal Management enables employees and managers to align individual goals with company business goals and helps organizations ensure that all employees are aligned and working on the right things.
+
+Continuous Performance Management involves an ongoing dialogue between the employee and manager. It includes regular check-ins to ensure employees are working on the right things in the right way. The
+Continuous Performance Management process follows these steps to enable employees to get quick feedback on their work through frequent and structured conversations with their manager. As a manager, it helps you track your team members' progress effortlessly and offers you a simple way to provide coaching advice.
+
+Performance Management involves an ongoing dialogue between the employee and manager. It includes establishing clear performance expectations to support business objectives and providing regular feedback and coaching. The Performance Management process follows these steps to evaluate an employee’s performance and identify future performance expectations.
+
+360 Degree Reviews helps organizations collect feedback on employees’ performance and behavior from everyone, both inside and outside of an organization. Quantitative and qualitative data from 360 Developmental Surveys & Multi-Rater Assessments can be collected and graphically displayed by various
+categories. Leverage 360 degree reviews to help increase accuracy and effectiveness in providing feedback.
+
+
+2	Prerequisites
+
+
+This section summarizes all prerequisites needed to conduct the test in terms of system, user, master data, organizational data, and other test data and business conditions.
+
+
+
+
+2.1	System Access and Roles
+
+The test is conducted in the following systems:
+
+System	Details
+SAP SuccessFactors	<Provide details on how to access system, for example system client or URL>
+
+Use the following standard test users or assign roles to testers, respectively:
+
+Business Role	Business Role Description	Business Role ID	Log On
+Employee	Users who can maintain their own goals, their activities executed, and achievements obtained at their workplace, do self-evaluation in the performance review process and nominate raters for their 360 degree review. In addition, they themselves can evaluate on the 360 de­ gree review of other employees as raters.	SFCC Employee on Self	For testing purposes, proxy as the role us­ ing superuser role
+Manager	Users who can maintain and cascade goals to employees within the scope of their responsi­ bilities, review the activities and achievements of their direct reports, and provide coaching advice to them. Give official rating for perform­ ance review of their direct reports, approve rater lists, evaluate on employee’s 360 degree review as raters, and check the detailed 360 degree report.	SFCC Manager on Direct Report	For testing purposes, proxy as the role us­ ing superuser role
+Talent Admin­ istrator	Users who prepare the goal plan template and the performance review template and launch this template for all organizations.	SFCC Performance & Goal Ad­ ministrator	For testing purposes, proxy as the role us­ ing superuser role
+
+
+Business Role  Business Role Description	Business Role ID	Log On
+
+HR Business Partner	Users who conduct the performance calibra­ tion session for employees.	SFCC HRBP	For testing purposes, proxy as the role us­ ing superuser role
+Rater	Users who give feedback to employee or man­ ager for the employee’s performance review and employee’s competency in the 360 degree review form.	SFCC Employee on Self or SFCC Manager on Direct Report	For testing purposes, proxy as the role us­ ing superuser role
+
+
+
+
+
+2.2	Business Conditions
+
+Before this scope item can be tested, the organizational structureand employee master data of your company should be created in your system.As a result, you must ensure that the employee related basic data and talent data, such as competency already exist in the instance before you could start any activities in this scenario.
+
+Business Condition	Comment
+The employee’s competen­ cies should be maintained.	Check if the employee is assigned with a job code and there exist specific competencies for that job. Alternatively, ensure that core competencies are defined in your company. Some sample custom competencies have been defined in 360 degree review template, but customer can adjust them accordingly.
+
+
+2.3	Preliminary Steps
+
+2.3.1	Preliminary Steps for Goal Management
+
+2.3.1.1	Define Corporate Objectives and Strategic Initiatives
+
+
+
+Purpose
+
+The Talent Administrator creates initiatives. The Talent Administrator can create corporate, division and departmental level initiatives, and allows employees to actively associate their personal goals with the initiatives.
+
+The Initiatives feature greatly helps when working with goals that are specific to departments and divisions, and measures overall alignment of personal goals to strategic corporate, division or departmental initiatives.
+
+
+
+Procedure
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company Instance as Talent Administrator.	The Home page is displayed.
+2.	Access Admin Center
+Choose   Home   Admin Center   from the menu in the top left corner.	The Admin Center screen is dis­ played.
+3.	Access Manage Initiatives	Type Manage Initiatives in the tool search box within the Tools card and select the feature/ tool from the list.	The Manage Initiatives screen is displayed.
+4.	Create Initiative Group with Initia­ tives	Choose Create Initiative Group.
+
+In the upcoming Create Initiative Group dialog box, enter an Initiative Group Name, a relevant Initiative Group Description, and set field Active to
+Yes.
+To add initiatives to the initiative group, choose + Add Initiative. Enter Initiative Name and Initiative Description.
+ Note
+To add additional initiatives, select again + Add Initiative and enter details as appropri­ ate.
+
+Choose Save.	The Initiative Group with a bunch of relevant Initiatives has been created. You return to
+the Manage Initiatives screen, where the newly created group is listed in the table.
+
+2.3.1.2	Create Goal Plan Template
+
+
+
+Purpose
+
+The Talent Administrator, in preparation of the current year’s goal management cycle, creates the goal plan template. For this purpose, he or she copies the previous year’s goal plan template and renames it to the current year.
+
+
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company Instance as Talent Administrator.	The Home page is displayed.
+2.	Access Admin Center
+Choose   Home   Admin Center   from the menu in the top left corner.	The Admin Center screen is dis­ played.
+3.	Access Goal Plan Template	Type Manage Templates in the tool search box within the Tools card and select the feature/ tool from the list. Then choose the Goal Plan tab.	The Manage Templates screen is displayed, containing a list of ex­ isting goal plan templates.
+4.	Copy Goal Plan Template	From the list of goal templates, choose the Goal Plan link.
+On the upcoming screen, choose General Settings
+in the left side column of the screen.
+
+Adjust the Start Date and End Date, if necessary, then choose the Save As icon.	The goal plan template for the cur­ rent year has been created.
+5.	Adapt Name of Copied Goal Plan	Enter the name of the copied plan to reflect the
+current year, for example <year> Goal Plan. When done, choose Save.
+On the screen with your newly copied goal plan template, choose again General Settings in the left side column of the screen. Choose the Change Language dropdown and select your current sys­ tem language. Then change the name again and choose Save.
+
+2.3.1.3	Assign Initiatives to Goal Plan Template
+
+
+
+Purpose
+
+After the goal plan has been created, the Talent Administrator needs to assign initiatives to the appropriate goal plan.
+
+
+
+Procedure
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company In­ stance as Talent Administrator.	The Home page is displayed.
+2.	Access Admin Cen­ ter
+Choose   Home   Admin Center   from the menu in the top left corner.	The Admin Center screen is dis­ played.
+3.	Access Manage Ini­ tiatives	Type Manage Initiatives in the tool search box within the Tools card and select the feature/tool from the list.	The Manage Initiatives screen is displayed.
+4.	Edit Initiative Group (Optional)	To edit an existing initiative group (for exam­ ple the one you have created in process step Define Corporate Objectives and Strategic Ini­ tiatives [page 6]), select the Team Goal Action icon in the Action column next to the relevant Initiative Group Name. From the dropdown that expands, select Edit.
+In the upcoming Edit Initiative Group dialog box, update the Initiatives and other details as required.
+When done, choose Save.	Details of the initiative group have been updated. These up­ dates will reflect later in the aligned Goal Plan of the as­ signed users.
+
+
+
+Test Step
+#	Test Step Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+5.	Assign Initiative Group to User	To assign an initiative group to user(s), choose the Team Goal Action icon in the Action col­ umn next to the relevant <Initiative Group Name>. From the dropdown that expands, se­ lect Assign.
+In the upcoming Initiative group Assignment dialog box, choose the Assign To User tab. Se­ lect the users you want to assign the Initiative Group to from the People Pool dropdown.
+Choose the Align With Goal Plan tab, flag the checkbox next to one or several Goal Plan to be aligned with the Initiative Group.
+Choose Done.	The Initiative Group has been assigned to the selected users; it will appear on their Goal Plan when they add or edit a per­ sonal goal.
+6.	Share Initiative Group	To share an initiative group with other persons, choose the Team Goal Action icon in the Action column next to the relevant <Initiative Group Name>. From the dropdown that expands, se­ lect Share.
+In the upcoming Share Initiative dialog box, en­ ter the Employee with whom you want to share the Initiative, and choose Add.
+Then choose Done to save your share.	The Initiative Group has been shared with the selected user(s); they will become the co-owners of the initiative group.
+If appropriate permissions for the Admin Center have been granted to the co-owners, they can assign, share, edit or even delete the initiative group.
+7.	Revoke Initiative Group (Optional)	You can give up your ownership of an Initiative Group by revoking your access rights. For this, choose the Team Goal Action icon in the Action column next to the relevant <Initiative Group Name>. From the dropdown that expands, se­ lect Revoke, and on the Warning message that appears, choose Revoke.	The Initiative Group no lon­ ger appears on your Manage Initiatives page.
+
+
+
+Test Step
+#	Test Step Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+8.	Delete Initiative Group (Optional)	To delete an Initiative Group, you own, choose the Team Goal Action icon in the Action col­ umn next to the relevant <Initiative Group Name>. From the dropdown that expands, se­ lect Delete, and on the Warning message that appears, choose Delete.
+ Caution
+Pay attention, that when confirming the Warning message, the Initiative Group is not only deleted, but also removed from all Goal Plans, including the ones with which the Initiative Group was assigned by others.
+
+
+Result
+
+Once an Initiative Group has been assigned to an employee, and aligned to the Goal Plan, it will appear on the
+Goal Plan whenever the employee is adding a new or editing an existing Personal Goal.
+After defining corporate objectives and strategic initiatives, the Talent Administrator communicates the guidelines to the managers and reminds them of the process start.
+Process Goal Management [page 20] is now ready to start.
+
+
+
+
+2.3.2	Preliminary Steps for Performance Management
+
+2.3.2.1	Create Performance Review Template
+
+
+
+Purpose
+
+The Talent Administrator, in preparation for the current year’s performance review cycle, creates the performance review template. For this purpose, he or she copies the previous year’s performance review template and renames it to the current year, and then updates the new template accordingly.
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company Instance as
+Talent Administrator.	The Home page is displayed.
+2.	Access Admin Center
+Choose   Home   Admin Center   from the menu in the top left corner.	The Admin Center screen is dis­ played.
+3.	Access Per­ formance Re­ view Template	Type Manage Templates in the tool search box within the Tools card and select the feature/tool from the list. Then choose the Performance Review tab.	The Manage Template screen is displayed, containing a list of ex­ isting performance and develop­ ment plan templates.
+4.	Copy Perform­ ance Review Template	From the list of performance review templates, choose the Performance Review link and choose the Save As icon.	The performance review tem­ plate has been copied.
+5.	Adapt Name of Copied Tem­ plate	Enter the name of the copied plan to reflect the current year, for example <year> Performance Review. When done, choose Save.
+6.	Adapt Route Map and Rat­ ing Scale	Choose General Settings on the left side column of the screen, and modify the route map and rating scale, if appropriate:
+•	Route Map: select the appropriate workflow for the Performance review.
+•	Rating Scale: select the scale of ratings from
+the dropdown list. If no change is necessary, you can keep as is.
+
+
+
+
+Test Step #
+
+
+Test Step
+Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+7.	Choose Goal Plan Template	Choose Edit Fields and Sections on the left side col­ umn of the screen and navigate to the Performance Goals section.
+In the Section type part, the Goal Section radio but­ ton is checked by default. Select from the Choose which goal plan you want to link dropdown the goal plan template you want to link with this perform­ ance template.
+ Note
+The selected goal plan template has to be the one prepared in preliminary step Create Goal Plan Template [page 8].
+
+Save your changes.	The goal plan template, to which the performance review tem­ plate is linked, has been chosen.
+
+
+2.3.2.2	Create Calibration Template
+
+
+
+Purpose
+
+The Talent Administrator, in preparation for the current year’s calibration process, creates the performance management calibration template. For this purpose, he or she first copies the previous year’s calibration template and renames it to the current year. Then he or she updates the calibration settings, like review period, data source and views design, if needed.
+
+
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company Instance as
+Talent Administrator.	The Home page is dis­ played.
+
+
+
+Test Step #
+
+
+Test Step
+Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+2.	Access Admin Center
+Choose   Home   Admin Center   from the menu in the top left corner.	The Admin Center screen is displayed.
+3.	Access Man­ age Calibration Templates	Type Manage Calibration Templates in the tool search box within the Tools card and select the fea­ ture/tool from the list.	The Manage Calibration Templates screen is dis­ played.
+4.	Clone Calibra­ tion Template	On the Manage Calibration Template screen, choose the Clone Template icon next to the Performance Calibration template. On the upcoming screen make following en­ tries:
+On the Basic Info tab:
+•	Template Name: Performance Calibration
+- <Plan Year>
+•	Review Period : 1st January of <plan year> - 31st December of <plan year>
+On the Data tab, flag the Performance check box and make following entries:
+•	Template: select <year> Performance Review from the dropdown list
+•	At which routing step can the data be used?: select
+Calibration from the dropdown list
+•	Adjust the elements and the corresponding distri­ bution guidelines accordingly, if necessary.
+On the Views tab, choose the tab for the existing view; adjust the Calibration Elements for X-axis and Y-axis, as well as other settings like View Name if necessary, for
+example Overall Performance Rating. Choose Save.
+Choose Back to Template List.	The calibration template is prepared for the current performance management cycle.
+
+
+Result
+
+Process Performance Management [page 56] is now ready to start.
+
+2.3.3	Preliminary Steps for 360 Degree Review
+
+2.3.3.1	Map Job Code with Job Role
+
+
+
+
+Purpose
+
+The job code is mapped with job role in order to invoking competency mapped with job role when creating 360 degree review for user who has the appropriate job code.
+
+
+
+
+Procedure
+
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company Instance as Talent Administrator.	The Home page is displayed.
+2.	Access Admin Center
+Choose   Home   Admin Center   from the menu in the top left corner.	The Admin Center screen is dis­ played.
+3.	Access Manage Job Profile Con­ tent	Type Manage Job Profile Content in the tool search box within the Tools card and select the feature / tool from the list.
+On the upcoming Manage Job Profile Content screen, select Set Up Families and Roles from the Select Content Type dropdown list.	The Families tab within the Manage Job Profile Content screen is displayed.
+4.	Choose Role	Choose the Roles tab and choose the name link of the appropriate role.
+5.	Map Job Code	On the Edit: Role page, stay on the Role Mapped Job Codes tab and choose Map Job Codes.
+In the upcoming Add Job Code dialog box, enter the first several letters of the job code you want to map until you see a dropdown list. Then select the appropriate job code from this list.
+Choose Save.	The job code has been mapped with the job role.
+
+2.4	Activate SAP SuccessFactors Mobile Application (Optional)
+
+Before mobile related process steps can be executed, you need first to install and activate your SAP SuccessFactors Mobile application on your mobile device. There are four ways to activate the SAP SuccessFactors Mobile Application on mobile devices, and this document only describes the QR Code Activation. For other ways and more deployment information on how to set up Mobile application, refer to the SAP SuccessFactors Mobile Deployment Guide located in SAP Help Portal.
+To activate your SAP SuccessFactors Mobile application using the QR code proceed as follows:
+1.	Download and install the SAP SuccessFactors Mobile App in your mobile device (from App Store).
+2.	The user, who needs to execute the process steps on the mobile, log on to SAP SuccessFactors website.
+3.	Choose the dropdown menu and select Options.
+4.	On the Options screen, select Mobile.
+5.	Select the Activate via Camera option.
+6.	The camera is activated, and you have 30 seconds to scan the displayed QR Code.
+7.	Open the SAP SuccessFactors Mobile App on your mobile device.
+8.	Tap the Add Profile box and tap Scan QR Code, scan the QR Code displayed in your SAP SuccessFactors website.
+9.	If the QR Code expires, choose Get New Code to generate a new QR Code.
+10.	Once the QR Code is validated, the User License screen appears on your mobile device. Read the End User License Agreement (EULA) and make the appropriate selections on the mobile device to accept the User License Agreement.
+11.	The SAP SuccessFactors mobile application is now activated. The corresponding user profile is added.
+
+In this package, following users should be prepared before you perform the process steps:
+•	Manager,
+•	Employee.
+
+3	Overview Table
+
+
+The scope item Performance & Goal Management in SAP SuccessFactors consists of several process steps provided in the table below.
+
+Process Step	Business Role	Transaction	Expected Results
+Goal Management [page 20]
+Establish Goals for Self and Team [page 20]
+Manager	Company Instance URL/ Mobile App	Goals have been created by the manager for him- or herself and for the direct reports.
+Review Goal Plan and Add In­ dividual Goals [page 25]
+Employee	Company Instance URL/ Mobile App	The goal plan has been reviewed and possibly up­ dated by the employee.
+Update Goal Plan [page 28]
+Employee	Company Instance URL/ Mobile App	After communication with the manager, the goal plan has been updated by the employee.
+Continuous Performance Management [page 31]
+Maintain Activities [page 31]
+Employee	Company Instance URL/ Mobile App	Activities have been created or updated by the employee to keep track of the items he or she is working on.
+Maintain Employee Activities [page 34]
+Manager	Company Instance URL/ Mobile App	Activities for a direct report have been main­ tained.
+Request Feedback on Activi­ ties [page 37]
+Employee	Company Instance URL/ Mobile App	The employee has requested feedback on their activities from other employees within the organi­ zation.
+Provide Feedback on Activi­ ties [page 39]
+Stakeholder (any Employee in the organization)	Company Instance URL/ Mobile App	The stakeholder has provided feedback to the employee’s activities.
+View Feedback on Activities [page 42]
+Employee	Company Instance URL/ Mobile App	The feedback provided by the stakeholder has been viewed by the requesting employee.
+Prepare 1:1 Meeting [page 45]
+Employee / Man­ ager	Company Instance URL/ Mobile App	Topics for the next 1:1 meeting have been added.
+Conduct 1:1 Meeting (Process Step Outside Software) [page 47]
+Manager / Em­ ployee	Outside Software	The 1:1 meeting between employee and manager has taken place.
+Capture 1:1 Meeting [page 47]
+Employee	Company Instance URL/ Mobile App	Topics, which have been discussed during the 1:1 meeting, have been confirmed. The 1:1 meeting has been archived in the system.
+Maintain Achievements [page 50]
+Employee	Company Instance URL/ Mobile App	The achievements have been captured in real- time by the employee.
+Maintain Employee Achieve­ ments [page 52]
+Manager	Company Instance URL/ Mobile App	Achievements of a direct report have been re­ viewed.
+
+
+Process Step	Business Role	Transaction	Expected Results
+
+Update Goal Plan (Optional) [page 55]
+Employee	Company Instance URL	Possible updates in the employee’s goal plan have been performed.
+Performance Management [page 56]
+Launch Performance Review Forms [page 56]
+Talent Administra­ tor	Company Instance URL	The performance review forms are launched for employees in the organization.
+Request Performance Feed­ back (Optional) [page 58]
+Manager	Company Instance URL	The manager has asked raters to give feedback on the employee's performance.
+Provide Feedback on Em­ ployee Performance (Op­ tional) (Process Step Outside Software) [page 59]
+Rater	Outside Software	The raters have given feedback via email.
+Review Feedback on Em­ ployee Performance (Op­ tional) [page 59]
+Manager	Company Instance URL	The manager has reviewed the feedback from raters.
+Perform Self-Assessment [page 60]
+Employee	Company Instance URL	The employee has performed the self-assess­ ment of his or her performance.
+Rate and Compare Employ­ ees Competencies (Optional) [page 61]
+Manager	Company Instance URL	The manager has compared and rated in one page the competencies of all the direct reports.
+Perform Employee Review [page 63]
+Manager	Company Instance URL	The manager has rated the employee’s perform­ ance.
+Plan Calibration Session [page 65]
+Talent Administra­ tor	Company Instance URL	The calibration session has been created.
+Conduct Performance Cali­ bration [page 67]
+HR Business Part­ ner	Company Instance URL	The employee’s performance has been cali­ brated.
+Finalize Performance Review [page 69]
+Manager	Company Instance URL	The year-end review of the employee has been finalized.
+Discuss Year-End Perform­ ance Review (Process Step Outside Software) [page 71]
+Manager	Outside Software	The performance review meeting between man­ ager and employee has taken place.
+Sign Off Year-End Review [page 71]
+Employee	Company Instance URL	The employee has signed the performance review form.
+Sign Off Employee Year-End Review [page 72]
+Manager	Company Instance URL	The manager has signed employee’s perform­ ance review form.
+360 Degree Review (Optional) [page 74]
+
+
+Process Step	Business Role	Transaction	Expected Results
+
+Create 360 Degree Review Form for Self [page 74]
+Employee	Company Instance URL	The employee has created the 360 degree review form for him- or herself.
+Review and Modify Rater List [page 75]
+Employee	Company Instance URL	Raters to evaluate the 360 degree review form have been nominated by the employee.
+Review Employee Rater List [page 77]
+Manager	Company Instance URL	The rater list has been approved by the employ­ ee’s line manager. The form has been sent out to the raters for providing feedback.
+Perform 360 Degree Review [page 79]
+Rater	Company Instance URL	The 360 degree review form has been evaluated by all raters.
+Review "Detailed 360 Degree Report" [page 81]
+Employee/Man­ ager	Company Instance URL	The detailed 360 degree report has been re­ viewed by the employee and his/her manager.
+
+4	Test Procedures
+
+
+This section describes test procedures for each process step that belongs to this scope item.
+
+
+
+
+
+4.1	Goal Management
+
+
+
+
+Purpose
+
+At the start of the performance year, the line managers and their direct reports create and agree on goal plans for each employee. The goal plans need to be aligned with the company objectives.
+The process steps to achieve this are detailed below.
+
+
+
+
+4.1.1	Establish Goals for Self and Team
+
+
+
+
+Purpose
+
+The Manager creates goals for themselves and for the direct reports. For the direct reports, goals can be created directly in their goal plans, or cascaded from the goals of the manager.
+
+If the SAP SuccessFactors Mobile application has been activated on the Employee’s mobile device as described in Activate SAP SuccessFactors Mobile Application (Optional) [page 16] section, the manager has the option to maintain the goals for his/her direct reports either on the company instance website or on the mobile device. Cascading goals is possible only on the company website though.
+These options are detailed below.
+
+4.1.1.1	Establish Goals for Self and Team on Company Website
+
+
+
+Purpose
+
+The Manager creates goals for themselves and for the direct reports. One option for creating goals for direct reports is to cascade these from the own goals.
+
+
+
+Procedure
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company Instance as Manager.	The Home page is displayed.
+2.	Access Goal module
+Choose   Home   Goals   from the menu in the top left corner.	The Goals screen is displayed.
+3.	Select Goal Plan	Next to your username, choose <New copied goal plan> (for example <year> Goal Plan>) from the dropdown menu.	The <year> Goal Plan screen is displayed.
+
+
+
+Test Step
+#	Test Step Name Instruction	Expected Result
+
+
+Pass / Fail
+
+
+4.	Add New Goals	Choose Add goal and select either Create a New Goal or Goal Wizard.
+If you choose Create a New Goal, the Create a New Goal dialog box is displayed. Choose either Personal Goal or Library Goal.
+If you are using Personal Goal, maintain in the Add Goal dialog box, the goal details as appropriate. If you have been assigned to initiative groups, these and the appropriate initiatives are visible at the bottom of the Add Goal dialog box. Flag the check­ box next to the initiative of relevance. Then choose Save Changes.
+If you are using Library Goal, choose the appropri­ ate link to expand the categories, flag one or more goal check boxes and then choose Add Selected. In the upcoming Add Goal dialog box, you can modify the goal, if needed. Then choose Save Changes.
+If Goal Wizard has been selected: Maintain your goal as instructed by the SMART Goal Wizard, in the Confirm and Save screen, choose Add More Details, and enter the Weight, then choose Save & Close.	A new goal has been created. You return to the <year> Goal Plan screen.
+5.	Cascade Goals to Employee	Flag the checkbox in front of the goal(s) and
+choose   Actions   Cascade   on top-right cor­ ner of the screen. In the upcoming dialog box, se­ lect the employee under your hierarchy (for this, flag the checkbox in front of the employee’s name) or use Find Other Employees to help searching the employee. After the employee is selected, choose Next, and make changes according to your own requirements and then select Cascade.
+A system message is displayed informing that the goals have been cascaded successfully. Choose OK. You return to your <year> Goal Plan screen.
+Choose Display Options on top-right corner of the screen, flag the Aligned Down checkbox and choose the Update.	The goal is cascaded to the em­ ployee. Below the year <Goal Name>, the employee is listed.
+
+
+
+Test Step
+#	Test Step Name Instruction	Expected Result
+
+
+Pass / Fail
+
+
+6.	Edit Goal for Employee (Op­ tional)	You can edit an existing goal for an employee. For this, choose the employee’s name beside the em­ ployee’s picture to navigate to that employee’s goal plan. You can see the goal just cascaded and other existing goals if there is any. Select the Edit goal link next to the goals name to modify a goal,
+When done, choose Save Changes.	An employee’s goal has been updated.
+7.	Delete Goal for Employee (Op­ tional)	In case you need to delete a goal of an employee, choose in the Action column of the respective goal the ... (Actions) icon, and from the expanded drop­ down menu select Delete goal. In the dialog box the message Are you sure you want to delete this Goal ? is issued. Select OK.	An employee’s goal has been de­ leted.
+
+
+Result
+
+After the manager has created goals for himself or herself and for the team, he or she might schedule meetings with the employees to discuss their goals setting. The employees receive email notifications with invitation to review the goal plan they have received.
+
+
+
+4.1.1.2	Establish Goals for Self and Team via Mobile Device (Optional)
+
+
+Purpose
+
+The Manager creates goals for themselves and for the direct reports.
+
+
+
+Procedure
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1	Log on	Open the SAP SuccessFactors mobile app and log on as Manager by tapping the corresponding user name in the Multi-Profile screen.	The To-Do page is displayed.
+2	Access Goals and Select Goal Template	In the My Activities tile, scroll down and tap Goals and choose goal plan by taping Goal Plan to choose which goal plan you want to use (for example
+<year> Goal Plan>). Tap Done.	The <year> Goal Plan screen is displayed.
+3	Add New Goals	Choose Add Goal. Make following entries:
+<Category>, <Goal Name(Required)>,
+<Metric/Target(Required)>,
+<Weight(Required)>, <Status>,
+<Start> and <Due>.
+Choose Done.	A new goal has been created. You return to the <year> Goal Plan screen.
+4	Add New Goals for Employees	Go to the Team tab and tap the direct report for whom you want to add goal for. On the
+<employee name> page, scroll down and tap Goals and choose goal plan by taping Goal Plan to choose which goal plan you want to use (for exam­
+ple <year> Goal Plan>). Tap Done.
+To create a new goal, proceed as described in proc­ ess test step # 3.	A new goal has been created. You return to the<year> Goal Plan screen.
+5	Edit Goal for Employee (Op­ tional)	Choose the goal which you want to edit. Tap Edit at the upper right corner and change the content for your goal then tap Done.
+You can also maintain comments to the goals for you or your subordinates by tapping Add
+Comments. After maintaining the comments tap
+Done.	An employee’s goal has been updated.
+6	Delete Goal for Employee (Op­ tional)	In case you need to delete a personal goal, choose the goal which you want to delete. Tap Delete Goal at the bottom of the Goal Detail page. And choose Delete to confirm.	An employee’s goal has been de­ leted.
+
+Result
+
+After the manager has created goals for himself or herself and for the team, he or she might schedule meetings with the employees to discuss their goals setting. The employees receive email notifications with invitation to review the goal plan they have received.
+
+
+
+4.1.2	Review Goal Plan and Add Individual Goals
+
+
+
+Purpose
+
+The Employee maintains goals in the own goal plan. This includes adaptions of the goals created by the manager, as well as adding own goals.
+If the SAP SuccessFactors Mobile application has been activated on the Employee’s mobile device as described in Activate SAP SuccessFactors Mobile Application (Optional) [page 16] section, the employee has the option to maintain the goals either on the company instance website or on the mobile device.
+
+
+
+4.1.2.1	Review Goal Plan and Add Individual Goals on Company Website
+
+
+
+Purpose
+
+The Employee reviews the goals maintained by the manager for them and possibly adapts these. This includes editing and possibly deleting goals. In addition, the employee can create own individual goals.
+
+
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company Instance as
+Employee.	The Home page is dis­ played.
+
+
+
+Test Step #
+
+
+Test Step
+Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+2.	Access Goal module
+Choose   Home   Goals   from the menu in the top left corner.	The Goals screen is dis­ played.
+3.	Select Goal Template	Next to your username, choose <New copied goal plan> (for example <year> Goal Plan>) from the dropdown menu.	The <year> Goal Plan
+screen is displayed.
+4.	Add New Goals	To create a new goal, proceed as described in process step Establish Goals for Self and Team on Company Website [page 21], test Step # 4.
+A new goal has been cre­ ated. You return to the
+<year> Goal Plan screen.
+5.	Maintain Exist­ ing Goal	Select the Edit link next to the name of the goal
+to be maintained. On the upcoming Edit Goal dialog box, change details as appropriate, then choose Save Changes.
+ Note
+If you have direct reports, you can cascade goals further down; for details see process step Establish Goals for Self and Team on Company Website [page 21], test step # 5.
+
+You can also maintain Comments to the goals for you or your subordinates.	The goal has been main­ tained.
+6.	Delete Existing Personal Goal (Optional)	In case you need to delete a personal goal, choose from the Action column of the goal the … (Actions) icon, and from the expanded dropdown menu select Delete Goal. In the upcoming dialog box the message Are you sure you want to delete this Goal? is issued. Choose OK.	A personal goal has been deleted.
+
+
+
+Result
+
+Once the employee has completed setting their goals, the employee and manager discuss and agree on these goals. This is required in order to finalize the employee's goal plan.
+
+4.1.2.2	Review Goal Plan and Add Individual Goals via Mobile Device (Optional)
+
+
+
+
+Purpose
+
+The Employee reviews the goals maintained by the manager for them and possibly adapts these. This includes editing and possibly deleting goals. In addition, the employee can create own individual goals.
+
+
+
+
+Procedure
+
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Open the SAP SuccessFactors mobile app and log on as Employee by tapping the corresponding user name in the Multi-Profile screen.	The To-Do page is displayed.
+2.	Access Goals and Select Goal Template	In the Goals tile, tap Plans at the upper right corner to choose which goal plan you want to use (for example
+<year> Goal Plan>). Tap Done.	The <year> Goal Plan
+screen is displayed.
+3.	Add New Goals	Tap Add Goal.
+
+Make following entries:
+
+<Category>, <Goal Name (Required)>, <Metric(Required)>,
+<Weight(Required)>, <Status>, <Start>
+and <Due>.
+Tap Done.	A new goal has been cre­ ated. You return to the
+<year> Goal Plan screen.
+
+
+
+Test Step #
+
+
+Test Step
+Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+4.	Maintain Exist­ ing Goal	Choose the goal which you want to edit. Tap Edit at the upper right corner and change the content for your goal then tap Done.
+You can also maintain comments to the goals for you or your subordinates by tapping Add Comments. After maintaining the comments tap Done.	The goal has been main­ tained.
+5.	Delete Existing Personal Goal (Optional)	In case you need to delete a personal goal, choose the goal which you want to delete. Tap Delete Goal at the bottom of the Goal Detail page. And choose Delete.	A personal goal has been deleted.
+
+
+
+
+Result
+
+Once the employee has completed setting their goals, the employee and manager discuss and agree on these goals. This is required in order to finalize the employee's goal plan.
+
+
+
+4.1.3	Update Goal Plan
+
+
+
+Purpose
+
+After the employee and manager have discussed and agreed on the employee’s goal plan, the employee needs to check his or her goal plan and update it if required. He or she needs to make sure that the goal plan is the final one in the system.
+If the SAP SuccessFactors Mobile application has been activated on the Employee’s mobile device as described in Activate SAP SuccessFactors Mobile Application (Optional) [page 16] section, the employee has the option to update the goal plan either on the company instance website or on the mobile device.
+
+4.1.3.1	Update Goal Plan on Company Website
+
+
+
+Purpose
+
+After the employee and manager have discussed and agreed on the employee’s goal plan, the Employee needs to check his or her goal plan and update it if required. He or she needs to make sure that the goal plan is the final one in the system.
+
+
+
+Procedure
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors company instance as Employee.	The Home page is displayed.
+2.	Access Goals
+Choose   Home   Goals   from the menu in the top left corner.	The Goals screen is displayed.
+3.	Select Goal Plan	Next to your username, choose <New copied goal plan> (for example <year> Goal Plan>) from the dropdown menu.	The <year> Goal Plan screen is displayed.
+4.	Update Goals	Update the appropriate goals if needed. Proceed as described in process step Establish Goals for Self and Team on Company Website [page 21], test steps # 4, 6, 7.
+
+
+
+Result
+
+The goal plan has been agreed upon.
+
+4.1.3.2	Update Goal Plan via Mobile Device (Optional)
+
+
+
+Purpose
+
+After the employee and manager have discussed and agreed on the employee’s goal plan, the Employee needs to check his or her goal plan and update it if required. He or she needs to make sure that the goal plan is the final one in the system.
+
+
+
+
+Procedure
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Open the SAP SuccessFactors mobile app and log on as Employee by tapping the corresponding user name in the Multi-Profile screen.	The To-Do page is displayed.
+2.	Access Goals and Select Goal Template	In the Goals tile, tap Plans at the upper right corner to choose which goal plan you want to use (for
+example <year> Goal Plan>). Tap Done.	The <year> Goal Plan screen is displayed.
+3.	Update Goals	Update the appropriate goals if needed. Proceed as described in process step Review Goal Plan and Add Individual Goals via Mobile Device (Optional) [page 27] test steps # 3, 4.
+
+
+
+
+Result
+
+The goal plan has been agreed upon.
+
+4.2	Continuous Performance Management
+
+
+
+
+Purpose
+
+The employees and their line managers engage in feedback and coaching sessions on a regular basis. Thus, potential issues are identified as soon as they occur and can be mitigated through ad-hoc improvements of the goal plans.
+The process steps to achieve this are detailed below.
+
+
+
+
+4.2.1	Maintain Activities
+
+
+
+
+Purpose
+
+The Employee creates and possibly updates activities to track the topics he or she is working on.
+If the SAP SuccessFactors Mobile application has been activated on the Employee’s mobile device as described in Activate SAP SuccessFactors Mobile Application (Optional) [page 16] section, the employee has the option to maintain the activities either on the company instance website or on the mobile device.
+These options are detailed below.
+
+
+
+
+4.2.1.1	Maintain Activities on Company Website
+
+
+
+
+Purpose
+
+The Employee maintains on the company website activities to track his or her work.
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company Instance as
+Employee.	The Home page is displayed.
+2.	Access Contin­ uous Perform­ ance module
+Choose   Home   Continuous Performance   from the menu in the top left corner.	The Continuous Performance screen is displayed. On the left part of the screen, the Active Channels are listed, namely the employees’ manager as well as direct re­ ports, if any.
+3.	Add Activity	In the My Activities with <my manager> part of the screen, choose Create Activity.	A new activity has been added. You return to the My Activities with <my manager> screen.
+By default, your activ­ ities are grouped as View by Status. You can group them as View by Goal as well, however, only the ac­ tivities that are linked to a performance goal will display.
+		In the upcoming Create Activity dialog box, enter Activity Name
+and Status.
+		If the new activity has a relationship to an existing performance goal in the default performance goal plan, choose the (arrow- down) icon next to the Performance Goal field and select the appropriate goal.
+		Then choose Save.
+		In the upcoming Success dialog box, you have the option to add another activity. Otherwise, choose Close.
+4.	Edit Activity (Optional)	If required, you can edit an existing activity by choosing the activity which you want to edit. Then choose Edit in the top right corner. In the upcoming Edit Activity dialog box, maintain the information that you want to change. Then choose Save.	The activity has been edited.
+5.	Delete Activity (Optional)	If required, you can delete an existing activity by choosing the activity which you want to delete. Then choose Delete in the top right corner. In the upcoming message dialog box confirm your choice by choosing Delete.	The activity, includ­ ing any associated achievements (if ex­ isting), has been de­
+			leted.
+
+
+
+Test Step #
+
+
+Test Step
+Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+6.	Add Update to Activity (Op­ tional)	You can add a comment to an activity. For this, choose the quick card of the appropriate activity. Add comments in the Updates text box and choose Post to save it.
+If required, you can edit the update by choosing the Pencil (Edit) icon next to the update. In the upcoming text box, update the information as applicable. Then choose Save.	An update to the ac­ tivity has been added.
+
+If required, you can delete the update. For this, choose the Trash Bin (Delete) icon next to the appropriate update, and in the upcoming dialog box choose Delete to confirm your choice.
+
+
+4.2.1.2	Maintain Activities via Mobile Device (Optional)
+
+
+
+Purpose
+
+The Employee maintains via his or her mobile device activities to track his or her work.
+If the mobile application is not enabled, this option is not available and only the procedure described in Maintain Activities on Company Website [page 31] can be executed.
+In this document, we only describe the screen elements of the iOS system. The SAP SuccessFactors Mobile application also supports the Android platform, while the Android interface might be a little bit different.
+
+
+
+
+Procedure
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Open the SAP SuccessFactors mobile app and log on as Employee by tapping the corresponding user name in the Multi-Profile screen.	The To-Do page is dis­ played.
+2.	Open Activities Page	In the My Activities tile, choose the Add icon.	The Add Activity screen is displayed.
+
+
+
+Test Step
+#	Test Step Name Instruction	Expected Result
+
+
+Pass / Fail
+
+
+3.	Add Activity	Enter activity information in Describe your activity box and choose Status.
+If applicable, link your activity to a performance goal by tapping Goal and choosing a goal on the upcoming Goals page. Make sure you are using the default performance goal plan.
+Then choose New Activity to go back to New Activity
+page.
+
+Choose Save.	A new activity has been added. You return to the My Activities screen.
+4.	Edit Activity (Optional)	If required, you can edit an existing activity. Tap the activ­ ity you want to edit and on the Activity Details screen, update the information of this activity, then choose Done to save it.	The activity has been edited.
+5.	Delete Activity (Optional)	If required, you can delete an existing activity. Tap the activity you want to delete and on the Activity Details screen, choose the ... icon. Tap Delete Activity at the top right corner of the screen and in the upcoming message dialog box choose Delete to confirm your choice.	The activity has been de­ leted.
+6.	Add Update for Activity (Op­ tional)	To add a comment to an activity, choose Add an Update at the bottom of the screen and choose the arrow icon to send the update.	The update has been added.
+
+
+4.2.2	Maintain Employee Activities
+
+
+
+
+Purpose
+
+The manager can easily track the work of his or her direct reports, by creating and monitoring activities, assigning an appropriate status to the activities, and linking the activities to performance goals.
+If the SAP SuccessFactors Mobile application has been activated on the Manager’s mobile device as described in Activate SAP SuccessFactors Mobile Application (Optional) [page 16] section, the manager has the option to maintain the activities either on the company instance website or on the mobile device.
+These options are detailed below.
+
+4.2.2.1	Maintain Employee Activities on Company Website
+
+
+
+Purpose
+
+The Manager maintains activities for a direct report on the company website.
+
+
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company In­ stance as Manager.	The Home page is displayed.
+2.	Access Contin­ uous Perform­ ance module and Choose Employee
+Choose   Home   Continuous Performance
+from the menu in the top left corner.
+
+On the upcoming Continuous Performance screen, select in the Active Channels part of the screen, the direct report for whom you want to add an activity.
+ Note
+Alternatively, you can choose on the Home page, in the Quick Actions section, the My Team card. In the upcoming My Team dialog box, select on the left side your direct report for whom you want to add an activity. The chosen employee displays in the right part of the dialog box. Choose Go To, and from the dropdown that expands choose Activities.	The Continuous Performance screen is displayed. On the left part of the screen, the Active Channels are listed, containing your direct reports and your man­ ager.
+On the right part of the screen, the Activities for <employee name> page is displayed, containing the activities defined so far for the se­ lected employee.
+
+
+
+Test Step #
+
+
+Test Step
+Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+3.	Add Activity for Employee	In the Activities for <employee name> part of the screen, choose the View by Status tab.
+Choose Create Activity.
+
+In the upcoming Create Activity dialog box, enter Activity Name and Status. If the new activity has a relationship to an existing performance goal in the default performance goal plan, choose the (arrow-down) icon next to the Performance Goal field and select the appropriate goal.
+Choose Save.
+
+In addition, you can link the activity to the default development goal.
+In the upcoming Success dialog box, you have the option to add another activity. Otherwise, choose Close.	A new activity has been added for the employee.
+4.	Review Activi­ ties of Em­ ployee	Review existing activities, which have been cre­ ated by the employee. If needed, add a comment; for this select the activity, add in the Updates text box an appropriate comment and choose Post to save it.	The existing activities of a direct report have been reviewed.
+
+
+4.2.2.2	Maintain Employee Activities via Mobile Device (Optional)
+
+
+
+
+Purpose
+
+The manager maintains activities for the direct report via his or her mobile device.
+If the mobile application is not enabled, this option is not available and only the option described in Maintain Employee Activities on Company Website [page 35] can be executed.
+In this document, we only describe the screen elements of the iOS system. The SAP SuccessFactors Mobile application also supports the Android platform, while the Android interface might be a little bit different.
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Open the SAP SuccessFactors mobile app and log on as Manager by tapping the corresponding user name in the Multi-Profile screen.	The To-Do page is displayed.
+2.	Access Activity Page	Go to the Team tab and tap the direct report for whom you want to add an activity.	The Employee Continuous Performance Management screen is displayed.
+3.	Add Activity for Employee	On the next screen, choose Activities and choose the Add icon. Enter activity information in Describe your activity box and select Status.
+If applicable, link the activity to a performance goal by choosing Goal and choosing a goal on the upcoming Goals page. Make sure you are using the default per­ formance goal plan.
+Then choose New Activity to go back to New Activity
+page.
+
+Choose Save.	A new activity has been added.
+4.	Review Activi­ ties of Em­ ployee	Review existing activities, which have been created by the employee. If appropriate, choose the activity and add a comment by choosing Add an update, then tap the Arrow icon to send the update.	The existing activities of a direct report have been re­ viewed.
+
+
+4.2.3	Request Feedback on Activities
+
+
+
+Purpose
+
+The Request Feedback feature allows employees to gather feedback on their activities from stakeholders. A stakeholder can be any other employee within the organization.
+If the SAP SuccessFactors Mobile application has been activated on the Employee’s mobile device as described in section Activate SAP SuccessFactors Mobile Application (Optional) [page 16], the employee has the option to request feedback either on the company instance website or on the mobile device.
+These options are detailed below.
+
+4.2.3.1	Request Feedback on Activities on Company Website
+
+
+
+Purpose
+
+The Employee requests via the company website feedback from stakeholders on his or her activities.
+
+
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors company instance as Employee.	The Home page is displayed.
+2.	Access Contin­ uous Perform­ ance module
+Choose   Home   Continuous Performance   from the menu in the top left corner.	The Continuous Performance screen is displayed.
+3.	Request Feed­ back on Activi­ ties	On the My Activities with <manager name> page, choose an activity for which you want to request feedback. On the upcom­ ing Activities / Activity Details / <activity name> page, choose Request Feedback at the top right corner of the screen. In the upcoming Request Feedback dialog box, write the stakeholder’s name in the Select People text box.
+In the Enter a topic and at least one question section that dis­ plays, enter a text in the Feedback Topic text box to explain your request for feedback. Then choose Send.
+On the upcoming success dialog box, choose OK.	The request for feed­ back to an activity has been sent.
+An appropriate email is sent out to the person from whom feedback has been requested.
+ Note
+In case you re­ quest feedback from the same person for dif­ ferent activities, that person will receive for each feedback re­ quest a separate email.
+
+4.2.3.2	Request Feedback on Activities via Mobile Device (Optional)
+
+
+
+Purpose
+
+The Employee requests, via his or her mobile device, feedback from stakeholders on his or her activities.
+If the mobile application is not enabled, this option is not available and only the option described in Request Feedback on Activities on Company Website [page 38] can be executed.
+In this document, we only describe the screen elements of the iOS system. The SAP SuccessFactors Mobile application also supports the Android platform, while the Android interface might be a little bit different.
+
+
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Open the SAP SuccessFactors mobile app and log on as Employee by tapping the corresponding user name in the Multi-Profile screen.	The To-Do page is displayed.
+2.	Request Feedback	In the More tile, tap Feedback. On the Feedback view, tap Request Feedback and tap the Pen icon at the top right corner of the screen, then tap Request Feedback to confirm your choice. Under the Send a feedback request to your selected colleagues field, select one or more stakeholder, and tap Next. Enter a text and tap Send.	The request for feed­ back has been sent.
+
+4.2.4	Provide Feedback on Activities
+
+
+
+Purpose
+
+The stakeholder, which basically can be any other employee within the organization, has received the feedback request sent by the employee. He or she provides the feedback to the employee’s activities.
+If the SAP SuccessFactors Mobile application has been activated on the Stakeholder’s mobile device as described in Activate SAP SuccessFactors Mobile Application (Optional) [page 16]section , each employee
+
+within the organization has the option to provide feedback on activities of a particular employee either on the company instance website or on the mobile device.
+These options are detailed below.
+
+
+
+4.2.4.1	Provide Feedback on Activities on Company Website
+
+
+
+Purpose
+
+The stakeholder provides via the company website feedback to the employee’s activities.
+
+
+
+Procedure
+
+
+Test Step #	Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors company instance as Stakeholder.	The Home page is displayed.
+2.	Access Feed­ back Re­ quest	On the Home page, choose the You have # to-do items alert icon from the top right corner of the screen. In the upcoming To-Do List side panel, choose the Feedback Requests row.	The Feedback Requests dialog box is dis­ played, containing the request for feed­ back sent by the employee.
+ Note
+In case you have received feedback requests from several employees, or an employee has sent feedback requests for different activities, the Feedback Requests dialog box con­ tains the list of requests.
+
+
+
+Test Step #
+
+Test Step
+Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+3.	Pro­ vide Feed­ back	In the Feedback Requests dialog box, choose View Request. In the upcoming Requested Feedback dia­ log box, enter in the text box of each question your feedback as appropriate. Then choose Send. In the upcoming success dialog box, choose OK.
+ Note
+You can also decline the feedback, by choosing Decline in the Requested Feedback dialog box. Then, choose in the upcoming Warning dialog box, Confirm.
+
+ Note
+In case you have received several feedback re­ quests, proceed in a similar way as described above.
+
+t	The feedback has been sent. You return o the Home page. The feedback is im­ mediately visible for the requesting em­ ployee. In addition, the requesting em­ ployee receives an appropriate email no­ tification about the existence of feed­ back.
+ Note
+In case you have received several feedback requests, you return to the Feedback Requests dialog box, in which the number of requests has been reduced by one.
+
+ Note
+In case you have received several feedback requests from the same employee, separate emails will be sent out to that employee for each feedback you have provided.
+
+
+4.2.4.2	Provide Feedback via Mobile Device (Optional)
+
+
+
+Purpose
+
+The stakeholder provides, via his or her mobile device, feedback to the employee’s activities.
+If the mobile application is not enabled, this option is not available and only option described in Provide Feedback on Activities on Company Website [page 40] can be executed.
+In this document, we only describe the screen elements of the iOS system.The SAP SuccessFactors Mobile
+application also supports the Android platform, while the Android interface might be a little bit different.
+
+Procedure
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Open the SAP SuccessFactors mobile app and log on as Stakeholder by tapping
+the corresponding user name in the Multi- Profile screen.	The To-Do page is displayed.
+2.	Access Write Feed­ back Page	Go to the To-Do tab and tap Provide Feedback.	The Write Feedback screen is dis­ played.
+3.	Provide Feedback	Write your feedback in the Write your feedback blank box on the bottom of screen and tap Send on the top right corner.	The feedback has been sent. You return to the To-Do page. The feed­ back is immediately visible for the requesting employee and his or her manager.
+
+
+4.2.5	View Feedback on Activities
+
+
+
+Purpose
+
+The employee has received upon request feedback from stakeholders to his or her activities so far. The Employee now checks this feedback.
+If the SAP SuccessFactors Mobile application has been activated on the Employee’s mobile device as described in Activate SAP SuccessFactors Mobile Application (Optional) [page 16] section, the employee has the option to view this feedback either on the company instance website or on the mobile device.
+These options are detailed below.
+
+4.2.5.1	View Feedback on Activities on Company Website
+
+
+
+Purpose
+
+The Employee checks on the company website the feedback from the stakeholders about his or her activities so far.
+
+
+
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company Instance as
+Employee.	The Home page is dis­ played.
+2.	Access Feed­ back Page	You have several options to access the Feedback page:
+
+Option 1: Choose   Home   Continuous Feedback
+from the menu in the top left corner.
+
+Option 2: Choose   Home   Continuous
+Performance   from the menu in the top left corner. On the My Activities with <manager name> page, choose the activity for which you have requested feedback.
+On the upcoming Activities / Activity Details / <activity name> page, choose the View Feedback Received (#) link below the Feedback Received field.
+The   Feedback page
+  Feedback Received   tab is displayed, on which each feedback you have received so far is displayed in an own quick card.
+3.	View Activity Feedback	On the Feedback Received tab, choose in the quick card of interest the View more link.	The Feedback Details page is displayed.
+		View the detailed feedback.
+
+If wanted, you can make the feedback visible to your manager, by moving the slide button to Yes.	The feedback provided by the stakeholder has been reviewed.
+
+
+
+
+4.2.5.2	View Feedback on Activities via Mobile Device (Optional)
+
+
+
+Purpose
+
+The Employee checks on his or her mobile device the feedback from the stakeholders about his or her activities so far.
+If the mobile application is not enabled, this option is not available and only option described in View Feedback on Activities on Company Website [page 43] can be executed.
+In this document, we only describe the screen elements of the iOS system. The SAP SuccessFactors Mobile application also supports the Android platform, while the Android interface might be a little bit different.
+
+
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Open the SAP SuccessFactors mobile app and log on as Stake­ holder by tapping the corresponding user name in the Multi- Profile screen.	The To-Do page is displayed.
+2	Access Write Feedback Page	Go to the More tab and tap Feedback.	The Feedback screen is dis­ played.
+3.	View Feedback	Tap the <employee name> under Received Feedback to check the feedback.	The feedback has been displayed.
+
+4.2.6	Prepare 1:1 Meeting
+
+
+
+Purpose
+
+The Employee prepares some topics to talk with his or her manager during their next 1:1 meeting. This might be needed, for example, because the Employee needs support in completing activities.
+Also, the Manager can prepare topics he or she wants to discuss with the employee.
+If the SAP SuccessFactors Mobile application has been activated on the mobile devices of all employees as described in Activate SAP SuccessFactors Mobile Application (Optional) [page 16] section , they have the option to add topics to be discussed in the meeting either on the companyinstance website or on the mobile device.
+These options are detailed below.
+
+
+
+4.2.6.1	Prepare 1:1 Meeting on Company Website
+
+
+
+Purpose
+
+The Employee and possibly his or her Manager add on the company website the topics to be discussed during the next 1:1 meeting.
+
+
+
+
+Procedure
+
+
+Test Step #	Test Step Name	Instruction	Expected Result	Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company In­ stance as Employee or as Manager.	The Home page is dis­ played.
+
+
+Test Step # Test Step Name	Instruction	Expected Result	Pass / Fail
+
+2.	Access Continu­ ous Performance module
+Choose   Home   Continuous Performance
+from the menu in the top left corner.	The Continuous Performance screen is displayed. On the left part of the screen, the Active Channels are listed.
+3.	Add Topics to be Discussed in Meeting	As an Employee, choose in the top right corner of the My Activities with <manager name> part of the screen, Start Meeting. In the upcoming Meeting with <manager name> on <date> page, enter topics for the meeting in the Discussion Topics text box and choose Add.
+As the employee’s Manager, select in the Active Channels part of the screen the name of the direct report, with whom you want to schedule a meeting. Choose in the top right corner of
+the Activities for <employee name> part of the screen, Start Meeting. In the upcoming Meeting with < employee name> on <date> page, enter topics for the meeting in the Discussion Topics text box and choose Add.	Topics to be discussed in the next 1:1 meeting have been added.
+
+
+
+
+4.2.6.2	Prepare 1:1 Meeting via Mobile Device (Optional)
+
+
+
+Purpose
+
+The Employee and possibly his or her Manager can add via the mobile device topics to be discussed during the next 1:1 meeting.
+If the mobile application is not enabled, this option is not available and only the option described in Prepare 1:1 Meeting on Company Website [page 45] can be executed.
+In this document, we only describe the screen elements of the iOS system. The SAP SuccessFactors Mobile application also supports the Android platform, while the Android interface might be a little bit different.
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Open the SAP SuccessFactors mobile app and log on as Employee by tapping the corresponding user name in the Multi- Profile screen.	The To-Do page is dis­ played.
+2.	Add Topics to be Dis­ cussed in Meeting	In the My Activities tile, tap the three dot icon and choose Start Meeting.
+In the upcoming Meeting with <manager name> page, tap Discussion Topics and enter topics for the meeting by tapping Create Topic. Choose Done to save the topic.	The topic has been chosen.
+
+
+4.2.7	Conduct 1:1 Meeting (Process Step Outside Software)
+
+
+
+Purpose
+
+The manager and employee have a 1:1 meeting to communicate with each other about the topic(s) prepared in process step Prepare 1:1 Meeting [page 45] by the employee and manager, respectively.
+
+
+
+Procedure
+
+This process step is executed outside of the software.
+
+
+
+4.2.8	Capture 1:1 Meeting
+
+
+
+Purpose
+
+Once the 1:1 meeting between the employee and his or her manager has been completed, the employee confirms that the topics have been discussed during the meeting and archives the meeting.
+
+All meetings should be captured in the system; if at any time in the future the content of the meeting or the points of discussion need to be revisited, this can be easily done. Continuous Performance Management [page 31] takes a snapshot of the content from the meeting as it appeared during the discussion. Capturing the meeting also confirms that the meeting occurred.
+If the SAP SuccessFactors Mobile application has been activated on the Employee’s mobile devices as described in Activate SAP SuccessFactors Mobile Application (Optional) [page 16] section , they have the option to confirm the meeting either on the company instance website or on the mobile device.
+These options are detailed below.
+
+
+
+4.2.8.1	Capture 1:1 Meeting on Company Website
+
+
+
+
+Purpose
+
+The Employee confirms on the company website the topics discussed during a particular 1:1 meeting and archives that meeting.
+
+
+
+
+Procedure
+
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors company instance as
+Employee.	The Home page is displayed.
+2.	Access Con­ tinuous Per­ formance module
+Choose   Home   Continuous Performance   from the menu in the top left corner.	The Continuous Performance screen is displayed. On the left part of the screen, the Ac­ tive Channels are listed.
+
+
+
+Test Step #
+
+
+Test Step
+Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+3.	Select Meeting	In the My Activities with <manager name> part of the screen, choose Start Meeting in the top right corner.
+In the upcoming Meeting with <manager name> on
+<date> page, the topics prepared for the meeting are listed.
+4.	Confirm Discussed Topics	Flag the check box ahead of the topics that have been discussed during the 1:1 meeting.	The topic is strikethrough and the success message Discussion topic
+closed is issued by the sys­ tem.
+5.	Complete Meeting	Choose Save and Finish. In the upcoming Save to Meeting History? dialog box, you are informed that upon saving, the meeting will be archived and cannot be edited any­ more.
+Choose Save.	The 1:1 meeting has been completed and has been moved to Meeting History.
+
+
+
+4.2.8.2	Capture 1:1 Meeting via Mobile Device (Optional)
+
+
+
+
+Purpose
+
+The Employee confirms the topics discussed during a particular 1:1 meeting and archives that meeting via the mobile device.
+If the mobile application is not enabled, this option is not available and only the option described in Capture 1:1 Meeting on Company Website [page 48] can be executed.
+In this document, we only describe the screen elements of the iOS system. The SAP SuccessFactors Mobile
+application also supports the Android platform, while the Android interface might be a little bit different.
+
+Procedure
+
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Open the SAP SuccessFactors mobile app and log on as Em­ ployee by tapping the corresponding user name in the Multi- Profile screen.	The To-Do page is dis­ played.
+2.	Select Meeting	In the My Activities tile, tap the three dot icon and choose Start Meeting a topic you need to confirm.	The topic has been chosen.
+3.	Save and Finish Meet­ ing	In the upcoming Meeting with <manager name> page, tap the Discussion Topics and flag the check box ahead of the topic name to close the topic. Then tap Meeting to go back to the Meeting page.
+Tap the three dot icon and choose Save and Finish. In the upcom­ ing Save to Meeting History message box, tap Save to confirm it.	The topic has been confirmed.
+
+
+
+4.2.9	Maintain Achievements
+
+
+
+
+Purpose
+
+The Employee captures his or her achievements in real-time. For this, the employee uses the Achievements view, which lets him or her quickly and easily capture the things achieved at the workplace and link them with relevant activities.
+If the SAP SuccessFactors Mobile application has been activated on the Employee’s mobile device as described in Activate SAP SuccessFactors Mobile Application (Optional) [page 16] section , the employee has the option to maintain the achievements either on the company instance website or on the mobile device.
+These options are detailed below.
+
+4.2.9.1	Maintain Achievements on Company Website
+
+
+
+
+Purpose
+
+The Employee maintains on the company website the achievements reached so far.
+
+
+
+
+Procedure
+
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company Instance as Employee.	The Home page is displayed.
+2.	Access Contin­ uous Perform­ ance module
+Choose   Home   Continuous Performance   from the menu in the top left corner.
+The   Continuous
+Performance   My Activities with
+			<manager name>
+screen is displayed.
+On the left part of
+the screen, the Active Channels are listed.
+3.	Add Achieve­ ment to Activ­ ity	Choose the activity which you have achieved.
+
+On the Activities/Activity Details / <activity> page, choose Edit
+at the top right corner of the screen.
+In the upcoming Edit Activity dialog box, set the Status to Completed, and flag the Mark as an achievement checkbox. Set the Achieved On date as appropriate. Then choose Save.	A new achievement has been added.
+The activity has moved to the Status > Completed tile.
+		In the upcoming Success message box, choose OK.
+4.	View Achieve­ ment	On the My Activities with <manager name> page, choose
+Achievements in the top right corner of the screen.	The Achievements page is displayed, containing all your achievements so far.
+		Select the achievement and view details.
+
+4.2.9.2	Maintain Achievements via Mobile Device (Optional)
+
+
+
+Purpose
+
+Employee maintains, via his or her mobile device, the achievements reached so far.
+If the mobile application is not enabled, this option is not available and only the option described in Maintain Achievements on Company Website [page 51] can be executed.
+In this document, we only describe the screen elements of the iOS system. The SAP SuccessFactors Mobile application also supports the Android platform, while the Android interface might be a little bit different.
+
+
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Open the SAP SuccessFactors mobile app and log on as Employee by tapping the corresponding user name in the Multi- Profile screen.	The To-Do page is displayed.
+2.	Maintain Achieve­ ments	Tap the Status and choose Completed, then turn Mark as an Achievement on. Tap Activity Details to go back to the Activity Details page.	The new achieve­ ment has been added.
+
+4.2.10	Maintain Employee Achievements
+
+
+
+Purpose
+
+The manager can review the achievements a direct report has reached so far in his or her work. The achievements have been maintained by the employee him-/herself firstly.
+If the SAP SuccessFactors Mobile application has been activated on the Manager’s mobile device as described in Activate SAP SuccessFactors Mobile Application (Optional) [page 16] section, the manager has the option to maintain achievements either on the company instance website or on the mobile device.
+These options are detailed below.
+
+4.2.10.1	Maintain Employee Achievements on Company Website
+
+
+
+Purpose
+
+The manager reviews on the company website achievements of a direct report.
+
+
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company Instance as Manager.	The Home page is displayed.
+2.	Access Contin­ uous Perform­ ance module
+Choose   Home   Continuous Performance   from the menu in the top left corner. On the up­ coming Continuous Performance screen, select in the Active Channels part of the screen, the direct report whose achievements you want to view.
+ Note
+Alternatively, you can choose on the Home page, in the Quick Actions section, the My Team card. In the upcoming My Team dialog box, select on the left side your direct report for whom you want to review the achieve­ ment. The chosen employee displays in the right part of the dialog box. Choose Go To, and from the dropdown that expands choose Activities.	The Continuous Performance screen is displayed. On the left part of the screen, the Active Channels are listed. On the right part of the screen, the Activities for <employee name> page is displayed, containing the activi­ ties defined for the selected em­ ployee. The already completed activities are displayed in the View by Status tab > Status / Completed (#) tile.
+
+
+
+Test Step #
+
+
+Test Step
+Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+3.	Review Ach­ ievements of Employee	In the top right corner of the Activities for
+<employee name> page, choose Achievements.
+
+Choose the appropriate achievement quick card and review the achievements of the employee.
+ Note
+You can edit or delete any achievement from the employee’s list. To edit an achieve­ ment, choose Edit. In the upcoming Edit Achievement dialog box, maintain the infor­
+mation that you want to change. Then choose Save. To delete an achievement, choose Delete and in the upcoming message dialog box, choose again Delete.	The achievements reached so far by the direct report have been re­ viewed.
+
+
+4.2.10.2	Maintain Employee Achievements via Mobile Device (Optional)
+
+
+
+Purpose
+
+The manager reviews the achievements of a direct report via his or her mobile device.
+
+In this document, we only describe the screen elements of the iOS system. The SAP SuccessFactors Mobile application also supports the Android platform, while the Android interface might be a little bit different.
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Open the SAP SuccessFactors mobile app and log on as Manager by tapping the corresponding user name in the Multi-Profile screen.	The To-Do page is displayed.
+2.	Access Activity Page	Go to the Team tab and tap the direct report whose achievements you want to view.	The Employee Continuous Performance Management screen is displayed.
+3.	Maintain Ach­ ievements for Employee	On the next screen, tap Activities and choose the activity which you want to maintain the achievement.
+Tap Status and choose Completed, then turn Mark as an Achievement on. Tap Activity Details to go back to the Activity Details page.	A new achievement has been maintained.
+
+
+4.2.11	Update Goal Plan (Optional)
+
+
+
+Purpose
+
+If during the continuous performance review process, changes or improvements of the employee’s goals arise, the Employee needs to update the own goal plan.
+
+
+
+Procedure
+
+Execute the appropriate steps as described in process step Update Goal Plan [page 28].
+
+4.3	Performance Management
+
+
+
+Purpose
+
+At the end of the performance cycle, the employees summarize their performance by means of self- assessment on their goal achievements and competencies. The line managers also review the employees’ goal achievements and competencies and provide performance ratings. In a calibration session with the HR Business Partner and the Next Level Manager, the employees’ ratings are calibrated, after which the line manager engages in review discussions with each of his or her direct reports.
+The process steps to achieve this are detailed below.
+
+
+
+
+4.3.1	Launch Performance Review Forms
+
+
+
+Purpose
+
+The Talent Administrator schedules the mass form launch of performance review forms for the entire organization or individual employees.
+
+
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company Instance as
+Talent Administrator.	The Home page is displayed.
+2.	Access Admin Center
+Choose   Home   Admin Center   from the menu in the top left corner.	The Admin Center screen is displayed.
+3.	Access Launch Forms	Type Launch Forms in the tool search box within the Tools card and select the feature/tool from the list.	The Launch Forms dialog box is displayed.
+
+
+
+Test Step #
+
+
+Test Step
+Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+4.	Select Form Template	In the Launch Forms dialog box make following en­ tries:
+Type: Performance Management
+Form Template: select from the dropdown list the performance review form template you have created in preliminary step Create Performance Review Tem­ plate [page 11].
+Choose Next.	You are directed to the Launch Date tab.
+5.	Select Launch Date	On the Launch Date tab, choose the date on which the forms should be launched. Then choose Next.	You are directed to the Review Period tab.
+6.	Define Review Period	On the Review Period tab, choose the period for per­ formance review. Then choose Next.	You are directed to the Select Employees tab.
+7.	Select Employ­ ees	On the Select Employees tab, select employees for whom the performance review should be executed: you can choose to select all active employees, select employees by name, or select group of employees.
+Then choose Next.	You are directed to the
+Summary tab.
+8.	Launch Form	On the Summary tab, check the selections you have made and make changes if necessary, and then choose Launch. In the upcoming dialog box, confirm the displayed message by choosing OK.	You are directed to the Done tab, having a message show­ ing the launching status, like
+Form(s) creation is in progress.
+Forms have been scheduled or launched.
+9.	Confirm Launching Sta­ tus	In the Done tab, choose Close.	The Performance Review form has been created for the em­ ployee and can be found by the same on his or her Home page.
+
+
+Result
+
+After having received the notification about the start of the performance review cycle, the manager schedules meetings with the employees to discuss and agree on stakeholders to be involved for feedback.
+
+4.3.2	Request Performance Feedback (Optional)
+
+
+
+Purpose
+
+The Manager can ask raters to give feedback on the performance of his or her direct report(s).
+
+
+
+Procedure
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company Instance as Manager.	The Home page is dis­ played.
+2.	Access Perform­ ance module
+Choose   Home   Performance   from the menu in the top left corner.	The My Forms screen is dis­ played.
+3.	Ask for Feedback from Raters	Choose the Team Overview tab.
+
+On the Team Overview screen, choose in the Feedback from Others column, next to the employ­ ee’s name for whom you want to request feedback, Ask for Feedback.
+In the upcoming Ask for Feedback about
+<employee name> dialog box, you can either select a rater from the recommended list or enter in the Add existing employee search box, the names of the internal raters and select them.
+Then choose Send email to notice the raters to give feedback on the employee’s performance.	The email notifications about the requested feed­ back on the employee’s per­ formance are sent to raters. An appropriate icon is dis­ played in the Feedback from Others column, next to the employee’s name.
+
+4.3.3	Provide Feedback on Employee Performance (Optional) (Process Step Outside Software)
+
+
+
+
+Purpose
+
+The Rater has received an email notification, in which he or she is asked to provide feedback on the employee’s performance. The rater can give feedback directly via email.
+
+
+
+
+Procedure
+
+Access your Email account, select the appropriate email having as subject something like Performance Feedback request for <employee name>, and reply to it giving your feedback on the employee’s performance.
+
+
+
+
+Result
+
+Your feedback will be visible for the manager in the company instance.
+
+
+
+
+4.3.4	Review Feedback on Employee Performance (Optional)
+
+
+
+
+Purpose
+
+The Manager can check the feedback provided by the raters on the employee’s performance. The manager can take this as a reference for the final performance evaluation.
+
+Procedure
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors company instance as
+Manager.	The Home page is dis­ played.
+2.	Access Performance module
+Choose   Home   Performance   from the menu in the top left corner.	The My Forms screen is displayed.
+3.	Review Feedback from Raters	PProceed with one of the following options:
+
+Option 1: Choose the Team Overview tab.
+
+On the Team Overview screen, choose in the Feedback from Others column next to the employee’s name
+the <rater name> has provided feedback icon. The Feedback about <employee name> dialog box is dis­ played, where you can review the feedback provided by the rater. When done, choose X (Close).
+Option 2: Choose the Reviews tab.
+
+Go to the Inbox and choose in the Form Title col­ umn the appropriate <year> Performance Review for <employee name> hyperlink. On the appropriate
+form, choose the Supporting box in the top right cor­ ner of the screen. The Supporting dialog box is dis­ played and you can review the feedback provided by the rater(s). When done, choose X (Close).	The feedback from raters on the employee’s performance have been reviewed.
+
+
+4.3.5	Perform Self-Assessment
+
+
+
+Purpose
+
+The Employee performs the self-assessment of his or her performance.
+
+Procedure
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors company instance as
+Employee.	The Home page is dis­ played.
+2.	Access Perform­ ance Review Form	You can access the form as follows:
+
+Option 1: Choose   Home   Performance   from the menu on the top left corner. On the My Forms screen, go to the Inbox and choose in the Form Title col­
+umn the appropriate <year> Performance Review for
+<employee name> hyperlink.
+Option 2: On the Home page, choose in the For You Today section, the   Review Your Performance   Employee Self Evaluation   card.	Your performance review form is displayed.
+3.	Perform Self-Evalu­ ation	Select ratings and, if appropriate, add comments for each goal and competency.
+ Note
+Make sure the weight of total goals is added up to 100%. Otherwise, the form will not progress to the next step.
+
+When done, choose the Send to Manager.
+
+On the next screen, enter a comment in the Email Notification Comments text box if appropriate, and then choose Send to Manager to confirm.	You have performed your self-assessment. The form has been sent to your manager. Your manager receives an ap­ propriate email notifica­ tion about the form be­ ing now in his or her in­ box.
+The form has disap­ peared from your inbox;
+it is now in the   In
+Progress   En Route
+folder.
+
+
+4.3.6	Rate and Compare Employees Competencies (Optional)
+
+
+
+Purpose
+
+Stack ranker allows the Manager to compare and rate the competencies of all his or her subordinated employees in one page.
+
+The main purpose of Stack Ranker is helping managers rate and comment their subordinated employees easier, but the manager does not necessarily need to use it. Normally stack ranker can be used for core competencies only and not for goals, job­specific and custom competencies, as these depend on the various roles of the individual persons.
+
+
+
+
+Prerequisites
+
+To use stack ranker for multiple employees, the performance review forms of these employees, containing their self-assessment, must be available in the manager’s form inbox.
+
+
+
+
+Procedure
+
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors instance as
+Manager.	The SAP SuccessFactors
+Home page is displayed.
+2.	Access Performance Review Form	You can access the form as follows:
+
+Option 1: Choose   Home   Performance   from the menu in the top left corner. On the My Forms screen, go to the Inbox and choose
+in the Form Title column the appropriate <year> Performance Review for <employee name> hyper­ link.
+Option 2: On the Home page, choose in the For You Today section, the Review Employee Performance > Manager Review card.
+ Note
+In case the View All link displays on the Review Employee Performance card, it means, that you must perform tasks, which fall into this category, for several employees. Choose the View All link. In the upcoming Review Employee Performance (#) dialog box, choose the Manager Review card for the appropriate employee.	The performance review form for the selected em­ ployee is displayed.
+
+
+
+Test Step
+#	Test Step Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+3.	Access Team Rater	Choose the Team Overview tab. In the top left corner of the screen, select the appropri­
+ate <Performance Template>, and then choose Team Rater in the top right corner of the screen.	The Performance Review Template > Core Competencies screen is dis­ played.
+4.	Rate or Comment Employees’ Compe­ tencies	Select the rating for employee’s competencies or add some comments. When finished, choose I’m Done.	You have rated or com­ mented on the competen­ cies of your direct reports. You return to the Team Overview > <Performance Review Template> screen.
+
+
+4.3.7	Perform Employee Review
+
+
+
+Purpose
+
+The Manager officially rates the performance of the direct reports.
+Official rating means that the employee’s self-rating does not affect the final score, but it is only a reference to the manager. The rating performed by the manager gives the final score of the employee’s performance.
+
+
+
+Procedure
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors company instance as
+Manager.	The Home page is dis­ played.
+
+
+
+Test Step
+#	Test Step Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+2.	Access Perform­ ance Review Form	You can access the form as follows:
+
+Option 1: Choose   Home   Performance   from the menu in the top left corner. On the My Forms screen, go to the Inbox and choose in the Form Title col­
+umn the appropriate <year> Performance Review for
+<employee name> hyperlink.
+
+Option 2: On the Home page, choose in the For You Today section, the Review Employee Performance > Manager Review card.
+ Note
+In case the View All link displays on the Review Employee Performance card, it means, that you must perform tasks, which fall into this category, for several employees. Choose the View All link. In the upcoming Review Employee Performance (#) dialog box, choose the Manager Review card for the appropriate employee.	The performance review form for this employee is displayed.
+In case you have used the stack ranker as described in the previ­ ous process step Rate and Compare Employees Competencies (Optional) [page 61], the ratings of the core competencies have been taken over to the performance review form.
+
+3.	Evaluate Employ­ ee’s Performance	Select ratings and, if appropriate, add comments for each goal and competency. In the Summary section, enter a value for the Overall Performance Rating.
+When done, choose Send to Calibration. On the next screen, enter a comment in the Email Notification Comments text box if appropriate, and then choose Send to Calibration to confirm.	The evaluation of the employee’s performance has been done. The
+form is sent to the HR Business Partner. The HR Business Partner re­ ceives an appropriate email notification about the form being now in his or her inbox.
+The form has disap­ peared from your in­ box; it is now in the
+  In Progress   En
+Route   folder at step
+Calibration.
+
+4.3.8	Plan Calibration Session
+
+
+
+Purpose
+
+The Talent Administrator plans the calibration session, which defines the basic information of the calibration process.
+
+
+
+Prerequisites
+
+The forms of all subjects participating at calibration must be in step Calibration in the route map.
+
+
+
+Procedure
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors company instance as Talent Administrator.	The Home page is dis­ played.
+2.	Access Admin Center
+Choose   Home   Admin Center   from the menu on the top left corner.	The Admin Center is dis­ played.
+3.	Access Calibra­ tion Session screen	Type Manage Calibration Sessions in the tool search box within the Tools card and select the feature/tool from the list	The Manage Calibration Sessions screen is dis­ played.
+
+
+
+Test Step #
+
+
+Test Step
+Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+4.	Create Calibra­ tion Session	Choose Create New. On the upcoming screen make follow­ ing entries:
+On the Basic Info tab:
+•	Template: <Calibration Template>
+•	Session Name: <Calibration Session name>
+•	Session Owners: <name of HR Business Partner>
+•	Session Facilitators: <name of HR Business Partner>
+On the People tab:
+
+Use Search on the left side of the screen to select people. In the Search Results table in the middle of the screen, flag the checkbox next to the relevant person and choose Actions to add people into participants or subjects roles.
+ Note
+The Subject is the employee being calibrated, whereas the Participant is the person performing the calibra­ tion, such as manager and second level manager.
+
+Choose Save.
+
+Choose the Validation tab. The validation of the calibration session is triggered.
+If the validation is successful, choose Activate. In the
+Activate dialog box, choose Yes to confirm.	The Session Activated di­ alog box is displayed, in­ forming you that the cali­ bration session has been activated successfully.
+5.	Send Notifica­ tion about Cali­ bration Ses­ sion Activation (Optional)	Option 1: In case an email notification about the session activation should be sent out to the session owner, session facilitators, and participants, leave the Send notification about session activation checkbox flagged. Check that all persons, to whom you want to send the notification, are listed in the Send to text box. The Email Subject and Message text are suggested; accept them or adapt them as appropriate.
+Choose OK.
+
+Option 2: In case no email notifications should be sent out, unflag the Send notification about session activation checkbox and choose OK.	The Session Activated di­ alog box is displayed.
+
+
+
+Test Step #
+
+
+Test Step
+Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+6.	Close Dialog Box	Choose OK to close the Session Activated dialog box.	You return to the Manage Calibration Sessions screen. The newly created calibration ses­
+sion has status In Progress.
+
+
+4.3.9	Conduct Performance Calibration
+
+
+
+
+Purpose
+
+The HR Business Partner calibrates the employee’s performance rating. This is done during a meeting with the line manager and next level manager of the employee, in which they discuss the performance score for the employee and give the final score about the employee's performance.
+
+
+
+
+Prerequisites
+
+The forms of all subjects participating at calibration must be in step Calibration in the route map.
+
+
+
+
+Procedure
+
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company Instance as
+HR Business Partner.	The Home page is dis­ played.
+
+
+
+Test Step
+#	Test Step Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+2.	Access Calibration Session	You can access the calibration session as follows:
+
+Option 1: Choose   Home   Calibration   from the menu in the top left corner. On the Calibration screen, choose from the Sessions (#) table the
+<Calibration Session name> hyperlink (the one cre­ ated in process step Plan Calibration Session [page 65].
+Option 2: On the Home page, chose in the For You Today section, choose the Complete Calibration /
+<Calibration Session name > card.	The Session List / Calibration Session name screen is displayed.
+3.	Calibrate Employee Performance Data
+The   Session List   <Calibration Session name>
+screen has multiple tabs to view the relevant data.
+
+Choose the LIST VIEW tab. Rate the potential and performance of the employee by selecting an appro­ priate value from the dropdown list.
+Choose Save.	The employee’s perform­ ance data has been cali­ brated. The read-only value in the Calibration column is calculated based on the selected ratings and the employee is moved automatically
+into the updated ranking
+in the performance ma­ trix view (CALIBRATION tab).
+		For each employee, whose performance has been discussed during the calibration meeting, flag the checkbox on the very left of the employee’s photo,
+		and choose Actions on the top right above the LIST
+		VIEW table. From the dropdown menu, which ex­
+		pands, select Mark as Discussed.
+		 Note
+
+		The value in the Discussed column is set auto­
+		matically to Yes.
+		Then choose Save.
+
+
+
+Test Step
+#	Test Step Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+4.	Finalize Calibration Process	Once the performance of all employees has been dis­ cussed, choose Finalize.
+In the upcoming Finalize Session dialog box, choose
+Yes.
+
+In the Session Finalized dialog box, you can choose to send email notifications about the session final­ ization to the session owner, session facilitators, and participants. For this, leave the Send notification about session finalization checkbox flagged. Check that all persons, to whom you want to send the notification are listed in the Send to text box. The Email Subject and Message text are suggested; ac­ cept them or adapt them as appropriate.
+Choose OK.
+
+In the upcoming Success dialog box, choose OK to confirm.
+ Note
+In case no email notifications should be sent out, unflag the Send notification about session finalization checkbox and choose OK.	You return to
+the   Session List
+  <Calibration Session
+name>   page, on which no editing is possible anymore. The calibration process has been final­ ized.
+The form has been sent to the employee’s man­ ager for finalizing it prior to communication to the employee. The manager receives an appropriate email notification.
+
+
+4.3.10	Finalize Performance Review
+
+
+
+Purpose
+
+The Manager finalizes the performance review of the employee prior communicating the decision to the employee.
+
+Procedure
+
+
+Test Step #	Test Step Name
+Instruction
+Expected Result	Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors company instance as Manager.	The Home page is displayed.
+2.	Access Per­ formance Re­ view Form	You can access the form as follows:
+
+Option 1: Choose   Home   Performance   from the menu in the top left corner. On the My Forms screen, go to the Inbox and choose in the Form Title column the appropriate <year> Performance Review for <employee name> hyperlink.
+Option 2: On the Home page, choose in the For You Today section, the Review Employee Performance > Performance Review Discussion card.
+ Note
+In case the View All link displays on the Review Employee Performance card, it means, that you must perform tasks, which fall into this category, for several employees. Choose the View All link. In the upcoming Review Employee Performance (#) dialog box, choose the Performance Review Discussion card for the appropriate employee.	The performance review form for the selected employee is displayed.
+
+3.	Complete Year-End Re­ view	On the form, finalize the comments and choose Send to Employee on the bottom of the screen. On the new screen, enter a comment in the Email Notification Comments text box if appropriate, then choose Send to Employee to confirm.	The manager has finalized the performance review of the di­ rect report and will commu­ nicate this result to the em­ ployee.
+The form is sent to the em­ ployee. The employee receives an appropriate email notifica­ tion about the form being now in his or her inbox for signing.
+The form has disappeared from your inbox; it is now
+in the   In Progress
+  En Route   folder at step
+Employee Signature.
+
+4.3.11	Discuss Year-End Performance Review (Process Step Outside Software)
+
+
+
+
+Purpose
+
+The Manager organizes a 1: 1 meeting with the employee to discuss the final performance result.
+
+
+
+
+Procedure
+
+This process step is executed outside of the software.
+
+
+
+
+4.3.12	Sign Off Year-End Review
+
+
+
+
+Purpose
+
+After the year-end review meeting with the manager has taken place, the Employee signs his or her performance review form.
+
+
+
+
+Procedure
+
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to the SAP SuccessFactors company in­ stance as Employee.	The Home page is dis­ played.
+
+
+
+Test Step
+#	Test Step Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+2.	Access Performance Review Form	You can access the form as follows:
+
+Option 1: Choose   Home   Performance   from the menu on the top left corner. On the My Forms screen, go to the Inbox and choose in the Form Title column the appropriate <year> Performance Review for <employee name> hyperlink.
+Option 2: On the Home page, choose in the For You Today section, the Review Your Performance > Employee Signature card.	Your performance review form is displayed.
+3.	Add Electronic Sig­ nature	If appropriate, enter a comment in the text box at the bottom of the screen. Then choose Sign.
+On the next screen, enter a comment in the Email Notification Comments text box, if appropriate, and then choose Sign to complete the form.	The form has been signed and has been moved to
+the   In Progress   En
+Route   folder at step
+Manager Signature.
+The form is sent to your manager. The manager receives an appropriate email notification about the form being now in the inbox for signing.
+
+
+
+Result
+
+The annual performance review is completed from the employee’s point of view.
+
+
+
+
+
+4.3.13	Sign Off Employee Year-End Review
+
+
+
+Purpose
+
+After the employee has signed the performance review form, the manager signs it as well.
+
+Procedure
+
+
+Test Step #
+
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to the SAP SuccessFactors Company In­ stance as Manager.	The Home page is dis­ played.
+2.	Access Performance Review Form	You can access the form as follows:
+
+Option 1: Choose   Home   Performance   from the menu on the top left corner. On the My Forms screen, go to the Inbox and choose
+in the Form Title column the appropriate <year> Performance Review for <employee name> hyper­ link.
+Option 2: On the Home page, choose in the For You Today section, the Review Employee Performance > Manager Signature card.
+ Note
+In case the View All link displays on the Review Employee Performance card, it means, that you must perform tasks, which fall into this category, for several employees. Choose the View All link. In the upcoming Review Employee Performance (#) dialog box, choose the Manager Signature card for the appropri­ ate employee.	The performance review form for the selected em­ ployee is displayed.
+
+3.	Add Electronic Signa­ ture	If appropriate, enter a comment in the text box at the bottom of the screen. Then choose Sign.
+On the next screen, choose Sign to complete the form.	The form has been signed and has moved
+to the   Completed   Un-
+Filed   folder.
+
+
+
+Result
+
+The annual performance review is completed.
+
+
+4.4	360 Degree Review (Optional)
+
+
+
+
+Purpose
+
+The 360 Degree Review is used to collect feedback on an employee’s competencies and behaviors from the line manager, peers, subordinated employees, and so on. This review should identify strengths and weaknesses as basis for the employee’s own development planning.
+The process steps to achieve this are detailed below.
+
+
+
+
+4.4.1	Create 360 Degree Review Form for Self
+
+
+
+
+Purpose
+
+To start the 360 degree review process, the employee creates the 360 degree review form for him- or herself.
+
+
+
+
+Procedure
+
+
+
+Test Step #	Test Step Name
+Instruction
+Expected Result	Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors company in­ stance as Employee.	The Home page is displayed.
+2.	Access Per­ formance module	Choose   Home   Performance   from the menu in the top left corner.	The My Forms screen is displayed.
+
+
+
+Test Step #
+
+Test Step
+Name	Instruction	Expected Result
+
+Pass / Fail
+
+
+3.	Create Form	Choose Create New Form.
+
+In the Select one of the form types below to begin part of the screen, choose the 360 Review link.
+In the Subject for 360 Review part of the upcoming screen, choose Self-<employee name>.
+In the Review period and due date of 360 Review for <employee name> part of the upcoming screen, accept the suggested dates or adapt them as appropriate. Choose Create and Open.	You are directed to the screen where you can nominate raters. Nevertheless, you can do this later on, as the form will be available on your Home page.
+ Note
+In the present document, we consider that the employee nominates raters at a later point in time.
+4.	Save Form	Choose Save and Close.	You return to the My Forms screen; the newly created form is available in your Inbox.
+
+
+4.4.2	Review and Modify Rater List
+
+
+
+
+Purpose
+
+The Employee reviews the pre-generated rater list. He or she can remove raters from this list and can add other raters to this list. When done, the Employee sends the 360 degree review form to the line manager to approve the rater list.
+
+
+
+
+Procedure
+
+
+
+Test Step #	Test Step Name
+Instruction
+Expected Result	Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company instance as Employee.	The Home page is displayed.
+
+
+
+Test Step #
+
+Test Step
+Name	Instruction	Expected Result
+
+Pass / Fail
+
+
+2.	Access Form	You can access the form as follows:
+
+Option 1: Choose   Home   Performance   from the menu on the top left corner. On the My
+Forms screen, go to the Inbox and choose in the
+Form Title column the appropriate 360 Review for
+<employee name> hyperlink, which is in route map step Employee Selects Participants.
+Option 2: On the Home page, in the For You Today
+section, choose in the   Complete 360 Evaluation Employee Selects Participants   card the Go to
+Form link.
+The 360 Review for <employee name> screen is displayed. The RATER LIST (#) section contains the pre-generated list of raters.
+3.	Modify Rater List	In the RATER LIST section, check the pre-generated raters list.
+To add a participant, choose + Add Participants. In the Add Participants dialog box, depending if the rater is an employee within the company or and external participant, proceed as follows:
+•	for an internal rater, enter the rater’s name in the Find a User field and choose the employee directly.
+•	If the rater is an external participant, type Add into the Find a User field and choose Add a new external participant. On the Add a New External Participant dialog box, enter the rater’s Email, First Name and Last Name, then choose Add.
+For both internal and external raters, select in the Category column an appropriate value from the dropdown list and choose Add to List.
+To delete a participant, choose from the Action column the Delete icon within the rater’s line. In the Confirmation dialog box, choose OK.
+ Caution
+Make sure to have chosen at least five partici­ pants for your 360 degree review! Otherwise, an error message is issued, and you cannot send the rater list for approval!	You have added raters to or de­ leted raters from your rater list.
+
+
+
+Test Step #
+
+Test Step
+Name	Instruction	Expected Result
+
+Pass / Fail
+
+
+4.	Send to Next Processor	Choose Send to Next Step.
+
+In the upcoming Confirmation dialog box, you can enter a comment in the Email Notification Comments text box, if appropriate. Confirm by choosing Send to Next Step.	You have nominated the raters for your 360 degree review. The form has been sent to your manager for approval. Your manager receives an appropriate email notification about the approval needed for the rater list suggested.
+The form has disappeared from your inbox; it is now in the   In Progress   En Route   folder,
+at step Manager Approves Participants.
+
+
+4.4.3	Review Employee Rater List
+
+
+
+
+Purpose
+
+The Manager receives the employee’s 360 degree review form. He or she reviews the rater list and possibly adjusts it, if necessary. Then he or she approves the rater list and sends the form to the raters for evaluating the employee.
+
+
+
+
+Procedure
+
+
+
+Test Step #
+Test Step Name
+
+Instruction
+
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company instance as
+Manager.	The Home page is displayed.
+
+
+
+Test Step #
+
+
+Test Step
+Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+2.	Access Form
+You can access the form as follows:
+
+Option 1: Choose   Home   Performance   from the menu on the top left corner. On the My Forms screen, go to the Inbox and choose in the Form Title column the appropriate 360 Review for <employee name> hy­ perlink, which is in route map step Manager Approves Participants.
+Option 2: On the Home page, in the For You Today
+section, choose in the   Complete 360 Evaluation Manager Approves Participants   card the Go to Form
+link.
+
+ Note
+In case you are involved in several 360 degree re­ views, the View All link will be displayed in the Complete 360 Evaluation card. Choose that link; a dialog box displays, which contains Complete 360 Evaluation cards in various route map steps for each employee. Choose the Go to Form link in the
+appropriate	Complete 360 Evaluation	Manager Approves Participants	<employee name>		card.
+
+ Note
+You can also choose the hyperlink given in the email notification you received about the approval needed for the rater list suggested by your direct report.	The 360 Review for
+<employee name> screen is displayed.
+
+3.	Maintain Rater List	In the RATER LIST section, check the raters currently listed.
+You can add participants, by choosing +Add Participants, or delete participants, by choosing the Delete icon within the row of the rater’s name.
+ Caution
+Make sure to have chosen at least five participants for the employee's 360 degree review! Otherwise, an error message is issued, and you cannot approve the rater list!	You have modified the rater list, if appropriate.
+
+
+
+Test Step #
+
+
+Test Step
+Name	Instruction	Expected Result
+
+
+Pass / Fail
+
+
+4.	Approve Rater List	Choose Send to Next Step.
+
+In the upcoming Confirmation dialog box, enter in the Email Notification Comments text box a message to the raters. Then choose Send to Next Step.	You have approved the raters for the 360 degree re­ view of your direct report.
+
+
+
+
+Result
+
+The 360 degree review form of the employee has been sent to the raters for evaluation. The Raters receive appropriate email notifications with the request to participate in the employee’s 360 degree review. Each Rater can decide to accept or decline the participation in the 360 degree review.
+
+
+
+
+4.4.4	Perform 360 Degree Review
+
+
+
+
+Purpose
+
+Every nominated Rater in the rater list checks the 360 degree review form in their inbox and gives ratings or feedback on each competency item for the employee to be evaluated.
+
+
+Procedure
+
+
+Test Step #
+Test Step Name
+Instruction
+Expected Result
+Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company instance as Rater.	The Home page is dis­ played.
+2.	Access Form	You can access the form as follows:	The 360 Review
+for <employee name>
+screen is displayed.
+In case you don’t want to participate in the 360 degree review, you can choose Decline to Participate. In the up­
+coming Confirmation di­ alog box, you can en­ ter an explanation in
+the Email Notification Comments text box. Then choose again Decline to Participate.
+In case you accept to participate in the 360 degree review, continue with test steps #3 and #4.
+		Option 1: Choose   Home   Performance   from the menu on the top left corner. On the My Forms screen, go to the Inbox and choose in the
+Form Title column the appropriate 360 Review for <employee name> hyerlink, which is in route map step Provide Feedback.
+		Option 2: On the Home page, in the For You
+		Today section, choose in the   Complete 360
+		Evaluation   Provide Feedback   card the Go to Form link.
+		 Note
+
+		In case you are involved in several 360 de­ gree reviews, the View All link will be dis­ played in the Complete 360 Evaluation card. Choose that link; a dialog box displays, which contains Complete 360 Evaluation cards in various route map steps for each employee. Choose the Go to Form link in the appro­
+		priate   Complete 360 Evaluation   Provide
+		Feedback   <employee name>   card.
+		 Note
+
+		You can also choose the hyperlink given in the email notification you received about the 360 degree feedback requested.
+
+3.	Rate Compe­ tency	In the COMPETENCY FEEDBACK section, give rating scores to each of the competency listed in the form by selecting values for the Rating.
+If necessary, enter comments for each compe­ tency in the Comments text area.	You have given your rat­ ings and comments to each competency of the employee being evalu­ ated.
+
+
+Test Step
+#	Test Step Name	Instruction	Expected Result	Pass / Fail
+
+4.	Submit Form	Choose Submit Finished Form.
+
+In the upcoming Confirmation dialog box, you can enter a comment in the Email Notification Comments text box, if appropriate. Confirm by choosing again Submit Finished Form.	You have submitted your feedback for the em­ ployee’s 360 degree re­ view.
+
+
+
+
+Result
+
+The form has disappeared from your inbox; it is now in the   Completed   Un-Filed   folder. You cannot change the form anymore.
+The rated employee and their manager receive appropriate emails about the completion of feedback by the rater(s).
+
+
+
+4.4.5	Review "Detailed 360 Degree Report"
+
+
+
+Purpose
+
+The Manager and Employee check the detailed 360 degree report to review the analysis on the rating results given by all raters. This result can be referenced in other talent management processes, like Career Development.
+The detailed 360 degree report can only be checked as a final version after the 360 degree review process has been finished, meaning all the raters have given their feedback. Only after all raters perform the 360 degree reviews (see process step Perform 360 Degree Review [page 79]), the related 360 degree review form will be moved to the Completed folder and the detailed report can be accessed.
+
+Procedure
+
+
+Test Step #	Test Step Name	Instruction	Expected Result	Pass / Fail
+1.	Log on	Log on to SAP SuccessFactors Company in­ stance as Manager or Employee.	The Home page is dis­ played.
+2.	Access Perform­ ance Module
+Choose   Home   Performance   from the menu in the top left corner.	The My Forms screen is displayed.
+3.	Access Form	On the My Forms screen, go to the Completed folder and choose in the Form Title column the appropriate 360 Review for <employee name> hyperlink.	The 360 Review
+for <employee name>
+screen is displayed.
+4.	Open Detailed 360 Report	In the EVALUATION SUMMARY section, choose the Open Detailed 360 Report hyper­ link.	The Detailed 360 Report of 360 Review page is displayed.
+5.	Check 360 Review Result	Check following information:
+•	How many raters from each rater cate­ gory gave feedback;
+•	The average feedback results from raters for each competency;
+•	Min / Max rating values for each compe­ tency.
+You can also print or save the report as PDF by choosing Print.	The feedbacks from the 360 degree review raters has been viewed.
+
+
+Result
+
+The 360 degree review is completed; the results provide inputs to other processes, for example in Development Goals.
+
+5	More Information
+
+
+5.1	Process Integration
+
+5.1.1	Succeeding Processes
+
+After completing the activities in this test script, you can continue testing the following business process:
+
+Process	Business Condition
+Compensation Management in SAP SuccessFactors (FI1) of
+SAP Best Practices for SAP SuccessFactors Compensation	The official performance rating can be used in the com­ pensation module.
+Variable Pay Planning in SAP SuccessFactors (FH2) of SAP Best Practices for SAP SuccessFactors Compensation	The official performance rating can be used in the variable pay module.
+Depending on the successor nomination method used within your company, one of below processes:
+•	Succession Management in SAP SuccessFactors (3VH) of SAP Best Practices for SAP SuccessFactors Succession & Development
+•	Succession Management with MDF Position-Based Nomination and Integration to Recruiting (3VJ) of SAP Best Practices for SAP SuccessFactors Succession & Development	The ratings of the employee can be used in the succession module.
+
+Important Disclaimers and Legal Information
+
+
+
+Hyperlinks
+Some links are classified by an icon and/or a mouseover text. These links provide additional information. About the icons:
+•	Links with the icon  : You are entering a Web site that is not hosted by SAP. By using such links, you agree (unless expressly stated otherwise in your agreements with SAP) to this:
+•	The content of the linked-to site is not SAP documentation. You may not infer any product claims against SAP based on this information.
+•	SAP does not agree or disagree with the content on the linked-to site, nor does SAP warrant the availability and correctness. SAP shall not be liable for any
+damages caused by the use of such content unless damages have been caused by SAP's gross negligence or willful misconduct.
+•	Links with the icon  : You are leaving the documentation for that particular SAP product or service and are entering an SAP-hosted Web site. By using
+such links, you agree that (unless expressly stated otherwise in your agreements with SAP) you may not infer any product claims against SAP based on this information.
+
+
+Videos Hosted on External Platforms
+Some videos may point to third-party video hosting platforms. SAP cannot guarantee the future availability of videos stored on these platforms. Furthermore, any advertisements or other content hosted on these platforms (for example, suggested videos or by navigating to other videos hosted on the same site), are not within the control or responsibility of SAP.
+
+
+Beta and Other Experimental Features
+Experimental features are not part of the officially delivered scope that SAP guarantees for future releases. This means that experimental features may be changed by SAP at any time for any reason without notice. Experimental features are not for productive use. You may not demonstrate, test, examine, evaluate or otherwise use the experimental features in a live operating environment or with data that has not been sufficiently backed up.
+The purpose of experimental features is to get feedback early on, allowing customers and partners to influence the future product accordingly. By providing your feedback (e.g. in the SAP Community), you accept that intellectual property rights of the contributions or derivative works shall remain the exclusive property of SAP.
+
+
+Example Code
+Any software coding and/or code snippets are examples. They are not for productive use. The example code is only intended to better explain and visualize the syntax and phrasing rules. SAP does not warrant the correctness and completeness of the example code. SAP shall not be liable for errors or damages caused by the use of example code unless damages have been caused by SAP's gross negligence or willful misconduct.

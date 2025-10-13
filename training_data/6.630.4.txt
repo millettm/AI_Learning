@@ -1,0 +1,422 @@
+6.630.4  Administrative Leave, Investigative Leave, Notice Leave, and Weather and Safety Leave
+6.630.4.1  Program Scope and Objectives
+6.630.4.1.1  Background
+6.630.4.1.2  Authority
+6.630.4.1.3  Roles and Responsibilities
+6.630.4.1.4  Program Management and Review
+6.630.4.1.5  Program Controls
+6.630.4.1.6  Terms
+6.630.4.1.7  Acronyms
+6.630.4.1.8  Related Resources
+6.630.4.2  General Provisions
+6.630.4.3  Administrative Leave
+6.630.4.4  Investigative Leave and Notice Leave
+6.630.4.5  Weather and Safety Leave
+6.630.4.5.1  Telework Employees and Use of WSL
+6.630.4.5.2  Emergency Employees
+6.630.4.5.3  Administration of WSL
+6.630.4.5.4  Emergency Dismissals and Office Closures - Office Operating Status Announcements
+6.630.4.5.4.1  Office is Open
+6.630.4.5.4.2  Office is Open with Option for Unscheduled Telework or Unscheduled Leave
+6.630.4.5.4.3  Office is Open with Delayed Arrival
+6.630.4.5.4.4  Office is Open with Early Departure
+6.630.4.5.4.5  Office is Open, but Employee Cannot Report
+6.630.4.5.4.6  Office is Closed
+6.630.4.5.5  Preapproved Leave or Other Paid Time Off
+6.630.4.5.6  Changes to AWS
+6.630.4.5.7  Major Disaster Declarations
+6.630.4.5.8  Emergency at the Telework Site
+6.630.4.5.9  WSL for Quarantinable Communicable Diseases
+6.630.4.5.10  WSL Requests and Documentation Requirements
+6.630.4.5.11  Time and Attendance Records and Data System Reporting
+Exhibit  6.630.4-1  Weather and Safety Leave Time and Attendance Reporting Codes
+Part 6. Human Resources Management
+Chapter 630. Absence and Leave
+Section 4. Administrative Leave, Investigative Leave, Notice Leave, and Weather and Safety Leave
+6.630.4 Administrative Leave, Investigative Leave, Notice Leave, and Weather and Safety Leave
+Manual Transmittal
+February 07, 2024
+
+Purpose
+(1) This transmits revised IRM 6.630.4, Administrative Leave, Investigative Leave, Notice Leave and Weather and Safety Leave (WSL).
+
+Material Changes
+(1) IRM 6.630.4.1, Program Scope and Objectives, made a correction to reflect the Human Capital Office as program owner.
+
+(2) IRM 6.630.4 is updated throughout with new web addresses caused by the IRS platform migration to SharePoint Online and with other minor edits.
+
+Effect on Other Documents
+This IRM supersedes IRM 6.630.4 issued May 8, 2023.
+Audience
+All business units
+Effective Date
+(02-07-2024)
+Traci M. DiMartini, IRS Human Capital Officer
+
+6.630.4.1 (02-07-2024)
+Program Scope and Objectives
+Purpose: This IRM provides policies and guidance for administrative leave, investigative leave, notice leave and weather and safety leave (WSL). It may be supplemented by Human Capital Office interim guidance.
+Audience: Unless otherwise indicated, the policies, authorities and instructions contained in this IRM apply to all IRS business units. Bargaining Unit (BU) employees should also review negotiated agreement provisions relating to these subjects in Document 11678, National Agreement - Internal Revenue Service and National Treasury Employees Union (hereafter referred to as National Agreement). Should any of these instructions conflict with a provision in the National Agreement, the Agreement prevails for BU employees.
+Policy Owner: The IRS Human Capital Officer.
+Program Owner: The Human Capital Office (HCO).
+Primary Stakeholders: All organizations and business units who manage or issue instructions to employees pertaining to the types of leave covered in this IRM are stakeholders in this IRM program.
+6.630.4.1.1 (05-08-2023)
+Background
+The Administrative Leave Act of 2016 (the Act), enacted under Section 1138 of the National Defense Authorization Act for Fiscal Year 2017, created four new categories of statutorily authorized paid leave — administrative leave, investigative leave, notice leave and WSL. The Act established parameters for the use of these types of leave by federal agencies. This IRM establishes the internal policies of the IRS to meet the statutory and regulatory requirements pertaining to these types of leave. Read and interpret this guidance in accordance with applicable laws, governmentwide regulations, the U.S. Department of the Treasury (Treasury) Human Capital Issuance System directives and orders, Comptroller General and U.S. Office of Personnel Management (OPM) decisions, and other sources as applicable.
+6.630.4.1.2 (05-08-2023)
+Authority
+Laws: Title 5, U.S. Code (USC), Government Organization and Employees, at: http://uscode.house.gov/.
+Section 105, Executive agency
+Section 301, Departmental regulations
+Section 2105, Employee
+Section 6302, General provisions
+Section 6329a, Administrative leave
+Section 6329b, Investigative leave and notice leave
+Section 6329c, Weather and safety leave
+Section 7106, Management rights
+Chapter 65, Telework
+Regulation: Title 5, Code of Federal Regulations (CFR), Part 630, Absence and Leave, at: eCFR :: 5 CFR Part 630 -- Absence and Leave.
+Treasury Order: 102-01, Delegation of Authority Concerning Personnel Management, at: https://home.treasury.gov/about/general-information/orders-and-directives/treasury-order-102-01.
+Policy Statement: 6-50, Brief Absences May be Excused Under Certain Conditions, at: IRM 1.2.1.7.10.
+Delegation of Authority: Delegation Order 6-7, Temporary Office Closures Due to Inclement Weather, Imminent Health and Safety Issues, or Other Emergency Situations, at: IRM 1.2.2.7.6.
+Delegation of Authority: Delegation Order 6-11, Hours of Work, at: IRM 1.2.2.7.8.
+Delegation of Authority: Delegation Order 6-12, Absence and Leave, at: IRM 1.2.2.7.9.
+Delegation of Authority: Delegation Order 6-13, Authority to Certify Time and Attendance Records, at: IRM 1.2.2.7.10.
+Treasury Human Capital Issuance System: TN-18-001, Treasury Telework Program, at: https://my.treas.gov/Collab/dashr/supportdocs/Treasury%20Telework%20Policy-Final%204-6-18-signed.pdf.
+Treasury Human Capital Issuance System: TN-18-003, Enhancing Workplace Flexibilities and Work-Life Programs, at: https://my.treas.gov/Collab/dashr/supportdocs/Enhancing%20Workplace%20Flexibilities%20and%20WorkLife%20Programs-Final%204-6-18.pdf.
+6.630.4.1.3 (05-08-2023)
+Roles and Responsibilities
+The IRS Human Capital Officer is the executive responsible for this IRM and overall IRS policy for administrative leave, investigative leave, notice leave and WSL.
+The HCO Director of P&A Division is responsible for developing, coordinating, updating and publishing the content in this IRM. They are also responsible for IRS Telework Program policy relating to this IRM.
+The HCO Director of HR Shared Services (HRSS) Division provides systems, tools and related instructions to employees to properly record their tours of duty, work schedules, leave and holidays in the time and attendance system and on official source documents from which an employee is paid (for example, time and attendance documents). The HRSS Division also administers the IRS Leave Sharing Program.
+The HCO Director of Labor/Employee Relations and Negotiations (LERN) Division provides guidance and representation to managers in areas such as grievances, discipline, adverse actions and performance cases, and they advise on contractual obligations with the National Treasury Employees Union. They assist managers with the complex challenges of balancing the needs of employees with the accomplishment of mission-critical work. They are responsible for administering the policies concerning investigative leave and notice leave contained in this IRM.
+The Director of Senior Commissioner’s Representative - Continuity of Operations (SCR/CO) office is responsible for directing IRS activities in critical emergencies and ensuring business continuity plans are in place and followed during incidents. They are responsible for issuing office operating status announcements and dismissing employees for short periods due to severe weather or other emergency conditions.
+A manager has the fundamental responsibility to ensure government resources are used efficiently and effectively, with minimum potential for waste, fraud and mismanagement. As such, a manager must administer leave programs with integrity and in compliance with applicable laws, regulations and policies. A manager is accountable for:
+Administering and counseling an employee on leave rules, regulations and procedures in accordance with applicable laws, regulations and established policies;
+Approving/disapproving an employee’s request for leave, unscheduled telework, work schedule and so on, as appropriate, and in accordance with established policies and negotiated agreement provisions (for BU employees);
+Reviewing, approving, validating and certifying the accuracy of official time and attendance records for their employees, including corrections and/or designating actors/proxies per IRM 1.2.2.7.8, Delegation Order 6-11, Hours of Work;
+Ensuring that an employee submits appropriate documentation for absences, as required;
+Retaining records as required by IRM 1.15, Records and Information Management, and Document 12829, General Records Schedule;
+Identifying, investigating and correcting leave errors and abuse; and
+Working with business unit points of contact and/or appropriate HCO organizations, as needed, to report and/or manage issues for resolution.
+An employee's responsibilities include:
+Observing designated duty hours, complying with both leave and hours of duty rules, regulations, and established business procedures, and requesting and using leave in accordance with its intended purpose;
+Accurately reporting their work schedule, leave taken and telework hours onto official time and attendance records;
+Providing appropriate documentation concerning absences, as required by established policies and negotiated agreement provisions;
+Reporting leave discrepancies to management, providing documentation to correct erroneous posting and/or leave balances, and recognizing that necessary corrections may result in a debt;
+Contacting management for assistance with any problems relating to time and attendance input or validation; and
+Responding within 24 hours to management attempts to communicate in cases where WSL is granted for consecutive days (providing that email, telephone, mobile phone (work or personal) services are available).
+6.630.4.1.4 (05-08-2023)
+Program Management and Review
+This IRM provides policy guidance on administrative leave, investigative leave, notice leave and WSL for the IRS. The HCO P&A Division gauges effectiveness of these policies based on feedback from customers and program owners and analysis of data-driven reports. During review and publishing, IRM sections may be revised, added or deleted based in part on this process. The HCO P&A Division plays an integral role in program management, review and effectiveness by:
+Supporting the HRSS to deliver biweekly paychecks through timely and accurate posting and processing of all time and attendance records;
+Providing administrative leave and WSL expertise to LERN so it can deliver related labor and employee relations support and guidance to IRS management, field and business-based labor/employee relations staff, and employees;
+Supporting the SCR/CO organization when normal operations are interrupted by events beyond the control of management or employees or when the closing of an office is required or in the best interest of the IRS; and
+Assisting other offices within the HCO P&A Division that have policies or programs relating to this IRM; for example, the IRS Telework Program office.
+6.630.4.1.5 (05-08-2023)
+Program Controls
+The HCO P&A Division develops and deploys policies, materials and programs, in collaboration with other HCO organizations and business unit stakeholders, to increase awareness and understanding of the leave policies in this IRM.
+The following activities help ensure policy program success:
+Conducting an annual review of this IRM for needed revisions/clarifications;
+Publishing educational articles, such as Leaders' Alerts and IRS Headlines;
+Maintaining and/or developing policy-related intranet content; for example, IRS Source and iManage (for managers);
+Collaborating on interim guidance and standard operating procedures for policies related to this IRM;
+Assisting LERN with statutory, regulatory and policy guidance during term and mid-term negotiations and during grievance proceedings;
+Providing policy guidance to HRSS for programming of time and attendance systems;
+Partnering with General Legal Services for legal opinions on complex policy issues as they arise; and
+Reviewing, for adherence to policies, any articles, alerts, training modules, communications and so on, for business partners, as needed.
+6.630.4.1.6 (05-08-2023)
+Terms
+Act of God means an act of nature, including hurricanes, tornados, floods, wildfires, earthquakes, landslides, snowstorms and avalanches.
+Administrative leave means an administratively authorized absence from duty without a loss of or reduction in: 1) pay, 2) leave to which an employee is otherwise entitled under law, or 3) credit for time or service; and that is not authorized under any other provision of law.
+Administrative time means work time that is approved for participation in an activity that is not part of an employee’s regular job duties; for example, surveys and attendance at town hall meetings. An employee is in duty status (at work) when using administrative time, and approval of administrative time is generally under the control of the respective business unit.
+Agency means an executive agency as defined in 5 USC 105, excluding the Government Accountability Office. When the term “agency” is used in the context of an agency making determinations or taking actions, it means the agency heads or management officials who are authorized (including by delegation) to make the given determination or take the given action. Treasury has redelegated authority for the general administration of personnel matters to its bureau heads via Treasury Order 102-01, Delegation of Authority Concerning Personnel Management. The Commissioner of Internal Revenue, as bureau head for the IRS, has redelegated some of this authority to IRS managers via IRM 1.2.2.7.9, Delegation Order 6-12, Absence and Leave.
+Emergency employee means an individual designated by management as critical to IRS operations and for whom WSL may not be applicable. To the extent practicable, a manager should inform an employee of their designation as an emergency employee well in advance in anticipation of the possible occurrence of weather and safety-related conditions. If the manager wishes to provide for the possibility that an emergency employee could work from an approved telework site in lieu of traveling to the regular work site (for example, official duty station) in appropriate circumstances, the manager should encourage the employee to enter into a telework agreement providing for that contingency. Different emergency employees may be designated for different circumstances expected to arise from these weather and safety-related conditions. (Refer to 5 CFR 630.1605(b) for more information.)
+Employee means an individual as defined by 5 USC 2105 and does not include an intermittent employee. An intermittent employee, who does not have an established regular TOD, is not eligible for any of the types of leave covered by this IRM, which are administrative leave, investigative leave, notice leave and WSL. (Refer to 5 USC 6329a, 6329b and 6329c.)
+Excused absence is a term used to describe an authorized absence from duty without charge to leave or loss of pay. It is largely replaced with the new statutory types of leave established by the Administrative Leave Act of 2016, which are administrative leave, investigative leave, notice leave and WSL.
+Executive Misconduct Unit (EMU) is the organization responsible for adjudication of conduct and performance-related matters involving high-level personnel (that is, executives under the senior executive service, senior level, and administratively determined pay systems; senior managers under the IRS Broadband Classification and Pay System (IR) at the IR-01 level; frontline managers at the IR-03 level; and NBU employees under the General Schedule (GS) at the GS-15 level. Managers may find their EMU specialist at: https://irsgov.sharepoint.com/sites/HCO/SitePages/Contacts.aspx.
+Investigative entity means 1) an internal investigative unit of an agency granting investigative leave under 5 USC 6329b, 2) the Office of Inspector General of an agency granting investigative leave under 5 USC 6329b, 3) the Attorney General and 4) the Office of Special Counsel.
+Investigative leave means leave without loss of or reduction in: 1) pay, 2) leave to which an employee is otherwise entitled under law, or 3) credit for time or service; and that is not authorized under any other provision of law and in which an employee who is the subject of an investigation is placed.
+IRS Telework Program is a program that permits an eligible IRS employee to work at home or at another approved work site other than their official duty station (assigned post of duty (POD)). The policies, procedures and guidelines for the program are found in IRM 6.800.2, Employee Benefits, IRS Telework Program, and in Article 50 of the National Agreement (for BU employees).
+Minimum charge means the minimum time-charge increment for the posting of annual and sick leave, which is 15 minutes. This same minimum time charge applies to the other types of leave covered in this IRM, which are administrative leave, investigative leave, notice leave and WSL.
+Notice leave means leave without loss of or reduction in: 1) pay, 2) leave to which an employee is otherwise entitled under law, or 3) credit for time or service; and that is not authorized under any other provision of law and in which an employee who is in a notice period is placed.
+Notice period means a period beginning on the date on which an employee is provided notice required under law of a proposed adverse action against the employee and ending on the date on which an agency may take the adverse action.
+Official Duty Station (ODS) means the official location of an employee’s position of record as documented on the employee’s Standard Form 50, Notification of Personnel Action. The terms ODS, POD, official POD, official work site, regular work site and IRS facility are often used interchangeably.
+Office operating status announcement is a formal announcement, usually issued by the SCR, site coordinator (for campus locations) or OPM, whenever it becomes necessary to close an office, delay the opening of an office, grant an early dismissal from the office and so on, because of weather or other safety-related conditions.
+Paid time off means a period of time that an employee is on an approved, paid absence from work. It can include paid leave (for example, annual leave, sick leave) or other paid time off (for example, previously earned credit hours, previously earned compensatory time, and time-off award hours).
+Participating in a telework program means an employee is eligible to telework and has an established arrangement (including telework agreement) under which they are approved to participate in the IRS Telework Program, including on a routine or situational (ad hoc) basis. An employee who teleworks on a situational (ad hoc) basis is considered to be continuously participating in the IRS Telework Program even if there are extended periods during which the employee does not perform telework.
+Quarantinable communicable disease means a disease that has the potential to cause a pandemic or, upon infection, is highly likely to cause mortality or serious morbidity if not properly controlled. These diseases are specified by Executive Order (for example, Executive Orders 13295, 13375, 13674 and 14047 at: https://www.federalregister.gov/presidential-documents/executive-orders/joe-biden/2021. Examples of such diseases include cholera, diphtheria, infectious tuberculosis, measles, plague, smallpox, yellow fever, severe acute respiratory syndromes such as COVID-19 and so on.
+Servicing labor/employee relations specialist means the employee in LERN who provides performance/conduct support to managers for employees who are not covered by the EMU. Managers may find their servicing labor/employee relations specialist at: https://irsgov.sharepoint.com/sites/HCO/SitePages/Contacts.aspx.
+Telework employee means an employee who is approved to participate in the IRS Telework Program and has an approved telework agreement.
+Telework-ready employee means an employee with an approved telework agreement who has the necessary equipment (for example, laptop) and necessary work files (paper or electronic) at their telework site (or transportable to the telework site) to perform required duties at the telework site at the time of an office closure or at other times.
+Telework site means a location where an employee is authorized to perform telework, as described in 5 USC Chapter 65, such as an employee's home.
+Tour of Duty (TOD) means the hours during the day (a daily TOD) and the days of an administrative workweek (a weekly TOD) that constitute an employee’s regularly scheduled administrative workweek.
+Weather and Safety Leave (WSL) means paid leave provided under the authority of 5 USC 6329c to an employee or group of employees only when they are prevented from safely traveling to, or safely performing work at, an approved location (including telework site) due to a weather or other safety-related condition. WSL is provided without 1) loss of or reduction in pay, 2) loss or reduction in leave to which the employee is otherwise entitled under law, or 3) loss of credit for time or service.
+Weather or other safety-related condition means an act of God, terrorist attack, or another condition that prevents an employee or group of employees from safely traveling to or safely performing work at an approved location. (Refer to 5 USC 6329c and 5 CFR 630.1603.)
+6.630.4.1.7 (05-08-2023)
+Acronyms
+The table lists commonly used acronyms and their definitions:
+Acronym	Definition
+AWOL	Absent Without Leave
+AWS	Alternative Work Schedule
+BU	Bargaining Unit
+CFR	Code of Federal Regulations
+CY	Calendar Year
+CPM	Compensation Policy Memorandum
+EMU	Employee Misconduct Unit
+HCO	Human Capital Office
+HRSS	Human Resources Shared Services
+LERN	Labor/Employee Relations and Negotiations
+LWOP	Leave Without Pay
+NBU	Non-bargaining Unit
+ODS	Official Duty Station
+OFP	Organization Function Program
+OPM	Office of Personnel Management
+POD	Post of Duty
+RDO	Regular Day Off
+SCR/CO	Senior Commissioner’s Representative/Continuity Operations
+TOD	Tour of Duty
+USC	United States Code
+WSL	Weather and Safety Leave
+6.630.4.1.8 (05-08-2023)
+Related Resources
+The IRS Source Office Closures webpage at: https://irsgov.sharepoint.com/sites/EmployeeResources/SitePages/Emergency%20and%20Safety33.aspx.
+The IRS Source Leave webpage at: https://irsgov.sharepoint.com/sites/EmployeeResources/SitePages/Timekeeping.aspx.
+The IRS Source Organization Function Program (OFP) Leave and Computer Down Time Codes webpage at: https://irsgov.sharepoint.com/sites/EmployeeResources/SitePages/Timekeeping35.aspx.
+The IRM 6.610.1, IRS Hours of Duty.
+The IRM 6.630.1, Absence and Leave.
+The IRM 6.800.2, Employee Benefits, IRS Telework Program.
+The IRS Dismissal and Closure Procedures at: https://irsgov.sharepoint.com/sites/EmployeeResources/Shared%20Documents/IRS-Dismissal-Closure-Procedures.pdf#search=IRS%20Dismissal%20and%20Closure%20Procedures.
+The OPM Governmentwide Dismissal and Closure Procedures at: https://www.opm.gov/policy-data-oversight/pay-leave/reference-materials/handbooks/dcdismissal.pdf.
+The OPM memorandum CPM 2020-02, Human Resources Flexibilities Available for Federal Employees Impacted by the 2019 Novel Coronavirus, at: https://www.chcoc.gov/content/human-resources-flexibilities-available-federal-employees-impacted-2019-novel-coronavirus.
+Document 11678, National Agreement - Internal Revenue Service and National Treasury Employees Union.
+6.630.4.2 (04-24-2020)
+General Provisions
+The Administrative Leave Act of 2016 (the Act), enacted under Section 1138 of the National Defense Authorization Act for Fiscal Year 2017 (Pub. L. 114-328, 130 Stat. 2000, December 23, 2016), was enacted because Congress believed the use of administrative leave sometimes exceeded reasonable amounts and resulted in significant costs to the government. Congress wants agencies to (1) use administrative leave sparingly, (2) consider alternatives to use of administrative leave when an employee is under investigation, and (3) act expeditiously to conclude investigations and either return the employee to duty or take an appropriate personnel action. Congress also wants agencies to keep accurate records regarding the use of administrative leave for various purposes.
+The Act added three new subparts to Title 5 USC that provide for specific categories of paid leave and the requirements that apply to each:
+Subpart N, Administrative Leave (5 USC 6329a);
+Subpart O, Investigative Leave and Notice Leave (5 USC 6329b); and
+Subpart P, Weather and Safety Leave (5 USC 6329c).
+6.630.4.3 (04-24-2020)
+Administrative Leave
+Per 5 USC 6329a, administrative leave is permitted, at an agency’s discretion, but subject to statutory and regulatory requirements, when an agency determines that no other paid leave is authorized under any other law.
+Under the statute, OPM has the authority and requirement to prescribe regulations to carry out the new statutory provisions of 5 USC 6329a, including the appropriate uses and the proper recording of administrative leave. The regulations, once published, will provide a framework for agency compliance with the new statutory requirements.
+The statute provides that an agency may place an employee on administrative leave for no more than 10 total workdays (80 hours) in any CY for full-time employees and the prorated equivalent for part-time employees.
+The IRS policies for excused absence (administrative leave) contained in IRM 6.610.1, IRS Hours of Duty, remain current until OPM issues implementing regulations for 5 USC 6329a and until IRS policies are updated and moved to IRM 6.630.4.3. Policy changes will not apply to BU employees until bargaining obligations, if required by law, are met.
+6.630.4.4 (05-08-2023)
+Investigative Leave and Notice Leave
+Per 5 USC 6329b, investigative leave and notice leave provide the employing agency with the means of removing an employee from the workplace and keeping the employee away from the workplace while the agency investigates the employee and/or during the notice period of a proposed adverse action against that employee. Investigative leave and notice leave are not employee entitlements, but employees who are under investigation or who have received a notice of a proposed adverse action may be placed on this type of paid leave.
+Under the statute, OPM has the authority and requirement to prescribe regulations to carry out the new statutory provisions of 5 USC 6329b, including the appropriate uses and the proper recording of investigative leave and notice leave. Once OPM regulations are published, the IRS will revise and implement internal policies to meet the statutory and regulatory requirements pertaining to these types of leave. Policy changes will not apply to BU employees until bargaining obligations, if required by law, are met.
+For current guidance on administrative leave for misconduct related to discipline and adverse actions for non-EMU employees, a manager should consult with their servicing labor/employee relations specialist. For EMU-covered employees, a manager should consult with their EMU specialist. A manager may find their servicing labor/employee relations specialist and their EMU specialist at: https://irsgov.sharepoint.com/sites/HCO/SitePages/Contacts.aspx.
+6.630.4.5 (05-08-2023)
+Weather and Safety Leave
+Per 5 USC 6329c, WSL is permitted, at an agency’s discretion, but subject to statutory and regulatory requirements, when an agency determines weather or other safety-related conditions prevent an employee from safely traveling to or from work or safely performing work at an approved location (typically their ODS or telework site) due to:
+An act of God;
+Terrorist attack; or
+Other applicable condition.
+The OPM regulations at 5 CFR Part 630, Subpart P, Weather and Safety Leave, provide agencies with additional framework and requirements for granting and recording WSL. Agencies have discretion to grant this type of leave, subject to statutory and regulatory requirements, agency policies and lawful collective bargaining agreements.
+There are no maximum number of hours (time limitations) that apply to WSL.
+The time an employee is on WSL does not affect their creditable service or probationary period.
+The WSL provisions apply to employees as defined in 5 USC 2105, but do not apply to intermittent employees; that is, intermittent employees are not eligible for WSL.
+6.630.4.5.1 (05-08-2023)
+Telework Employees and Use of WSL
+Except as provided in (a) and (b) below, an employee who is participating in the IRS Telework Program and who can safely travel to and safely work at an approved telework site, may not be granted WSL. An employee who is eligible to telework and who participates in the IRS Telework Program under applicable IRS policies is typically able to safely perform work at their approved telework site (for example, home) since they are not required to work at their regular worksite. (Refer to 5 CFR 630.1605(a).)
+If, in the manager’s judgment, the weather or safety-related conditions outlined above could not reasonably be anticipated, then WSL may be approved to the extent the employee was not able to prepare for telework (refer to IRM 6.630.4.5.1(4) below) and is otherwise unable to perform productive work at the telework site. (Refer to 5 CFR 630.1605(a)(2)(i).)
+If the employee is prevented from safely working at the approved telework site due to circumstances arising from one or more of the weather or safety-related conditions outlined in IRM 6.630.4.5(1) above, applicable to the telework site, the manager may, at their discretion, provide WSL to the employee (per 5 CFR 630.1605(a)(2)(ii)) or may direct the employee to travel to the employee’s regular worksite (or if the employee is NBU, to an alternative worksite) provided they may safely travel. Refer to IRM 6.630.4.5.8, Emergency at the Telework Site, for more information.
+Exception: WSL may not be granted to a telework employee who is approved for the temporary exception to the 200-mile radius for telework site benefit (permitted for up to two pay periods per CY under Article 50 of the National Agreement (for BU employees) and passed-through to NBU employees in the Consolidated National Agreement “Pass-Through” Provisions found at: https://irsgov.sharepoint.com/sites/EmployeeResources/SitePages/EmployeeRightsAndObligations71.aspx). If unable to telework, an employee using this exception to the 200-mile radius benefit is required to use their own personal leave, other paid time off (such as previously earned credit hours or compensatory time) or LWOP. This WSL prohibition does not apply to an employee who is approved to telework outside the 200-mile radius due to an approved hardship or approved reasonable accommodation.
+An employee requesting WSL for a period they are expected to telework must provide to their manager either optional Form 10837, Request for Weather and Safety Leave Due to Emergency Conditions, or other documentation supporting their claim. Refer to IRM 6.630.4.5.10, WSL Requests and Documentation Requirements, for more information.
+A manager may decide not to approve WSL when the conditions in IRM 6.630.4.5(1) and IRM 6.630.4.5.1(1) above do not prevent the employee from safely traveling to or safely performing work at a regular work site (for example, ODS), even if the affected day is a scheduled telework day. (Refer to 5 CFR 630.1605(a)(2)(iii).)
+When an employee with an approved telework agreement may reasonably anticipate that a weather or other safety-related condition may force the closure of their ODS, the employee must take reasonable steps (within an employee’s control) to become telework-ready (that is, take necessary work equipment and necessary work files to their telework site for the anticipated day(s) the ODS may be closed). In such circumstances, managers may authorize an employee who is not in their ODS to travel on administrative time (duty/work time) to their ODS to obtain necessary work equipment or files to become telework-ready.
+Example 1: Max, a revenue officer, is away from the ODS making field calls when a weather forecast predicts a snowstorm is approaching that might cause the office to close the next day(s). Max doesn’t typically take their laptop or work files into the field, so Max is not telework-ready. Max contacts the manager who recommends Max end field calls early and travel to the ODS on administrative time (duty/work time) to gather work equipment and files prior to the end of the TOD. This ensures Max is telework-ready the following day(s) if the ODS closes.
+
+Example 2: Pat teleworks one day a week and is teleworking when an ice storm prediction comes in for the area. Pat anticipates the ODS may be closed the following day(s), but Pat only brought enough work home for one day of telework. Pat contacts the manager who authorizes Pat to travel from the telework site to the ODS on administrative time (duty/work time) to pick up additional work in the event the office closes the following day(s).
+
+For a manager to decide whether the exceptions in IRM 6.630.4.5.1(1)(a) or IRM 6.630.4.5.1(1)(b) above apply, the manager must evaluate whether the weather or safety-related conditions outlined in IRM 6.630.4.5(1) could have been reasonably anticipated and whether the employee took reasonable steps (within the employee’s control) to prepare to perform telework at the approved telework site. For example, if a significant snowstorm is predicted, the employee may need to prepare by taking home any equipment (for example, laptop computer) and work needed for teleworking. To the extent an employee is unable to perform work at a telework site because of their failure to make necessary preparations for reasonably anticipated conditions, a manager may not approve WSL. The employee is then required to use personal leave, other paid time off (such as previously earned credit hours or compensatory time) or LWOP. (Refer to 5 CFR 630.1605(a)(3).)
+Unscheduled telework hours worked due to a weather or safety-related office closure or unscheduled telework announcement will not count against the employee’s maximum number of telework hours permitted under their telework agreement. The unscheduled telework day will count toward the two-day per pay period requirement to report to the ODS (that is, the POD). Refer to IRM 6.800.2, Employee Benefits, IRS Telework Program.
+An employee who is required to telework will not have their previously scheduled telework days changed or cancelled.
+An employee on WSL for consecutive days must respond to management attempts to contact them provided services (such as email, telephone, mobile phone (work or personal)) are available. The employee is expected to respond within 24 hours.
+6.630.4.5.2 (04-24-2020)
+Emergency Employees
+Management may designate emergency employees who are critical to IRS operations and for whom WSL may not be applicable. To the extent practicable, the manager should inform an employee of their designation as an emergency employee well in advance in anticipation of the possible occurrence of the conditions set forth in IRM 6.630.4.5(1) above. (Refer to 5 CFR 630.1603.). If the manager wishes to provide for the possibility that an emergency employee could work from an approved telework site in lieu of traveling to the regular work site (for example, ODS) in appropriate circumstances, the manager should encourage the employee to enter into a telework agreement providing for that contingency. Different emergency employees may be designated for different circumstances expected to arise from these conditions. (Refer to 5 CFR 630.1605(b).)
+An emergency employee must report to work at their regular worksite (for example, ODS) or another approved location as directed by the manager, unless:
+The manager determines that travel to or performing work at the worksite is unsafe for the emergency employee, in which case the employee may be required to work at another location, including a telework site as provided above, as appropriate (per 5 CFR 630.1605(b)(1)); or
+The manager determines that circumstances justify granting WSL to the emergency employee (per 5 CFR 1605(b(2)).
+6.630.4.5.3 (05-08-2023)
+Administration of WSL
+The minimum time-charge increment for WSL is 15 minutes. (Refer to 5 CFR 630.1606(a).)
+An employee may be granted WSL only for hours within the employee’s TOD. For a full-time employee, that tour is the 40-hour basic workweek as defined in 5 CFR 610.102 or the basic work requirement established for an employee on an AWS as defined in 5 USC 6121(3). (Refer to 5 CFR 630.1606(b).)
+An employee may not receive WSL for hours during which they are on preapproved leave (paid or unpaid), other paid time off (such as credit hours, compensatory time and time off award hours) or AWOL. There is an exception only if the preapproved leave/other paid time off is frustrated by the emergency conditions, causing the employee to request cancellation of the leave or other paid time off. Managers should not approve WSL for an employee who, in their judgment, is cancelling preapproved leave or other paid time off or requesting to change an RDO under an AWS for the primary purpose of obtaining WSL. Refer to IRM 6.630.4.5.5, Preapproved Leave or Other Paid Time Off, and 5 CFR 630.1606(c) for more information.
+An employee, who is requesting WSL for a period they are expected to work or for a period they were scheduled to use leave or other paid time off, must provide either optional Form 10837, Request for Weather and Safety Leave Due to Emergency Conditions, or other documentation supporting their claim to their manager. Refer to IRM 6.630.4.5.10, WSL Requests and Documentation Requirements, for more information.
+6.630.4.5.4 (05-08-2023)
+Emergency Dismissals and Office Closures - Office Operating Status Announcements
+When it becomes necessary to close an office because of weather or other safety-related conditions (for example, an act of God, terrorist attack, or another condition that prevents an employee or group of employees from safely traveling to or safely performing work at an approved location), reasonable efforts will be made to inform all employees via the AtHoc emergency alert notification system, private or public media, including email, the IRS Emergency Hotline, and other methods as appropriate and available. Such notice will be made as soon as practicable. Per IRM 1.2.2.7.6, Delegation Order 6-7, Temporary Office Closures Due to Inclement Weather, Imminent Health and Safety Issues, or Other Emergency Situations, SCR/Commissioner Representatives, site coordinators (campus locations) and executives serving as SCRs have the delegated authority to close offices and dismiss employees for short periods due to severe weather or other emergency conditions. The SCRs (or other authorized officials) may declare offices to be:
+Open;
+Open with the option for unscheduled telework or unscheduled leave;
+Open with a delayed arrival time;
+Open with an early departure; or
+Closed for the entire day.
+An employee who participates in the IRS Telework Program and who has the necessary equipment and work files to perform work at the telework site (that is, who is telework-ready) is generally expected to telework during such emergencies, reducing the need for WSL. The IRS emergency telework policy is contained in IRM 6.800.2, Employee Benefits, IRS Telework Program, and negotiated agreement provisions (for BU employees) are contained in Article 50 of the National Agreement.
+An employee with a telework agreement is permitted to telework even if there are dependents/family at the telework site. However, any interruptions or time spent giving care to such individuals during the employee’s TOD will not be considered hours of work, and WSL will not be granted for that period of time. The employee is expected to account for such non-work hours as soon as practicable with appropriate personal leave (paid or unpaid) or other paid time off. Refer to Dependent Care in IRM 6.800.2 for more information.
+An employee in travel status (on official travel) during working hours continues working when there is an office operating status announcement affecting their ODS. However, if the emergency makes it impossible for the employee to safely work or perform other duties, they must contact their manager as early as practicable to explain the circumstances and for the manager to determine if WSL may be granted. Refer to IRM 6.630.4.5.10, WSL Requests and Documentation Requirements, for more information.
+The following instructions for each office operating status announcement apply in general, but they may not cover every possible scenario/contingency. Refer to the IRS Dismissal and Closure Procedures at: https://irsgov.sharepoint.com/sites/EmployeeResources/Shared%20Documents/IRS-Dismissal-Closure-Procedures.pdf#search=IRS%20Dismissal%20and%20Closure%20Procedures for comprehensive guidance, including frequently asked questions.
+6.630.4.5.4.1 (05-08-2023)
+Office is Open
+When an office operating status announcement is “Open,” “Open with option for unscheduled telework or unscheduled leave,” or “Open with delayed arrival with option for unscheduled telework or unscheduled leave,” an employee who is scheduled to work in the ODS is expected to report consistent with the office operating status announcement.
+An employee who is scheduled to work in an “open” ODS but who cannot report due to weather or other safety-related conditions, may be eligible for WSL. Refer to IRM 6.630.4.5.4.5 below for more information.
+6.630.4.5.4.2 (05-08-2023)
+Office is Open with Option for Unscheduled Telework or Unscheduled Leave
+When the option for unscheduled telework or unscheduled leave is provided via office operating status announcement, an employee who is otherwise expected to report to the office on that day may opt to request unscheduled telework (if they participate in the IRS Telework Program and if they have necessary equipment and work), or they may request unscheduled leave (paid or unpaid) or other paid time off (such as previously earned credit hours or compensatory time). If opting for unscheduled telework or unscheduled leave, the day will count toward the two-day per pay period in-office reporting requirement that applies to employees on IRS telework agreements. Refer to IRM 6.800.2, Employee Benefits, IRS Telework Program, for more information.
+Note: If the unscheduled telework or unscheduled leave option is not provided by an office operating status announcement and an employee on an IRS telework agreement requests to perform unscheduled telework that day, they must still meet the two-day per pay period in-office reporting requirement and may need to reschedule their in-office day.
+6.630.4.5.4.3 (05-08-2023)
+Office is Open with Delayed Arrival
+When the office operating status announcement is “Open with delayed arrival” (either by number of hours or actual clock time (for example, two hours or 10:00 a.m.)), then:
+WSL is granted up until the time of the delayed arrival only to an employee scheduled to report to the ODS who reports for duty. The intent of WSL is to allow time for safe travel to the office when a weather or other safety-related condition prevents an employee or group of employees from safely traveling to work. An employee scheduled to work in the ODS, who is unable to report at the delayed arrival time because the weather or other safety-related condition made travel to the ODS unsafe, may be eligible for an additional, limited amount of WSL for part or all of their workday. The employee is obligated to contact their manager as early as practicable to explain the circumstances and provide an estimated time of arrival at work. An employee requesting WSL for a period they are expected to work must provide either optional Form 10837, Request for Weather and Safety Leave Due to Emergency Conditions, or other documentation supporting their claim to their manager. Refer to IRM 6.630.4.5.10, WSL Requests and Documentation Requirements, for more information.
+A telework employee who was scheduled to report to the ODS may request unscheduled telework for their entire TOD or may arrive at the delayed arrival time to complete their TOD at the ODS. For example, the ODS has a delayed arrival set for 9:30 a.m. The telework employee, whose TOD begins at 7:30 a.m., may request unscheduled telework for the entire day and start work at 7:30 a.m. at the telework site, or they may report to the ODS as previously scheduled and begin work in the ODS at 9:30 a.m., receiving two hours of WSL.
+An employee who is scheduled to telework is expected to begin work on time and does not receive WSL for the time approved for the delayed arrival unless they are experiencing an emergency condition (for example, evacuation order, flooding, or roof collapse) at the telework site that prevents them from safely working. The employee must contact their manager as soon as practical to explain the circumstances. The manager will determine if WSL may be granted and will provide further instructions. Refer to IRM 6.630.4.5.8, Emergency at the Telework Site, and IRM 6.630.4.5.10, WSL Requests and Documentation, for more information.
+The standard day shift start time for an employee on a gliding flexible work schedule is considered 7:30 a.m. for purposes of determining the amount of WSL that may be granted, unless the employee and their manager have agreed to a different start time and such an agreement is memorialized in writing (for example, email, memorandum, or letter).
+An employee who is scheduled to use leave (paid or unpaid) or other paid time off (such as credit hours or compensatory time) for the entire day generally remains on leave or other paid time off and is not granted WSL. However, an employee who is on scheduled leave or other paid time off for the entire day but chooses to come in at the start of their TOD following a delayed arrival, will contact their manager via telephone or will follow any other mutually agreed upon process to advise their manager of their intent to report to the office. The employee will receive WSL up until the time of the delayed arrival and will have the remainder of the scheduled leave or other paid time off cancelled.
+6.630.4.5.4.4 (05-08-2023)
+Office is Open with Early Departure
+Employees who participate in the IRS Telework Program (that is, those who have approved telework agreements):
+An employee working at the telework site when their ODS closes early (that is, an office operating status announcement is issued for “Open, with early departure”) continues to work their entire TOD. The employee is not granted WSL unless a weather or other safety-related condition impacts the telework site and makes it unsafe for them to continue working (for example, evacuation order). If work at the telework site is unsafe, the employee is obligated to contact their manager as early as practicable to explain the circumstances and to receive further instructions. Refer to IRM 6.630.4.5.8, Emergency at the Telework Site, for more information.
+An employee who is working in the office is required to take their equipment and work files to their telework site to finish their TOD. An employee required to travel to their approved telework site to finish the day teleworking will be granted WSL for the time required to travel that occurs during their regular duty hours. Travel time is posted to either OFP Code 990-59511 (Weather and Safety Leave – Office Closed, Severe Weather) or OFP Code 990-59512 (Weather and Safety Leave – Office Closed, Other Building Issue), as appropriate.
+An employee who requests to depart prior to the announced early departure time and who does not finish the TOD teleworking may request to use unscheduled leave (paid or unpaid) or other paid time off (such as previously earned credit hours or compensatory time) for the remainder of the TOD.
+Consistent with workload and staffing needs, an employee who anticipates that circumstances could prevent them from safely traveling home if they wait until the departure time set by the office operating status announcement, may be granted WSL from the time they leave work until they arrive at the telework site to finish their TOD teleworking. An employee requesting WSL for a period they are expected to work must provide either optional Form 10837, Request for Weather and Safety Leave Due to Emergency Conditions, or other documentation supporting their claim to their manager. Refer to IRM 6.630.4.5.10, WSL Requests and Documentation, for more information. The employee posts travel time that occurs while the office is still open to OFP Code 990-59513 (Weather and Safety Leave – Office Open, Cannot Safely Report) and either OFP Code 990-59511 (Weather and Safety Leave – Office Closed, Severe Weather) or 990-59512 (Weather and Safety Leave – Office Closed, Other Building Issue) for any travel time that occurs after the official departure time.
+Example: An ice storm is expected to hit the area late afternoon. An early departure is formally announced at 2:00 p.m. with the time for dismissal set for 3:00 p.m. A weather alert is received shortly after the early departure announcement reporting that the bridge an employee needs to cross to get home will be closing at 2:30 p.m. due to treacherous conditions. The employee, who participates in the IRS Telework Program, requests to leave immediately so they can safely travel home. The employee packs up their equipment and work files, and their manager grants them WSL from the time they depart the ODS (2:15 p.m.) until the time they arrive at their approved telework site (3:15 p.m.). The employee then finishes the remainder of their TOD (until 4:30 p.m.) working at the telework site. The employee posts their time as follows: 2:15 p.m. until 3:00 p.m. to 990-59513 (Weather and Safety Leave - Office Open); 3:00 p.m. until 3:15 p.m. to 990-59511 (Weather and Safety leave - Office Closed); and 3:15 p.m. until 4:30 p.m. to regular work time (coded as telework hours).
+
+An employee must complete the remaining hours in their workday by either teleworking or taking leave (paid or unpaid) or other paid time off.
+The manager may not extend the workday to account for the travel time to the telework site.
+If there is insufficient time to require an employee to finish their TOD at the telework site, as determined by the manager, the employee may be granted WSL for the period from the departure time to the end of their TOD.
+An employee requesting WSL for a period they are expected to telework must provide either optional Form 10837, Request for Weather and Safety Leave Due to Emergency Conditions, or other documentation supporting their claim to their manager. Refer to IRM 6.630.4.5.10, WSL Requests and Documentation Requirements, for more information.
+Employees not participating in the IRS Telework Program (that is, those who do not have telework agreements):
+An employee who does not participate in the IRS Telework Program and who is working in their ODS up until the time their ODS closes early (that is, an office operating status announcement is issued for “Open, with early departure”) is granted WSL for the period from the departure time to the end of their TOD.
+An employee who requests to depart prior to the early departure time may request unscheduled leave (paid or unpaid) or other paid time off (such as previously earned credit hours or compensatory time) for the remainder of the day and, generally, does not receive WSL.
+Consistent with workload and staffing needs, an employee who anticipates that circumstances could prevent them from safely traveling home if they wait until the early departure time set by the office operating status announcement, may be granted WSL from the time they leave work through the remainder of the TOD. An employee requesting WSL for a period they are expected to work must provide either optional Form 10837, Request for Weather and Safety Leave Due to Emergency Conditions, or other documentation supporting their claim to their manager. Refer to IRM 6.630.4.5.10, WSL Requests and Documentation, for more information. If approved, the employee posts WSL to OFP Code 990-59513 (Weather and Safety Leave – Office Open, Cannot Safely Report) for the absence prior to the time set for dismissal. The employee posts either OFP Code 990-59511 (Weather and Safety Leave – Office Closed, Severe Weather) or 990-59512 (Weather and Safety Leave – Office Closed, Other Building Issue) for the time after the official dismissal, as appropriate.
+Example 1: Torrential rains are hitting the area, and news alerts indicate the road where an employee lives will be closed shortly due to flooding. To ensure the employee can safely travel home, the manager may grant them WSL to depart the ODS prior to the time set for early dismissal. The early departure announcement was made at 2:00 p.m. with an early dismissal time of 3:00 p.m. The employee leaves the office at 2:15 p.m. in order to arrive home before the road closure. They post 990-59513 (Weather and Safety Leave - Office Open) from 2:15 p.m. until 3:00 p.m. and post 990-59511 (Weather and Safety Leave – Office Closed, Severe Weather) for the remainder of their TOD.
+
+Example 2: Heavy snow is starting to fall and at 2:00 p.m., an early dismissal is announced with the time of departure set for 3:00 p.m. An employee requests WSL to depart the office at 2:00 p.m., citing the need to stop at the grocery store to stock up on food and pick up a prescription before going home. In such a case, WSL is not appropriate; however, the manager may approve other leave (paid or unpaid) or other paid time off (such as previously earned credit hours or compensatory time) if the employee requests to depart early. The employee remains on that leave or paid time off for the remainder of their TOD.
+
+Employees on preapproved leave (paid or unpaid) or other paid time off (such as previously earned credit hours, previously earned compensatory time, or time-off award hours):
+An employee on preapproved leave or other paid time off for the entire day when their ODS has an office operating status announcement of “Open with early departure” is not granted WSL for the early departure hours.
+An employee on preapproved leave or other paid time off for a partial day, who departed prior to the early dismissal time, remains on leave or other paid time off unless they were scheduled to return to work after the early departure time. An employee who does not participate in the telework program, posts leave for the time scheduled to be on leave and is granted WSL from the time they were scheduled to return from leave through the rest of their TOD. A telework employee scheduled to return to work finishes the remainder of their TOD at the telework site and generally does not receive WSL.
+Example 1: A non-telework employee is scheduled for annual leave to attend their child’s school play from 1:00 p.m. to 3:00 p.m. At 2:00 p.m., an early dismissal is announced for their ODS with immediate departure. The employee would have returned to work at 3:00 p.m. but for the early dismissal. The employee posts annual leave from 1:00 p.m. to 3:00 p.m. and posts WSL from 3:00 p.m. until the end of their TOD.
+
+Example 2: A telework employee, in the same scenario as Example 1, is required to finish their TOD teleworking upon their return from leave if they are telework-ready (that is, has the necessary equipment and work files at their telework site) and is not prevented from safely working at the telework site. If not telework-ready, or if prevented from safely working at the telework site, the employee may be granted an equivalent amount of WSL (that is, from 3:00 p.m. until the end of their TOD).
+
+An employee working in the office who has leave or other paid time off scheduled to begin at the start of the early departure time, or thereafter, but who no longer requires it because its intended purpose is frustrated (for example, a cancelled medical appointment or a cancelled flight to a vacation destination), may cancel the leave or other paid time off and receive the same amount of WSL that is granted to other employees in the office. The employee must provide their manager with documentation to show that granting WSL is appropriate. Refer to IRM 6.630.4.5.10, WSL Requests and Documentation, for more information.
+6.630.4.5.4.5 (04-24-2020)
+Office is Open, but Employee Cannot Report
+When the ODS is open, an employee who is scheduled to work in the ODS is expected to report. An employee scheduled to work in the ODS who is prevented from safely traveling to work due to weather or other safety-related condition, may be eligible for a limited amount of WSL for part or all of their workday. The employee is obligated to contact their manager as early as practicable to explain the circumstances and provide an estimated time of arrival at work. An employee requesting WSL for a period they are expected to work must provide either optional Form 10837, Request for Weather and Safety Leave Due to Emergency Conditions, or other documentation supporting their claim to their manager. Refer to IRM 6.630.4.5.10, WSL Requests and Documentation, for more information.
+A manager will consider the following factors when determining if an employee will be granted WSL and uniformly apply them to all employees requesting WSL within the area affected by the weather or other safety-related condition:
+The ability to telework, if participating in the IRS Telework Program;
+The employee resides within, or travels through, an area affected by the weather or other safety-related condition;
+The mode of transportation normally used by or reasonably available to the employee;
+Efforts taken by the employee to come to work;
+The success of other similarly-situated employees;
+Any physical disability of the employee; and
+Any local travel restrictions or evacuation orders.
+In cases where the office is open and the office operating status announcement does not provide the option for unscheduled telework, an employee may, if participating in the IRS Telework Program, request to telework (if they have necessary equipment and work files). If approved, the employee must still meet the two-day per pay period in-office reporting requirement and may need to reschedule their in-office day. Refer to IRM 6.800.2, Employee Benefits, IRS Telework Program, for more information.
+If employees are unable to report due to a declared disaster area, refer to IRM 6.630.4.5.7, Major Disaster Declarations, below.
+6.630.4.5.4.6 (05-08-2023)
+Office is Closed
+Employees participating in the IRS Telework Program:
+A telework employee, who is either scheduled to telework or who is not scheduled to telework but is telework-ready, is expected to telework when their ODS is closed. The employee is expected to begin work on time, work their entire TOD, and does not receive WSL unless, in the manager’s judgment:
+
+• The weather or other safety-related condition could not reasonably be anticipated, and the employee is otherwise unable to perform productive work at the telework site; or
+• The employee is prevented from safely working at the approved telework site due to circumstances arising from the weather or other safety-related condition applicable to the telework site.
+
+Exception: WSL may not be granted to a telework employee who is approved for the temporary exception to the 200-mile radius for telework site benefit (permitted for up to two pay periods per CY under Article 50 of the National Agreement (for BU employees) and passed-through to NBU employees in the Consolidated National Agreement “Pass-Through” Provisions found at: https://irsgov.sharepoint.com/sites/EmployeeResources/SitePages/EmployeeRightsAndObligations71.aspx). If unable to telework, an employee using this benefit is required to use their own personal leave, other paid time off (such as previously earned credit hours or compensatory time) or LWOP. This WSL prohibition does not apply to an employee who is approved to telework outside the 200-mile radius due to an approved hardship or approved reasonable accommodation.
+In making the determination in (1)(a) above, the manager must evaluate whether the weather or other safety-related condition could be reasonably anticipated and whether the employee took reasonable steps (within the employee’s control) to prepare to perform telework at the approved telework site. For example, if a significant snowstorm is predicted, the employee may need to prepare by taking home any equipment (for example, laptop computer) and work needed for teleworking. Employees not in their ODS who have insufficient work or equipment may be authorized by their manager to travel on administrative time (duty/work time) to their ODS to obtain necessary work equipment or files to become telework-ready. To the extent that an employee is unable to perform work at a telework site because of failure to make necessary preparations for reasonably anticipated conditions, a manager may not provide WSL. (Refer to 5 CFR 630.1605(a)(3).) If the employee is not telework-ready for all or part of the TOD when a weather or safety-related condition forces the closure of the IRS facility, and they could not have reasonably anticipated the weather or safety-related condition, the employee may be granted an equivalent amount of WSL.
+Alternatively, an employee may request unscheduled leave (paid or unpaid) or other paid time off (such as previously earned credit hours or compensatory time).
+An employee who is prevented from safely working at the telework site is obligated to contact their manager as early as practicable to explain the circumstances. An employee requesting WSL for a period they are expected to telework must provide either optional Form 10837, Request for Weather and Safety Leave Due to Emergency Conditions, or other documentation supporting their claim to their manager. Refer to IRM 6.630.4.5.10, WSL Requests and Documentation, for more information.
+Employees not participating in the IRS Telework Program (that is, those who do not have telework agreements) will be granted WSL for the entire TOD if scheduled to work that day (that is, not on preapproved leave (paid or unpaid) or other paid time off (such as credit hours or compensatory time). Refer to IRM 6.630.4.5.5, Preapproved Leave or Other Paid Time Off, for more information.
+An employee on WSL for consecutive days is expected to respond to management attempts to contact them within 24 hours provided services (such as email, telephone, mobile phone (work or personal)) are available.
+6.630.4.5.5 (05-08-2023)
+Preapproved Leave or Other Paid Time Off
+An employee may not receive WSL for hours during which they are on other preapproved leave (paid or unpaid) or other paid time off (such as previously earned credit hours or compensatory time). (Refer to 5 CFR 630.1606(c).)
+An employee who is requesting, in the manager’s judgment, to cancel preapproved leave (paid or unpaid) or other paid time off for the primary purpose of obtaining WSL should remain on leave or other paid time off and is not provided WSL.
+However, when the weather or other safety condition prevents the use of the preapproved leave (paid or unpaid) or other paid time off for its intended purpose, it may be cancelled upon providing the manager with appropriate documentation. If the employee is not participating in the IRS Telework Program, they may be provided WSL. If the employee is participating in the IRS Telework Program, they would generally be expected to telework; however, they may also cancel preapproved leave or other paid time off and be granted the same amount of WSL as other employees if:
+The intended purpose of the leave or other paid time off is frustrated by the same weather and safety-related condition forcing the office closure; and
+The employee is not telework-ready. The manager should request information or documentation to show that granting WSL is appropriate.
+Example 1: An employee is on vacation in a distant location when offices are closed. Any request to cancel preapproved leave or other paid time off would be for the purpose of obtaining WSL because the employee is not available to work at the ODS and is not affected by the weather or safety-related emergency. Therefore, any request to cancel such leave or other paid time off may not be approved.
+
+Example 2: An employee is in the middle of a six-week period of scheduled, unpaid leave under the Family and Medical Leave Act to recover from a serious illness. This employee has no intention to report to work on the day of a weather or safety-related emergency, and if such an employee requested to cancel the unpaid leave on the day of the emergency, it would clearly be for the primary purpose of obtaining WSL. Therefore, any such request for WSL may not be approved.
+
+Example 3: An employee is unable to leave for a planned vacation because flights are suddenly cancelled due to a weather or safety-related emergency. The employee may cancel their preapproved leave or other paid time off as the cancellation is not for the primary purpose of obtaining WSL. If IRS offices are closed and the employee is participating in the IRS Telework Program, they would be expected to telework, if telework-ready. If the employee is not participating in the IRS Telework Program, or if they are but are not telework-ready, they may be provided WSL. If offices are open or operating on delayed arrival that day, the employee would follow normal procedures based on the office operating status announcement.
+
+If an employee is scheduled to use sick leave for a medical appointment and the appointment is cancelled due to a weather or safety-related condition, the legal basis for the sick leave has been eliminated, and the sick leave must be cancelled. The employee must account for the hours by requesting to charge them to another type of leave (for example, annual leave, LWOP, WSL (if appropriate)) or to other paid time off, or the employee may, if participating in the IRS Telework Program, request to perform unscheduled telework.
+An employee who requests cancellation of preapproved leave and substitution of WSL may use optional Form 10837, Request for Weather and Safety Leave Due to Emergency Conditions, or provide other documentation to their manager. Refer to IRM 6.630.4.5.10, WSL Requests and Documentation, for more information.
+6.630.4.5.6 (04-24-2020)
+Changes to AWS
+A manager should not approve WSL for an employee who, in the manager’s judgment, is changing their AWS RDO for the primary purpose of obtaining WSL. (Refer to 5 CFR 630.1606(c).)
+An employee does not receive an “in-lieu-of” AWS day off when a closure occurs on their scheduled RDO. The RDO is treated the same as any other non-workday (Saturday and Sunday for most employees).
+Refer to IRM 6.610.1, IRS Hours of Duty, and additionally for BU employees, Article 23 of the National Agreement for more information regarding when changes may be made to an RDO. Should any of the instructions in the IRM conflict with the National Agreement, the Agreement prevails for BU employees.
+6.630.4.5.7 (04-24-2020)
+Major Disaster Declarations
+When a disaster area has been declared by the President, OPM or other appropriate authority, a request for WSL beyond what may have been granted by the IRS through office operating status announcement and/or OPM based on safety considerations, may be submitted by an employee. An employee’s request will be reviewed and approved or disapproved on a case-by-case basis through the management chain by a designated business unit executive as follows:
+The employee must be unable to safely report to work and, if participating in the IRS Telework Program, unable to safely telework due to the disaster, and the inability to report to work or telework is beyond their control. Refer to IRM 6.630.4.5.4.5 for the various factors that will be considered. The ability of the employee to safely report to another POD on a temporary basis may also be considered.
+An employee requesting WSL for a period they are expected to work must provide either optional Form 10837, Request for Weather and Safety Leave Due to Emergency Conditions, or other documentation supporting their claim to their manager. Refer to IRM 6.630.4.5.10, WSL Requests and Documentation, for more information.
+Requests for WSL that are related to a disaster declaration will be reviewed and approved or disapproved through the management chain by a designated business unit executive, in consultation and coordination with the SCR and the local labor relations specialist(s) for the geographic area(s) of the disaster. This is to ensure consistent approval or disapproval of these requests across business unit lines. Refer to IRM 1.2.2.7.9, Delegation Order 6-12, Absence and Leave.
+Workplace flexibilities that can assist an employee when a disaster strikes include:
+Temporarily modified TOD (subject to the provisions of IRM 6.610.1, IRS Hours of Duty, and for BU employees, Article 23 of the National Agreement);
+Unscheduled telework;
+Unscheduled leave;
+Earning or using of credit hours to adjust work schedules;
+Advanced annual leave; and
+LWOP.
+The Emergency Leave Transfer Program (ELTP) can provide an employee additional time off to attend to personal matters resulting from a disaster emergency. If an ELTP is established, an employee may apply for donated annual leave. Additional information on the ELTP is found on IRS Source at: https://irsgov.sharepoint.com/sites/EmployeeResources/SitePages/Timekeeping3.aspx and in IRM 6.630.1, Absence and Leave.
+The Employee Assistance Program (EAP) is a no-cost, confidential counseling service available to assist an employee and their family in difficult situations. A manager may contact the EAP to request a critical incident stress debriefing for traumatic events that impact their workgroup. Services are available via the toll-free number 800-977-7631. Information on the EAP (including the mobile app) is found on IRS Source at: https://irsgov.sharepoint.com/sites/EmployeeResources/SitePages/EAP.aspx; in IRM 6.800.3, Employee Assistance and Worklife Referral Program; and additionally for BU employees, in Article 27 of the National Agreement.
+Additional disaster emergency guidance for managers and employees may be extended through IRS communication channels including the Office of the Commissioner, Deputy Commissioners, or IRS Human Capital Officer for incidents that impact significant portions of the IRS for an extensive period (for example, hurricanes, wild fires, pandemics). A manager can also refer to iManage at: https://irsgov.sharepoint.com/sites/iManage for more disaster guidance.
+6.630.4.5.8 (05-08-2023)
+Emergency at the Telework Site
+A teleworking employee who experiences a weather or other safety-related condition (for example, evacuation order, flooding, or roof collapse) that prevents them from safely working at their telework site, must contact their manager as soon as practicable.
+The employee may be directed to travel to the employee’s ODS (or if the employee is NBU, may be directed to an alternative worksite), provided it is open and they may safely travel under the circumstances, to complete their workday. If directed to travel during regular duty hours, the employee will receive administrative time (that is, work time) to cover the travel time. A manager may not extend the workday to account for the travel time to the ODS or alternative worksite.
+Example: A teleworking employee, whose TOD is 7:30 a.m. to 4:00 p.m., is directed to the ODS at 10:00 a.m. and arrives at 10:30 a.m. The employee receives administrative time (work time) for the travel from 10:00 a.m. until 10:30 a.m. and completes their TOD in the ODS at 4:00 p.m. The manager may not extend the employee’s workday to 4:30 p.m. to account for the travel time to the ODS.
+
+If the telework employee is not directed by their manager to report to their open ODS the day of the weather or other safety-related condition that prevents their safely working at the telework site, the employee may be granted WSL upon providing appropriate documentation to their manager (refer to IRM 6.630.4.5.8(4) below for an exception to this rule). The employee is generally expected to report to the open ODS on subsequent days at the beginning of their TOD until the issue at the telework site is resolved.
+An employee at their approved telework site (or other alternate worksite) who experiences an emergency that prevents them from safely completing their work assignments, and the ODS is closed, may be provided WSL upon providing appropriate documentation in support of that claim.
+Exception: WSL may not be granted to a telework employee who is approved for the temporary exception to the 200-mile radius for telework site benefit (permitted for up to two pay periods per CY under Article 50 of the National Agreement (for BU employees) and passed-through to NBU employees in the Consolidated National Agreement “Pass-Through” Provisions found at: https://irsgov.sharepoint.com/sites/EmployeeResources/SitePages/EmployeeRightsAndObligations71.aspx). If unable to telework, an employee using this benefit is required to use their own personal leave, other paid time off (such as previously earned credit hours or compensatory time) or LWOP. This WSL prohibition does not apply to an employee who is approved to telework outside the 200-mile radius due to an approved hardship or approved reasonable accommodation.
+An employee requesting WSL for any period they are expected to telework must provide either optional Form 10837, Request for Weather and Safety Leave Due to Emergency Conditions, or other documentation supporting their claim to their manager. Refer to IRM 6.630.4.5.10, WSL Requests and Documentation, for more information.
+6.630.4.5.9 (05-08-2023)
+WSL for Quarantinable Communicable Diseases
+Per OPM memorandum CPM 2020-02 at: https://www.chcoc.gov/content/human-resources-flexibilities-available-federal-employees-impacted-2019-novel-coronavirus, WSL may be authorized when an asymptomatic (that is, healthy, not displaying symptoms of the given disease), non-telework employee is subject to movement restrictions (quarantine) under the direction of public health authorities due to a significant risk of exposure to a quarantinable communicable disease. This determination is based on the significant safety risks for other employees and the general public that would be incurred if such an employee were allowed to travel to and perform work at the employee’s ODS. The employee must provide either optional Form 10837, Request for Weather and Safety Leave Due to Emergency Conditions, or other documentation supporting their claim to their manager. Refer to IRM 6.630.4.5.10, WSL Requests and Documentation, for more information.
+A telework participant under the same scenario as IRM 6.630.4.5.9(1) above (that is, asymptomatic and under quarantine at the direction of public health authorities due to significant risk of exposure to a quarantinable communicable disease), does not receive WSL. A telework employee is generally expected to telework as long as the employee is asymptomatic.
+Quarantinable communicable diseases are specified by Executive Order (for example, Executive Orders 13295, 13375, 13674, and 14047 at: https://www.federalregister.gov/presidential-documents/executive-orders/joe-biden/2021. Examples of such diseases include:
+cholera
+diphtheria
+infectious tuberculosis
+measles
+plaque
+smallpox
+yellow fever
+severe acute respiratory syndromes that are causing, or have the potential to cause, a pandemic, or, upon infection, are highly likely to cause mortality or serious morbidity if not properly controlled (such as COVID-19)
+An employee who is (or who becomes) symptomatic (ill), is diagnosed as being infected or likely has been infected with a quarantinable disease, is not eligible for WSL. If unable to work, accrued or advanced sick leave would normally be used to cover such a period of sickness as provided in 5 CFR 630.401(a)(2) and IRM 6.630.1. The manager must grant sick leave when an illness prevents an employee from performing work. If the employee exhausts their available sick leave, other paid leave (such as annual leave) or other paid time off (such as credit hours or compensatory time) may be available to an employee.
+The granting of WSL is not appropriate in cases of communicable diseases that are not designated as "quarantinable" by public health authorities since they do not pose the same high degree of safety risks for the public. Examples of such communicable diseases include cold, influenza (flu), strep throat, and chicken pox. Sick leave is authorized in these circumstances under 5 CFR 630.401(a)(5) and per IRM 6.630.1.
+6.630.4.5.10 (05-08-2023)
+WSL Requests and Documentation Requirements
+An employee who is requesting WSL due to a weather or safety-related condition or due to quarantinable communicable disease must contact their manager as soon as possible and provide appropriate documentation supporting their claim.
+An employee may use optional Form 10837, Request for Weather and Safety Leave Due to Emergency Conditions, or may use other methods to request WSL and provide the appropriate documentation supporting their claim (for example, email).
+A manager may, at their discretion, waive the requirement for documentation for WSL requests of four hours or less.
+Per IRM 1.2.2.7.9, Delegation Order 6-12, Absence and Leave, immediate managers are authorized to approve requests for WSL with the exception of those related to a major disaster declaration as outlined in IRM 6.630.4.5.7, Major Disaster Declarations, above. Disaster-related WSL requests are reviewed and approved or disapproved through the management chain by a designated business unit executive, in consultation and coordination with the SCR and the local labor relations specialist(s) for the geographic area(s) of the disaster. This is to ensure consistent approval or disapproval of these requests across business unit lines.
+6.630.4.5.11 (05-08-2023)
+Time and Attendance Records and Data System Reporting
+Records: Accurate records of the placement of an employee on WSL must be maintained. (Refer to 5 CFR 630.1607(a).)
+Reporting: In IRS data systems (including the time and attendance system) and in data reports submitted to OPM, WSL granted under 5 USC 6329c and 5 CFR 630, Subpart P, must be reported as a category of leave separate from other types of leave. (Refer to 5 CFR 630.1607(b).)
+Time and Attendance: To comply with statutory and regulatory reporting requirements, a manager must ensure an accurate accounting of when an employee is provided WSL.
+A manager must approve or disapprove requests for WSL promptly upon review of documentation submitted by the employee.
+Any WSL granted must be posted in 15-minute increments.
+A manager and employee posting WSL to the time and attendance system should review Exhibit 6.630.4-1, WSL Time and Attendance Reporting Codes and Descriptions. Additional leave OFP codes and other timekeeping information may be found on the IRS Source Timekeeping Help webpage at: https://irsgov.sharepoint.com/sites/EmployeeResources/SitePages/Timekeeping-Help.aspx.
+A leave discrepancy that requires a correction may result in a debt.
+IRM 6.630.1, Absence and Leave, contains important information regarding time and attendance records.
+IRM 1.15, Records and Information Management, and Document 12829, General Records Schedule, contain important information regarding record retention requirements.
+Exhibit 6.630.4-1
+Weather and Safety Leave Time and Attendance Reporting Codes
+OFP Code and Title	Description
+990-59511 - Weather and Safety Leave - Office Closed, Severe Weather	Post when an employee is absent on approved WSL because the office is closed due to severe weather - can be full day closure, early dismissal, or delayed arrival situation (generally for use by non-telework employees).
+990-59512 - Weather and Safety Leave - Office Closed, Other Building Issue	Post when an employee is absent on approved WSL because the office is closed due to a safety-related building issue not related to weather (for example, terrorist attack, lack of water, no heat) - can be full day closure, early dismissal, or delayed arrival situation (generally for use by non-telework employees).
+990-59513 - Weather and Safety Leave - Office Open, Cannot Safely Report
+Post when the office is open, and the employee is absent on approved WSL because they cannot safely report due to weather or other safety-related condition that prevents safely traveling (generally for use by non-telework employees).
+Post when the office is open, an early departure is announced, and an employee is approved to leave prior to the time set for dismissal due to anticipated circumstances that could prevent them from safely traveling home. Post this code from the time the employee leaves until the time the office officially closes, or if a telework employee, until the time they arrive at the telework site, but not past the official closing time. Non-telework employees then post either 990-59511 or 990-59512 (depending on the reason for the office closure) for the remainder of the workday. Telework employees post either 990-59511 or 990-59512 (depending on the reason for the office closure) for any additional travel time incurred from the official closing time until they arrive at the telework site, and then post regular work hours for the remainder of the workday.
+Post when the office is open but the employee is absent due to being quarantined at the direction of public health authorities due to exposure to a quarantinable communicable disease (generally for use by non-telework employees).
+990-59514 - Weather and Safety Leave - Telework Site Unsafe, Office Closed	Post when a telework employee is absent on approved WSL because the telework site is unsafe, or the employee could not anticipate the emergency to prepare to telework and the employee’s ODS is closed (for telework employees).
+990-59515 - Weather and Safety Leave - Telework Site Unsafe, Office Open	Post when a telework employee is absent on approved WSL because the telework site is unsafe, and the employee’s ODS is open, but the manager does not require the employee to report to the ODS (for example, too late in the day or employee has an approved reasonable accommodation) (for telework employees).

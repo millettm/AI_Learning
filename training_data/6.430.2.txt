@@ -1,0 +1,2146 @@
+6.430.2 Performance Management Program for Evaluating Bargaining Unit and Non Bargaining Unit Employees Assigned to Critical Job Elements (CJEs)
+Manual Transmittal
+December 20, 2023
+
+Purpose
+(1) This transmits revised IRM 6.430.2, Performance Management Program for Evaluating Bargaining Unit and Non-Bargaining Unit Employees Assigned to Critical Job Elements (CJEs).
+
+Material Changes
+(1) Revisions were only made to IRM 6.430.2.4.11 to incorporate HCO-06-0823-0014, Reissue Interim Guidance (IG) - Elimination of Revalidation from Performance Management for Non-Bargaining Unit (NBU) Employees, dated October 25, 2023.
+
+(2) Throughout this IRM, updated links, deleted obsolete links, and incorporated gender-neutral pronouns.
+
+Effect on Other Documents
+(1) This IRM supersedes IRM 6.430.2, Performance Management Program for Evaluating Bargaining Unit and Non-Bargaining Unit Employees Assigned to Critical Job Elements (CJEs), dated October 5, 2017.
+(2) This IRM incorporates HCO-06-0823-0014, Reissue Interim Guidance (IG) - Elimination of Revalidation from Performance Management for Non-Bargaining Unit (NBU) Employees, dated October 25, 2023.
+
+Audience
+All business units
+
+Effective Date
+(12-20-2023)
+
+Traci M. DiMartini
+IRS Human Capital Officer
+
+6.430.2.1 (10-28-2011)
+Overview and Coverage
+(1) This section describes the manner in which employees assigned to critical job elements (CJEs) are evaluated.
+
+(2) The supervisor should review IRM 6.430.1, Introduction to Performance Management, for background information before proceeding with this section.
+
+6.430.2.2 (10-28-2011)
+Step 1: Planning Expectations
+(1) On at least an annual basis, the supervisor and the employee will jointly discuss the assigned CJE performance plan and the expectations of performance against which the employee will be rated.
+
+(2) It is the supervisor’s responsibility to ensure they administer the Internal Revenue Service (IRS) Performance Management Program effectively and efficiently as it pertains to their employees. Also, the supervisor must keep current on performance management policies and processes through training courses and online resources.
+
+(3) The Service developed the CJE performance plans to align with the IRS Balanced Measurement System and to simplify and standardize the performance standards to which employees are held accountable.
+
+(4) All employees have the following CJEs:
+
+Employee Satisfaction-Employee Contribution
+
+Customer Satisfaction-Knowledge
+
+Customer Satisfaction-Application
+
+Business Results-Quality
+
+Business Results-Efficiency
+
+(5) While these CJEs are the same for each occupation, the performance aspects and the illustrative examples of levels of performance reflect the requirements of each position. Approved CJE performance plans may be found in the CJE Resource Center at https://irsgov.sharepoint.com/sites/EmployeeResources/SitePages/CareerOpportunities6.aspx?OR=Teams-HL&CT=1697136730253&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MDExMjIyOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D.
+
+6.430.2.2.1 (06-12-2009)
+Retention Standard for the Fair and Equitable Treatment of Taxpayers
+(1) The Internal Revenue Service Restructuring and Reform Act of 1998 (RRA ’98), Section 1204, requires all IRS employees to be evaluated on the fair and equitable treatment of taxpayers. This requirement has been incorporated into a Retention Standard for the fair and equitable treatment of taxpayers that is the same for all employees.
+
+(2) For information on Discussing The Retention Standard for the Fair and Equitable Treatment of Taxpayers, see IRM 6.430.2.2.5 and Exhibit 6.430.2-1.
+
+6.430.2.2.2 (10-28-2011)
+Preparing for the Performance Appraisal Cycle
+(1) The supervisor reviews the employee’s assigned standard position description (SPD), verifying that it accurately reflects the assigned duties. If it does not, the supervisor contacts the Human Capital Office (HCO), Position Management/Classification for assistance in identifying the appropriate SPD or developing a new one.
+
+(2) In most cases, the supervisor will start with an existing performance plan that is appropriate for the employee’s position. However, the supervisor may need to obtain a new performance plan if appropriate CJEs and performance aspects for the employee’s SPD do not exist. In the latter case, the supervisor contacts the business unit representative for guidance in obtaining the appropriate performance plan from the CJE Resource Center at https://irsgov.sharepoint.com/sites/EmployeeResources/SitePages/CareerOpportunities6.aspx?OR=Teams-HL&CT=1697136730253&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MDExMjIyOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D.
+
+Note: See IRM 6.430.2.2.3, Developing or Revising CJE Performance Plans, and Exhibit 6.430.2-2 for the procedure that must be followed when developing CJEs.
+
+(3) The performance of bargaining unit and non-bargaining unit employees assigned to the following supervisory codes are evaluated against CJEs and performance aspects:
+
+6 (Work leaders)
+
+7 (Team leaders when leading employees on CJEs)
+
+8 (All other positions)
+
+The supervisory code is found on the employee’s SPD and controls the appropriate performance plan.
+(4) The supervisor must annotate the accuracy of the SPD on Form 6774, Receipt of Critical Job Elements and Fair and Equitable Treatment of Taxpayers Retention Standard, each year. If the SPD is no longer accurate, the supervisor should contact their business unit for further guidance.
+
+(5) The supervisor reviews the employee position specific CJE performance plan, which is composed of the CJEs and performance aspects describing the "Meets," "Exceeds," and "Fails" levels. The CJE performance plans may be found in the CJE Resource Center at https://irsgov.sharepoint.com/sites/EmployeeResources/SitePages/CareerOpportunities6.aspx?OR=Teams-HL&CT=1697136730253&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MDExMjIyOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D.
+
+(6) All CJE performance plans, including any new or revised performance plans, are approved and controlled by the HCO, Performance Management and Recognition office.
+
+6.430.2.2.3 (10-28-2011)
+Developing or Revising CJE Performance Plans
+(1) The CJE performance plans are developed by teams of subject matter experts (SMEs) using the following process:
+
+The significant tasks for each position covered by the performance plan are identified by job analysis
+
+The significant tasks are aligned with one of the following four balanced measures CJEs: Customer Satisfaction-Knowledge; Customer Satisfaction-Application; Business Results-Quality, or Business Results-Efficiency
+
+No tasks are aligned to the Employee Satisfaction-Employee Contribution CJE since this CJE remains the same for all positions
+
+The significant tasks aligned to a CJE are grouped into similar areas known as performance aspects
+
+Performance levels for "Meets," "Exceeds," and "Fails" are developed for each performance aspect
+
+(2) Business units must ensure the above process is followed when new CJE performance plans are developed or existing performance plans are revised.
+
+(3) Since CJE performance plans and performance aspects are intended to be as cross functional as possible, business units should coordinate development of a new or revised CJE performance plan with other divisions or functions that may use that plan.
+
+(4) Business units must perform a complete job analysis when creating or modifying performance plans. This job analysis should include the following documentation:
+
+A copy of the applicable SPDs
+
+Major job requirements (should be highlighted in the body of the SPD and described in more detail on a separate sheet if the description in the SPD is inadequate)
+
+The knowledge, skills, and abilities (KSAs) that are required to perform the identified major job requirements and are important in evaluating candidates
+
+An explanation of the linkage of the listed KSAs to the new or modified CJE performance aspects
+
+The name, title, pay plan/series/grade, signature, and signature date for SMEs responsible for job analysis validity (two or more recommended)
+
+The name, signature, and signature date of the reviewing human resources specialist
+
+(5) The HCO, Performance Management and Recognition office will retain this written record including the job analysis and supporting documentation for as long as the CJE performance plan is current.
+
+(6) Business units must submit the new or revised performance plans to the HCO, Performance Management and Recognition office, for review and approval.
+
+(7) After approval, the HCO, Performance Management and Recognition office will provide a copy of the new or revised CJE performance plans covering bargaining unit employees to the HCO’s Labor/Employee Relations & Negotiations division for inclusion as part of the notice process as specified in the National Agreement (Document 11678).
+
+(8) The National Treasury Employees Union (NTEU) will be given the opportunity to bargain impact and implementation before the new or revised CJE performance plans for bargaining unit employees are put into effect.
+
+(9) The HCO will forward the approved performance plans to Media and Publications, Publishing Services, to be put into the proper format and retained in the Electronic Publishing Product Catalog.
+
+Note: See Exhibit 6.430.2-2 for more information on developing and documenting new or revised CJE performance plans and performance aspects.
+
+6.430.2.2.4 (01-01-2007)
+Establishing the Appropriate CJE Performance Plan
+(1) Establishing the appropriate CJE performance plan is a three-step process that includes:
+
+Identifying the appropriate CJE performance plan
+
+Sharing and discussing the CJE performance plan with the employee
+
+Finalizing the CJE performance plan
+
+6.430.2.2.4.1 (01-01-2007)
+Identifying the Appropriate CJE Performance Plan
+(1) Normally performance plans are developed and used for each of the positions in the same career ladder. Career ladder positions are usually identified in the SPD and the vacancy announcement.
+
+(2) When employees at different grade levels of the same occupation (e.g., Revenue Agents, Management Analysts) share the same CJE performance plans, the supervisor should clearly convey the expectations for the employee’s specific grade level to each employee covered by the shared CJEs.
+
+6.430.2.2.4.2 (10-28-2011)
+Sharing and Discussing the CJE Performance Plan
+(1) Sharing the performance plan with the employee timely is critical. The supervisor’s assessment of an employee against their CJE performance plan serves as the basis for several actions, including: within-grade increase (WGI), promotion, recognizing and rewarding the employee, determining employee development needs, helping the employee improve, resolving performance deficiencies, or taking performance actions on an employee who continues to perform at a less than "Fully Successful" level.
+
+(2) The supervisor must meet with the employee within 30 days of the beginning of the employee’s appraisal period or when the employee is assigned to a new position that is expected to last at least 60 days or longer (e.g., temporary promotion, detail). This timeframe ensures the employee has sufficient time to understand the supervisor’s expectations for job performance and what performance is needed to achieve a specific rating.
+
+(3) The process of providing a CJE performance plan ensures the supervisor identifies, determines, and discusses with each employee current and future projects and timeframes to meet the Service’s mission. This is accomplished with the supervisor and employee discussing goals, objectives and the role the employee will play in meeting and or exceeding those goals and objectives. Assignments will relate to long-term and short-term Servicewide, division, and/or other organizational performance initiatives.
+
+(4) The supervisor should discuss how the employee’s CJE performance plan links to the organizational work plans and balanced measures.
+
+Note: For additional information see IRM 1.5.2, Managing Statistics in a Balanced Measurement System, Uses of Section 1204 Statistics.
+
+(5) The supervisor should encourage the employee to come to the meeting with preliminary ideas of how the employee can contribute to the overall success of the IRS mission, strategic business goals, and business plan.
+
+(6) The supervisor and employee should discuss the organizational resources (e.g., funding, staffing, training) needed to support the accomplishment of each CJE. In most cases, no additional resources will be needed.
+
+(7) The supervisor will determine the type of meeting to discuss the CJE performance plans. These meetings will be held as a group meeting, or as a one-on-one session. The supervisor will ensure the following items are available during the meeting:
+
+Form 6774, Receipt of Critical Job Elements and Equitable Treatment of Taxpayers Retention Standard
+
+CJE performance plan
+
+Business unit and group’s workplans as appropriate
+
+(8) Each NTEU chapter whose bargaining unit members are attending the meeting should be provided reasonable notification and an opportunity to attend the meeting subject to the provisions of the National Agreement (Document 11678).
+
+(9) In accordance with the IRS Restructuring and Reform Act of 1998 (RRA ’98), the supervisor must discuss the Retention Standard for the Fair and Equitable Treatment of Taxpayers regardless of whether the employee has regular dealings with taxpayers.
+
+Note: See Exhibit 6.430.2-1 and on iManage, see the Retention Standard for Fair and Equitable Treatment of Taxpayers at https://irsgov.sharepoint.com/sites/iManage/SitePages/Employees-Evaluated-by-CJEs-Policy,-Guidance,-and-Memoranda.aspx?OR=Teams-HL&CT=1697137314414&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MDExMjIyOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D.
+
+6.430.2.2.4.3 (10-05-2017)
+Finalizing the CJE Performance Plan
+(1) After discussing the performance plan with the employee, the supervisor and the employee sign Form 6774, Receipt of Critical Job Elements and Fair and Equitable Treatment of Taxpayers Retention Standard. This form acknowledges receipt of the performance plan and Retention Standard for the fair and equitable treatment of taxpayers and discussion between the supervisor and the employee.
+
+(2) Annually, the supervisor and the employee must sign (or initial) and date Form 6774, Receipt of Critical Job Elements and Fair and Equitable Treatment of Taxpayers Retention Standard. Both managers and employees have the option of signing using the digital signature feature built into the form, but bargaining unit employees must also be given the option of signing the form manually and returning the hard copy to the manager. The digital signature must display either the signer’s name or Standard Employee Identifier (SEID). If there is no digital signature that displays the signer’s name or SEID, the form must be signed manually.
+
+Note: Proxy signatures are not permitted on official performance documentation
+
+(3) If the CJEs have not changed for a journey level or above employee, the supervisor need not meet with the employee regardless of bargaining unit status, but must communicate that the CJE performance plan remains the same for the CJEs have not changed for an appraisal period. Even if the supervisor does not hold the CJE meeting, the supervisor and the employee still must sign or initial and date a new Form 6774, Receipt of Critical Job Elements and Fair and Equitable Treatment of Taxpayers Retention Standard for the upcoming appraisal period.
+
+(4) When an employee returns to their permanent position during the same appraisal year following a temporary assignment, a new CJE performance plan is not required. The supervisor for the employee's permanent position reinstates the performance plan previously in effect. The time previously accrued under that performance plan counts toward the 60 day period for determining rating eligibility.
+
+(5) When an employee returns to duty from an absence that began during a previous appraisal period, the supervisor and employee must sign and date a new Form 6774, Receipt of Critical Job Elements and Fair and Equitable Treatment of Taxpayers Retention Standard.
+
+(6) The supervisor ensures the CJE performance plan, the signed Form 6774, Receipt of Critical Job Elements and Fair and Equitable Treatment of Taxpayers Retention Standard, and the employee’s SPD are filed in the Employee Performance Folder (EPF), and provides the employee with a copy of each.
+
+6.430.2.2.4.4 (10-28-2011)
+Changes to the CJE Performance Plan or Employee Expectations
+(1) Any changes made to an existing performance plan must be coordinated with the divisions or functions before final approval by the HCO, and must be submitted by the HCO to the National Headquarters, NTEU, as required by the National Agreement (Document 11678) for bargaining unit positions.
+
+(2) If the supervisor finds it necessary to make a minor change (such as when a task is inapplicable to a performance aspect) to the CJE performance plan during the appraisal period, the supervisor should discuss the changes with the employee as soon as feasible. These changes may be necessitated by organizational, environmental, personal, or other conditions. The supervisor must document the changes, file the original in the employee's EPF, and provide a copy to the employee.
+
+(3) Changes in CJE performance plans or expectations against an established performance plan should be finalized at least 60 days before the end of the employee's appraisal period to avoid having to extend the appraisal period.
+
+6.430.2.2.5 (06-12-2009)
+Discussing The Retention Standard for the Fair and Equitable Treatment of Taxpayers
+(1) The supervisor must discuss with the employee behaviors that allow the employee to meet the Retention Standard for the fair and equitable treatment of taxpayers as well as, circumstances that may result in a determination that the employee does not meet the Retention Standard for the fair and equitable treatment of taxpayers, and the potential impact of not meeting the Retention Standard for the fair and equitable treatment of taxpayers. Exhibit 6.430.2-1 provides examples of behavior that may result in a "Met" or "Not Met" rating. See Exhibit 6.430.2-1.
+
+(2) Discussion of the Retention Standard for the fair and equitable treatment of taxpayers will include:
+
+An explanation of the requirements of the Retention Standard for the fair and equitable treatment of taxpayers in relationship to the employee’s job expectations
+
+The potential impacts of not meeting the standard
+
+Avoidance of, use of the words "deliberately" or "intentionally" in describing behavior that does not meet the standard
+
+An explanation of why infrequent lapses that are inadvertent or unavoidable will not result in a "Not Met" rating
+
+An explanation of why a "Met" or "Not Applicable" rating will have no effect on the overall rating, ranking in merit promotion actions, or entitlement to performance awards
+
+An explanation of why a "Not Met" rating for the Retention Standard for the fair and equitable treatment of taxpayers will result in an "Unacceptable" overall rating. An "Unacceptable" overall rating makes the employee ineligible for a performance award, WGI, career ladder promotion, competition for promotion, or satisfactory completion of a probationary period, and may result in the employee’s removal from the position and/or the IRS. An "Unacceptable" overall rating will also adversely affect an employee’s retention standing in a reduction in force
+
+Note: See Exhibit 6.430.2-1 and on iManage, see the Retention Standard for Fair and Equitable Treatment of Taxpayers at https://irsgov.sharepoint.com/sites/iManage/SitePages/Employees-Evaluated-by-CJEs-Policy,-Guidance,-and-Memoranda.aspx?OR=Teams-HL&CT=1697137314414&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MDExMjIyOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D.
+
+6.430.2.3 (06-12-2009)
+Step 2: Monitoring Progress
+(1) During this step, the supervisor continuously monitors the employee’s progress against the Retention Standard for the fair and equitable treatment of taxpayers and CJE performance plan and performance aspects, notes areas of significant achievement, identifies deficiencies, and initiates corrective actions.
+
+6.430.2.3.1 (10-28-2011)
+Monitoring the Performance Plan
+(1) The supervisor should monitor the employee's performance plan through the following:
+
+Observes and documents employee behavior and performance during the appraisal period
+
+Documents observations as they happen because recalling specific past behavior and performance is often difficult
+
+Documents observations in sufficient detail to be understood by another supervisor. The manner in which performance is documented should be consistent for all employees and should not include comparing one employee to another
+
+Focuses on specific actions the employee took to accomplish CJEs and does not evaluate personality traits
+
+Cites performance or outcomes, not conduct or general impressions
+
+Focuses on performance as it relates to the Retention Standard for the fair and equitable treatment of taxpayers and progress toward achieving CJEs
+
+Provides ongoing feedback and coaching to the employee
+
+(2) Supervisors should avoid:
+
+Delaying the documentation of an employee’s performance
+
+Comparing employees against one another
+
+Evaluating an employee’s personality traits
+
+Citing the employee’s conduct or general impressions of the employee
+
+(3) The supervisor may NOT use Records of Tax Enforcement Results (ROTERs) in monitoring progress against CJEs. ROTERs do not convey how an employee performed in relation to requirements of the CJE performance plan.
+
+Note: For additional information on ROTERs, see IRM 1.5.2, Managing Statistics in a Balanced Measurement System, Uses of Section 1204 Statistics.
+
+(4) The supervisor should keep performance data organized in the EPF. All documents used in formulating an evaluation must be shared with the employee prior to placing it in the employee’s EPF. Supervisors must share any written evaluative recordation with bargaining unit employees within time periods established in the National Agreement (Document 11678). If not, it cannot be used as evaluative recordation.
+
+Note: For additional information on the EPF, see IRM 6.430.2.3.5.
+
+6.430.2.3.2 (10-28-2011)
+Conducting Progress Reviews
+(1) The supervisor observes the employee’s performance on a regular basis throughout the employee’s appraisal period.
+
+(2) At a minimum, the supervisor must conduct a mandatory mid-year progress review on the requirements of the CJE performance plan.
+
+The mid-year progress review is a review of the employee’s work based on observation of behaviors related to the CJE performance plan for the position.
+
+The mid-year progress review generally occurs at the mid point of the appraisal period and must include a discussion on progress in meeting expectations (CJEs and the Retention Standard for the fair and equitable treatment of taxpayers).
+
+While the supervisor should, at a minimum, discuss each performance aspect whose performance has changed from the previous rating of record, there is no requirement to assign a "Meets," "Exceeds," or "Fails" rating to each performance aspect. In addition, the supervisor is not required to provide numerical ratings for the CJEs or the overall rating during the mid-year progress review.
+
+(3) The supervisor should provide meaningful feedback, relating it specifically to CJEs, opportunities for improvement, and the manner in which progress is being achieved. The supervisor should also cite outcomes and specific examples and offer feedback when it can be discussed and when it is most useful, that is as soon as the work is completed or before the employee will be doing a similar task. The supervisor should also coach the employee in ways to improve performance. The supervisor should combine formal and informal feedback often throughout the appraisal period to highlight changes in performance and next steps. Monthly or quarterly one-on-one sessions may be appropriate in addition to the mandatory mid-year progress review.
+
+(4) The supervisor should combine formal and informal feedback often throughout the appraisal period to highlight changes in performance and next steps. Monthly or quarterly one-on-one sessions may be appropriate in addition to the mandatory mid-year progress review.
+
+(5) All performance recordations and discussions must be documented and shared with the employee prior to being filed in the EPF. Any employee comments concerning the recordations must also be filed in the EPF. The date the progress review was conducted should be noted on the performance appraisal form. Supervisors must share any written progress reviews with bargaining unit employees within time periods established in the National Agreement (Document 11678). If not, they cannot be used as evaluative recordation.
+
+(6) If the supervisor notes that an employee’s performance has declined from the previous appraisal period, the supervisor must note it and conduct a counseling session with the employee. Although performance feedback is always encouraged, supervisors are not required to notify a non bargaining unit employee prior to lowering the employee's average CJE score from the previous annual rating.
+
+Note: For more information concerning a decrease in performance of an employee, see Acknowledging Decreased Work Performance in IRM 6.430.2.3.3.
+
+(7) Generally, employees may not grieve progress reviews until they are used in the annual rating of record. This is because the supervisor may change their evaluation of performance before the end of the appraisal period and the performance documentation may not be used in the performance appraisal. Grievances filed before that time would be premature. However, an employee may attach documentation regarding matters of concern to their progress review.
+
+Exception: A bargaining unit employee may grieve a mid-year progress review or other evaluation recordation if that recordation has been used by management as the basis for denying the employee a benefit such as the ability to work overtime or continue on an alternative work schedule (AWS).
+
+6.430.2.3.3 (01-01-2007)
+Acknowledging Decreased Work Performance
+(1) It is the supervisor’s responsibility to inform the employee whenever a decrease in work performance is observed either from the prior year’s appraisal or from the mid-year progress review. A decrease in performance necessitating supervisory involvement normally refers to the decline of one or more rating levels (i.e.," Exceeds Fully Successful" to" Fully Successful"). In this event, the following steps may be taken:
+
+Identify any area or areas of decreased performance that are related to the CJEs and performance aspects of the employee’s performance plan
+
+Discuss with the employee the decrease in performance or any performance deficiencies identified, including the Retention Standard for the fair and equitable treatment of taxpayers
+
+Fully document, in writing, the specific examples of decreased performance and the associated aspects that were observed and any discussions with the employee about them. This documentation should be filed in the employee’s EPF
+
+Discuss recommendations for improved work performance with the employee. This may include identifying and providing supplemental training or reading, on-the-job training, and other developmental activities, as appropriate, to help improve employee performance, especially when performance falls below the "Meets" level in one or more aspects
+
+Continue to monitor the employee’s work performance until the work performance improves. Frequently review and discuss work performance with the employee
+
+If performance is below the "Fully Successful" level and the employee does not improve their performance, continue to hold progress reviews to provide the employee an opportunity to raise the level of their work performance
+
+Note: Employees who are rated below "Fully Successful "are not eligible for WGI. See IRM 6.430.2.5.4, Within-Grade Increase (WGI) Determination, for more information and for more information on WGI determinations for bargaining unit employees, see the National Agreement (Document 11678).
+
+6.430.2.3.4 (10-28-2011)
+Marginal and Unacceptable Performance
+(1) Supervisors must provide assistance to employees at any time during the appraisal period that performance is determined to be "Minimally Successful" or "Unacceptable" in one or more CJEs or the Retention Standard for the fair and equitable treatment of taxpayers.
+
+(2) The supervisor must consult with their servicing Labor Relations/Employee Relations Office regarding any performance rating of "Unacceptable" or "Minimally Successful" to ensure that all parties understand the implications of failing to improve.
+
+(3) Employees who do not meet the Retention Standard for the fair and equitable treatment of taxpayers, or are performing below "Minimally Successful" in any of the CJEs should be counseled as early as possible in the appraisal period. Failure to improve or to sustain at least a" Minimally Successful" rating could impact an employee’s ability to remain in their position.
+
+(4) Before a supervisor begins the formal process of taking a performance based action, the supervisor needs to be aware that they have certain options. The law provides for two different processes for taking performance based actions:
+
+If a performance based action is taken under 5 CFR Part 432, a formal opportunity to improve is required
+
+If a performance based action is taken under the adverse action procedures of 5 CFR Part 752, an opportunity period is not required
+
+Note: Regardless of the process used, the supervisor must contact the servicing Labor Relations/Employee Relations Office for assistance.
+
+(5) "Unacceptable" ratings must be reviewed and approved by an official higher than the rating official.
+
+(6) When an employee's performance fails to meet established performance expectations at an acceptable level (i.e., "Minimally Successful") in one or more CJEs or the Retention Standard for the fair and equitable treatment of taxpayers, the supervisor must notify the employee in writing. This notice must advise the employee of the following:
+
+That their performance is unacceptable
+
+Which CJE(s) are not being performed in an acceptable manner
+
+What is required to perform at the rating level of "Fully Successful" or above
+
+Any assistance that will be provided to the employee
+
+What the reasonable period to demonstrate acceptable performance will be
+
+Failure to perform at an acceptable performance level may result in removal, reduction in grade, withholding of a WGI, or reassignment depending upon the performance factors
+
+(7) The employee must be provided a minimum of 60 days during which to raise their work performance to an acceptable level. While a rating of record showing the "Unacceptable" performance is not required at this time, the supervisor must communicate to the employee in writing the specifics for the "Unacceptable" rating.
+
+(8) If an employee’s performance does not improve to an acceptable level (i.e., Minimally Successful), an adverse action may result (e.g., reduction in grade, reassignment, or removal). The supervisor must contact the servicing Labor Relations/Employee Relations Office before initiating any formal performance based action.
+
+Note: For additional information, see IRM 6.432.1, Addressing Poor Performance.
+
+(9) If the employee demonstrates acceptable performance during the opportunity period, the rating official retains the notice of unacceptable performance in the EPF for one year from the date the opportunity period became effective.
+
+In accordance with 5 USC Section 4303(d) if, because of performance improvement by the employee during the notice period, the employee is not reduced in grade or removed, and the employee's performance continues to be acceptable for one year from the date of the advance written notice, any entry or other notation of the unacceptable performance for which the action was proposed must be removed from any record, manual and automated, relating to the employee
+
+The rating official is responsible for removing and destroying such records from the EPF and for initiating removal from the Service’s automated personnel records
+
+(10) Saving Provision – Any administrative action initiated (e.g., an action taken against "Unacceptable" employees under 5 USC Section 4303) must continue to be processed consistent with the procedures and requirements of the program in effect when the action was initiated.
+
+(11) A rating of "Minimally Successful" or "Unacceptable" will also lead to the employee’s ineligibility to receive a WGI, career ladder promotion, or to complete their probationary period.
+
+Note: See IRM 6.531.1, Pay Under the General Schedule and IRS Payband System, for more information.
+
+6.430.2.3.5 (10-28-2011)
+Employee Performance File (EPF)
+(1) The EPF is a system consisting of all performance ratings and other performance-related records maintained on an employee in accordance with 5 CFR Part 293, Subpart D.
+
+(2) Management is responsible for creating records concerning employee performance and maintaining them in accordance with the Privacy Act and Freedom of Information Act regulations.
+
+(3) At a minimum, the EPF should contain forms and documents which:
+
+Record and support the performance appraisal and individual performance plans
+
+Are used by the supervisor to recommend a personnel action affecting an employee when the basis for the action is performance related
+
+Are furnished in support of recommended actions and the agency’s final decision on the matter
+
+Note: Other types of documents and forms may include Individual Development Plans (IDPs), recommendations for training that are performance-related, and copies of supervisory counseling session records resulting in performance based personnel actions
+
+(4) The following documents must be maintained for four years:
+
+Form 6850-BU, Bargaining Unit Performance Appraisal and Recognition Election; Form 6850-NBU, Non Bargaining Unit Performance Appraisal; or previous editions
+
+The CJE performance plan document
+
+Progress review(s) documentation
+
+Employee self-assessments
+
+Documented workload reviews, case file reviews, and job visitations
+
+Any other documentation that supports the performance rating
+
+Form 6774, Receipt for Critical Job Elements and Fair and Equitable Treatment of Taxpayers Retention Standard
+
+(5) The supervisor must keep performance records in the EPF as long as necessary, if needed in connection with a grievance, appeal, or judicial proceeding.
+
+(6) For employees who are permanently changing positions within the IRS, the supervisor will ensure the employee’s entire EPF is forwarded to the gaining supervisor.
+
+(7) For employees who are accepting outside employment and leaving the IRS, who are accepting employment with another government agency, or who are resigning or retiring from IRS the supervisor must remove all of the ratings of record completed within the last four years from the separating employee’s EPF, attach these ratings of record to Form 3210, Document Transmittal, and forward the package to the following address:
+
+Internal Revenue Service - OPF Consolidation Site
+440 Space Center Drive
+Lee's Summit, MO 64064
+(8) The National Archives and Records Administration staff will ensure the ratings of record with appropriate CJE performance plan documents are filed in the Official Personnel Folder (OPF) before being sent to the Federal Records Center, if the employee resigns or to the gaining agency if the employee transfers.
+
+(9) Supervisors must destroy any remaining performance related documents unless such records are needed in connection with a grievance, appeal, or judicial proceeding.
+
+6.430.2.4 (01-01-2007)
+Step 3: Evaluating Performance
+(1) During this step, the supervisor completes the employee’s performance appraisal and conducts a performance appraisal meeting with the employee.
+
+6.430.2.4.1 (10-28-2011)
+The Annual Performance Appraisal Process
+(1) All employees who have served the minimum appraisal period of 60 calendar days are entitled to an annual performance appraisal that becomes the rating of record.
+
+(2) Permanent supervisors complete the annual performance appraisals for employees under their authority.
+
+(3) Employees who are temporarily promoted or detailed to a supervisory position have the authority to complete the annual performance appraisals for employees under their supervision. There is no minimum period of time required for this authority.
+
+(4) The employee’s performance must have been observed a minimum of 60 days in the appraisal period by any supervisor who was responsible for assigning, reviewing, and evaluating the employee's work. However, it is not necessary for the employee's current supervisor to have observed the employee’s performance under a signed performance plan for 60 days or more.
+
+(5) The supervisor should consider the following when evaluating performance for an annual appraisal:
+
+Position description
+
+CJE performance plan (CJEs and performance aspects)
+
+Mid-year and other progress reviews
+
+Employee’s work products (management briefings, memos)
+
+Employee’s self-assessment
+
+Feedback from coworkers, taxpayers, and other customers
+
+Team assignments and contributions to work group
+
+Special achievements
+
+Note: For more information on the various reasons for performance appraisals, see Exhibit 6.430.2-3.
+
+6.430.2.4.2 (01-01-2007)
+Appraisal Period
+(1) Bargaining unit and non bargaining unit employees covered by CJE performance plans are evaluated in accordance with a schedule based on the employee’s last digit of their Social Security Number (SSN). The schedule for appraisal periods and due dates is shown in the National Agreement (Document 11678).
+
+(2) In addition, an appraisal period will begin each time an employee is assigned to a new position for at least 60 days (e.g., temporary promotions, details, projects, or task forces) or issued a new CJE performance plan.
+
+(3) If the employee has not been observed by the current or another supervisor for 60 days on their performance plan at the time the employee's annual rating is due, the supervisor must:
+
+Ensure that a performance plan has been issued
+
+Ensure that the employee has signed the performance plan
+
+Postpone any rating until the employee’s performance has been observed for a minimum of 60 days
+
+Use the employee’s existing rating of record as the current rating of record until the new appraisal is prepared
+
+(4) A new performance plan is not required for an employee returning to their permanent position following a temporary personnel action if the employee is returning during the same appraisal cycle. In this case, the supervisor of the employee’s permanent position may reinstate the performance plan previously in effect rather than complete a new performance plan. The time previously accrued under the original performance plan would count toward the 60 day period for rating eligibility.
+
+6.430.2.4.2.1 (10-28-2011)
+Performance Appraisal Due Dates
+(1) The supervisor must complete the employee's annual appraisal for both bargaining unit and non bargaining unit employees within the scheduled time limits shown in the National Agreement (Document 11678), provided the employee has been observed for 60 days or more against their signed performance plan during the appraisal period.
+
+Note: See Exhibit 6.430.2-4 for more information on performance appraisal due dates.
+
+(2) The supervisor must follow their business unit’s procedures for ensuring that the employee’s annual appraisal is entered into the Service’s automated performance appraisal system.
+
+(3) Departure appraisals are required for temporary assignments of 60 days or more during the appraisal period. These appraisals should be completed within 30 days after the employee completes the temporary assignment and should be forwarded to the supervisor responsible for assigning the overall rating.
+
+Note: For more information concerning departure appraisals, see the discussion on departure appraisals in IRM 6.430.2.5.1, IRM 6.430.5, and Exhibit 6.430.2-4.
+
+6.430.2.4.2.2 (10-28-2011)
+Extension of the Appraisal Period
+(1) When an annual rating of record cannot be prepared at the specified time, the appraisal period shall be extended for the minimum appraisal period of 60 days to meet the conditions necessary to complete a rating of record.
+
+(2) To extend the appraisal period, the employee must be in work status on the appraisal period ending date and have some performance under a signed performance plan during the appraisal year. The supervisor must decide to extend the employee’s appraisal year on or before the employee’s appraisal period ending date.
+
+(3) The employee is "Not Ratable" if all of the following conditions exist:
+
+The employee has less than 60 days performance under a signed performance plan during the appraisal year
+
+The employee’s appraisal period has ended
+
+The employee is not in work status on the appraisal period ending date
+
+Note: See IRM 6.430.2.5.5 for more information on "Not Ratable" determinations.
+
+(4) Examples of extension situations include but are not limited to:
+
+To meet the 60 day minimum performance appraisal period.
+For non bargaining unit employees only - The supervisor should not extend the appraisal period of a newly-hired NBU employee solely to provide the employee with a rating of record. In that event, the employee is "Not Ratable" for the appraisal period.
+
+Note: For more information on "Not Ratable" determinations, see IRM 6.430.2.5.5.
+
+To provide a new supervisor an opportunity to observe an employee’s performance against current requirements when information concerning the employee’s past performance is not available
+
+To appraise an employee whose overall performance has been less than acceptable due to personal circumstances, (e.g., extended illness or other circumstances) and there is evidence of improvement in the employee’s performance
+
+To provide a performance improvement period to an employee who was previously notified of failure to meet one or more performance standards
+
+(5) An extension of the appraisal period will not affect the next appraisal "period covered" ending date; however, the starting date of the next appraisal period begins after the extension ends.
+
+(6) When the appraisal period is extended, the supervisor shall immediately inform the employee and the reviewing official.
+
+(7) The supervisor must follow their business unit’s procedures for ensuring that the employee’s annual appraisal is entered into the Service’s automated performance appraisal system after the extended appraisal period is completed and the rating of record is assigned.
+
+6.430.2.4.2.3 (01-01-2007)
+Dates on the Performance Appraisal Form
+(1) The supervisor should accurately annotate the appraisal period on the appraisal form.
+
+(2) The date that the annual appraisal period ends will normally be the "to" date under period covered on the performance agreement form.
+
+(3) If an employee's departure from a permanent position is within 60 days from the date the appraisal period ends, the "to" date should reflect the actual departure date since that date reflects the date the employee actually departed their position.
+
+(4) The entire appraisal period including any extensions necessary should be indicated under the period covered.
+
+6.430.2.4.3 (06-12-2009)
+Employees Serving Probationary Periods
+(1) The supervisor should begin monitoring probationary employees immediately to determine if they are able to perform the work, and are otherwise suited for retention in their position. Although formal performance improvement plans are not required for probationary employees, the supervisor should provide the probationary employees who are not meeting their CJE performance plan with sufficient information to help them understand how they are failing and how they can improve.
+
+(2) Probationary employees are included in the appraisal schedule shown in the National Agreement (Document 11678). Their scheduled annual appraisal period is based on the last digit of their SSN. If the probationary employee has at least 60 days under a signed performance plan (Form 6774, Receipt of Critical Job Elements and Retention Standard) at the time the annual rating is due, the supervisor must prepare a Form 6850-BU or Form 6850-NBU even if the employee has not been in the position for a full year.
+
+(3) If the probationary employee's performance does not improve, then the supervisor should immediately begin action to terminate the employee from the position and/or Federal service.
+
+(4) Supervisors should consult with the servicing Labor Relations/Employee Relations Office regarding any performance rating of "Minimally Successful" or "Unacceptable" to ensure that all parties understand the implications of failing to improve.
+
+(5) A rating of "Fully Successful" or higher, rendered early during the probationary period does not preclude a subsequent decision that the employee is not performing at the expected level, or is otherwise unsuitable to be retained. However, the supervisor should provide specific examples of how performance deteriorated after the rating was assigned if the decision to remove during probation is for unacceptable performance.
+
+6.430.2.4.4 (01-01-2007)
+Minimum Appraisal Period for Full Time Union Representatives
+(1) See the National Agreement (Document 11678) for more information.
+
+6.430.2.4.5 (10-15-2010)
+Self-Assessments
+(1) Self-assessments are narrative descriptions or lists of accomplishments that the employee develops for the annual rating to describe their realization of goals, objectives, achievements, and significant accomplishments or challenges during the specified appraisal period.
+
+(2) An effective self-assessment describes the specific actions taken by the employee to accomplish work requirements identified by the CJE performance plan and the Retention Standard for the fair and equitable treatment of taxpayers.
+
+(3) Bargaining unit employees are not required to submit a self-assessment but should be encouraged to do so.
+
+(4) Within the last 30 days of the appraisal period, the supervisor should ask the employee to prepare a self-assessment.
+
+(5) A bargaining unit employee must be given up to four hours of official time to prepare a self-assessment, if the employee requests it. This requirement has not been extended to non bargaining unit employees.
+
+(6) Bargaining unit employees should submit their self-assessment to their immediate supervisor no later than the last workday of their appraisal cycle.
+
+(7) Non bargaining unit employees should submit their self-assessment to their immediate supervisor by the date requested by their supervisor.
+
+(8) The supervisor must consider the employee’s self-assessment when preparing the employee’s annual appraisal.
+
+(9) If the employee prepares a self-assessment, it should be attached to the employee’s revalidated annual appraisal for all purposes.
+
+(10) Self-assessments are limited to four pages regardless of the format chosen. Employees may (but are not required to) use Form 13335, Performance Appraisal Self-Assessment Form in preparing and submitting a self-assessment.
+
+Note: More information on writing self-assessments is found in the Performance Appraisal Self-Assessment Tutorial at https://publish.no.irs.gov/cat12.cgi?request=CAT2&itemtyp=D&itemb=11948&items=%2a.
+
+6.430.2.4.5.1 (01-01-2007)
+Using ROTERs in Self-Assessments
+(1) Using Records of Tax Enforcement Results (ROTERs) in self-assessments does not violate either Section 1204 of the IRS Restructuring and Reform Act of 1998 or the 26 CFR Part 801.
+
+(2) It is a violation of Section 1204, however, if a supervisor uses the ROTERs information from the employee’s self-assessment when evaluating the employee’s performance.
+
+(3) To dispel even the appearance of impropriety, employees should be encouraged to avoid using ROTERs in self-assessments.
+
+(4) For non bargaining unit employees only: If a non bargaining unit employee submits a self-assessment with ROTERs, it should be returned to the employee for removal of the ROTERs.
+
+Note: For additional information on ROTERs, see IRM 1.5.2, Managing Statistics in a Balanced Measurement System, Uses of Section 1204 Statistics.
+
+6.430.2.4.6 (10-28-2011)
+Completing Appraisal Narratives
+(1) Narratives can reinforce corporate values, particularly customer service. It is beneficial to comment on significant accomplishments and narratives need to accurately reflect the employee’s performance for the appraisal period.
+
+(2) Normally, performance appraisal narratives should not exceed two single-spaced, typed pages. There are situations when a narrative may not be required as discussed further in this section.
+
+(3) All documentation must be reviewed, considered, and summarized for work performed during the appraisal period. These documents support numerical ratings assigned, possible performance awards, merit promotion opportunities, and help to identify continuing educational needs.
+
+(4) Supervisors should review each performance aspect and prepare a written narrative describing the level of performance for each applicable performance aspect. The supervisor should write the narrative before assigning levels to performance aspects.
+
+(5) The narrative should contain brief highlights of an employee’s performance for a specified appraisal period. It must describe performance as it relates to the employee’s CJEs and for every performance aspect observed and serves as the basis for the overall rating.
+
+(6) Well-written narratives contain specific goals and objectives, examples of achievements, significant accomplishments and/or, if necessary, performance shortfalls of measurable and observable performance during the appraisal period. They should:
+
+Be concise, but descriptive enough to give the next level reviewer an accurate picture of the strengths, development needs, and accomplishments of the employee in each CJE
+
+Focus on what’s important for that particular job and the CJEs
+
+Be clear about whether the employee "Exceeds," "Meets," or "Fails" each individual performance aspect
+
+Ensure each CJE narrative is consistent with the focus of the CJE outlined in the performance plan
+
+(7) Narratives must NOT contain Records of Tax Enforcement Results (ROTERs). For additional information, see IRM 1.5.2, Managing Statistics in a Balanced Measurement System, Uses of Section 1204 Statistics.
+
+(8) Narratives are permanent records that become part of the performance appraisal.
+
+(9) Once completed, the narratives must be attached to the performance appraisal form (Form 6850-BU or Form 6850-NBU).
+
+6.430.2.4.6.1 (01-01-2007)
+Determining the Requirement for a Narrative
+(1) Narratives are required under the following situations:
+
+When an employee is appraised on a new performance plan.
+
+In the merit promotion competitive process when a narrative was not completed at the time the employee received their annual rating, then the supervisor must write a narrative at the time the employee applies for a job.
+
+If the supervisor lowers the rating of a CJE from the prior year's appraisal.
+
+For any CJE rated at the "Fully Successful" level or below.
+
+For a rating of "Not Met" in the Retention Standard for the fair and equitable treatment of taxpayers.
+
+If "Not Applicable" (N/A) is provided in lieu of a score for a performance aspect or CJE due to a lack of an opportunity to perform or observe performance in that area, the circumstances must be noted.
+
+(2) Narratives are not required under the following situations:
+
+The employee is on the same performance plan as the prior year and the supervisor awards a "4 "or "5" in a CJE, and that same score or a lower score was awarded the prior performance appraisal period
+
+The employee is applying through merit promotion for GS-8 and below positions in Submission Processing, Accounts Management, and Compliance Services
+
+Employees in Submission Processing who receive measured ratings in quality and quantity provided by the Total Evaluation Performance System (TEPS)
+
+(3) If the supervisor revalidates the prior year’s appraisal, the prior year’s narratives are still attached to the appraisal form and these narratives may be used for merit promotion purposes. If the employee applies for merit promotion and one or more CJE does not have a narrative, the supervisor must prepare new narratives for those CJEs that reflect performance for the appraisal period covered by the annual rating.
+
+Note: For more information about revalidated appraisals, see IRM 6.430.2.4.11.
+
+6.430.2.4.7 (01-01-2007)
+Rating Performance Against The Retention Standard for the Fair and Equitable Treatment of Taxpayers
+(1) The supervisor must determine whether the employee has performed duties with potential impact on taxpayer issues or outcomes during the appraisal period.
+
+(2) If the employee has performed such duties, the supervisor must determine whether the Retention Standard for the fair and equitable treatment of taxpayers has been "Met."
+
+(3) If a rating of "Not Met" is proposed, the supervisor must contact their servicing Labor Relations/Employee Relations Office for guidance on developing a Performance Improvement Plan. Failure of the Retention Standard for the fair and equitable treatment of taxpayers will result in an Overall Rating of "Unacceptable."
+
+(4) If the employee has not performed such duties the supervisor must check "Not Applicable" for the Retention Standard for the fair and equitable treatment of taxpayers on Form 6850-BU and Form 6850-NBU.
+
+6.430.2.4.8 (01-01-2007)
+Rating Performance Aspects
+(1) Annual appraisals are completed on Form 6850-BU. The supervisor lists each performance aspect under the appropriate CJE on the Form 6850-BU or Form 6850-NBU.
+
+(2) The supervisor evaluates the employee’s performance in each performance aspect and rates each aspect as "Exceeds,", "Meets," or "Fails".
+
+(3) If the supervisor has not observed the employee’s performance in a performance aspect for the mandatory minimum time required or such information is not available from other supervisors for the minimum time required, the supervisor assigns a rating of "Not Applicable". Instances of "Not Applicable" should be rare and must be documented in the attached appraisal narrative. The "Not Applicable" designation should not be used when the employee has failed to perform the required tasks or duties because of performance restrictions based on safety, security, or integrity issues.
+
+(4) The supervisor’s determination of the employee’s level of performance in each aspect determines the employee’s subsequent CJE score and overall rating.
+
+(5) The supervisor must always use careful judgment in determining if an employee has a rating of "Exceeds," "Meets," or "Fails," in each performance aspect of the CJE. Normally, the supervisor should not allow one incident to unduly influence the rating of an aspect. In assigning the performance level, supervisors should consider the quality, quantity, and complexity of the assignment or task in relationship with the employee’s grade and skill level.
+
+(6) The employee must consistently perform all applicable tasks (performance standards) listed at the "Exceeds" rating level, including any additional tasks not found in the "Meets" level, in order to receive a rating of "Exceeds" for that aspect.
+
+6.430.2.4.9 (10-28-2011)
+Rating CJEs
+(1) The rating for each CJE will be based upon the ratings of all observed performance aspects of the CJE, using the following required scale:
+
+CJE Rating
+
+Numerical Scale
+
+Definition
+
+Outstanding
+
+5
+
+Exceeds all performance aspects of the CJE.
+
+Exceeds Fully Successful
+
+4
+
+Exceeds more than half of the performance aspects of the CJE and meets the other performance aspects.
+
+Fully Successful
+
+3
+
+Meets all of the performance aspects.
+
+Minimally Successful
+
+2
+
+Fails one performance aspect.
+
+Unacceptable
+
+1
+
+Fails two (2) or more performance aspects.
+
+Not Applicable
+
+N/A
+
+The supervisor has not observed performance of the duties/responsibilities reflected by the CJEs.
+
+(2) The numerical scale above for each CJE is used to determine the average CJE score. While the average CJE score has no direct relationship to the overall rating, it is used as the basis for calculating bargaining unit performance awards.
+
+Note: CJEs deemed "Not Applicable" are excluded from the average CJE score calculation.
+
+6.430.2.4.10 (10-28-2011)
+The Overall Rating
+(1) Each annual performance appraisal will include an overall rating, as follows:
+
+Overall Rating
+
+Definition
+
+Outstanding
+
+Employee is rated "Outstanding" in more than half of the CJEs and "Exceeds Fully Successful" in the remainder of the CJEs, and receives a "Met" on the Retention Standard for the fair and equitable treatment of taxpayers.
+
+Exceeds Fully Successful
+
+Employee is rated "Exceeds Fully Successful" or above in more than half of the CJEs and "Fully Successful" in the remainder of the CJEs, and receives a "Met" on the Retention Standard for the fair and equitable treatment of taxpayers.
+
+Fully Successful
+
+Employee is rated "Fully Successful" or above in all of the CJEs, and receives a "Met" on the Retention Standard for the fair and equitable treatment of taxpayers.
+
+Minimally Successful
+
+Employee is rated "Minimally Successful" in one or more CJEs but not "Unacceptable" in any CJE, and receives a "Met" on the Retention Standard for the fair and equitable treatment of taxpayers.
+
+Unacceptable
+
+Employee is rated "Unacceptable" in one or more CJEs or receives a "'Not Met'" on the Retention Standard for the fair and equitable treatment of taxpayers.
+
+(2) If the employee has insufficient performance during the appraisal period to be assigned a rating of record, the employee will be designated "Not Ratable "for that period.
+
+Note: For additional information on Not Ratable determinations, see IRM 6.430.2.5.5
+
+.
+(3) Overall ratings should be assigned at the end of the appraisal period for the annual performance appraisal and for other types of performance appraisals that become the employee’s rating of record, such as a departure appraisal within the last 60 days of the appraisal period.
+
+(4) Supervisors should not assign overall ratings for other types of appraisals that do not become an employee’s rating of record.
+
+Note: See Exhibit 6.430.2-3 for examples of other types of performance appraisals that may become ratings of record.
+
+(5) The overall rating provides one rating for the combined performance against the Retention Standard for the fair and equitable treatment of taxpayers and the CJEs and becomes the employee's rating of record.
+
+(6) The supervisor should only assign the overall rating at the end of the appraisal period for an employee who is on a permanent assignment or who is on a temporary promotion at the end of the employee’s appraisal period and meets the conditions specified in IRM 6.430.5.3(2).
+
+Note: See IRM 6.430.5 for more information about performance appraisals for temporary assignments.
+
+(7) It is not necessary for the supervisor to have observed the employee’s performance under a signed performance agreement for 60 days or more. However, the employee’s performance must have been observed by at least one other supervisor under a signed agreement for a minimum of 60 days within the appraisal period. In rare cases, it may be necessary to extend the appraisal period until the minimum 60 days has been met.
+
+(8) The reviewing official has the final authority on whether to approve the overall rating.
+
+6.430.2.4.11 (12-20-2023)
+Revalidated Annual Appraisals
+(1) Revalidated annual appraisals are not permitted for non-bargaining unit employees.
+
+(2) The bargaining unit revalidation process requires the supervisor to conduct the same thorough review and evaluative process to determine if the rating of record remains exactly the same.
+
+(3) To revalidate an employee’s annual rating, the supervisor must determine that the employee would receive a rating of record for the current performance rating period identical to the rating of record for the previous period. Identical means that the ratings for the performance aspects, CJEs, and overall rating have not changed.
+
+Note: OPM regulations do not permit the issuance of a rating of record that assumes a level of performance by an employee without an actual evaluation of that employee's performance.
+
+(4) To receive a revalidated appraisal, the employee must be at the journey level or above and at least in the second year of their position.
+
+(5) The supervisor must advise the employee before revalidating an appraisal.
+
+(6) The supervisor may revalidate a previous year’s annual rating even if the supervisor did not prepare the prior appraisal.
+
+(7) When revalidating an appraisal, supervisors are also revalidating the Retention Standard rating from the previous rating of record.
+
+(8) The narratives that accompanied the previous appraisal being revalidated must be considered valid and must remain a component of the revalidated performance appraisal. If the supervisor wants to update the narrative, they must prepare a new appraisal instead of revalidating.
+
+(9) The employee’s self-assessment is attached to the revalidated appraisal for all purposes. If the supervisor objects to the accuracy of a self-assessment, the supervisor may prepare a new appraisal with narratives. If the supervisor decides not prepare a new appraisal it does not indicate they agree with the employee’s self–assessment.
+
+(10) The supervisor must still conduct a performance discussion with the employee.
+
+(11) A supervisor may revalidate a rating of record indefinitely for bargaining unit employees only.
+
+6.430.2.5 (10-28-2011)
+Additional Reasons for Performance Appraisals
+(1) Although the employee’s annual appraisal that becomes the employee’s rating of record is the most commonly given appraisal, other performance appraisals may be issued for specific circumstances.
+
+(2) Some of these other performance appraisals may also be used as the employee’s rating of record as described below.
+
+Note: See Exhibit 6.430.2-3 for more information on additional reasons for performance appraisals, and IRM 6.430.5 for more information concerning performance appraisal requirements for temporary assignments.
+
+6.430.2.5.1 (10-28-2011)
+Departure Appraisals
+(1) A departure appraisal is a type of appraisal prepared when either the supervisor or employee moves from a permanent or temporary assignment to another permanent or temporary assignment.
+
+(2) The employee's performance must have been observed under a signed performance plan for at least 60 days.
+
+(3) Each CJE is rated; however, an overall rating is not assigned unless the employee departs their position within 60 days of the end of the appraisal period or the supervisor departs their position within 60 days of the end of the employee’s appraisal period and the departure appraisal becomes the rating of record as discussed below.
+
+(4) Reasons for departure appraisals:
+
+Supervisor departure - If a supervisor permanently departs their position, a departure appraisal must be prepared for all of the employees in the supervisor’s work unit. The new supervisor will use this departure appraisal to prepare the employee’s rating of record when the employee’s appraisal period ends.
+
+Supervisor departure (last 60 days of the employee's appraisal period) - If a supervisor permanently departs their position during the last 60 days of the employee's appraisal period, the departure appraisal becomes the employee's rating of record. The supervisor should assign an overall rating of record for these departure appraisals since the appraisal will be used as the rating of record. If a supervisor temporarily departs for a position during the last 60 days of the employee's appraisal period, that supervisor will be responsible for preparing the rating of record.
+
+Employee departure - If an employee departs their position with more than 60 days remaining in the appraisal period, the supervisor must prepare a departure appraisal for that employee. The employee’s new supervisor will consider the departure appraisal when preparing the employee's next rating of record.
+
+Employee departure (last 60 days of appraisal period) - If the employee departs their position within the last 60 days of the employee’s appraisal period, the departure appraisal becomes the employee's rating of record. The supervisor should assign an overall rating for these departure appraisals since the appraisal will be used as the rating of record.
+
+(5) If a supervisor is assigned to a new organization and the employee accompanies the supervisor to the new organization and will be occupying the same position, a departure rating is not required.
+
+(6) The supervisor must sign the departure appraisal and provide a copy to the employee for the employee’s signature. The reviewing official’s signature is not required unless the departure appraisal will become the employee’s rating of record.
+
+(7) All departure appraisals must either be sent to the employee’s new office (with the employee’s EPF), if the employee is changing positions, or be placed in the employee’s EPF when the supervisor changes positions.
+
+(8) The rating official should consider all departure appraisals as input for preparation of the employee’s annual rating of record.
+
+(9) Departure appraisals are not required for employees leaving the IRS and not going to other Federal employment. For example, departure appraisals are not required for employees who resign or retire.
+
+(10) Departure appraisals are required for employees leaving the IRS for other Federal employment through transfer to other Federal agencies or reassignment to other Treasury bureaus and for employees accepting new appointments with the IRS or other Federal agencies.
+
+6.430.2.5.2 (06-12-2009)
+Merit Promotion Appraisals (MPA)
+(1) The employee's most recent rating of record within the last four years will be used for merit promotion in nearly all cases.
+
+(2) A supervisor may prepare a new performance appraisal for merit promotion purposes when the employee is newly hired or has returned to duty after a lengthy absence and has no rating of record on file.
+
+To be provided a MPA after a lengthy absence, the employee must not have had at least 60 days of performance under a signed performance plan for the most recently completed appraisal period.
+
+The newly hired employee must have been on board for at least 90 days after an initial appointment.
+
+In either instance, the employee must meet the minimum appraisal period requirements for the current appraisal period as specified in IRM 6.430.2.4.2.
+
+(3) A MPA cannot be used as the employee's rating of record and is valid for all merit promotion actions until the employee receives an annual rating of record.
+
+(4) Since a MPA cannot become a rating of record, no reviewing official signature is required and no overall rating is assigned.
+
+(5) An employee who has served 90 days on a competitive appointment but has not served 60 cumulative days under a signed performance plan (e.g., seasonal employee or a full time union official) is considered "Not Ratable" for merit promotion purposes. These "Not Ratable" employees cannot receive any type of performance appraisal for merit promotion, even a "presumptive" Fully Successful appraisal. Employment offices cannot accept "presumptive" Fully Successful appraisals for merit promotion.
+
+Note: See IRM 6.430.2.5.7 for more information on presumptive ratings.
+
+(6) The supervisor must use the following procedures to document that the employee is "Not Ratable" for merit promotion.
+
+The supervisor must complete Form 6850-BU or Form 6850-NBU, as appropriate, indicating that each performance aspect is N/A. The supervisor will indicate that the reason for the appraisal is "Other" and show the reason as "Merit Promotion." The period covered should indicate the employee’s actual work period, if any, during the current appraisal year
+
+Since a MPA cannot become a rating of record, no reviewing official signature is required and no overall rating is assigned
+
+A copy of the "Not Ratable" Form 6850-BU or Form 6850-NBU must be shared with the employee
+
+The supervisor should submit this Form 6850-BU or Form 6850-NBU to the servicing Employment Office to document in the merit promotion file that the employee is "Not Ratable"
+
+(7) Bargaining unit employees only:
+
+Before the supervisor submits an annual appraisal to the ranking panel/official to be used in a competitive action, the employee must have received it for at least three workdays to allow for the employee’s comments. The supervisor must attach any employee comments to the appraisal
+
+If a supervisor failed to issue a timely and current performance appraisal for the merit promotion package, the employee may submit their self-assessment. This self-assessment cannot propose a summary rating higher than the employee's current rating of record
+
+6.430.2.5.3 (01-01-2007)
+Ad Hoc Performance Appraisals for Bargaining Unit Seasonal Employees
+(1) The performance ranking process for the release and recall of bargaining unit seasonal employees is based on the employee's most recent annual performance appraisal.
+
+(2) In the absence of an annual appraisal, the supervisor will prepare an ad hoc performance appraisal for those employee's meeting the minimum appraisal period requirements.
+
+(3) These ad hoc appraisals are only used for the release and recall of bargaining unit seasonal employees and cannot be used for the annual rating of record.
+
+Note: For more information, see the National Agreement (Document 11678), Article 12.
+
+6.430.2.5.4 (10-28-2011)
+Within-Grade Increase (WGI) Determination
+(1) The OPM regulations require that the decision to grant or deny a WGI must be supported by the employee’s most recent rating of record. If the most recent rating of record does not support the decision, a new rating must be prepared.
+
+(2) Examples of when a new rating of record is required:
+
+A WGI has previously been denied and the employee’s performance has improved to the "Fully Successful" level, making the employee eligible for a WGI
+
+If the most recent rating of record is at least "Fully Successful" but the employee’s performance has now decreased below that level, the supervisor must prepare a new rating of record to support the denial of the WGI
+
+(3) This rating of record prepared to support or deny the WGI becomes the employee’s new rating of record for all purposes.
+
+Note: For more information on WGI determinations for bargaining unit employees, see the National Agreement (Document 11678 ), Article 17.
+
+6.430.2.5.5 (10-28-2011)
+Not Ratable Determinations
+(1) A supervisor may be unable to rate an employee at the end of the performance appraisal period, in which case no rating of record shall be recorded for the employee for that performance appraisal period.
+
+(2) Examples of "Not Ratable" situations include:
+
+The employee was on extended leave and did not have at least 60 days of performance during the appraisal period.
+
+The employee was not eligible for extension of the appraisal period as specified in IRM 6.430.2.4.2.2.
+
+For non bargaining unit employees only - The employee is newly-hired and does not have 60 days remaining in their performance appraisal period
+
+The employee served as a full time union representative and does not have 120 hours of IRS direct work
+
+The employee was detailed to a position excluded from the performance appraisal requirements in 5 CFR Part 430, by law, or other OPM regulation
+
+(3) If the supervisor determines that the employee is "Not Ratable" at the end of the employee’s designated performance appraisal period, the supervisor must complete a Form 6850-BU or Form 6850-NBU and indicate in the overall rating block that the employee is "Not Ratable" and specify the reason for that determination in the space provided.
+
+(4) The supervisor will enter the "Not Ratable" designation into the automated personnel system to indicate that the employee could not be rated and to ensure that the employee is not shown as missing a rating of record.
+
+(5) In those cases where an employee cannot be rated, the employee may be granted a "Waiver of Requirement for Determination" for a WGI as specified in 5 CFR Section 531.409(d).
+
+6.430.2.5.6 (01-01-2007)
+Retroactive Appraisals
+(1) The OPM regulations and IRS policy prohibit retroactive ratings of record.
+
+The OPM regulations (5 CFR Section 430.208(h)(i)) do not permit the assignment of a rating of record for an earlier appraisal period, if a rating has been assigned for a subsequent period or if the agency-established deadline for providing a rating of record has passed
+
+It is the Service's policy that supervisors can prepare a rating of record up to 364 days following the end of the employee's appraisal period, unless a rating of record for a later period has been completed. Once that 364 day period has passed, no rating of record can be assigned for the previous appraisal period
+
+(2) Exceptions to the restrictions on retroactive appraisals include appraisals changed as a result of:
+
+A grievance, complaint or other formal proceedings permitted by law or regulation
+
+When the Service determines that a rating of record was incorrectly recorded or calculated
+
+6.430.2.5.7 (06-12-2009)
+Presumptive Ratings
+(1) Presumptive ratings, for ratings of record, are prohibited by 5 CFR Section 430.208 (a)(2).
+
+(2) A rating of record can be based only on the evaluation of actual job performance for the designated performance appraisal period. A supervisor must not issue a rating of record that assumes a level of performance by an employee without an actual evaluation of that employee’s performance.
+
+6.430.2.6 (06-12-2009)
+Conducting the Performance Appraisal Meeting
+(1) The performance appraisal is final when it is issued to the employee with the appropriate reviews and signatures. Thus, the appraisal should not be discussed with the employee until all appropriate reviews and signatures have been completed.
+
+(2) The supervisor as the rating official conducts a performance appraisal meeting with the employee after the reviewing official approves the appraisal. This meeting must be completed in accordance with the schedule shown in the National Agreement (Document 11678).
+
+(3) The supervisor should begin the performance appraisal meeting by reviewing the employee's self-assessment (if prepared), focusing on the areas of agreement between the self-assessment and the evaluator's assessment of the employee's performance. The focus of this meeting should not only be on the past performance but also on future performance and areas for improvement during the upcoming appraisal period. While it is important to document accomplishments and past performance, documentation should focus on "lessons learned" for improving future performance.
+
+(4) During the performance appraisal meeting, the supervisor must share a copy of the completed performance appraisal form with the employee and discuss openly the ratings and rationale for those ratings. For areas of disagreement, the supervisor must determine if information might have been overlooked.
+
+(5) At the conclusion of the performance appraisal meeting, the supervisor may decide that it would be useful to discuss the expectations for the next appraisal cycle at this time by conducting the activities outlined in IRM 6.430.2.2, Step 1: Planning Expectations. Often a separate meeting is required to plan future performance goals and should be scheduled as soon as practical.
+
+(6) When conducting the performance appraisal meeting, the supervisor should:
+
+Acknowledge the full range of performance observed. For example, give appropriate balance to satisfactory work while also identifying areas that could be improved
+
+Cite specific examples to demonstrate current performance, as well as examples of behavior/outcomes that occur at the next higher level of performance
+
+Focus on the future by jointly developing a plan of action to improve performance
+
+Follow a problem-solving approach. Discuss key areas for improvement by defining specific solutions to performance issues without assigning blame
+
+Manage the emotions involved with evaluating performance. Allow employee to vent, listen carefully to the concerns, and provide constructive feedback. In some cases, it may be useful to postpone the remainder of the meeting so both participants can regroup
+
+.
+6.430.2.7 (06-12-2009)
+Processing the Signed Performance Appraisal
+(1) Both the rating official and reviewing official must sign the performance appraisal for it to be used as the rating of record. The reviewing official has the final authority on whether to approve, modify or disapprove the overall rating.
+
+(2) The employee is not required to sign the performance appraisal. If the employee chooses not to sign, the supervisor should document the employee's refusal. The supervisor should inform the employee that refusal to acknowledge receipt of the appraisal does not make the rating of record invalid.
+
+(3) The original, completed performance appraisal form must be filed in the employee’s EPF along with any back-up documentation, and any accompanying narratives or self-assessments.
+
+(4) The supervisor must follow the business unit’s procedures for ensuring that the employee’s annual appraisal is entered into the Service’s automated performance appraisal system.
+
+6.430.2.8 (10-28-2011)
+Tracking Performance Appraisals
+(1) The supervisor should review and take actions based on the information provided in ePerformance or on the information provided in the Pay Period Performance Management Listings Reports available on the HR Reporting Center website.
+
+(2) ePerformance reports provide information to the supervisor related to performance management responsibilities including:
+
+Printable Performance Plans
+
+Award Election Report
+
+Status Summary Report
+
+Missing Performance Documents
+
+Performance Document Status
+
+Documents Pending Rating Review
+
+(3) The Pay Period Performance Management Listings Reports are available to each supervisor and each business unit via the HR Reporting Center website. Supervisors may initiate an OL5081 for access as appropriate for their business unit. These reports provide information to the supervisor related to performance management responsibilities including:
+
+Annual ratings due/overdue status
+
+Employee due/overdue eligibility status for WGI
+
+Last rating of record and rating dates input in the automated personnel system.
+
+6.430.2.9 (10-28-2011)
+Rebuttals and Grievances
+(1) Employees are encouraged to resolve matters of disagreement concerning the overall ratings with their rating official and reviewing official.
+
+(2) An employee who is dissatisfied with the overall rating may ask for reconsideration from the rating official in lieu of, or in addition to, adding comments to the performance appraisal.
+
+(3) Bargaining unit employees must follow the process outlined in the National Agreement (Document 11678) for requesting a review of their performance appraisals. They should consult their NTEU steward.
+
+(4) Non bargaining unit employees should follow the IRS Agency Grievance System procedures specified in IRM 6.771.1 to request reconsideration of their performance appraisals.
+
+(5) Non bargaining unit employees may also consult their servicing Labor Relations/Employee Relations Office to discuss appeal procedures. Bargaining unit employees should consult their NTEU steward.
+
+(6) Any change to the overall rating must be reviewed against the CJE performance plan to ensure the appropriateness of the changed rating.
+
+6.430.2.10 (06-12-2009)
+Amending a Rating
+(1) A rating may be amended after it is given to the employee for the following reasons:
+
+Reconsideration by the rating official resulting from an informal request by the employee within 60 days of issuance
+
+Discovery of an error in recording or calculating the rating of record
+
+Changes directed via a formal complaint procedure
+
+(2) A change in the employee's performance after the end of the appraisal period is not a justification for amending a rating.
+
+(3) The following steps should be followed to amend a rating of record:
+
+The supervisor selects Rework Rating from the document in ePerformance
+
+The appraisal period remains the same as the original
+
+All parties of the original rating should sign the amended rating (employee, rating official, and reviewing official)
+
+The amended rating must not contain documentation in any section of the form that would indicate the evaluation is the result of a grievance or any similar action. This includes the performance notes section of the online document
+
+The original copy of the amended form should be placed in the employee’s EPF
+
+The previous rating will be destroyed and replaced with the corrected rating
+
+6.430.2.11 (01-01-2007)
+Step 4: Recognizing Performance
+(1) The supervisor may recognize strong performance through informal acknowledgements and formal recognition.
+
+Note: See IRM 6.451.1 Employee Performance and Utilization - Awards and Recognition or the Awards and Recognition
+
+.
+Exhibit 6.430.2-1
+Examples of the Fair and Equitable Treatment of Taxpayers Retention Standard Behavior
+Standard: Fair and Equitable Treatment of Taxpayers
+
+Consistent with the incumbent's official responsibilities, administers the tax laws fairly and equitably, protects all taxpayers' rights, and treats them ethically with honesty, integrity, and respect.
+
+EXAMPLES OF PERFORMANCE THAT MEETS THE STANDARD:
+
+As observed in case file or Integrated Data Retrieval System actions, through management monitoring of phone calls, and through feedback received from the taxpayer and other outside sources, the employee:
+
+Responds to taxpayers in a timely manner.
+
+Identifies self by providing name and badge number, as required by RRA ‘98 Section 3705.
+
+Protects taxpayer rights to privacy by following disclosure procedures.
+
+Identifies taxpayers whose circumstances and/or account history meet Taxpayer Advocate case criteria.
+
+Uses communication techniques that are appropriate for the listener’s level of understanding.
+
+Advises taxpayers and their representatives of appeal rights and actions necessary to pursue and protect their rights.
+
+Conducts oral and written communications with taxpayers that are professional, courteous, and accurately state the facts.
+
+Takes or recommends appropriate actions in a timely fashion which will resolve taxpayer filing and payment delinquencies, addressing all issues with the taxpayer to ensure the taxpayer remains compliant.
+
+Listens to and considers the taxpayer’s point of view.
+
+Identifies when action is required by another function to resolve the taxpayer’s issue/inquiry, and ensures that the transfer of contact is made in a timely manner.
+
+Advises taxpayers of full personal impact, such as interest and penalty accumulation, when taxpayers advise they cannot pay their liability in full.
+
+
+
+EXAMPLES OF PERFORMANCE THAT FAILS TO MEET THE STANDARD:
+
+Note: The IRS has determined that infrequent lapses that are inadvertent or unavoidable should not result in a "Not Met" rating on the Retention Standard for the fair and equitable treatment of taxpayers. Instead, they will result in a discussion between the supervisor and employee to reinforce the importance of the standard and explore ways to prevent a recurrence.
+
+As observed in case file or Integrated Data Retrieval System actions, through management monitoring of phone calls, and through feedback received from the taxpayer and other outside sources, the employee:
+
+Discusses specific taxpayer information with others who do not have an official "need-to-know."
+
+Fails to identify taxpayers whose circumstances and/or account history meet Taxpayer Advocate case criteria.
+
+Provides oral and/or written responses containing wording or tone which is discriminatory, discourteous, disrespectful, intimidating; which misstate the facts; or are inappropriate to the taxpayer’s level of understanding.
+
+Takes improper actions that place taxpayer in a hardship condition.
+
+Does not follow installment agreement procedures when responding to installment agreement requests from taxpayers and their representatives.
+
+Does not apply appeal rights, or advise taxpayers and their representatives of those rights. Does not take or recommend appropriate actions that will resolve taxpayer filing and payment delinquencies, or consistently takes/recommends those actions in an untimely fashion, or fails to address all issues with the taxpayer to ensure that the taxpayer remains compliant.
+
+Does not convey personal impact information to taxpayers, such as penalty and interest accumulation, when the taxpayer advises they cannot pay their liability in full.
+
+Fails to consider all relevant information provided by the taxpayer.
+
+Exhibit 6.430.2-2
+Guidelines For Developing Critical Job Element (CJE) Performance Plans
+(1) Introduction:
+
+(2) The process of performance evaluation guides employees to concentrate on mission related work by making a clear line of sight from their own tasks to the agency’s mission. Along the way, the line of sight takes in the short and long term objectives of the work unit and how they tie to agency objectives and the organizational balanced measures. A core concept is that employees will use their initiative to work towards agency mission if they can see a clear path between their day-to-day tasks and the agency mission. Every step of the evaluation process is directed at illustrating and supporting that line of sight.
+
+(3) Two Internal Revenue Service (IRS) programs support this line of sight:
+
+Balanced Measures – tie organizational objectives and actions to the mission
+
+Critical Job Elements (CJEs) – tie individual employee tasks and performance to organizational balance measures
+
+(4) Employees are evaluated by the IRS Performance Management System that supports and aligns employee performance with the IRS mission and balanced measures. The IRS Balanced Measurement System is designed to measure organizational performance and focus individuals and the organization on achieving the Service’s overall mission and strategic business goals, rather than achieving a specific target or number. The IRS has identified three balanced measures to support its mission and strategic goals:
+
+(5) 1. Employee Satisfaction – To create an enabling work environment for employees by providing quality leadership, adequate training and effective support services.
+
+(6) 2. Customer Satisfaction – To provide accurate and professional services to internal and external customers in a courteous and professional manner.
+
+(7) 3. Business Results (Quality and Quantity) – To generate a productive quantity of work in a quality manner.
+
+(8) IRS Performance Management System:
+
+(9) A supervisor's assessment of an employee’s performance against that employee's CJEs forms the basis for:
+
+Recognizing and rewarding the employee
+
+Determining employee development needs
+
+Taking performance based actions, if necessary
+
+(10) All new or revised CJE performance plans and aspects must align with the IRS balanced measures. All CJE performance plans, (including any new or revised CJE performance aspects) are controlled and approved by the Human Capital Office (HCO), Performance Management and Recognition office.
+
+(11) CJE performance plans, including CJEs and aspects, are used to evaluate individual employee performance at the IRS for employees who are not managers, management officials, or confidential management/program analysts.
+
+(12) CJEs:
+
+(13) The CJEs are the critical actions, objectives and results that the IRS expects its employees to accomplish during an appraisal year. All employees whose performance is evaluated against CJEs have the same five CJEs. These CJEs are defined as:
+
+(14) Employee Satisfaction – Employee Contribution– Describes how the employee’s actions contribute to the overall office working conditions. The employee supports the workplace climate where ethical behavior is paramount and everyone is treated with honesty, dignity and respect, free from harassment and discrimination. This CJE is common to all employees. This CJE supports the strategic goal of "Productivity through a Quality Work Environment."
+
+(15) Customer Satisfaction – Knowledge – Describes how the employee promotes the satisfaction of taxpayers and customers by providing the technical expertise to serve the customers with professional and helpful service. Accurate identification and resolution of issues and the correct interpretation of laws, rules, regulations and other information sources are key components of this CJE.
+
+(16) Customer Satisfaction – Application– Describes how the employee promotes the satisfaction of taxpayers and customers through professionally and courteously identifying customers’ needs and/or concerns and providing quality products and services. Communication to the customer is appropriate for the issue and encourages voluntary compliance.
+
+(17) Business Results – Quality – Describes how the employee promotes the achievement of business results by completing assignments thoroughly and accurately within established guidelines. The use of proper research and analytical tools and the protection of taxpayer privacy are key components of this CJE.
+
+(18) Business Results – Efficiency – Describes how the employee promotes achievement of business results by completing assignments timely within established guidelines. The use of proper workload management and time utilization techniques is a key component of this CJE.
+
+(19) Performance Aspects
+
+(20) Performance aspects are a portion of each CJE that describes the areas under which employees must perform in that CJE, vary with the type of CJE and occupation, and further define the CJEs meaning. A performance aspect is a group of related tasks and performance standards that identify expectations for performance of those tasks. The performance aspect clearly tells employees how they are to perform that portion of the CJE and is a key component of the IRS performance appraisal system for employees evaluated by CJEs. How well an employee performs in the individual aspects determines the employee’s rating on each CJE, which in turn determines the employee’s overall rating.
+
+(21) Well-written and descriptive performance aspects are the basis of the performance management process. CJEs describe what an employee must do; performance aspects provide more specificity on what must be done and describe how well the work must be done.
+
+(22) Guidelines for Developing Performance Plans:
+
+(23) To streamline and simplify the IRS Performance Management System, the goal is to develop one performance plan for all grades in an occupation unless significant differences in duties warrant separate CJE performance aspects.
+
+(24) Developing new or revised performance plans is a five-step process. These five steps are:
+
+(25) Step 1: Prepare a list of significant tasks in statement form
+
+(26) Step 2: Align the task statements with the appropriate CJEs
+
+(27) Step 3: Identify performance aspects for each CJE and develop the job analysis
+
+(28) Step 4: Develop individual aspect performance level descriptions
+
+Meets
+
+Exceeds
+
+Fails
+
+(29) Step 5: Develop the final CJE package
+
+(30) Step 1: Prepare a List of Significant Tasks in Statement Form
+
+(31) To ensure all significant tasks are covered by at least one of the CJEs, it is important to conduct a job analysis. Supervisors, along with subject matter experts (SMEs), identify major job requirements by highlighting them in the body of the standard position description (SPD) and describing in more detail separately if the description in the SPD is inadequate. Each job may have hundreds of tasks. Part of the first step is to generate a list of the tasks. After generating the task list, start the process of reducing them to the most significant ones. Factors to consider are:
+
+Which duties or tasks are completed most often?
+
+How much time is spent performing the task?
+
+Does the task carry out a statutory or regulatory requirement?
+
+Is the task mentioned in the SPD?
+
+Does the employee have control over the task?
+
+How difficult is the task?
+
+If an error is made in performing the task, what are the consequences to the organization?
+
+Is the duty or task considered a collateral duty or other duty as assigned?
+
+(32) PRODUCT: List of significant tasks of the job in statement form.
+
+(33) EXAMPLE:
+
+Prepares written correspondence
+
+Answers telephone calls
+
+Processes mail
+
+Reviews and routes correspondence
+
+Maintains time and leave records.
+
+(34) The number of task statements should reflect the complexity of the job. There may be 20 or more significant task statements.
+
+(35) Step 2: Align Task Statements with the Appropriate CJEs
+
+(36) All tasks should be grouped under the most appropriate CJE. This aids in performance aspect development.
+
+Align all task statements with the most appropriate CJE
+
+Group those task statements which stress the same or very similar tasks
+
+(37) Use the CJE standardized definitions to determine the most appropriate placement of the task.
+
+(38) Important Note: Since the Employee Satisfaction - Employee Contribution CJE is the same for all positions and cannot be modified, do not align any tasks with this CJE.
+
+(39) Example of aligning task statements with appropriate CJE:
+
+SIMILAR TASK STATEMENTS
+
+APPROPRIATE CJE
+
+Prepares written correspondence
+
+Customer Satisfaction - Application
+
+Answers telephone calls
+
+
+
+Processes mail
+
+
+
+Reviews and routes correspondence
+
+
+
+Maintains time and leave records
+
+
+
+(40) Important Note: While it is possible to associate task statements with more than one CJE, you must select the most appropriate CJE because task statements and performance aspects can align with only one CJE.
+
+(41) Step 3: Identify Performance Aspects and Develop Job Analysis
+
+(42) Within each CJE, group similar tasks into a 2-3 word task statement. This task statement becomes part of the performance aspect.
+
+(43) Performance aspects:
+
+Must apply to performance-related activities not conduct
+
+Must refer to objective, realistic and measurable tasks
+
+Cannot include the use of records of tax enforcement results (ROTERs)
+
+TASK STATEMENTS
+
+2-3 WORD TASK STATEMENT
+
+PERFORMANCE ASPECT
+
+Process Mail
+
+Prepares and processes correspondence
+
+Correspondence
+
+Reviews and routes correspondence
+
+
+
+
+
+Prepares correspondence
+
+
+
+
+
+(44) To the extent possible, you should develop at least three aspects per CJE:
+
+An odd number of aspects is required for bargaining unit positions and desirable for non bargaining unit positions.
+
+All aspects must be lettered and numbered.
+
+The HCO has established a limit of five aspects for each CJE to make performance plans compatible with ongoing automation efforts.
+
+(45) Job Analysis (KSA Identification)
+
+(46) The supervisor and SMEs should also list the Knowledge, Skills, and Abilities (KSAs) that are required to perform the identified major job requirements and are important in evaluating candidates for merit promotion. This job analysis should be linked to the new or modified CJE performance aspects. See Step 5, Develop the Final CJE Package, for more information about submitting the job analysis and KSAs to the HCO.
+
+(47) A sample of a well-constructed and properly documented job analysis can be found on the Critical Job Elements (CJE) site at https://irssource.web.irs.gov/Lists/CareerOpportunities/DisplaySection.aspx?SectionName=4.
+
+(48) Step 4: Develop Individual Aspect Performance Level Descriptions
+
+(49) The performance levels are a portion of the performance aspect that clearly tells the employee how the employee is to perform in that aspect. Performance is measured against specific standards found in the performance levels that describe how well the behavior must be performed. Consistently demonstrated superior performance in any of the performance aspects will result in an "Exceeds" rating for that aspect.
+
+(50) Performance aspects tell employees how they are to perform in order to Meet, Exceed, or Fail in that performance aspect.
+
+(51) CJE definitions and the tasks shown in each performance aspect describe what performance employees must demonstrate; performance levels in each aspect describe how well the performance is to be accomplished.
+
+(52) In accordance with IRS/NTEU contractual agreements, all performance aspects must be written at three levels—Exceeds, Meets, or Fails. This policy also applies to non bargaining unit positions.
+
+(53) The three performance levels used to measure CJEs are:
+
+Exceeds - the employee consistently demonstrates the performance.
+
+Meets - the employee generally demonstrates the performance.
+
+Fails - the employee more than occasionally fails to demonstrate the performance.
+
+(54) Applying these levels to the evaluation process allows the rating official to evaluate an employee in a fair and efficient manner.
+
+(55) The above performance levels are described within three quality ranges:
+
+Consistently - Almost always; the employee performs the task or aspect in a systematically uniform, reliable level of performance and rarely varies from that level.
+
+Generally - As a rule; the employee usually performs the task or aspect at this level in a reasonably inclusive manner.
+
+Occasionally - Means performance in the range below "generally." Occasionally is defined as "now and then; from time to time; infrequently; seldom."
+
+(56) These terms are used to differentiate work at the three performance levels.
+
+(57) Important Note: Performance aspects should be developed at the Meets level first; Exceeds and Fails levels can be derived from the baseline performance level description for Meets.
+
+(58) Five factors should be considered when deciding how to write a performance aspect at the Meets level:
+
+Is it observable? - Can it be witnessed; is it concrete and definable
+
+Is it measurable? - Can it be assessed or evaluated; are different performance levels distinguishable
+
+Is it achievable? - Is it possible to accomplish; do no barriers exist
+
+Is it reasonable? - Does employee have the necessary skills, knowledge, and ability to complete the assignment; can it be accomplished within a specific time frame
+
+Is it understandable? - Is what is being measured clear; is when the performance will be measured clear; is how the performance will be measured clear
+
+(59) Important Note: Avoid these when developing performance at the Meets level:
+
+Absolute Standards - The Meets performance level cannot be written in absolute terms (for example, 100 % accuracy). Meets performance levels written without the opportunity for errors are called absolute standards and are prohibited by OPM, the Merit System Protection Board, and the Federal courts unless a single failure to perform would result in loss of life, injury, breach of national security, or great monetary loss
+
+Backward Standards - Do not describe work that does not get done instead of describing what the employee needs to accomplish. Ask yourself the following question when developing the Meets performance level: Does the performance level express the work that you expect to see for the employee to be successful or does it describe negative performance
+
+(60) Product:
+
+(61) Rewrite the 2-3 word task statements into more complete sentences to help define the action the employee performs and the expected results of the action. Each task statement begins with an action verb that is as specific as possible.
+
+(62) Task statements include numbers or phrases that describe how well, how many, or how soon a task should be accomplished:
+
+Be specific and avoid vague terminology such as "be familiar with," "deals with," and "be responsible for"
+
+The Meets level allows room for outstanding accomplishment (Exceeds). The Meets level should not be written at such a high level that there is no room to define an Exceeds level
+
+(63) Example:
+
+(64) Generally prepares and processes (action verbs) correspondence within established timeframes to ensure prompt response to customers (expected result).
+
+(65) Performance aspects for the Exceeds and Fails levels are developed only after the performance aspects for the Meets level have been completed.
+
+(66) Performance aspects measure how well the work is being performed. You may consider the following factors in defining levels of performance for Exceeds and Fails:
+
+Quality - How well it is done
+
+Quantity - Time utilization
+
+Timeliness - Adherence to specified time frame
+
+Manner - The way the work is done or style
+
+Method - Procedures, policies, or technical requirements
+
+Cost - Dollars and staff requirements
+
+(67) The Exceeds and Fails levels should consider the following five factors:
+
+The performance aspects should be reasonable and measurable
+
+Each consecutive level of the aspect should assume achievement at the next lower level with a logical connection between levels
+
+The Exceeds level should be beyond the performance of the majority of employees, but attainable by some
+
+The Exceeds level should show meeting as well as going beyond the Meets level, often describing productivity improvement
+
+Each item in the Meets level must be reflected in the Fails level
+
+(68) EXAMPLE:
+
+(69) Exceeds: Consistently prepares and processes correspondence within established timeframes to ensure prompt response to customers.
+
+(70) Meets: Generally prepares and processes correspondence within established timeframes to ensure prompt response to customers.
+
+(71) Fails: More than occasionally fails to prepare and process correspondence within established timeframes, which does not ensure prompt response to customers.
+
+(72) Heightened Level of Performance
+
+(73) Some performance aspects found in the CJEs require a heightened level of performance because of their sensitivity or importance to the IRS. These special aspects include such areas as statute determination, security, disclosure, privacy, and timekeeping for secretaries and related administrative positions.
+
+(74) Heightened levels of performance can be defined in the following terms:
+
+Always - Without exception; describes the Exceeds level of performance only for those aspects requiring a heightened level of performance.
+
+Except in very rare circumstances - Describes the Meets level of performance only for those aspects requiring a heightened level of performance. In determining the existence of "very rare circumstances," the supervisor considers mitigating and aggravating factors that may include, but are not limited to, the complexity of the issue and the gravity of the occurrence.
+
+Fails to…in the absence of very rare circumstances - Describes the Fails level when there is a heightened level of performance required at the Meets level. Any failure that does not result from "very rare circumstances" will result in a Fails rating.
+
+(75) The following describes the heightened performance levels:
+
+Exceeds: The employee always demonstrates that behavior.
+
+Meets: The employee, except in very rare circumstances demonstrates the behavior.
+
+Fails: The employee fails to demonstrate the behavior in the absence of very rare circumstances.
+
+(76) Step 5: Develop the Final CJE Package
+
+(77) Performance aspects must be developed for each CJE at each level of performance and recorded in the template provided later in this exhibit.
+
+(78) The Employee Satisfaction - Employee Contribution CJE will always remain the same for all positions.
+
+(79) While the CJEs and their definitions will always remain the same, the number, title, and content of the performance aspects will vary by performance plan.
+
+(80) Completed CJE Performance Plan Packages
+
+(81) Divisions and functions must ensure that the above steps are followed when new performance plans are developed or existing performance plans are modified. A template for use in developing new or modified performance plans is provided in this exhibit.
+
+(82) Since performance plans and CJE aspects are intended to be as cross-functional as possible, divisions and functions should coordinate development of a new or revised performance plan with other divisions or functions that may use that performance plan.
+
+(83) Documenting the Job Analysis
+
+(84) Divisions and functions must perform a complete job analysis when creating or modifying performance plans. This job analysis includes the following documentation:
+
+A copy of the applicable SPD(s)
+
+Major job requirements (should be highlighted in the body of the SPD and described in more detail on a separate sheet if the description in the SPD is inadequate)
+
+A list of KSAs that are required to perform the identified major job requirements and are important in evaluating candidates
+
+An explanation of the linkage of the listed KSAs to the new or modified CJE performance aspects
+
+A statement indicating that all of the CJE performance plans for the occupation were reviewed and a new performance plan is required for this position
+
+The name, title, pay plan/series/grade, signature, and signature date for SMEs responsible for job analysis validity (two or more recommended)
+
+The name, signature, and signature date of the reviewing human resources specialist
+
+(85) Divisions and functions must submit new or revised performance plans to the HCO, Performance Management and Recognition office, for review and approval.
+
+(86) After approval, the HCO will submit the new or revised performance plans covering bargaining unit employees to the National Headquarters, NTEU, as required by the National Agreement Document 11678. NTEU will be afforded an opportunity to bargain impact and implementation before the new or revised performance plans for bargaining unit employees are put into effect.
+
+(87) After performance plans are approved and NTEU is afforded an opportunity to comment on plans covering bargaining unit employees, the completed performance plans will be forwarded to the Multimedia Division for publication in its products catalog.
+
+CRITICAL ELEMENT I - EMPLOYEE SATISFACTION – EMPLOYEE CONTRIBUTION
+
+This individual performance CJE describes how the employee’s actions contribute to the overall office working conditions. The employee supports the workplace climate where everyone is treated with honesty, dignity and respect, free from harassment and discrimination.
+
+1.A WORKPLACE INTERACTION
+
+Exceeds
+
+Meets
+
+Fails
+
+Consistently:
+
+Generally:
+
+More than occasionally fails to:
+
+• interacts in a courteous, and professional manner with others to foster and maintain excellent work relationships.
+
+• interacts in a courteous, and professional manner with others to foster and maintain cooperative work relationships.
+
+• interact in a courteous, and professional manner with others to foster and maintain cooperative work relationships.
+
+1.B WORKGROUP INVOLVEMENT
+
+Exceeds
+
+Meets
+
+Fails
+
+Consistently:
+
+Generally:
+
+More than occasionally fails to:
+
+• participates in identifying or solving workgroup issues;
+
+• participates in identifying or solving workgroup issues;
+
+• participate in identifying or solving workgroup issues;
+
+• participates in activities that maintain or improve workgroup efficiencies;
+
+• participates in activities that maintain or improve workgroup efficiencies.
+
+• participate in activities that maintain or improve workgroup efficiencies.
+
+• contributes proactively to the overall effectiveness of the workgroup.
+
+
+
+
+
+1.C WORKPLACE ENVIRONMENT
+
+Exceeds
+
+Meets
+
+Fails
+
+Consistently:
+
+Generally:
+
+More than occasionally fails to:
+
+• supports a work environment free from harassment and discrimination;
+
+• supports a work environment free from harassment and discrimination;
+
+• support a work environment free from harassment and discrimination;
+
+• works cooperatively;
+
+• works cooperatively;
+
+• works cooperatively;
+
+• willingly shares knowledge/skills within the workplace.
+
+• willingly shares knowledge/skills within the workplace.
+
+• share knowledge/skills within the workplace.
+
+CRITICAL ELEMENT II - CUSTOMER SATISFACTION - KNOWLEDGE
+
+This individual performance CJE describes how the employee promotes the satisfaction of taxpayers and customers by providing the technical expertise to serve the customers with professional and helpful service. Accurate identification and resolution of issues and the correct interpretation of laws, rules, regulations and other information sources are key components of this CJE.
+
+2.A ASPECT TITLE
+
+Exceeds
+
+Meets
+
+Fails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.B ASPECT TITLE
+
+Exceeds
+
+Meets
+
+Fails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.C ASPECT TITLE
+
+Exceeds
+
+Meets
+
+Fails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CRITICAL ELEMENT III - CUSTOMER SATISFACTION - APPLICATION
+
+This individual performance CJE describes how the employee promotes the satisfaction of taxpayers and customers through professionally and courteously identifying customers’ needs and/or concerns and providing quality products and services. Communication to the customer is appropriate for the issue and encourages voluntary compliance.
+
+3.A ASPECT TITLE
+
+
+
+
+
+Exceeds
+
+Meets
+
+Fails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.B ASPECT TITLE
+
+Exceeds
+
+Meets
+
+Fails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.C ASPECT TITLE
+
+Exceeds
+
+Meets
+
+Fails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CRITICAL ELEMENT IV - BUSINESS RESULTS- QUALITY
+
+This individual performance CJE describes how the employee promotes the achievement of business results by completing assignments thoroughly and accurately within established guidelines. The use of proper research and analytical tools and the protection of taxpayer privacy are key components of this CJE.
+
+4.A ASPECT TITLE
+
+Exceeds
+
+Meets
+
+Fails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.B ASPECT TITLE
+
+Exceeds
+
+Meets
+
+Fails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.C ASPECT TITLE
+
+Exceeds
+
+Meets
+
+Fails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CRITICAL ELEMENT V - BUSINESS RESULTS - EFFICIENCY
+
+This individual performance CJE describes how the employee promotes achievement of business results by completing assignments timely within established guidelines. The use of proper workload management and time utilization techniques is a key component of this CJE.
+
+5.A ASPECT TITLE
+
+Exceeds
+
+Meets
+
+Fails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.B ASPECT TITLE
+
+Exceeds
+
+Meets
+
+Fails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.C ASPECT TITLE
+
+Exceeds
+
+Meets
+
+Fails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit 6.430.2-3
+Reasons for Performance Appraisals
+Reasons for Appraisal
+
+Employees
+
+Rating of Record
+
+Remarks
+
+
+
+Bargaining Unit Employee
+
+Non Bargaining Unit Employee
+
+Manager/ Management Official
+
+
+
+
+
+Annual
+
+x
+
+x
+
+x
+
+Yes
+
+Becomes the employee’s rating of record.
+
+Revalidation
+
+x
+
+x
+
+
+
+Yes
+
+Current performance for journey level or above employee must be identical (i.e., same CJE and aspect scores) as previous year. May be revalidated indefinitely.
+
+Employee Departure
+
+x
+
+x
+
+x
+
+No
+
+Considered when next rating of record is prepared.
+
+Employee Departure (within last 60 days of appraisal period)
+
+x
+
+x
+
+x
+
+Yes
+
+Becomes employee’s rating of record at end of appraisal period.
+
+Merit Promotion
+
+x
+
+x
+
+
+
+No
+
+Only prepared if employee has no previous rating of record on file or based on proposed overall rating increase at mid-year progress review for bargaining unit employees only.
+
+Release-Recall of seasonal employees (Ad Hoc)
+
+x
+
+
+
+
+
+No
+
+Only prepared if employee has no previous rating of record on file. (National Agreement, Article 14 )
+
+Supervisor Departure
+
+x
+
+x
+
+x
+
+No
+
+Considered when next rating of record is prepared.
+
+Supervisor Departure (within last 60 days of appraisal period)
+
+x
+
+x
+
+x
+
+Yes
+
+Becomes employee's rating of record at the end of appraisal period.
+
+Within-Grade Increase (WGI) Determinations
+
+x
+
+x
+
+x
+
+Yes
+
+Only prepared when current rating of record does not support proposed WGI action. Does not include payband or wage grade employees.
+
+(1) Notes: Confidential Management/Program Analysts, GS-343, are covered by the requirements of the Performance Management Program for Evaluating Managers, Management Officials, and Confidential Management /Program Analyst. See the specific section of IRM 6.430 or the National Agreement (Document 11678) for more information about the types of appraisals and their use.
+
+Exhibit 6.430.2-4
+Performance Appraisal Due Dates
+(1) Employees Covered by Critical Job Elements (except measured work) Bargaining unit and non bargaining unit employees evaluated by critical job elements (CJEs) will receive performance appraisals annually based on the last digit of their Social Security Number (SSN). Annual ratings will be issued on a monthly basis for those employees who were due appraisals during the prior month based on the employee's SSN.
+
+Last Digit of SSN
+
+Annual Appraisal Period Ending Date
+
+Performance Appraisal Due to Employee
+
+0
+
+September 30
+
+October 31
+
+1
+
+October 31
+
+November 30
+
+2
+
+November 30
+
+December 31
+
+3
+
+December 31
+
+January 31
+
+4
+
+January 31
+
+February 28/29
+
+5
+
+February 28/29
+
+March 31
+
+6
+
+March 31
+
+April 30
+
+7
+
+April 30
+
+May 31
+
+8 and 9
+
+May 31
+
+June 30
+
+(2) Employees Covered by Measured Work (TEPS)
+
+(3) See Exhibit 12-2 in the National Agreement for the performance appraisal periods for bargaining unit employees, GS-8 and below, in Submission Processing and other designated functions at campuses who perform measured work under the Total Evaluation Performance Systems (TEPS)
+
+(4) Managers, Management Officials, and Confidential Management/Program Analysts
+
+(5) All managers, management officials, and confidential management/program analysts are evaluated annually based on the fiscal year cycle. Divisions and functions will inform managers of the requirements for submitting the performance appraisals for managers, management officials, and confidential management/program analysts.
+
+(6) For paybanded managers, the date that the performance appraisal will be shared with the employee may be extended because of the Performance Review Board (PRB) appraisal review process. This PRB review process will normally require additional time for the processing of paybanded performance appraisals and awards determinations. It is the responsibility of the divisions and functions to specify their appraisal processing timeframes for paybanded positions.
+
+Annual Appraisal Period Ending Date
+
+Performance Appraisal Due to Employee
+
+September 30

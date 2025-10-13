@@ -1,0 +1,467 @@
+6.630.2  Absence and Leave for Military-Related Reasons
+6.630.2.1  Program Scope and Objectives
+6.630.2.1.1  Background
+6.630.2.1.2  Authority
+6.630.2.1.3  Roles and Responsibilities
+6.630.2.1.4  Program Management and Review
+6.630.2.1.5  Program Controls
+6.630.2.1.6  Definitions
+6.630.2.1.7  Related Resources
+6.630.2.2  Military Leave for Reserves or National Guard
+6.630.2.2.1  Computation of Military Leave Accrual for Part-Time Employees
+6.630.2.2.2  Requesting Military Leave for Reserves or National Guard
+6.630.2.3  Military Leave to Enforce the Law or in Support of a Contingency Operation
+6.630.2.3.1  Requesting Military Leave to Enforce the Law or in Support of a Contingency Operation
+6.630.2.3.2  Salary Considerations for Military Leave to Enforce the Law or in Support of a Contingency Operation
+6.630.2.4  Funeral Leave for Immediate Relative who Died in a Combat Zone
+6.630.2.5  Disabled Veteran Leave
+6.630.2.5.1  Definitions
+6.630.2.5.2  Employee Coverage
+6.630.2.5.3  Eligibility
+6.630.2.5.4  Crediting Disabled Veteran Leave
+6.630.2.5.5  Requesting and Using Disabled Veteran Leave
+6.630.2.5.6  Medical Certification
+6.630.2.5.7  Forfeiture, Transfer and Reinstatement
+6.630.2.6  Qualifying Exigency FMLA Leave and 26-Week FMLA Military Family Leave
+6.630.2.6.1  FMLA - Eligibility
+6.630.2.6.2  Reasons for Use
+6.630.2.6.2.1  Qualifying Exigencies - Covered Active Duty or Call to Covered Active Duty Status
+6.630.2.6.2.2  26-Week FMLA Military Family Leave
+6.630.2.6.3  Features and Limitations of Qualifying Exigency FMLA Leave and 26-Week FMLA Military Family Leave
+6.630.2.6.4  Requirements
+6.630.2.6.5  Procedures for Applying
+6.630.2.7  Substitution of Sick Leave for Unpaid 26-Week FMLA Military Family Leave for a Covered Servicemember
+6.630.2.8  Five-Days Excused Absence (Administrative Leave) for Returning Military Members
+6.630.2.9  Reservist Differential Payments
+6.630.2.10  Lump-sum Payment for Annual Leave
+Part 6. Human Resources Management
+Chapter 630. Absence and Leave
+Section 2. Absence and Leave for Military-Related Reasons
+6.630.2 Absence and Leave for Military-Related Reasons
+Manual Transmittal
+July 28, 2023
+
+Purpose
+(1) This transmits revised IRM 6.630.2, Absence and Leave for Military-Related Reasons.
+
+Background
+IRM 6.630.2 provides Servicewide policy, standards, requirements, and guidance relating to absence and leave for military-related reasons.
+
+Material Changes
+(1) Updates organizational names and titles throughout.
+
+(2) IRM 6.630.2.1.2 adds/updates reference to the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2020.
+
+(3) IRM 6.630.2.1.3(3) replaces/updates reference to IRS Federal Occupational Health (FOH) contract with the term IRS designated health services provider.
+
+(4) IRM 6.630.2.1.3(8) adds reference to 6.630.1.1.3, Absence and Leave, on employee responsibilities.
+
+(5) IRM 6.630.2.1.6 adds definitions for parent and in loco parentis and rearranges definitions in alphabetical order.
+
+(6) IRM 6.630.2.1.7 updates related resources to include the Military Benefits and Veteran Program Office (VPO) pages on the IRS Source; OPM fact sheets on military leave and disabled veteran leave; IRM 6.630.1, Absence and Leave; and Integrated Talent Management (ITM) Course #28523 on Military Leave for Reserves and National Guard.
+
+(7) IRM 6.630.2.2(3) includes reference to unlimited military leave, under 5 U.S.C. 6323(c), which provides unlimited military leave only to members of the National Guard of the District of Columbia for certain types of duty ordered or authorized under title 49 of the District of Columbia Code.
+
+(8) IRM 6.630.2.2(9) adds full title for Military Benefits Election Checklist for IRS Employees Entering Active Military Service.
+
+(9) IRM 6.630.2.3 clarifies the descriptions of military leave for military aid to support the law, and for service in support of a contingency operation.
+
+(10) IRM 6.630.2.5.1(2) clarifies how the beginning of the 12-month eligibility period for disabled veteran leave is established.
+
+(11) IRM 6.630.2.6.5 adds link to Family and Medical Leave Act (FMLA) overview on the IRS Source.
+
+(12) IRM 6.630.2.8 replaces the term Global War on Terrorism (GWOT) with Overseas Contingency Operations (OCO) to align with OPM guidance at https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/5-days-of-excused-absence-for-employees-returning-from-active-military-duty/.
+
+(13) IRM 6.630.2.10 updates information on lump sum payments for accumulated and accrued annual leave, and removes information which has been added to IRM 6.550.1, Pay Administration.
+
+Effect on Other Documents
+This IRM supersedes IRM 6.630.2 issued on December 18, 2018.
+Audience
+All business units
+Effective Date
+(07-28-2023)
+Traci M. DiMartini,
+IRS Human Capital Officer
+
+6.630.2.1 (07-28-2023)
+Program Scope and Objectives
+Purpose: This IRM provides policy and guidance for absence and leave strictly for military-related reasons. Read and interpret this guidance in accordance with applicable laws (Title 5 and Title 38 of the U.S. Code), governmentwide regulations (Title 5 of the Code of Federal Regulations (CFR)), Comptroller General (CG) Decisions and other sources as appropriate.
+Audience: Unless otherwise indicated, the policies, authorities, procedures, and instructions contained in this IRM apply to all business units. Bargaining unit employees should review negotiated agreement provisions relating to subjects in this IRM. Should any of these instructions conflict with a provision in the negotiated agreement, the agreement prevails.
+Policy Owner: The IRS Human Capital Officer (HCO).
+Program Owner: HCO, Office of HR Strategy (OHRS), Office of Policy and Audits (P&A).
+Program Goals: Because entitlements for absence and leave for military-related reasons fall under several statutory and regulatory subparts, this IRM is designed to consolidate all military-related absence and leave policies in one user-friendly source. This policy includes hyperlinks to supporting authorities, documents, related resources and other information located on the IRS intranet and external websites.
+6.630.2.1.1 (07-28-2023)
+Background
+This IRM encompasses several significant developments that expanded entitlements to an employee who participates in military-related activities. They are:
+Family and Medical Leave Act (FMLA) 26-week Military Family Leave (03/2003);
+Excused Absence (Administrative Leave) for Returning Military Members (11/2003);
+Substitution of Sick Leave for Unpaid FMLA to care for a covered servicemember (12/2010);
+FMLA - Qualifying Exigencies - Covered Active Duty or Call to Covered Active Duty Status (06/2013); and
+Wounded Warriors Federal Leave Act of 2015 resulting in Disabled Veteran Leave (11/2015).
+6.630.2.1.2 (07-28-2023)
+Authority
+Heads of agencies have authority to administer policies governing the federal leave system. Recordation of absence and leave is processed as required by the National Finance Center (NFC); the U.S. Department of the Treasury; and HCO, Payroll and Personnel Systems (PPS).
+Laws: Title 5 USC, Government Organization and Employees, at: http://uscode.house.gov/:
+§2105--Employee;
+§5538--Nonreduction in pay while serving in the uniformed services or National Guard;
+§5551--Lump-sum payment for accumulated and accrued leave on separation;
+§5552--Lump-sum payment for accumulated and accrued leave on entering active duty;
+§6104--Holidays; daily, hourly, and piece-work basis employees;
+§6301--Definitions;
+§6302--General provisions;
+§6303--Annual leave; accrual;
+§6304--Annual leave; accumulation;
+§6306--Annual leave; refund of lump-sum payment; recredit of annual leave;
+§6323--Military leave; Reserves and National Guardsmen;
+§6326--Absence in connection with funerals of immediate relatives in the Armed Forces;
+§6329--Disabled veteran leave; and
+§6381-6387--Family and medical leave.
+Laws: Title 38 USC, Veterans’ Benefits, at: http://uscode.house.gov/:
+§101--Definitions; and
+§1156--Temporary disability ratings.
+Public Laws:
+110-181, National Defense Authorization Act for FY 2008, dated January 28, 2008, at: https://www.congress.gov/110/plaws/publ181/PLAW-110publ181.pdf and;
+National Defense Authorization Act (NDAA) for FY 2020 dated December 19, 2019, at: https://www.congress.gov/116/plaws/publ192/PLAW-116publ192.pdf.
+Regulation: Title 5 CFR, Part 550--Pay Administration (General); subpart L--Lump Sum Payment for Accumulated and Accrued Annual leave, available at:https://www.ecfr.gov.
+Regulation: Title 5 CFR, Part 630--Absence and Leave, at: https://www.ecfr.gov:
+Subpart C--Annual Leave;
+Subpart D--Sick Leave;
+Subpart H--Funeral Leave;
+Subpart L--Family and Medical Leave; and
+Subpart M--Disabled Veteran Leave.
+Executive Order: 13223, Ordering the Ready Reserve of the Armed Forces to Active duty and Delegating Certain Authorities to the Secretary of Defense and the Secretary of Transportation, dated January 18, 2002..
+Delegation of Authority: Delegation Order 6-12, Absence and Leave.
+Other:
+Government Accountability Office (GAO) document entitled “Maintaining Effective Control over Employee Time and Attendance Reporting,” at:http://www.gao.gov/products/GAO-03-352G;
+Comptroller General Decisions: B-232438 http://www.gao.gov/assets/500/493282.pdf and 49 Comp. Gen. 233 http://www.gao.gov/products/452698.
+6.630.2.1.3 (07-28-2023)
+Roles and Responsibilities
+The Human Capital Officer is the executive responsible for this IRM and overall Servicewide policy for absence and leave.
+The HCO’s OHRS, P&A office is responsible for developing and publishing content in this IRM.
+The HCO, Office of HR Operations (OHRO), HR Shared Services (HRSS) administers health services for IRS employees, including veterans, available through the designated IRS health services provider.
+The HCO OHRO Veterans Program Office (VPO) is responsible for serving the veteran community relative to recruitment and hiring. This includes assisting veterans with general program guidance, program training, and outreach efforts..
+The HCO, OHRO, Labor/Employee Relations and Negotiations (LERN), Labor Relations/Employee Relations (LR/ER) Field Operations Office provides guidance and representation to managers in areas such as grievances, discipline, adverse and performance cases, and contractual obligations with the National Treasury Employees Union (NTEU). They assist managers with the complex challenges of balancing the needs of employees for entitlements to military-related absences while accomplishing the IRS’s mission-critical needs.
+The HCO’s Payroll and Personnel Systems (PPS) is responsible for providing systems, tools, and all related instructions to employees to properly record absence and leave on official source documents from which an employee is paid (i.e., time and attendance (T&A) documents).
+Note: Specific information and instructions on T&A reporting, approvals, and maintenance requirements are found in Standard Operating Procedure (SOP) MPC-02, issued by the Memphis Payroll Center and posted on the PPS website at: http://hco.web.irs.gov/PPS/SOP-UOG/MPC_02.html.
+A manager has the fundamental responsibility to approve leave requests and ensure government resources are used efficiently and effectively, with minimum potential for waste, fraud, and mismanagement. As such, they must administer leave procedures with integrity and in compliance with applicable laws, regulations, and policies. A manager with questions should contact their servicing LR/ER representative. See IRM 6.630.1.1.2, Absence and Leave, Administration of the Federal Leave System, Manager Responsibilities, for a complete list of managers’ responsibilities regarding absence and leave.
+An employee must observe designated duty hours and comply with leave rules, regulations, and established business procedures. As a part of their ethical responsibilities, an employee must use leave in accordance with its intended purpose and immediately notify their manager of any discrepancies. Any necessary corrections may result in a debt. Failure to do so could result in disciplinary action up to and including removal from the Service. See IRM 6.630.1.1.3, Absence and Leave, Administration of the Federal Leave System – Employee Responsibilities, for further information on employee responsibilities.
+6.630.2.1.4 (07-28-2023)
+Program Management and Review
+Program Reports and Effectiveness: This IRM provides policy guidance on absence and leave for military-related reasons for the IRS. The P&A office gauges effectiveness of absence and leave policies based on feedback from customers and program owners about subjects contained in this IRM. Sections may be revised, added or deleted based in part on this process.
+6.630.2.1.5 (07-28-2023)
+Program Controls
+The P&A office develops and issues policies, materials, and programs to increase Servicewide awareness and understanding of military-related absence and leave, and collaborates with other HCO organizations and Servicewide stakeholders to support education and outreach activities for military-related absence and leave programs.
+The following activities help ensure program success:
+Maintaining accurate and up-to-date program websites;
+Publishing educational articles, such as Leaders’ Alerts and IRS Headlines.
+6.630.2.1.6 (07-28-2023)
+Definitions
+Any 12-month period: The any 12-month period strictly relates to the basic FMLA entitlement and is different than the single 12-month period for military purposes. The any 12-month period of basic FMLA-Leave Without Pay (LWOP) begins on the date an employee first takes leave for an approved FMLA need and continues for 12 months. Leave taken may begin prior to or on the actual date of need and the 12-month period begins on that date. The employee is not entitled to 12 additional administrative workweeks of basic FMLA-LWOP until the previous 12-month period ends.
+Child of a covered servicemember: The covered servicemember’s biological, adopted, foster, stepchild, legal ward, or a child for whom the covered servicemember stood in loco parentis and who may be of any age.
+Covered active duty:
+In the case of a member of a regular component of the Armed Forces, duty during the deployment of the member with Armed Forces to a foreign country; and
+In the case of a member of a reserve component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country under a call or order to active duty under a provision of law referred to in 10 USC 101(a)(13)(B).
+Covered servicemember:
+A member of the Armed Forces (including a member of the National Guard or Reserves) who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness; or
+A veteran who is undergoing medical treatment, recuperation, or therapy, for a serious injury or illness and who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during the period of five years preceding the date on which the veteran undergoes that medical treatment, recuperation, or therapy.
+Injury or Illness:
+In the case of a member of the Armed Forces (including a member of the National Guard or Reserves), at any time during the five-year period described in 6.632.2.1.6 (4)(b), an injury or illness that was incurred by the member in the line of duty on active duty in the Armed Forces (or existed before the beginning of the member’s active duty and was aggravated by service in the line of duty on active duty in the Armed Forces) and that may render the member medically unfit to perform the duties of the member’s office, grade, rank, or rating; or
+In the case of a veteran who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during the specified five-year period, a serious injury or illness that was incurred by the member in the line of duty on active duty in the Armed Forces, or existed before the beginning of the member’s active duty and was aggravated by service in the line of duty on active duty in the Armed Forces, and that manifested itself before or after the member became a veteran.
+Outpatient status: With respect to a covered servicemember, means the status of a member of the Armed Forces assigned to:
+A military medical treatment facility as an outpatient; or
+A unit established for the purpose of providing command and control of members of the Armed Forces receiving medical care as an outpatient.
+Single 12-month period:
+Strictly relates to 26-week FMLA military family leave and means the period beginning on the first day the employee takes FMLA military family leave to care for a covered servicemember with a serious injury or illness and ending 12 months after that date. This is different than the any 12-month period under the basic FMLA 12-week entitlement.
+Covered family members are entitled to up to 26 administrative workweeks of FMLA military family leave during a single 12-month period to care for the servicemember or veteran (referred to as military family leave).
+During the single 12-month period, an employee is entitled to a combined total of 26 administrative workweeks of basic FMLA leave and military family leave if the basic FMLA leave is initiated after the beginning of the single 12-month period.
+
+• For example, if during the single 12-month period of 26-week military family leave, an employee requests to take six administrative workweeks of basic FMLA leave for the birth of a child, the six administrative workweeks of basic FMLA leave is subtracted from the combined entitlement of 26 administrative workweeks, leaving the employee with 20 administrative workweeks of the 26-week military family leave for care of the servicemember.
+The use of this 26-week military family leave in a single 12-month period does not limit the use of basic FMLA leave outside of the single 12-month period.
+
+• For example, if an employee uses any of the basic 12-week entitlement prior to the start of the 26 administrative workweeks of military family leave during a single 12-month period, it is possible the employee may be absent for a total of 38 administrative workweeks (26 weeks of military family leave plus 12 weeks of basic FMLA).
+Similar to basic FMLA leave, 26-week military family leave is unpaid leave for which an employee may request to substitute any accumulated or accrued annual or sick leave, advanced annual or sick, and leave from the Leave Sharing Program in accordance with rules and regulations governing those programs. An employee may substitute up to 26 administrative workweeks (1,040 hours) of accumulated or accrued annual or sick leave for this purpose. The normal leave year limitations on the use of sick leave for all family care do not apply. See IRM 6.630.1.5.5, Sick Leave for Family Care.
+Spouse: A partner in any legally recognized or defined marriage, regardless of the employee’s state of residency, to include common law marriages in states where they are recognized. It does not include unmarried domestic partners of the same or opposite sex or unrecognized common law relationships.
+Veteran: A person who, under 38 USC 101, served in the active military, naval, or air service, and who was discharged or released under conditions other than dishonorable.
+6.630.2.1.7 (07-28-2023)
+Related Resources
+IRS Source Military Leave at: https://irssource.web.irs.gov/Lists/Timekeeping/DispItemForm.aspx?ID=116 and Resources at:https://irssource.web.irs.gov/Lists/VeteransProgram/DisplaySection.aspx?SectionName=3
+Office of Personnel Management (OPM) Fact Sheets on military-related leave at: https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/military-leave/
+OPM Fact Sheet: Disabled Veteran Leave at: https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/disabled-veteran-leave/.
+IRM 6.630.1, Absence and Leave.
+Integrated Talent Management (ITM) Course 28523, Module 11 - Military Leave for Reserves and National Guard.
+6.630.2.2 (07-28-2023)
+Military Leave for Reserves or National Guard
+Military leave is defined as the authorized absence of an employee from official duty to perform active military duty, active duty for training, inactive-duty training, funeral honors duty, or to engage in field or coast defense training. An employee on military leave under 5 USC 6323(a) receives full civilian salary as well as military pay.
+A full-time employee on a permanent or temporary indefinite appointment (defined by Comptroller General Decision (CG) B-232438 [1989] as temporary appointment for one year or more), who is a member of the reserve components of the Armed Forces, is entitled to 15 days (equivalent to 120 hours) of paid military leave each fiscal year.
+Under 5 U.S.C. 6323(c), unlimited military leave may be provided only to members of the National Guard of the District of Columbia for certain types of duty ordered or authorized under title 49 of the District of Columbia Code. See also: https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/military-leave/
+An employee on a temporary limited appointment (for less than one year) is not eligible for military leave even if the appointment is extended beyond the one-year timeframe (CG B-232438 [1989]).
+An employee on an intermittent work schedule does not earn leave, and therefore, is not eligible for military leave. See IRM 6.630.1.2(8).
+Military leave eligibility is based on the employee's current appointment. Therefore, if an employee on a temporary limited appointment (for less than one year) is converted to a permanent or temporary indefinite appointment (for one year or more), then eligibility is based on the new appointment, and the employee is eligible for military leave.
+An eligible employee who does not use the entire 120 hours (or 15 days) may carry over up to 120 hours from one fiscal year to the next. Therefore, an employee may use a maximum of 240 hours in a fiscal year.
+Military leave is charged for hours an employee otherwise would have worked. An employee is not charged military leave on weekends or other non-workdays and receives full civilian pay for all 120 hours.
+Military leave is not authorized for certain types of duty. An employee may request other approved leave or LWOP to engage in these activities:
+Summer training as members of Reserve Officers’ Training Corps (ROTC)
+Temporary members of the Coast Guard reserve
+Participation in parades by members of a state National Guard
+Training with a state defense organization or a state military organization that is not part of the National Guard
+Weekly meetings and drills as a member of the District of Columbia National Guard
+Time to travel on a workday to a place of training unless orders encompass travel time
+Active duty as a commissioned officer in the Reserve Corps of the United States Public Health Service
+Employees called to active duty should obtain a Military Benefits Election Check List for IRS Employees Entering Active Service available at: https://irssource.web.irs.gov/Linked%20Documents%20Library/Mil_Benefits_Election_Checklist.pdf, or by emailing Military.Deployment.Program@irs.gov.
+An employee or manager must submit orders for active duty or military training along with certification after attendance containing dates of military duty to *Military Deployment Program at: Military.Deployment.Program@irs.gov or fax to 885-875-6606. The Military Deployment team will process the required personnel action request (PAR) to complete the employee’s record. This is required when the employee has reemployment rights under the Uniformed Services Employment and Reemployment Rights Act of 1994 (USERRA), regardless of the number of days absent.
+6.630.2.2.1 (03-15-2013)
+Computation of Military Leave Accrual for Part-Time Employees
+Military leave for part-time employees accrues at a rate based on the number of hours in the regularly scheduled tour of duty (TOD) as documented on their SF-50, Notification of Personnel Action. In computing the allowable military leave, use the following formula:
+120 x (__/40) = ___. Multiply 120 hours (the number of hours a full-time employee would accrue) by the number of hours in the employee’s weekly TOD divided by 40 (the number of hours a full-time employee works per week). The result is the number of military hours the employee will accrue for the current fiscal year.
+
+• Example: 120 X (20/40) = 60. In this example, the employee works 20 hours per week. The employee is entitled to 60 hours of military leave in the current fiscal year.
+6.630.2.2.2 (07-28-2023)
+Requesting Military Leave for Reserves or National Guard
+To be eligible for military leave if ordered to active duty, an employee is responsible for providing military orders or a letter of required attendance to their immediate manager. (Follow the instructions available in the Military Benefits Election Check List for IRS Employees Entering Active Military Service at: https://irssource.web.irs.gov/Linked%20Documents%20Library/Mil_Benefits_Election_Checklist.pdf.)
+An employee requesting military leave must submit the request as soon as possible, and furnish military orders before entering on active duty in accordance with (1) above;
+The employee requesting military leave must also provide a Department of Defense (DD) 214 discharge document or a letter of attendance signed by the commanding officer upon return to duty. Note: to better understand the impact of military service on benefits such as employment, pay, and eligibility entitlements, contact the Employee Resource Center (ERC) Helpdesk on the IRS Source at: https://irssource.web.irs.gov/Pages/Employee%20Resources.aspx.
+6.630.2.3 (07-28-2023)
+Military Leave to Enforce the Law or in Support of a Contingency Operation
+There are two conditions where an employee is entitled to an additional 22 workdays of military leave per calendar year under this provision of the law:
+Military leave for military aid to enforce the law: Under 5 USC 6323(b), an employee is entitled to an additional 22 workdays of military leave per calendar year, when their duty is considered military aid to enforce the law, such as a Reservist or National Guard member performing military duty in support of civil authorities, in the protection of life and property, or when the National Guard is used in response to disasters such as floods, earthquakes, and hurricanes, or the maintenance of law and order is a prime function of the assigned military duties (see IRM 6.630.2.3.3 below for salary consideration); and
+Military leave for service in support of a contingency operation: Under 5 USC 6323(b), and employee is entitled to an additional 22 workdays of military leave per calendar year when they perform full-time military service or active duty in support of a contingency operation as defined in 10 USC 101(a)(13).
+6.630.2.3.1 (07-28-2023)
+Requesting Military Leave to Enforce the Law or in Support of a Contingency Operation
+To be eligible for the additional 22 days of military leave to enforce the law, or in support of a contingency operation, an employee must
+Receive orders activating their status or certification signed by an appropriate military official indicating the dates of service;
+Notify their manager as soon as possible;
+Provide their manager a copy of their military orders, or a statement by the commanding officer, which shows the duty is for the purpose of providing military aid to enforce the law, including the authorization, extent and nature of the service, must be provided to the manager to facilitate the crediting of military pay against civilian pay; in accordance with 5 USC 6323(b), an employee’s pay must not be reduced due to absence when granted leave under this subsection.
+If an employee plans to exceed all of this type of military leave during the current calendar year, they must notify management as soon as possible regarding how to post the IRS T&A record(s) to reflect additional periods of absence (e.g., annual leave, LWOP, etc.).
+An employee performing this type of military duty does not lose entitlement to regularly scheduled night pay differential or regularly scheduled overtime. (See IRM 6.550.2.2.17.)
+This type of military leave is not charged for absences on days when the employee is not regularly scheduled to work.
+An employee's regularly scheduled workweek cannot be altered solely to increase entitlement to compensation for military purposes.
+There is no authority to carry over any unused portion of the 22 days of this type of military leave to the next calendar year.
+6.630.2.3.2 (07-28-2023)
+Salary Considerations for Military Leave to Enforce the Law or in Support of a Contingency Operation
+Military leave to enforce the law or in support of a contingency operation (under 5 USC 6323(a)) entitles the eligible employee to the greater of the military or civilian pay (49 Comp. Gen. 233).
+In accordance with 5 USC 5519, the amount received by an employee for their military service (under 5 USC 6323(b)) as a member of the Reserve or National Guard, for a period for which they are granted military leave, shall be credited against the pay payable to the employee with respect to their civilian position for that period. (This reduction does not include travel, transportation, or per diem allowance.) .
+An employee must refund the IRS the military base pay received for the days of absence that occur on workdays. The employee must repay a dollar amount equal to the military pay received (less any travel, transportation, or per diem allowances) up to the amount of their civilian pay. The military pay to be refunded applies only to this type of military leave. (See: IRM 6.630.1.1.3, Absence and Leave, on employee responsibilities.)
+6.630.2.4 (03-15-2013)
+Funeral Leave for Immediate Relative who Died in a Combat Zone
+Funeral leave (of up to, but not to excess of, three days) may be granted to enable an employee to make arrangements for and/or to attend the funeral or memorial service of an immediate relative who died as a result of a wound, disease, or injury incurred while serving as a member of the Armed Forces in a combat zone.
+Immediate relative means the following relatives of the deceased member of the Armed Forces:
+Spouse and spouse’s parents;
+Children, including adopted children and their spouses;
+Parents and their spouses;
+Siblings and their spouses;
+Grandparents and grandchildren and their spouses;
+Domestic partner and domestic partner’s parents, including domestic partners and any individual named under (b) through (e) above. This includes both same sex and opposite sex relationships; or
+Any individual related by blood or affinity whose close association with the employee is the equivalent of a family relationship.
+6.630.2.5 (12-18-2018)
+Disabled Veteran Leave
+Disabled veteran leave is authorized and administered under 5 USC 6329 and 5 CFR 630, Subpart M.
+Disabled veteran leave:
+Applies to an employee who is a veteran hired on or after November 5, 2016, with a service-connected disability rated at 30 percent or more for purposes of undergoing medical treatment for such disability;
+Is a one-time entitlement and may not exceed 104 hours for a regular full-time employee, and is prorated for an employee with a part-time TOD;
+Must be used during the 12-month period beginning on the first day of employment;
+Addresses newly hired federal employee veterans who have a zero balance of sick leave when initially appointed, and need medical treatment for their service-connected disability. An employee may use this leave in lieu of sick leave without having to take LWOP, accrued sick or annual leave, or advanced leave; and
+Is automatically deposited in its own category in an employee’s account, separate from regular sick leave.
+6.630.2.5.1 (07-28-2023)
+Definitions
+12-month eligibility period: The continuous 12-month period that begins on the first day of employment.
+First day of employment: The first day of employment establishes the beginning of the 12-month eligibility period for disabled veterans leave. It is the first day of service that qualifies as employment after a qualifying service-connected disability has been established by the Veterans Benefits Administration (VBA), such as the following:
+The date an employee is hired after the effective date of their qualifying service-connected disability has been determined by the VBA. (For example, if the qualifying service-connected disability was determined by the VBA on November 1, and the employee’s first day of employment is December 1, the beginning of the 12-month eligibility period is December 1; or
+If the employee has been hired on a date before their qualifying service-connected disability has been established by the VBA, the beginning of the 12-month eligibility period will be the effective date of the employee’s qualifying service-connected disability as determined by the VBA. (For example, if the employee’s first day of employment is September 1, but their qualifying service-connected disability is not established by the VBA until October 1, the beginning of the 12-month eligibility period is October 1.)
+Hired: The action (on or after November 5, 2016) of:
+Receiving an initial appointment to a civilian position in the federal government;
+Receiving a qualifying reappointment to a civilian position in the federal government; or
+Returning to duty status in a civilian position in the federal government, which immediately followed a break in civilian duty (with the employee in continuous civilian leave status) to perform military service.
+Medical certificate: A written statement signed by a health care provider certifying to the treatment of a veteran’s qualifying service-connected disability.
+Medical treatment: Any activity carried out or prescribed by a health care provider to treat a veteran’s qualifying service-connected disability.
+Qualifying reappointment: An appointment of a former employee of the federal government following a break in employment of at least 90 calendar days.
+Qualifying service-connected disability: A veteran’s service-connected disability rated at 30 percent or more by the VBA, including a combined degree of disability of 30 percent or more that reflects the combined effect of multiple individual disabilities, which resulted in the award of disability compensation under 38 USC. A temporary disability rating under 38 USC 1156 is considered a valid rating in applying this definition for as long as it is in effect.
+Service-connected: Refers to a disability that was incurred or aggravated in the line of duty in the active military, naval, or air service (as determined by VBA), as defined under 38 USC 101(16).
+Veterans Benefits Administration: means the Veterans Benefits Administration (VBA) of the Department of Veterans Affairs (VA).
+6.630.2.5.2 (07-28-2023)
+Employee Coverage
+The following requirements must be met in order for an employee to be eligible for disabled veteran leave. An employee must:
+Be a veteran in the civil service (as defined in 5 USC 2101);
+Be covered by the disabled veteran leave statute (as defined in 5 USC 6329;
+Be hired on or after November 5, 2016; and
+Be subject to a leave system for which leave is charged for absences.
+6.630.2.5.3 (12-18-2018)
+Eligibility
+An employee who is a veteran with a qualifying service-connected disability is entitled to disabled veteran leave, which will be available for use during the 12-month eligibility period beginning on the first day of employment. For each employee, there is a single first day of employment.
+Employees not covered by a leave system (such as those with intermittent work schedules) are not covered by the disabled veteran leave authority.
+To be eligible for disabled veteran leave, an employee must provide documentation from the VBA certifying that they have a qualifying service-connected disability. The documentation should be provided to the IRS:
+Upon the first day of employment, if they have already received such certifying documentation, or
+For an employee who has not yet received certifying documentation from the VBA, as soon as practicable after they receive the certifying documentation.
+Notwithstanding paragraph (3) of this section, an employee may submit certifying documentation at a later time, including after a period of absence for medical treatment, as described in 5 CFR 630.1306(c). The 12-month eligibility period is fixed and is based on the first day of employment and is not affected by the timing of when certifying documentation is provided.
+If an employee's service-connected disability rating is decreased or discontinued during the 12-month eligibility period and they no longer have a qualifying service-connected disability (i.e., the disability rating falls below 30 percent), the employee:
+Must notify the IRS of the effective date of the change in the disability rating; and
+Is no longer eligible for disabled veteran leave as of the effective date of the rating change.
+6.630.2.5.4 (12-18-2018)
+Crediting Disabled Veteran Leave
+Disabled veteran leave can only be credited once an employee provides the necessary certifying documentation to the IRS to confirm their eligibility. The eligible employee must be credited with the appropriate amount of disabled veteran leave as of their “first day of employment.”
+Crediting Hours by Work Schedule:
+An employee under a regular full-time work schedule will receive an initial crediting of 104 hours of disabled veteran leave.
+An employee who has a part-time or seasonal work schedule will receive a proportionally equivalent amount of disabled veteran leave initially credited based upon the hours in their work schedule. (For more information see 5 CFR 630.1305(a).)
+Use the following formulas to compute the number of disabled veteran leave hours initially credited, where “hours” means hours in the employee’s established TOD or work schedule.
+
+• Part-time Work Schedule (non-seasonal): (hours/80) x 104. For example, for employees who work 20 hours/week or 40 hours biweekly: (40/80) x 104 = 52 hours disabled veteran leave.
+
+• Seasonal Work Schedule (part-time or full-time): (hours/2,080) x 104. For example, for employees who are projected to work full-time for half year: (1,040/2,080) x 104 = 52 hours of disabled veteran leave and for employees who are projected to work part-time (20 hours per week) for half year: (520/2,080) x 104 = 26 hours disabled veteran leave.
+Offsetting Disabled Veteran Leave:
+The initial crediting of disabled veteran leave may be subject to offset (reduction), and the hours must be offset by any hours of sick leave to the employee’s credit as of the “first day of employment”; or any hours of “equivalent” disabled veteran leave used by an employee in a position not covered by 5 USC 6329 (i.e., equivalent leave granted under another authority such as the personnel authority of the Federal Aviation Administration or the Transportation Security Administration.
+An employee may have a sick leave balance as of the first day of employment in the following situations:
+
+1) A former federal employee is rehired after a break in service of at least 90 days and the rehire date qualifies as the “first day of employment” triggering eligibility for disabled veteran leave. The rehired employee is entitled to a recredit of the former sick leave balance. The recredited sick leave hours will offset the initial crediting of disabled veteran leave hours, which could reduce or eliminate the disabled veteran leave benefit and requires time and attendance record adjustments;
+2) A veteran is first hired in a qualifying position as a federal employee on or after November 5, 2016, and does not have eligibility for disabled veteran leave as of the hire date. Later, the veteran files a claim for VA disability compensation, which is approved, and the effective date of the disability rating is after the hire date. That effective date of the VBA disability rating is the “first day of employment” and the start date of the 12-month eligibility period for using disabled veteran leave. The hours of sick leave to the employee’s credit (if any) as of that start date would offset the initial crediting of disabled veteran leave hours; or
+3) A federal employee is called to perform military duty as a reservist. After their military service, the employee qualifies for disabled veteran leave. The hours of sick leave to their credit (if any) as of the start date of the 12-month eligibility period would offset the initial crediting of disabled veteran leave hours.
+Conversion of Disabled Veteran Leave Balance Based on Change in a TOD:
+When an employee is converted to a different TOD for leave purposes, including in conjunction with movement to a different agency, the employee’s balance of unused disabled veteran leave must be converted to the proper number of hours based on the proportion of hours in the new TOD compared to the former TOD. For seasonal employees, hours must be annualized in determining the proportion.
+
+• For example, if an employee has a balance of 60 hours of disabled veteran leave and changes from a full-time schedule (80 hours per biweekly pay period) to a half-time schedule (part-time schedule of 40 hours per biweekly pay period), the 60-hour balance would be converted to a 30-hour balance [60 x (40/80) = 30].
+When an employee moves from a Postal agency to the IRS, the balance at the time of separation under Postmaster General regulations will be carried over and will be adjusted during the 12-month eligibility period only when hours of disabled veteran leave are used.
+6.630.2.5.5 (12-18-2018)
+Requesting and Using Disabled Veteran Leave
+An employee must apply in written, electronic, or oral format to use disabled veteran leave. While noting these requirements, manager’s are encouraged to be as flexible as possible when granting this leave to eligible employees. The application must:
+Include a personal self-certification by the employee that the requested leave will be (or was) used for purposes of receiving medical treatment for a qualifying service-connected disability;
+Include the specific days and hours of absence required for the treatment; and
+Be submitted as far in advance as reasonably possible.
+An employee must request approval to use disabled veteran leave as far in advance as reasonably possible, appropriate to the circumstances involved, unless the need for leave is critical and not foreseeable (e.g., due to a medical emergency or the unexpected availability of an appointment for surgery or other critical treatment). If the need for leave is critical and not foreseeable, the leave may not be delayed or denied if the employee is unable to provide advance notice.
+An employee may use disabled veteran leave only for the medical treatment of a qualifying service-connected disability. The medical treatment may include a period of rest, but only if specifically ordered by the health care provider as part of a prescribed course of treatment for the qualifying service-connected disability.
+When an employee did not provide the IRS employment office with certification of a qualifying service-connected disability before having a period of absence for treatment of the disability, they are entitled to substitute approved disabled veteran leave retroactively for the period of absence (excluding periods of suspension or absence without leave (AWOL), but including LWOP, sick leave, annual leave, compensatory time off, or other paid time off) in the 12-month eligibility period.
+Before retroactive substitution is approved, an employee may be required to submit medical certification within 15 calendar days unless it’s determined that more time is required (not to exceed 30 calendar days).
+Retroactive substitution cancels the use of the original leave or paid time off and requires T&A record adjustments. In the case of retroactive substitution for a period when an employee used advanced annual leave or advanced sick leave, the adjustment results in the employee not being responsible for a debt. (See also IRM 1.36.4.2 Administrative Accounting and Financial Management Reports, Administrative (Non-Tax) Debt Management.
+6.630.2.5.6 (12-18-2018)
+Medical Certification
+In addition to an employee's required self-certification, they must submit a signed written medical certification issued by a health care provider to their manager, that includes:
+A statement by the health care provider that the medical treatment is for one or more service-connected disabilities that resulted in 30 percent or more disability rating;
+The date or dates of treatment or, if the treatment extends over several days, the beginning and ending dates of the treatment;
+A statement that the treatment required was of an urgent nature or there were other circumstances that prevented advanced scheduling, if the leave was not requested in advance; and
+Any additional information that is essential to verify the employee's eligibility.
+An employee must provide their manager any required written medical certification no later than 15 calendar days after the date the manager requests it, unless it is not practicable under the circumstances for the employee to provide the requested medical certification within 15 calendar days. The leave may be used for any of the disabilities listed in the veteran’s disability rating determination that were combined to reach a total disability rating of 30 percent or more.
+If the employee is unable to provide the requested medical certification within 15 calendar days, despite their diligent, good faith efforts, the medical certification must be provided within a reasonable period of time under the circumstances involved, but no later than 30 calendar days after it is requested.
+An employee who does not provide the required evidence or medical certification within the specified time period is not entitled to use disabled veteran leave, and the manager may, as appropriate and consistent with applicable laws and regulations:
+Charge the employee as AWOL; or
+Allow the employee to request a charge to LWOP, sick leave, annual leave, or other forms of paid time off.
+6.630.2.5.7 (12-18-2018)
+Forfeiture, Transfer and Reinstatement
+Disabled veteran leave not used during the 12-month eligibility period is not carried over to subsequent years and is forfeited.
+If a change in the employee's disability rating during the 12-month eligibility period causes the employee to no longer have a qualifying service-connected disability, the employee forfeits any unused disabled veteran leave as of the effective date of the rating change.
+During the 12-month eligibility period, when an employee with a positive disabled veteran leave balance transfers between positions in different agencies, or transfers from the United States Postal Service or Postal Regulatory Commission to a position in the IRS, the agency the employee transfers from must certify the number of unused disabled veteran leave hours available for credit.
+Note: The term “transfers” means movement from a position in one agency (or the United States Postal Service or Postal Regulatory Commission) to a position in another agency without a break in employment of one workday or more in circumstances where service in both positions qualifies as employment.
+An employee with a balance of unused disabled veteran leave, who has a break in employment of at least one workday during the 12-month eligibility period, and returns later to qualifying Federal employment covered by 5 USC 6329 within that same eligibility period, is entitled to a recredit of the unused balance.
+The losing agency must certify the number of unused disabled veteran leave hours and the expiration date of the employee’s established 12-month eligibility period. Any unused disabled veteran leave must be forfeited at the end of that eligibility period.
+If certification is not available upon transfer or reinstatement, the recredit of disabled veteran leave may also be supported by:
+Written documentation available to the IRS in the employee’s official personnel records;
+The official records of the employee's former employing agency;
+Copies of concurrent earnings and leave statement(s) provided by the employee; or
+Copies of other concurrent written documentation acceptable to the IRS.
+If an employee’s work schedule changes in conjunction with movement to a different agency during the 12-month eligibility period, the balance of disabled veteran leave must generally be converted to the proper number of hours based on the proportional relationship between the two schedules, as described in 5 CFR 630.1305(c).
+An employee may not receive a lump-sum payment for any unused disabled veteran leave under any circumstance.
+6.630.2.6 (12-18-2018)
+Qualifying Exigency FMLA Leave and 26-Week FMLA Military Family Leave
+There are two types of military FMLA leave covered in this IRM:
+Qualifying Exigency FMLA Leave: A period of absence tied to the deployment of a servicemember and/or other related activities described in IRM 6.630.2.6.2.1 . This is covered under the basic 12-week provision under 5 USC 6381 through 6387 and 5 CFR, subpart L, which entitles an employee to a total of up to 12 administrative workweeks of basic FMLA unpaid leave during any 12-month period for certain family and medical needs.
+26-Week FMLA Military Family Leave: A period of absence for an employee providing care for a covered servicemember who became ill or was injured in the line of duty.
+General parameters such as eligibility, features, limitations, and procedures for applying for all types of FMLA are the same. However, provisions that apply to military also appear below.
+For information on non-military-related leave such as birth of a child or serious personal illness, see IRM 6.630.1.9, Family and Medical Leave Act (FMLA).
+6.630.2.6.1 (12-18-2018)
+FMLA - Eligibility
+An employee requesting qualifying exigency FMLA leave or 26-week FMLA military family leave must:
+Be the spouse, child, parent, or next of kin (defined as the nearest blood relative) of a covered servicemember with a serious injury or illness;
+Be covered by the Federal leave system; and
+Have completed 12 consecutive or nonconsecutive months of Federal service.
+An employee serving under a temporary appointment with a time limitation of one year or less as well as an employee assigned to an intermittent work schedule is not eligible.
+6.630.2.6.2 (12-18-2018)
+Reasons for Use
+An employee may use military-related FMLA for:
+Qualifying exigencies: Arising out of the fact that an employee’s spouse, child or parent is a covered military member on covered active duty (or has been notified of an impending call or order to covered active duty) in the Armed Forces; and
+26-Week FMLA Military Family Leave: When an employee is the spouse, child, parent, or next of kin (defined as the nearest blood relative) of a covered servicemember with a serious injury or illness incurred in the line of duty and provides care for such servicemember.
+6.630.2.6.2.1 (01-06-2017)
+Qualifying Exigencies - Covered Active Duty or Call to Covered Active Duty Status
+An employee may request up to 12 administrative workweeks of military-related FMLA leave while their spouse, child, or parent is on covered active duty or called to covered active duty status for one or more of the following qualifying exigencies, pertaining to leave for a covered military member:
+Short-notice deployment: To address any issue that arises from the fact that a covered military member is notified of an impending call or order to covered active duty seven or fewer calendar days prior to the date of deployment. Leave taken for this purpose can be used for a period of up to seven calendar days beginning on the date a covered military member is notified of an impending call or order to covered active duty.
+Military events and related activities: 1) To attend any official ceremony, program, or event sponsored by the military that is related to the covered active duty or call to active duty status; and 2) To attend family support or assistance programs and informational briefings sponsored or promoted by the military, military service organizations, or the American Red Cross that are related to the covered active duty or call to covered active duty status.
+Child care and school activities: For purposes of this section, “child” means a biological, adopted or foster child, a stepchild or a legal ward of a covered military member, or a child for whom a covered military member stands in loco parentis, who is either under age 18, or age 18 or older and incapable of self-care because of a mental or physical disability at the time the military-related FMLA leave is to begin.
+Activities include:
+1) To arrange for alternative child care when the covered active duty or call to covered active duty status of a covered military member necessitates a change in the existing child care arrangement,
+2) To provide child care on an urgent, immediate need basis (not on a routine, regular, or everyday basis) when the need to provide such care arises from the covered active duty or call to covered active duty status,
+3) To enroll in or transfer a child to a new school or day care facility, when enrollment or transfer is necessitated by the covered active duty or call to covered active duty status, and
+4) To attend meetings with staff at a school or a day care facility, such as meetings with school officials regarding disciplinary measures, parent-teacher conferences, or meetings with school counselors, for a child when such meetings are necessary due to circumstances arising from the covered active duty or call to covered active duty status.
+Financial and legal arrangements:
+1) To make or update financial or legal arrangements to address the covered military member’s absence while on covered active duty or call to covered active duty status, such as preparing and executing financial and health care powers of attorney, transferring bank account signature authority, enrolling in the Defense Enrollment Eligibility Reporting System (DEERS), obtaining military identification cards, or preparing or updating a will or living trust; and
+2) To act as the covered military member’s representative before a Federal, State, or local agency for purposes of obtaining, arranging, or appealing military service benefits while the covered military member is on covered active duty or call to covered active duty status, and for a period of 90 days following the termination of the covered military member’s covered active duty status.
+Counseling: To attend counseling provided by someone other than a health care provider for oneself, for the covered military member, or for a child, provided that the need for counseling arises from the covered active duty or call to covered active duty status of a covered military member.
+Rest and recuperation: To spend time with a covered military member who is on short-term, temporary, rest and recuperation leave during the period of deployment. Eligible employees may take up to five days of military-related FMLA leave for each instance of rest and recuperation.
+Post-deployment activities:
+1) To attend arrival ceremonies, reintegration briefings and events, and any other official ceremony or program sponsored by the military for a period of 90 days following the termination of the covered military member’s covered active duty status; and
+2) To address issues that arise from the death of a covered military member while on covered active duty status, such as meeting and recovering the body of the covered military member and making funeral arrangements.
+Additional activities: To address other events that arise out of the covered military member’s covered active duty or call to covered active duty status, provided that the agency and employee agree that such leave qualifies as an exigency, and that they agree to both the timing and duration of such leave.
+6.630.2.6.2.2 (01-06-2017)
+26-Week FMLA Military Family Leave
+The NDAA for FY 2008 and FY 2010 (public laws 110-181 and 111-84) provide that an employee who is the spouse, child, parent, or next of kin of a covered servicemember who is injured or became ill in the line of duty while in Active duty may use up to 26 administrative workweeks of FMLA military family leave during a single 12-month period for the purpose of caring for the servicemember.
+A full-time employee is entitled to use:
+Twenty-six administrative workweeks (1,040 hours) of unpaid LWOP (26-week FMLA military family leave) during a single 12-month period to provide care for such servicemember undergoing medical treatment, recuperation or therapy for a serious injury or illness.
+These 26 administrative workweeks do not include holidays and non-workdays.
+For a part-time employee, the amount of unpaid LWOP (26-week FMLA military family leave) entitlement during a single 12-month period is prorated. The amount of leave granted for this purpose may not exceed an amount equal to 26 times the average number of hours in their scheduled TOD each week.
+
+• For example, an employee who works 20 hours a week may use a maximum of 520 hours (20 hours a week x 26 = 520 total.)
+In addition to this 26-week FMLA military family leave, an employee may request basic 12-week qualifying exigency FMLA leave while their spouse, child, or parent (the covered military member) is on covered active duty or on a call to covered active duty status for a qualifying exigency (see IRM 6.630.2.6.2.1 above). During a single 12-month period, however, an employee is only entitled to a combined total of 26 administrative workweeks of basic qualifying exigency FMLA leave and 26-week FMLA military family leave.
+6.630.2.6.3 (01-06-2017)
+Features and Limitations of Qualifying Exigency FMLA Leave and 26-Week FMLA Military Family Leave
+An employee may not be denied if the request meets the FMLA criteria as defined by 5 CFR 630, subpart L.
+An employee may use these types of FMLA in conjunction with other types of leave or leave programs (e.g., voluntary leave transfer program).
+An employee may use these types of FMLA leave intermittently or under a work schedule reduced by the number of hours of exigency basic FMLA leave when mutually agreed upon between the employee’s manager and the employee.
+An employee may substitute paid leave for unpaid leave under FMLA, (i.e., annual and/or sick leave consistent with laws and regulations governing the granting and use of annual or sick leave, advanced annual and/or sick leave, and/or leave made available under the voluntary leave sharing programs).
+An employee may not substitute compensatory time off in lieu of overtime, compensatory time off for travel, credit hours, or time off awards for unpaid FMLA leave (FMLA-LWOP).
+FMLA-LWOP as well as annual or sick leave substituted for FMLA-LWOP, may be taken in 15-minute increments.
+An employee may not retroactively invoke their entitlement to any FMLA, unless they provide proof of:
+Physical or mental incapacity making them incapable of invoking entitlement during the entire period of absence from work; and
+A personal representative was also unable to contact the agency and invoke the entitlement to FMLA during the entire period of absence.
+An employee who meets this criteria must invoke entitlement within two workdays after returning to work status.
+Upon return to work, an employee is entitled to the same or equivalent position, benefits, pay, status, and other conditions of employment.
+If an employee is on any FMLA-LWOP, they are entitled to maintain health benefits as long as they have made arrangements to pay their share of costs on a current basis or upon return to work status.
+Periods of any FMLA-LWOP may have significant impact on employee benefits (e.g., leave accrual (see IRM 6.630.1.2)). See OPM’s fact sheet, titled Effect of Extended Leave Without Pay (LWOP) (or Other Nonpay Status) on Federal Benefits and Programs, at: https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/effect-of-extended-leave-without-pay-lwop-or-other-nonpay-status-on-federal-benefits-and-programs/. Information on the impact of LWOP is also found on the IRS Source.
+Requests are approved by the employee’s immediate manager, who should contact the servicing LR/ER specialist if questions arise.
+6.630.2.6.4 (01-06-2017)
+Requirements
+Both qualifying exigency FMLA leave and 26-week FMLA military family leave must be invoked by an employee, in written, oral, or electronic format.
+Where the need for either of these two types of FMLA leave is foreseeable, an employee must submit advance notice on recommended Form 9611, Application for Leave Under the Family and Medical Leave Act, which may be found at: https://irssource.web.irs.gov/lists/VeteransProgram/DispItemForm.aspx?ID=67&, no less than 30 days before the leave period. If the need for military-related FMLA leave is not foreseeable, the Form 9611 should be submitted within a reasonable period of time appropriate to the circumstances involved.
+If required for either of these two types of FMLA leave, an employee must submit medical certification within 15 calendar days of the manager’s request. If it is not possible under the circumstances to provide the requested medical certification within the 15 calendar days, despite the employee’s diligent, good faith efforts, the employee must submit the medical certification within a reasonable period of time under the circumstances involved, but no later than 30 calendar days after the date requested. If medical certification is not submitted within the specified period, an employee may be charged AWOL or request another type of paid leave or time off, as appropriate.
+Military-related certification will be provided by a Department of Defense health care provider, a VA health care provider, a Department of Defense TRICARE network private health care provider, or a Department of Defense non-network TRICARE authorized private health care provider.
+An employee must provide notification of the intent to substitute paid leave for the period of unpaid qualified exigency FMLA leave or 26-week FMLA military family leave prior to the date the paid leave begins.
+An employee may not substitute paid leave retroactively for unpaid qualifying exigency FMLA leave or unpaid 26-week FMLA military family leave previously taken.
+6.630.2.6.5 (07-28-2023)
+Procedures for Applying
+An employee may apply for qualifying exigency FMLA leave or 26-week FMLA military family leave to their immediate manager using recommended Form 9611, Application for Leave Under the Family and Medical Leave Act, which may be found at: https://irssource.web.irs.gov/lists/VeteransProgram/DispItemForm.aspx?ID=67&, no less than least 30 days before leave is to begin if the need for leave is foreseeable, or within a reasonable period of time appropriate to the circumstances involved if the need for leave is not foreseeable.
+An employee who requests qualifying exigency FMLA leave or 26-week FMLA military family leave may use Form WH-384, Certification of Qualifying Exigency for Military Family Leave, at: https://www.dol.gov/whd/forms/WH-384.pdf. While the employee is not required to use this form, they are still responsible for submitting all required information.
+An employee who requests 26-week FMLA military family leave may use Form WH-385, Certification for Serious Injury or Illness of Covered Servicemember for Military Family Leave, at: https://www.dol.gov/whd/forms/WH-385.pdf. While an employee is not required to use this form, they are still responsible for submitting all required medical and other information.
+An employee may provide required medical certification directly to their immediate manager or through the designated IRS health services provider.
+Requests are approved by the employee’s immediate manager and the manager should contact the servicing LR/ER specialist if questions arise.
+6.630.2.7 (01-06-2017)
+Substitution of Sick Leave for Unpaid 26-Week FMLA Military Family Leave for a Covered Servicemember
+An employee must invoke their entitlement and apply for 26-week FMLA military family leave to substitute paid sick leave under this subsection.
+The 480-hour limit on the use of sick leave for all family care purposes within a leave year does not apply for this purpose.
+The amount of sick leave an employee may substitute for unpaid 26-week FMLA military family leave to care for a covered servicemember may not exceed:
+Twenty-six administrative workweeks (1,040 hours) for a full-time employee in a “single 12-month period”; or
+The amount equal to 26 times the average number of hours in their scheduled TOD each week for part-time employees in a “single 12-month period”.
+This provision is in addition to the sick leave employees may request to substitute for the basic 12-week (480 hour) entitlement to basic FMLA for other reasons, such as the birth of a child or adoption.
+An employee may also substitute accrued annual leave, advanced annual and/or sick leave, and any donated leave received through the leave transfer program for this purpose.
+Requests are approved by the employee’s immediate manager and they should contact the servicing LR/ER specialist if questions arise.
+6.630.2.8 (01-06-2017)
+Five-Days Excused Absence (Administrative Leave) for Returning Military Members
+A returning military employee is entitled to five days of excused absence if they:
+Return from performing active military service in support of Overseas Contingency Operations (OCO),
+Spend at least 42 consecutive days on active duty in support of OCO, and upon returning
+Notify their manager of the specific return to duty date.
+A returning military employee is entitled to this excused absence only once during a 12-month period, with a new 12-month period beginning after the first use of the excused absence.
+If (1) a) through c) are met, the manager must grant the excused absence, and the employee must use all days immediately before returning to work.
+See also: Memorandum for the Heads of Executive Departments and Agencies (archives.gov) and 5 Days of Excused Absence for Employees Returning from Active Military Duty (opm.gov) . For additional information on the IRS Source, see Veterans Program Office (VPO) Resources at: https://irssource.web.irs.gov/Lists/VeteransProgram/DisplaySection.aspx?SectionName=3
+6.630.2.9 (12-18-2018)
+Reservist Differential Payments
+A reservist differential payment may be made to an eligible member of the Reserve or National Guard if they are absent from their civilian position during qualifying periods while ordered to active duty under 10 USC 101(a)(13)(B) or 10 USC 12302 during a war or national emergency declared by the President or Congress.
+Federal agencies must pay an employee who qualifies under certain provisions of 5 USC 5538 with a payment equal to the amount of their projected civilian basic pay for a covered pay period which exceeds the actual military pay and allowances for that pay period.
+To qualify, an employee must be entitled to reemployment rights under USERRA.
+Reservist differential payments may not be made if an employee receives civilian basic pay for performing work or uses civilian paid leave or paid time off during that period.
+An employee must provide Statements of Earnings and Leave from military agencies to use in the calculation process.
+6.630.2.10 (07-28-2023)
+Lump-sum Payment for Annual Leave
+An employee, including an employee covered under the IRS Payband System, who enters on active duty in the armed forces may elect to receive a lump-sum payment for accumulated and accrued annual leave or may request to have the annual leave remain to their credit until return from active duty. However, an agency must make a lump-sum payment for any annual leave previously restored under 5 USC 6304(d) when the employee enters active duty. The agency may not re-credit the restored leave when the employee returns to Federal service. See IRM 6.550.1.7, Lump-sum Payment for Accumulated and Accrued Annual Leave, for additional information.

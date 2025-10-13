@@ -1,0 +1,287 @@
+6.711.1  Labor Relations Authorities
+6.711.1.1  Program Scope and Objectives
+6.711.1.1.1  Background
+6.711.1.1.2  Authorities
+6.711.1.1.3  Responsibilities
+6.711.1.1.4  Program Management and Review
+6.711.1.1.5  Program Controls
+6.711.1.1.6  Terms/Acronyms
+6.711.1.1.7  Related Resources
+6.711.1.2  Labor Relations Authorities
+6.711.1.3  Exclusive Union Representation
+6.711.1.4  Managing Changes to BU Conditions of Employment
+6.711.1.5  ULP Charges and Complaints
+6.711.1.5.1  ULP Reporting
+6.711.1.5.2  IRS Investigation of a ULP Charge
+6.711.1.5.3  FLRA Investigation of a ULP Charge
+6.711.1.5.4  ULP Settlements
+6.711.1.6  Employee Grievances
+6.711.1.7  Local and National Institutional Grievances
+6.711.1.8  Information Requests
+6.711.1.8.1  Submitting an Information Request
+6.711.1.8.2  Responding to Information Requests
+6.711.1.8.3  Communications
+6.711.1.9  Material Relied On Requests
+6.711.1.10  Union Dues
+6.711.1.11  Official or Bank Time for NTEU Representatives
+6.711.1.12  Reporting Job Actions
+Part 6. Human Resources Management
+Chapter 711. Labor-Management Relations
+Section 1. Labor Relations Authorities
+6.711.1 Labor Relations Authorities
+Manual Transmittal
+August 27, 2025
+
+Purpose
+(1) This transmits revised IRM 6.711.1, Labor-Management Relations, Labor Relations Authorities.
+
+Material Changes
+(1) This revised IRM incorporates plain language, updates and adds new resource links, and removes operational procedures performed that are used by the Human Capital Office Labor/Employee Relations & Negotiations (LERN) Division. LERN procedures are covered in their desk guides or standard operating procedures.
+
+(2) The table below provides a crosswalk and a summary of the substantive changes.
+
+Content previously found in:	Is now found in:	Description of substantive changes include:
+IRM 6.711.1, Labor-Management Relations, Authorities and Responsibilities	IRM 6.711.1, Labor-Management Relations, Labor Relations Authorities	Changed section title from Authorities and Responsibilities to Labor Relations Authorities.
+Added relevant policy content from IRM 6.711.2, Processing Information Requests.
+N/A	IRM 6.711.1.1, Program Scope and Objectives	Added new subsection as required in IRM 1.11.2.2.4, Address Management and Internal Controls.
+IRM 6.711.1.1, Overview and Purpose	IRM 6.711.1.1.1, Background	Added new subsection as required in IRM 1.11.2.2.4, Address Management and Internal Controls.
+Added relevant policy content from IRM 6.711.2.1, Overview.
+IRM 6.711.1.2, References	IRM 6.711.1.1.2, Authorities	Added new subsection as required in IRM 1.11.2.2.4, Address Management and Internal Controls.
+Added relevant policy content from IRM 6.711.2.1, Overview, IRM 6.711.2.2, References, and IRM 6.711.2.4, Authorities.
+Added the IRS-NTEU National Agreement, Document 11678.
+Deleted the Contract Administration Handbook, which is only used by LERN.
+N/A	IRM 6.711.1.1.3, Responsibilities	Added new subsection as required in IRM 1.11.2.2.4, Address Management and Internal Controls.
+Added contact information for LERN.
+N/A	IRM 6.711.1.1.4, Program Management and Review	Added new subsection as required in IRM 1.11.2.2.4, Address Management and Internal Controls.
+N/A	IRM 6.711.1.1.5, Program Controls	Added new subsection as required in IRM 1.11.2.2.4, Address Management and Internal Controls.
+N/A	IRM 6.711.1.1.6, Terms/Acronyms	Added new subsection as required in IRM 1.11.2.2.4, Address Management and Internal Controls.
+N/A	IRM 6.711.1.1.7, Related Resources	Added new subsection as required in IRM 1.11.2.2.4, Address Management and Internal Controls.
+Added relevant policy content from IRM 6.711.2.2, References.
+Added:
+IRS-NTEU National Agreement, Document 11678
+Addendum to the 2022 National Agreement, Document 11678-B
+Article 9, Stewards and Official Time
+Article 10, Dues Withholding
+Article 41, Employee Grievance and Local Institutional Grievances
+Article 42, National Institutional Grievance Procedure
+Article 43, Arbitration
+Article 46, Labor-Management Relations Committees
+Deleted reference to Article 45, Diversity and Equal Employment Opportunity Advisory Committees, in Executive Order 14151, Ending Radical and Wasteful Government DEI Programs and Preferencing, dated January 20, 2025.
+IRM 6.711.1.3, Labor Relations Authorities	IRM 6.711.1.2, Labor Relations Authorities	IRM subsection number changed.
+Added the Authority…(see paragraph 1a).
+IRM 6.711.1.4, Exclusive Representation	IRM 6.711.1.3, Exclusive Union Representation	Changed IRM subsection number.
+Moved the NTEU definition to IRM 6.711.1.6, Terms/Acronyms.
+IRM 6.711.1.5, Information Resources	N/A	Deleted subsection since the LR Community Gateway no longer exists, and the Contract Administration Handbook is only used by LERN.
+IRM 6.711.1.6, Managing Change and Dealing with the Union	IRM 6.711.1.4, Managing Changes to BU Conditions of Employment	Changed IRM subsection number and title.
+IRM 6.711.1.7, Unfair Labor Practice Charges and Complaints	IRM 6.711.1.5, ULP Charges and Complaints	Changed IRM subsection number and title.
+Moved the definition of Unfair Labor Practice to IRM 6.711.1.1.6, Terms/Acronyms.
+IRM 6.711.1.7.1, ULP Reporting Procedures	IRM 6.711.1.5.1, ULP Reporting	Changed IRM subsection number and title.
+IRM 6.711.1.7.2, Agency Investigation of an ULP Charge	IRM 6.711.1.5.2, IRS Investigation of a ULP Charge	Changed IRM subsection number and title.
+IRM 6.711.1.7.3, FLRA Investigation of a ULP Charge	IRM 6.711.1.5.3, FLRA Investigation of a ULP Charge	Changed IRM subsection name and title.
+IRM 6.711.1.7.4, ULP Settlements	IRM 6.711.1.5.4, ULP Settlements	Changed IRM subsection number.
+IRM 6.711.1.8, Labor-Management Relations Committees	N/A	Deleted subsection because it is covered in the IRS-NTEU National Agreement.
+Added Article 46, Labor-Management Relations Committees, to IRM 6.711.1.1.7, Related Resources
+IRM 6.711.9, Grievance Processing
+IRM 6.711.1.9.2, Employee Grievance Procedure	IRM 6.711.1.6, Employee Grievances	Changed IRM subsection number and title.
+IRM 6.711.1.9.1, Case Management and Tracking Procedures	N/A	Deleted subsection which contained operational procedures performed exclusively by LERN.
+IRM 6.711.1.9.3, Institutional Grievances	IRM 6.711.1.7, Local and National Institutional Grievances	Changed IRM subsection number and title.
+IRM 6.711.10, Information Requests	IRM 6.711.1.8, Information Requests	Changed IRM subsection number.
+N/A	IRM 6.711.1.8.1, Submitting an Information Request	IRM subsection number and title changed.
+Added relevant policy content from IRM 6.711.2.7, Receipt of Information Requests.
+N/A	IRM 6.711.1.8.2, Responding to Information Requests	Added new subsection, which incorporates relevant policy content from IRM 6.711.2.3, Policy, and IRM 6.711.2.9, Responding to Information Requests.
+N/A	IRM 6.711.1.8.3, Communications	Added new subsection, which incorporates relevant policy content from IRM 6.711.2.6, Communication.
+N/A	IRM 6.711.1.9, Material Relied on Requests	Added new subsection, which incorporates relevant policy content from IRM 6.711.2.10, Other Requests.
+IRM 6.711.1.11, Arbitration Procedure	N/A	Deleted subsection since it is covered in the IRS-NTEU National Agreement.
+Added Article 43, Arbitration, to IRM 6.711.1.1.7, Related Resources.
+IRM 6.711.1.12, Union Dues Allotments, Withholding, and Payments	IRM 6.711.1.10, Union Dues	Changed IRM subsection number and title.
+IRM 6.711.1.13, Recording Official Time Used by Union Representatives	IRM 6.711.1.11, Official or Bank Time for NTEU Representatives	Changed IRM subsection number and title.
+IRM 6.711.1.14, Job Actions Reporting Procedures	IRM 6.711.1.12, Reporting Job Actions	Changed IRM subsection number and title.
+Exhibit 6.711.1-1, Uniform/Streamlined Employee Grievance Process
+Exhibit 6.711.1-2, Mass Grievance Process
+Exhibit 6.711.1-3, Grievance Executive Summary
+Exhibit 6.711.1-4, Institutional Grievance Process
+Exhibit 6.711.1-5, Statement of Case Format (Contract Application/ Interpretation)
+Exhibit 6.711.1-6, Statement of Case Format (Adverse Actions/Actions Based on Unacceptable Performance	N/A	Deleted operational content exclusively performed by LERN.
+Effect on Other Documents
+IRM 6.711.1, Authorities, Responsibilities, and Processes, dated October 15, 2010, is superseded.
+IRM 6.711.2, Processing Information Requests, dated March 25, 2011, will be made obsolete.
+Audience
+All IRS employees excluding contractors and Chief Counsel.
+Effective Date
+(08-27-2025)
+David P. Traynor
+Acting IRS Human Capital Officer
+
+6.711.1.1 (08-27-2025)
+Program Scope and Objectives
+Purpose: This IRM provides the Servicewide labor-management relations (LMR) policy to assist managers with Labor Relations (LR) matters.
+Audience: All IRS employees excluding contractors and Chief Counsel.
+Policy Owner: Human Capital Office (HCO), Policy Office (PO).
+Program Owner: HCO.
+Primary Stakeholders: Labor/Employee Relations and Negotiations (LERN) Division and IRS managers.
+Program Goal: To assist managers with LR matters.
+Contact Information: Complete and submit the HCO PO contact form (.pdf) with questions about this IRM.
+6.711.1.1.1 (08-27-2025)
+Background
+This IRM contains the Servicewide policy to comply with 5 USC 71, Labor-Management Relations. The regulations protect a bargaining unit (BU) employee’s right to organize, bargain collectively in decisions affecting them (i.e., conditions of employment) and participate in their choice of labor organizations. The policy and regulations also safeguard the public interest, contribute to the effective conduct of public business, and facilitate the amicable settlements of disputes involving conditions of employment.
+6.711.1.1.2 (08-27-2025)
+Authorities
+This IRM supplements policies and requirements contained in the authorities cited below. It is not self-contained and must be read in conjunction with cited authorities, and for BU employees, any applicable collective bargaining agreement (CBA), such as the Internal Revenue Service (IRS) and National Treasury Employees Union (NTEU) National Agreement (Document 11678), and the 2025 Addendum to the 2022 National Agreement (Document 11678-B ).
+Note: For BU employees, if this IRM conflicts with the National Agreement or any other relevant CBA, the agreement prevails.
+5 USC 71, Labor-Management Relations
+5 USC 552, Public information; agency rules, opinions, orders, records, and proceedings
+5 USC 7114, Representation rights and duties
+5 USC 7115, Allotments to representatives
+5 USC 7116, Unfair labor practices
+26 USC 6103, Confidentiality and disclosure of returns and return information
+5 CFR 550.322, Saving Provision
+5 CFR 2423, Unfair Labor Practice Proceedings
+6.711.1.1.3 (08-27-2025)
+Responsibilities
+The IRS Human Capital Officer is the executive responsible for the Servicewide LMR policy.
+The PO is responsible for revising and socializing this IRM.
+The LERN Division is responsible for providing the PO with the LMR policy for this IRM.
+LERN’s Labor/Relations Strategy & Negotiations (LRSN) office is responsible for:
+Ensuring CBAs comply with 5 USC 7114(c)
+Working with the HCO to send any CBA to Treasury for agency head review, and
+Processing local and national institutional grievances and information requests unrelated to an employee grievance.
+LERN’s Field Operations office processes:
+Employee grievances
+Information requests related to employee grievances, and
+Requests for material relied on.
+Managers are responsible for contacting LERN upon receipt of:
+An employee grievance
+An information request
+A local or national institutional grievance
+A request for material relied on, or
+An unfair labor practice.
+Note: To request help from a LERN specialist, see Labor/Employee Relations & Negotiations Contacts
+.
+6.711.1.1.4 (08-27-2025)
+Program Management and Review
+This IRM provides the policy to assist managers with complying with 5 USC 71. The PO and LERN Division gauge the effectiveness of the policies in this IRM based on feedback from customers and program owners. During IRM review and publishing, sections may be revised, added, or deleted, based on feedback or changes in law, rule, or regulations.
+6.711.1.1.5 (08-27-2025)
+Program Controls
+The following activities help ensure program success:
+Conducting an annual review of this IRM for revisions/clarifications
+Collaborating on interim guidance for policy changes related to this IRM
+Contacting LERN for BU condition of employment changes, and
+Seeking legal advice from Chief Counsel, General Legal Services (GLS), Claims, Labor, and Personnel Law Branch, as needed.
+6.711.1.1.6 (08-27-2025)
+Terms/Acronyms
+Bargaining Unit (BU) Employee - An employee included in a BU certified by the Federal Labor Relations Authority who can be represented by a labor union.
+Collective Bargaining Agreement (CBA) - A legally binding agreement between management and a union representing its BU employees. CBAs result from negotiations between the two parties over conditions of employment.
+Condition of Employment (COE) - A term used to refer to personnel policies, practices, and matters impacting a BU employee’s daily work life, such as work processes or assignments, schedules, overtime, equipment, office space/design, parking, type/placement of office furniture, or relocation of an office. Some changes require formal notice and negotiations with the National Treasury Employees Union before implementing the change for BU employees.
+Federal Mediation and Conciliation Service (FMCS) - An independent federal agency that helps prevent, minimize, and resolve labor-management disputes. Parties who use this mediation service are bound by FMCS terms.
+Federal Service Impasse Panel (FSIP) - The FSIP is comprised of 10 Presidential appointees who serve on a part-time basis, one of whom serves as the Chair. If either/both parties request their assistance, they resolve negotiations that have reached an impasse.
+LERN Specialist - For the purpose of this IRM, specialists in LERN who provide guidance to managers addressing, for example, information requests and unfair labor practices.
+National Treasury Employees Union (NTEU) - The exclusive representative for IRS BU employees.
+Non-bargaining Unit (NBU) Employee - An employee who is not covered by a CBA, such as the NA, and is not represented by the union.
+Unfair Labor Practice (ULP) - A violation of 5 USC 7116 by the IRS or NTEU.
+6.711.1.1.7 (08-27-2025)
+Related Resources
+2022 IRS-NTEU National Agreement, Document 11678
+Article 10, Dues Withholding
+Article 42, National Institutional Grievance Procedure
+Article 43, Arbitration
+Article 46, Labor-Management Relations Committees
+2025 Addendum to the 2022 National Agreement, Document 11678-B.
+Article 9, Stewards and Official Time
+Article 41, Employee Grievance and Local Institutional Grievances
+Note: This is a supplemental agreement to the 2022 National Agreement. Articles and exhibits not addressed in the supplemental agreement remain in effect per Article 54 of the 2022 National Agreement.
+6.711.1.2 (08-27-2025)
+Labor Relations Authorities
+The Federal Labor Relations Authority (Authority or FLRA), also known as the Federal Service Labor Management Relations statute, is codified in 5 USC 71. The FLRA is an independent administrative federal agency that administers the LMR program for non-postal federal employees. The FLRA is composed of the Authority, the Office of General Counsel, and the Federal Services Impasses Panel.
+The Authority has three full-time members appointed by the President of the United States. They adjudicate ULP disputes, applications for review of decisions and orders issued in representation matters, exceptions to grievance arbitration awards, and negotiability disputes that arise during collective bargaining. The Authority also provides statutory training to assist federal agencies and unions in understanding their rights and responsibilities under 5 USC 71.
+The Office of General Counsel promotes effective LMR by investigating Unfair Labor Practice allegations and prosecuting them when warranted, conducting elections and determining representational matters, issuing guidance, providing training to federal managers and unions, and providing alternative dispute resolution services.
+The Federal Service Impasses Panel (FSIP or Panel) resolves impasses between federal agencies and unions representing federal employees arising under the Federal Service Labor-Management Relations Statute (5 USC 71) and the Federal Employees Flexible and Compressed Work Schedules Act (5 USC 61). If bargaining followed by mediation assistance does not result in a voluntary agreement, either party (management or NTEU) or the parties jointly may request the Panel's assistance. If the Panel has jurisdiction, it has the authority to recommend and/or direct the use of various dispute-resolution procedures. If the parties are unable to reach a voluntary settlement after using the dispute-resolution procedures, the Panel may take whatever action it deems necessary, including the imposition of contract terms, to resolve the dispute. The parties may not appeal the merits of the Panel's decision to any court.
+.
+6.711.1.3 (08-27-2025)
+Exclusive Union Representation
+NTEU may represent or act on behalf of BU employees in:
+Negotiations with management regarding COE
+Formal discussions conducted by management concerning grievances, personnel policies or practices, or other conditions of employment, and
+Conduct investigations if the employee reasonably believes the interview may result in discipline and the employee requests NTEU representation.
+6.711.1.4 (08-27-2025)
+Managing Changes to BU Conditions of Employment
+Managers are responsible for communicating and consulting with their colleagues about potential changes in BU COE. Sharing potential changes with other members of management is fundamental to effective communications. Prompt and effective communications results in managers learning about potential BU COE changes through management channels rather than from NTEU or other sources.
+Before a change to BU COE can be negotiated, if required, or implemented, management must read IRM 1.11.2.5.1.4, IRM Changes Affecting Conditions of Employment of Bargaining Unit Employees, and IRM 1.11.9.4.4, Labor/Employee Relations & Negotiations, and follow the procedures to contact LERN.
+When analyzing a potential change to BU COE consider, for example:
+The impact on BU employees
+CBA requirements (e.g., the NA)
+Management’s rights in the labor-management relationship
+Management’s interests and responsibilities, and
+The legal responsibility to NTEU.
+Note: See Article 47, Mid-Term Bargaining, of the 2022 National Agreement, for procedures and time limits for notice and bargaining.
+All bargaining between the parties is national in scope except for Reassignments/Realignments and Voluntary Relocations (see Article 15, Reassignments/Realignments and Voluntary Relocations, of the 2022 National Agreement). LRSN provides notice to NTEU prior to implementing any change that has more than a de minimis impact (i.e., the BU COE matter is substantively negotiable) on personnel policies, practices, or other matters affecting the working conditions of BU employees.
+NTEU and management must negotiate in good faith to reach agreement. If an agreement is reached, a written agreement is prepared. If no agreement is reached and the parties are at impasse, management may not implement the change for BU employees until third-party options are attempted (e.g., requesting FMCS assistance and filing a request with FSIP). If management implements a BU COE change before third-party options are resolved, NTEU may file a ULP. HCO and the impacted business unit(s) senior leadership will determine whether to implement the change for only NBU employees while negotiations are conducted for BU employees.
+Note: In rare circumstances, if an extraordinary and exigent need to implement a change to BU COE arises prior to completing negotiations, management must discuss this situation with LRSN before implementing the change.
+6.711.1.5 (08-27-2025)
+ULP Charges and Complaints
+See 5 USC 7116 for a list of the actions considered to be a ULP.
+ULPs may be filed with the FLRA by any individual, NTEU or the IRS.
+The FLRA and Administrative Law Judges have authority to remedy ULP findings. Remedies include orders to the charged party to cease and desist from the ULP, which usually requires the charged party to post a notice promising not to violate the law. The Authority can also order more stringent remedies, such as rescinding the action at issue.
+6.711.1.5.1 (08-27-2025)
+ULP Reporting
+Managers who receive a ULP must send it to LRSN at HCO Arbitrations. LRSN will coordinate the handling of the ULP with GLS.
+Managers must not speak with or respond to NTEU or the FLRA about the ULP. Any attempts by NTEU to contact or speak with management should be directed to the assigned GLS attorney. If unknown, management should direct those communications to LRSN.
+LRSN works with the assigned GLS attorney and management to ensure compliance with 5 CFR 2423.
+6.711.1.5.2 (08-27-2025)
+IRS Investigation of a ULP Charge
+LRSN manages the case for each ULP charge and GLS provides a final response to any allegation(s) with LRSN’s concurrence.
+Management must respond to inquiries and disclose all relevant facts to LRSN and GLS, as appropriate.
+6.711.1.5.3 (08-27-2025)
+FLRA Investigation of a ULP Charge
+The FLRA investigator will work with the assigned GLS attorney to schedule interviews with managers and/or employees, as appropriate.
+If the FLRA invites an employee(s) to participate in a proceeding (e.g., giving a statement to the FLRA investigator), the employee should be granted administrative time to attend. Absent a severe work interruption, management will approve the employee meeting with the FLRA investigator during the employee’s regular work hours.
+Travel expenses will be reimbursed per Article 29, Travel, of the 2022 National Agreement and applicable travel regulations in IRM 1.32.1, IRS Local Travel Guide, and IRM 1.32.11, IRS City-to-City Travel Guide.
+For information on an NTEU representative’s time, see IRM 6.711.1.1, Official or Bank Time for NTEU Representatives.
+6.711.1.5.4 (08-27-2025)
+ULP Settlements
+FLRA encourages voluntary settlements between the parties and prefers not to reverse or interfere with such arrangements.
+All stakeholders are included in settlement discussions.
+Before initiating settlement discussions with NTEU or FLRA, the assigned LERN specialist and GLS attorney will consult with the appropriate management level(s) to identify, for example, management’s interests and settlement options.
+LRSN must approve the proposed settlement agreement if it affects the national labor management practices, policies, and procedures. LRSN may need to secure Agency Head Review approval
+The proposed settlement must not be discussed with parties, who don’t have a need to know, such as a local union official or employee.
+6.711.1.6 (08-27-2025)
+Employee Grievances
+For BU employees, see Article 41, Employee Grievance and Local Institutional Grievances, of the 2025 Addendum to the 2022 National Agreement, for details.
+For NBU employees, see IRM 6.771.1, Grieving Matters of Personal Concern, for details.
+Note: IRM 6.771.1 also provides the policy for BU employees for matters that are not covered in the 2022 National Agreement and the 2025 Addendum to the National Agreement.
+6.711.1.7 (08-27-2025)
+Local and National Institutional Grievances
+See Article 41, Employee Grievance and Local Institutional Grievances, of the 2025 Addendum to the 2022 National Agreement, and Article 42, National Institutional Grievance Procedures, of the 2022 National Agreement for details.
+6.711.1.8 (08-27-2025)
+Information Requests
+See Article 8, Union Rights, Section 9, of the 2022 National Agreement, for details.
+LERN processes information requests made under 5 USC 7114(b)(4).
+The authority to disclose tax returns and/or tax return information is covered in 26 USC 6103.
+6.711.1.8.1 (08-27-2025)
+Submitting an Information Request
+Per Article 8, Union Rights, of the 2022 National Agreement, all information requested by NTEU under 5 USC 7114(b)(4) must be submitted to the Info Request Mailbox. If the request is not submitted to the mailbox, there is no obligation to respond.
+NTEU must articulate a particularized need for the requested information (i.e., why they need the information, how they plan to use it, and how use of the information relates to their representational responsibilities under the statute). A generic statement that the information is needed to perform NTEU’s representational responsibilities does not establish a particularized need.
+6.711.1.8.2 (08-27-2025)
+Responding to Information Requests
+See Article 8, Union Rights, of the 2022 National Agreement, for time limits to provide information or seek clarification.
+After LERN consults with management, if needed, LERN determines what information can be released to NTEU, coordinates the release of information, and prepares the response to NTEU.
+6.711.1.8.3 (08-27-2025)
+Communications
+The FLRA expects the IRS and NTEU to communicate about the information requested and the release of information (e.g., if clarification is requested, the party should respond).
+6.711.1.9 (08-27-2025)
+Material Relied On Requests
+Requests for material relied on (MRO) are not information requests under 5 USC 7114(b)(4). MROs may be requested as described in the employee’s advance notice (i.e., a proposal letter for a conduct or performance issue). See IRM 6.752.1.21, Advance Notice, or IRM 6.432.1.10, Advance Notice (Proposal Letter) Based on Unacceptable Performance.
+Managers who receive a request for MRO must promptly send it to their LERN specialist.
+The assigned LERN specialist will review and respond to the request for MRO.
+6.711.1.10 (08-27-2025)
+Union Dues
+See Article 10, Dues Withholding, of the 2022 National Agreement, for details.
+Separate authority may exist apart from 5 USC 7115 to honor membership dues assignments from individuals who are not included within a bargaining unit although such authority would not apply in the case of assignments payable to labor organizations, such as NTEU which represent bargaining unit employees.
+Certain supervisors, for example, may qualify for dues assignments under a savings provision found at 5 CFR 550.322. In cases such as these, any agreements between the IRS and NTEU are inapplicable, and the assignment will be handled in accordance with any other requirements that may apply.
+6.711.1.11 (08-27-2025)
+Official or Bank Time for NTEU Representatives
+See Article 9, Stewards and Official Time, of the 2025 Addendum to the 2022 National Agreement, for details.
+To request help with official or bank time, see IRM 6.711.1.1.3, Responsibilities, for contact information.
+6.711.1.12 (08-27-2025)
+Reporting Job Actions
+Information about potential, threatened, or existing job actions by IRS employees against the IRS or federal government must be communicated to LERN. See IRM 6.711.1.1.3, Responsibilities, for contact information.
+Note: Examples of job actions include but are not limited to employee demonstrations, picketing, actual work stoppages or work disruptions, group refusal to work overtime or to perform assigned duties, and slowdowns or sick-outs.
