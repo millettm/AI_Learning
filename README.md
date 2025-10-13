@@ -20,3 +20,12 @@ I ran into some more errors and had to switch things around a bit from my first 
 -Fixed ReActAgent init for version compatability.
 -Switched to async .run for ReActAgent compatability with Mistral.
 -Added 300-second timeout for Ollama in agent (took almost 20 minutes to run, but it worked).
+
+## Day 4: Expanded RAG with multiple documents, added Streamlit UI for interactive queries.
+So this actually took me two days because I kept running into issues with Streamlit not wanting to properly initialize/load Ollama.
+-Indexed multiple documents.
+-Built Streamlit UI for IRS leadership assistant.
+-Fixed asyncio event loop error where Ollama wasn't loading with direct API call.
+-Added NLP sentiment analysis.
+-Created Q&A pairs from IRMs for fine-tuning.
+-Validated JSONL format with NLP analysis.
