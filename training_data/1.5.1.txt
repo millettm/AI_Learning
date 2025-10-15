@@ -1,0 +1,492 @@
+1.5.1 The IRS Balanced Performance Measurement System
+Manual Transmittal
+August 25, 2025
+
+Purpose
+(1) This transmits revised IRM 1.5.1, Managing Statistics in a Balanced Measurement System, The IRS Balanced Performance Measurement System.
+
+Material Changes
+(1) IRM 1.5.1.1.6, Terms/Definitions, removed definition of customer experience.
+
+(2) IRM 1.5.1.3.3(5), Measuring Customer Satisfaction, updated to align with executive orders.
+
+(3) Exhibit 1.5.1-6, Analyzing Performance Using the Traditional Problem-Solving Model, updated to align with executive orders.
+
+Effect on Other Documents
+This IRM supersedes IRM 1.5.1, issued January 16, 2025.
+Audience
+IRS executives, managers and performance measures staff.
+Effective Date
+(08-25-2025)
+Anthony S. Chavez
+Acting Chief Financial Officer
+
+1.5.1.1 (06-30-2023)
+Program Scope and Objectives
+Purpose:
+To provide an overview of the IRS Balanced Performance Measurement System.
+To outline how the IRS uses the IRS Balanced Performance Measurement System to measure organizational performance.
+To provide general guidance and direction for IRS business units on the appropriate use and application of balanced measures, since it is not possible to prescribe acceptable actions for every situation.
+Audience: IRS executives, managers and IRS performance measures staff
+Policy owner: Associate CFO for Corporate Budget
+Program owner: Associate CFO for Corporate Budget
+Primary stakeholders: CFO and IRS performance measures staff
+Program goals: To create and maintain Servicewide performance measures that comply with the authorities listed below and that reflect the IRS mission and priorities.
+1.5.1.1.1 (06-30-2023)
+Background
+The IRS developed the Balanced Performance Measurement System to reflect its priorities consistent with its mission and strategic goals. To help ensure balance, the IRS considers each of the three components of balanced measures - customer satisfaction, employee satisfaction and business results - when setting organizational objectives, establishing targets, assessing progress and results and evaluating organizational performance. Each component is given equal importance.
+The IRS uses balanced measures at both the strategic and operational levels to measure organizational performance. Business units support Servicewide strategic goals. Business units do not establish additional Servicewide strategic goals, but develop internal plans that align with the Servicewide goals. See IRM 6.430, Performance Management, for evaluating individual performance.
+1.5.1.1.2 (01-16-2025)
+Authorities
+The following laws and regulations establish and support the Balanced Performance Measurement System in addition to this IRM:
+The IRS Restructuring and Reform Act of 1998 (RRA '98), which requires the IRS to change its measures to balance customer service with its overall tax administration responsibilities.
+26 CFR Part 801, Balanced System for Measuring Organizational and Employee Performance, implements the IRS Balanced Performance Measurement System.
+Government Performance and Results Act of 1993 (GPRA) and the GPRA Modernization Act of 2010 (GPRAMA) require agencies to prepare annual performance plans for their programs that show quantifiable, measurable performance goals, indicators and comparisons to actual results.
+The Taxpayer First Act requires the IRS to identify metrics and benchmarks for quantitatively measuring the progress of the IRS in implementing a comprehensive customer service strategy.
+IRM 1.2.2.2.10 Delegation Order 1-11, Signing Reports on Budget Status Required by Office of Management and Budget Circular A-11.
+1.5.1.1.3 (06-30-2023)
+Responsibilities
+To integrate and use the Balanced Performance Measurement System Servicewide, each organization is responsible for establishing a:
+Comprehensive approach for measuring and using customer satisfaction, employee satisfaction and business results (quantity and quality) data;
+Clear strategy for using all elements of balanced measures in strategic, operational and business planning; and
+Commitment to ensuring, explaining and demonstrating how it uses and addresses customer satisfaction, employee satisfaction and business results in its business decisions.
+The role of the Associate CFO for Corporate Budget, the IRS’s Performance Improvement Officer, and the Deputy Performance Improvement Officer, is to collect data from the business units and report them out to the IRS’ internal and external stakeholders. The Associate CFO for Corporate Budget does not own any IRS performance measures, but serves as a custodian of the highest-level measures reported across the enterprise. The Associate CFO for Corporate Budget acts as a second level reviewer for data and measures. Occasionally, the Associate CFO for Corporate Budget supports business units with measure development and approval.
+The role of individual business units is to own the various performance measures that are subsequently reported out by the IRS’s Performance Improvement Officer and the deputy. As the owner of a performance measure, a business unit is responsible for:
+Maintaining the accuracy of the measure reported;
+Gathering all component data used to calculate the measure in the current period and set targets for current and future periods;
+Implementing controls to ensure the accuracy of any component data;
+Setting targets for established measures for current and future periods;
+Maintaining and providing annual updates to the data dictionary entry for the measure;
+Gathering forecast data from the various components of a measure to generate targets;
+Providing detailed information explaining any factors that impact performance, any reasoning for target shortfalls, and future plans statements upon request; and
+Establishing targets for indicators upon request by the IRS Performance Improvement Officer by the start of the next budget cycle or providing a business case for why targets should not be set, as noted in IRM 1.5.1.2(1)(c) Performance Measures Quick Reference.
+1.5.1.1.4 (06-30-2023)
+Program Management and Review
+Program Reports: Before proposing a new measure for inclusion in the IRS budget or Strategic Plan, an organization must complete the Detailed Measures Template included in Exhibit 1.5.1–5, Detailed Measures Template. The organization should use the template to facilitate a common understanding across a measure’s definition, formula, data reliability, reporting frequency, purpose, limitations and controls. This is essential to meeting various oversight requirements.
+Program Effectiveness: Each organization is responsible for periodically updating its performance measures according to IRM 1.5.1.9, Proposing, Reviewing and Updating Performance Budget Measures, and Exhibits 1.5.1-1 through 1.5.1-5 to ensure measure effectiveness. Each organization will provide periodic feedback to the Associate CFO for Corporate Budget on the effectiveness of measures from their perspective. The Associate CFO for Corporate Budget also will provide periodic feedback to each organization on outside perspectives of measure effectiveness.
+1.5.1.1.5 (06-30-2023)
+Program Controls
+Each organization is responsible for creating and maintaining a Data Dictionary and submitting a copy to the Associate CFO for Corporate Budget for each measure that is included in the IRS budget, the IRS Strategic Plan and any other requested measures. This document follows the program reports guidance in IRM 1.5.1.1.4, Program Management and Review, and ensures program controls for each measure by documenting the procedure used and facilitating a common understanding across a measure’s definition, formula, data reliability, reporting frequency, purpose, limitations and controls.
+Each organization is responsible for creating and maintaining program controls for its internal performance data. The CFO provides guidance but does not assess business units’ internal performance measures. It is the responsibility of each business unit to ensure their procedures are followed, including any remediation identified or if targets are not met.
+1.5.1.1.6 (08-25-2025)
+Terms/Definitions
+The following terms and definitions apply to this program:
+Business Performance Reviews - Quarterly reviews conducted by the IRS for each business unit that include a variety of topics including organizational performance, key initiatives, risks, budget, staffing and other considerations as applicable.
+Business results measures - Indicators of the quality and quantity of work performed.
+Customer - Any internal or external person or entity to whom services are provided.
+Customer satisfaction measures - Indicators of the level of overall satisfaction with service provided by the IRS as perceived by internal and external customers.
+Cycle time -The total time from the beginning to the end of a process, as defined by the business operating division within the IRS.
+Data Dictionary - Document which describes a performance measure in detail, including formal definition, responsible official, data source, data reliability and program controls.
+Diagnostic tools and/or workload indicators - Indicators used to discover the factors affecting changes in the balanced measures.
+Efficiency measures - Capture the operation's skillfulness in executing programs, implementing activities and achieving results, while avoiding wasted resources, effort, time and/or money. Efficiency is the ratio of the outcome or output to the input of any program.
+High Impact Service Provider- The Office of Management and Budget (OMB) designated the IRS as a High Impact Service Provider (HISP), which is an agency that provides high-impact customer-facing services. As a HISP, IRS must follow OMB Circular A-11 Section 280 guidance for managing and publicly reporting on customer experience via performance.gov.
+Indicators - Measurable values used to interpret agency progress or monitor external factors that may affect progress. They do not have targets due to a lack of historical values for comparison or a lesser degree of control over the measurable value. They are usually used for new measures.
+IRS balanced measures - Indicators of organizational performance for customer satisfaction, employee satisfaction and business results.
+Outcome measures - Describe the intended result from carrying out a program or activity. Define an event or condition external to the program or activity that is directly important to the intended beneficiaries and/or the public.
+Outcome neutral - Production or resource data that do not contain information regarding the tax enforcement result reached in any case, such as the number of cases closed, level of service provided, and assistance and outreach efforts undertaken.
+Output measures - Describe the level of activity that will be provided over a specified time period, including a description of the characteristics established as standards for the activity, such as timeliness.
+Overage - An excess or surplus of resources.
+Performance budget - A budget that links performance goals with costs for achieving a target level of performance. A performance budget links strategic goals with related long-term and annual performance goals (outcomes) to the costs of specific activities to influence these outcomes.
+Performance budget level measures - Long-term and annual performance measures used to support the annual performance budget.
+Performance goals - Set a target level of performance over time expressed as a tangible, measurable objective, against which actual achievement can be compared, including a goal expressed as a quantitative standard, value or rate. A performance goal is comprised of a performance measure with targets and time frames.
+Performance measures - Indicators, statistics or metrics used to gauge program performance.
+Program assessment - A determination, through objective measurement and systematic analysis, of the manner and extent to which Federal programs achieve intended objectives.
+Quality measure - A numeric indicator of the extent to which completed work meets prescribed standards.
+Quantity measure - A numeric indicator of outreach efforts, outcome neutral productivity and resource utilization.
+Servicewide measures - A few select measures which cross several organizational unit lines that demonstrate the IRS effectiveness in meeting its strategic goals.
+Stakeholders - Groups or individuals who have a vested interest in an organization. They can be internal or external to the IRS.
+Strategic goal - A statement of aim or purpose included in a strategic plan. In a performance budget/performance plan, strategic goals should be used to group multiple program outcome goals. Each program outcome goal should relate to and, in the aggregate, be enough to influence the strategic goals or objectives and their performance measures.
+Target - Quantifiable or otherwise measurable characteristic that tells how well a program must accomplish a performance measure.
+1.5.1.1.7 (06-30-2023)
+Acronyms
+The following acronyms apply to this program:
+Acronym	Definition
+AFR	Agency Financial Report
+BPR	Business Performance Review
+BPRS	Business Performance Review Summary
+CFO	Chief Financial Officer
+CJ	Congressional Justification
+FEVS	Federal Employee Viewpoint Survey
+FTE	Full-Time Equivalent
+GAO	Government Accountability Office
+GPRA	Government Performance and Results Act of 1993
+GPRAMA	GPRA Modernization Act of 2010
+IDRS	Integrated Data Retrieval System
+MBPS	Monthly Business Performance Summary
+MD&A	Management's Discussion and Analysis Report
+MEPS	Measured Employees Performance System
+OMB	Office of Management and Budget
+PMM	Performance Measures Manager
+ROTER	Record of Tax Enforcement Results
+RRA 98	The IRS Restructuring and Reform Act of 1998
+SY	Staff Year
+1.5.1.1.8 (07-13-2021)
+Related Resources
+IRM 1.5.2, Uses of Section 1204 Statistics.
+IRM 1.5.3, Manager's Self-Certification and the Independent Review Process.
+IRM 6.430.3, Performance Management Program for Evaluating Managers, Management Officials and Confidential Management/Program Analysts.
+OMB Circular A-11 Part 6, “The Federal Performance Framework for Improving Program and Service Delivery.”
+1.5.1.2 (06-30-2023)
+Performance Measures Quick Reference
+The following is a quick reference for the IRS balanced performance measurement system.
+The IRS must carefully consider each of the three components of balanced measures - customer satisfaction, employee satisfaction and business results - when setting organizational objectives, establishing goals, assessing progress and results, and evaluating individual performance.
+Under the IRS Balanced Performance Measurement System, the approved set of balanced measures is the primary means for assessing organizational performance. The IRS can use other information and data for purposes such as workload planning and analysis.
+Each measure should have targets based on the previous year's results, historical patterns, and the anticipated mix of resources available. Additional considerations include the linkage to organizational priorities and initiatives, planned process improvements or system enhancements, an assessment of existing and emerging trends, and internal and external issues. Measures may be categorized as indicators for a short time when initially created, in the absence of historical data, and when there’s a lessened degree of control over the measurable value. Targets are not required for indicators.
+Targets set for quantity business results must always consider the effects on customer satisfaction, employee satisfaction and quality. The IRS may use quantity measures to evaluate and/or set or suggest goals for organizational units at levels that do not measure customer satisfaction, employee satisfaction or quality, if such measures exist at a higher level in the organization.
+The IRS should not use the performance of any one unit as a standard by which the performance of other units are evaluated because of differences in the types of taxpayers served, specific tax issues addressed and other factors. However, some measures at the Servicewide level may combine aspects of multiple business units into one measure. In these cases, individual business units should track their own performance separately from the combined measure.
+The primary focus of organizational reviews should be on the effectiveness of actions taken and accomplishments.
+The numeric results achieved for any measure will never directly equate to the evaluation of an individual.
+Because measures reported by the IRS externally are subject to extensive evaluation and review, measure evaluation should meet an especially rigorous set of standards.
+In determining the appropriateness of a specific course of action, managers and employees should exercise sound judgment consistent with 26 CFR Part 801, Balanced System for Measuring Organizational and Employee Performance within the Internal Revenue Service.
+1.5.1.3 (11-01-2011)
+The IRS Balanced Performance Measurement System
+The IRS Balanced Performance Measurement System provides a means to:
+Establish priorities.
+Guide and motivate performance and establish a link between performance targets and organizational goals and objectives.
+Obtain feedback to identify how well the IRS meets customer and stakeholder expectations and to identify areas for improvement.
+Assess overall program effectiveness and communicate results.
+1.5.1.3.1 (05-20-2019)
+Components of the Balanced Performance Measurement System
+The components of the balanced performance measurement system are
+Customer satisfaction
+Employee satisfaction
+Business results (comprising quantity and quality measures)
+Each component represents an important aspect of the organization's goals, and each should be given equal importance in carrying out the objectives of IRS programs. Some of the components do not change as rapidly as others or require more time for data collection; therefore, the frequency of data availability across the three components may vary. However, differences in the frequency of data availability do not reflect differences in priority.
+1.5.1.3.2 (05-20-2019)
+The Goals of Customer Satisfaction, Employee Satisfaction and Business Results
+The IRS’s overall objective is to attain:
+A high level of customer satisfaction by providing professional services to both internal and external customers courteously and timely;
+A high level of employee satisfaction by achieving a productive and enabling work environment with quality leadership, adequate training and effective support services; and
+An adequate level of quality business results, coupled with meaningful outreach to customers.
+1.5.1.3.3 (08-25-2025)
+Measuring Customer Satisfaction
+The IRS gathers information to measure customer satisfaction from a statistically valid sample of the taxpayers served by a particular organizational unit or who have recently interacted with a particular IRS program. The IRS accomplishes this by using surveys for the organizational unit overall and transactional surveys for its major programs that:
+Affect a significant proportion of the customers served by the organizational unit and/or
+Use a significant proportion of the total resources (full-time equivalents and dollars) of the organizational unit.
+While the IRS should obtain customer feedback for all programs, a survey instrument or satisfaction score may not be possible or meaningful for every program.
+The intent of the customer satisfaction component of the balanced performance measurement system is to ensure the IRS considers and addresses customer satisfaction issues and needs in organizational planning, budgeting and review activities.
+Example: When developing strategies to improve business results, the IRS should consider the effect on customer satisfaction outcomes.
+Organizations should review survey results on a regular basis and develop plans that include specific strategies aimed at improving customer satisfaction.
+Note: The IRS guarantees customer anonymity consistent with 26 CFR 801.4, Customer Satisfaction Measures.
+Customer satisfaction also includes measuring customer experience or taxpayer experience as per OMB Circular A-11, Section 280.
+1.5.1.3.4 (05-14-2021)
+Measuring Employee Satisfaction
+The IRS measures employee satisfaction for organizational business units, functional business units and work groups. With some exceptions, it is typically not measurable for programs because the IRS allocates employee time to more than one program and spreads many programs across organizational units.
+The intent of the employee satisfaction component of a balanced performance measurement system is to ensure the IRS considers and addresses employee satisfaction issues and needs in organizational planning, budgeting and review activities.
+Example: Strategies to improve business results must consider and address the effect on employees, when applicable.
+Organizations should review annual employee survey results, such as the Federal Employee Viewpoint Survey (FEVS), and develop plans that contain specific strategies aimed at improving employee satisfaction, if applicable.
+1.5.1.3.5 (05-20-2019)
+Measuring Business Results
+The IRS assesses operational level business results through output or quantity measures and quality measures. Output or quantity measures consist of outcome-neutral production and resource data like the number of cases closed, work items completed, and hours expended. Quality measures consist of data such as case/call review data, accuracy and timeliness. They can also include efficiency measures. The intent of measuring both quantity and quality is to ensure the IRS generates a productive quantity of work in a quality manner.
+1.5.1.3.6 (06-30-2023)
+Performance Measures Objectives
+The IRS can establish performance measures to assess progress at three levels:
+Budget level measures to support IRS budget requests.
+Strategic level measures to assess Servicewide progress towards accomplishing the mission and goals established by the strategic plan. Since each IRS business unit supports the IRS strategic goals, they do not establish additional Servicewide strategic goals.
+Operational level measures to assess the effectiveness of specific programs.
+Example: Submission Processing, Filing and Accounts Management, Field Collection and Field Exam.
+The IRS has three types of performance measures:
+Outcome measures describe the intended result of carrying out a program or activity.
+Output or quantity measures describe the level of activity that will be provided over a period of time.
+Efficiency or quality measures capture skillfulness in executing programs, implementing activities and achieving results while avoiding wasted resources, effort, time and/or money.
+Note: The IRS establishes a baseline for first-year measures or indicators and future targets are based on prior year performance and current budgetary considerations.
+1.5.1.4 (05-14-2021)
+Using Performance Information
+The IRS collects information about programs and services and uses some of it to establish performance measures. The IRS uses other information and data for workload planning and analysis.
+The Balanced Performance Measurement System enables the IRS to use performance results to:
+Measure how an organizational unit performs relative to its past performance.
+Identify areas for improvement by considering results from measures of customer satisfaction, employee satisfaction and business results.
+Align and support various review processes.
+Identify the factors that influence performance.
+Provide input to a manager’s performance appraisals, but not serve as a direct evaluative tool.
+Report to Treasury as required by GPRAMA.
+1.5.1.5 (06-21-2021)
+Using Workload Indicators and Diagnostic Tools for Planning and Analysis
+The IRS uses workload indicators for resource planning during the development of program plans and budgets. Workload indicators project expected levels of activity for an organization or program, identify resource needs and justify the IRS budget requests to the Department of the Treasury, OMB and Congress.
+Example: Refunds issued, number of walk-in customers and number of returns filed.
+Organizational performance assessments include workload indicators to compare actual workload to planned workload for making future projections and estimating resource requirements.
+Diagnostic tools are any data used to understand what influences and affects performance. In some cases, organizations may share data used as a diagnostic tool for their organization (such as cycle time) so that other organizations may use it as a budget level measure. This is permissible if the measure conforms to the guidelines and restrictions set forth in this IRM.
+Using diagnostic tools and workload indicators provides a mechanism to study the factors that influence performance and identify opportunities that managers can take to improve customer satisfaction, employee satisfaction and business results.
+The business units may establish improvement targets for diagnostic tools and workload indicators but only in direct support of overlying budget or operational level measures.
+Using results from diagnostic tools or workload indicators to compare one unit to other units may be appropriate for conducting analysis, exploring best practices or seeking process enhancements to improve the overarching balanced measure(s).
+The IRS uses diagnostic tools and/or workload indicators to identify and understand the underlying factors that cause changes in the balanced measures.
+Examples of diagnostic tools and workload indicators:
+Customer satisfaction/experience survey results (for example: particular survey questions, identified improvement priorities, narrative comments)
+Employee survey results
+Cycle time
+Employee experience/training/skill levels (for example: hours of training per employee, work force mix, average education level of newly-hired employees)
+External factors (for example, tax law macroeconomic cycles)
+Employee absenteeism and/or turnover rates
+Return closures per unit of effort
+Inventory level
+Individual Master File (IMF)/Business Master File (BMF) workload mix
+Staffing resources (for example, full-time equivalent (FTE) appropriated, FTE realized and resource utilization)
+Results for individual quality standards/elements
+Wait time/transaction time
+Cost information
+Number of returns filed
+Records of Tax Enforcement Results (ROTERs) (More information on ROTERs can be found in IRM 1.5.2, Uses of Section 1204 Statistics.)
+Note: Organizations will set no targets and make no comparisons between units for ROTERs.
+1.5.1.6 (06-30-2023)
+Setting Targets or Performance Goals
+There are two types of targets an organization can use to communicate priorities and guide performance - qualitative and quantitative:
+Qualitative targets are general in nature and suggest a desired direction.
+Example: "Improve Customer Satisfaction"
+Quantitative or numeric targets are specific.
+Example: "Improve Customer Satisfaction from 70% to 80%"
+The IRS will use actual results against qualitative and numeric targets to report on agency progress in delivering its tax administration responsibilities.
+All levels of the organization can establish qualitative targets to support organizational strategies and plans.
+Organizations should base numeric targets for any measure on a review of prior year results, historical patterns, the anticipated mix of resources available, the link to organizational priorities and initiatives and an assessment of existing and emerging trends, internal and external issues and problems.
+Note: Organizations should establish a baseline for first-year measures or indicators and base future targets on first-year actuals.
+1.5.1.6.1 (05-20-2019)
+Communicating Targets
+The IRS must exercise caution in how numeric targets are shared within the organization to avoid numbers-focused pressures.
+Servicewide and organizational unit numeric targets will be included in documents that are distributed broadly both within and outside the organization, including performance budget submissions, Business Performance Review (BPR) documents and internal program plans. These documents and the numeric targets included therein can be shared and discussed with both managerial and non-managerial employees at the discretion of management.
+The following questions may help guide the decision to provide numerical targets:
+What is the business reason for communicating the numeric target?
+What is the business risk of not providing the numeric target?
+What is the potential undesirable outcome that could come from the misuse of the numeric target and how can that outcome be minimized?
+Regarding (3) above, consider:
+The degree of organizational knowledge and understanding of the intended recipients.
+The organizational climate at the time and place of the communication.
+The context in which the communication will to be made.
+Any guidance on how the numeric target can or cannot be used.
+How the communication is delivered.
+The expectation of follow-up with respect to the numeric target and the nature of the expected follow-up.
+The probable perception of the communication of the numeric target internally and externally.
+1.5.1.7 (05-20-2019)
+Evaluating the Performance of an Organizational Unit
+In conducting a formal review of an organization's performance, the IRS will use the balanced performance measures as the indicators used to determine achievement of the targets outlined in the annual program plan.
+The primary focus of organizational reviews should be on the actions taken and related accomplishments, not numeric results. Reviews also should be forward-looking, using the information and results obtained to identify plan revisions and improvement opportunities.
+During an organizational review, units can communicate the numeric results achieved for any of the balanced performance measures to provide a point of reference for a more detailed discussion of the actions taken to help achieve the IRS mission and strategic goals.
+Organizational units may use workload indicators and diagnostic tools to help explain factors that may affect the balanced performance measures results.
+1.5.1.8 (05-20-2019)
+Evaluating Performance of an Individual
+For detailed information on evaluating individual performance see IRM 6.430.3, Performance Management Program for Evaluating Managers, Management Officials and Confidential Management/Program Analysts.
+The IRS will base non-supervisory employee evaluations on critical elements or performance standards, as appropriate, and the review of work performed. The IRS will not directly tie individual evaluations to achievement of numeric goals.
+The IRS will base supervisory evaluations on the actions taken in accordance with an agreed upon plan and performance standards. Evaluations may mention the achievement of numeric goals in the narrative section in manager evaluations as analytical input to determine whether the actions taken achieved the desired performance result. Direct measures of performance may not use numeric measures.
+Using the above guidance, when focusing on actions taken to achieve desired performance results, a supervisor's written evaluations or performance discussions may cite the specific goal or result to demonstrate the effect of the supervisor's actions.
+Example: "John Smith met the performance goals established in his performance plan. As a direct result of John implementing (cite specific actions taken), his office closed 500 more cases than the goal."
+1.5.1.9 (01-16-2025)
+Proposing, Reviewing and Updating Performance Budget Measures
+A performance budget is a presentation that clearly explains the relationship between performance goals and the costs for achieving targeted performance levels. The IRS uses performance measures in its budget to illustrate this relationship.
+In general, a performance budget links strategic goals with related outcome-oriented, long-term and annual performance goals and the costs of specific activities that contribute to achieving those goals.
+While management will need to collect enough measures to capture all aspects of performance, external policymakers will primarily be interested in the success of the program. Performance budget measures focus on results and the desired achievement of a program or service.
+Division commissioners and heads of office are accountable for performance results. Organizational units are responsible for providing the Associate CFO for Corporate Budget with accurate and timely progress reports for their organization’s performance budget measures to ensure that the IRS meets internal and external reporting deadlines.
+Establishing Performance Targets for Budget Submissions
+Organizations should base their performance targets for the annual budget requests to Treasury, OMB and Congress on current year actual performance and a set of assumptions, which include, but are not limited to, budget assumptions provided by the Associate CFO for Corporate Budget. They should provide to the Associate CFO for Corporate Budget each performance target and explain the basis on which the IRS established the target and known factors that contribute to increases or decreases in performance, such as inflation or new workload. Assumptions must be included for all:
+
+Output/outcome measures (that is, unit count measures).
+Efficiency measures (that is, the assumed number of FTEs or staff years (SYs) and their productivity). Fully loaded FTEs or SYs should be used for this purpose unless there are sound business reasons for an exception. Organizational units should note and fully document such exceptions.
+Accuracy or quality measures assumptions must lay out the contributing factors and their relative weight to the overall score.
+Example: A quality measure might include weights of one-third each on following the correct process, accuracy and speed of response.
+Corporate Budget will submit the list of budget level measures, proposed targets and explanations of known factors influencing planned increases or decreases in performance to IRS leadership. IRS leadership will approve or disapprove the proposed targets before they are included in the IRS budget submission. See applicable Delegation Order in IRM 1.2.2.2.10, Signing Reports on Budget Status Reports Required by Office of Management and Budget Circular A-11.
+Business units are responsible for reviewing performance data as this data is regularly reported externally.
+Each operating division conducts the BPR process. During these reviews, division commissioners and heads of office discuss their progress on meeting their performance targets or goals and new or emerging issues that may affect major programs and/or performance.
+The Department of Treasury requires the IRS to report progress on its suite of performance budget measures quarterly in the Performance Measures Manager (PMM) system.
+The IRS reports its performance on the budget level measures in the annual Management’s Discussion and Analysis Report (MD&A) and the annual Congressional Budget Justification and Annual Performance Plan (CJ). The MD&A is part of GAO’s annual audit of the IRS’s financial statements, available at GAO.gov. Treasury publishes all budget and performance documents on Treasury.gov.
+The IRS publishes relevant budget and performance measures information on IRS.gov.
+The IRS shall take into consideration the results of external audits when updating performance measures as appropriate.
+In general, it is best to ensure the accuracy of all measures; however, performance budget measures data must be accurate and reliable so decision-makers can base their decisions on valid information. Since balanced performance measures reported by the IRS externally are subject to extensive evaluation and review, this set of measures should meet an especially rigorous set of standards.
+Meaningful - The measure should be significant and directly related to the mission and goal.
+Example: If the goal of a program is to provide service to taxpayers, the measures that tell how well the IRS served those taxpayers are most meaningful.
+Valid - The measure should accurately represent the desired output.
+Example: A measure of customer satisfaction based only on internal data does not fully reflect the purpose of the measure.
+Customer focused - The measure should reflect the customers’ and stakeholders’ points of view.
+Example: Organizational units should measure the quality of their work products or services in part on the customers’ definition of quality.
+Credible - The measure must be based on accurate and reliable data.
+Example: Organizational units should choose cases selected for a quality measure at random to ensure the resulting score accurately reflects the work performed.
+Cost effective - The measure should be based upon acceptable data collection and processing costs.
+Example: If the costs of collecting statistically valid data at all levels of the organization outweigh the expected benefits of the information obtained, the organization may choose to limit the measure to higher levels or require a lower level of precision.
+Understandable - The measure should be easy to calculate, interpret and understand.
+Example: Whenever possible measures should be understandable to interested outside parties with limited IRS experience and should be free from IRS jargon.
+Comparable - The measure is useful for making comparisons with other data over time.
+Example: An organization may consider basing an internal quality score on the same sample of cases/calls used to measure customer satisfaction to compare internal results to external perceptions over time.
+Periodically performance measures may need to be updated. As priorities change and new program requirements evolve, the suite of measures included in the budget must adjust. These changes are most likely to occur during strategic assessments, with new initiatives, from changes in funding levels or as a result of new legislation. Generally, the IRS cannot change or drop measures that have been published in the CJ or Agency Financial Report (AFR) in the middle of a year. Division commissioners or heads of office may request revising, adding or dropping performance budget measures by written memorandum to the Associate CFO for Corporate Budget or the CFO. The Associate CFO for Corporate Budget may also request business units develop new measures to be included in performance reporting. Examples of appropriate changes include:
+Replacing a quality measure with a new one concurrent with a change in the quality review process.
+Adding a measure for a new program or one that is gaining attention and resources.
+Eliminating a measure for a program that is being de-emphasized. Organizations should review their suite of measures periodically to ensure alignment with strategic goals and objectives.
+Changes to Historical (previously published) Performance Data
+The IRS cannot make changes to historical data that have been reported in the IRS CJ, the MD&A or the AFR.
+Note: While this section deals exclusively with changes to budget level measures, there may be instances where an organization has requirements to report performance externally for non-budget level measures. The same requirements regarding approval, elimination and timing will apply. All changes must be formally approved by the division commissioner or head of office and communicated to the appropriate office of the external organization.
+Exhibit 1.5.1-1
+Questions and Answers about the IRS Balanced Performance Measurement System
+Question	Answer
+Q1. How do organizational measures link to individual front-line appraisals?	The IRS bases individual appraisals of front-line employees (non-management officials) on the critical elements for their positions. The critical elements in some areas reflect the IRS priorities as reflected in the balanced measures. All employee standards are evaluated on the retention standard requiring the "fair and equitable treatment of taxpayers." Overall, the IRS must base employee evaluations on a review of actual work performed, judged against elements and standards, with consideration given to the specific facts and circumstances of each case.
+Q2. How do these organizational measures link to individual manager appraisals?	The IRS bases managerial evaluations on the actions taken in accordance with an agreed upon plan and performance standards. The IRS uses organizational measures as an analytical reference to determine whether the actions taken achieved the desired performance result. The IRS shall not use these organizational measures to directly determine the evaluation of an individual manager or as a stand-alone evaluative tool.
+Q3. What guarantees are there in the process to prevent managers from relying on "numbers?"	The IRS expects managers to look not just at the measurement results, but at the facts, circumstances and specific situations in any area that warrants attention. Additional steps to reinforce the balanced performance measures approach include changes to the review processes and the individual performance management processes.
+Q4. Will the IRS compare numerical results against prior years to assess progress?	Yes. The IRS will compare performance results with prior year results to assess progress. This does not mean the IRS will determine a manager’s appraisal by how measures results change over the year. The results can change for numerous reasons, many of which are not under the control of the manager. The actions taken by the manager to improve performance will be what influences the manager’s appraisal.
+Q5. How will the IRS measure customer satisfaction?	The IRS bases the customer satisfaction measure on customer perceptions of the service they receive. Survey responses provide the basis for identifying areas with the greatest potential for improvement.
+Q6. How will the IRS measure employee satisfaction?	The IRS bases employee satisfaction on the information gathered through the annual Federal Employee Viewpoint Survey or other surveys. All employees have an opportunity to take the employee survey under conditions that guarantee them anonymity.
+Q7. How will the IRS measure quality in business results?	The IRS generally will base quality on an independent review of closed cases or ongoing case work using systems such as the National Quality Review System.
+Q8. How will the IRS measure quantity in business results?	Quantity consists of outcome-neutral measures that count outreach activities, or the amount of work completed, such as cases closed. The IRS may use results from quantity measures as an input in evaluating the performance of an organizational unit if the evaluation also considers measures of customer satisfaction, employee satisfaction and quality, when appropriate.
+Q9. How will the IRS know when the measures and goals for customer satisfaction, employee satisfaction and business results are in balance?	Each element of the Balanced Performance Measurement System represents an important aspect for assessing progress toward the IRS’s goals. Any activity involving balanced measures, such as setting goals, assessing progress and evaluating results, must consider all three elements. Performance results help shape future plans and strategies for overall performance. The mix of programs and strategies proposed should cover all three elements. The purpose of the IRS balanced performance measures approach is to ensure each element gets due consideration. The IRS must prioritize critical issues and select a mix of strategies and programs aimed at attaining overall progress toward achieving the IRS mission and strategic goals.
+Q10. How will the IRS use the results of performance measures to set budget priorities?	The IRS will use balanced measurement results to assess the effectiveness of strategies and actions undertaken to improve performance and those results will serve as a factor in budget development. The IRS will use performance results, detailed analysis of factors affecting program performance and an assessment of existing and emerging trends to determine the appropriate mix of program strategies and allocation of resources necessary to achieve the IRS’s goals.
+Q11. Does the balanced performance measurement system limit organizational units from implementing procedures for prioritizing work or setting standards for certain processes and procedures?	No. The IRS does not intend the Balanced Performance Measurement System to limit organizational units from developing work plans, establishing projections for workload indicators, issuing procedures for performing work or setting standards for the prioritization and timeliness of work to ensure efficient workload management and quality service to customers. The goal of the Balanced Performance Measurement System is to ensure the IRS makes business decisions considering each element of the balanced measures framework.
+Example: When establishing timeliness standards, the organizational unit needs to ensure they have the appropriate resources and are equipped to meet those standards so that they do not affect customer satisfaction and quality.
+Q12. Is it permissible to discuss failure to meet aspects of a work plan or business plan with a manager?	Yes. However, the conversation must include a discussion of what factors may have contributed to the manager not being able to meet the plan and what actions the manager took and/or should have taken to rectify the situation. There may be a very good reason the IRS did not meet the plan or there may be other circumstances that require a revision to the plan, for example, a reallocation of resources or a change in priorities. Finally, during the discussion, be sure to consider and relate the effect of the performance issue being discussed, as well as the effect of potential corrective actions to the balanced measures elements of business results, customer satisfaction and employee satisfaction.
+Q13. Can the IRS tell employees that a service standard for the telephone assistance program is that the IRS should not leave taxpayers on hold for longer than a set number of minutes?	Yes. In the interests of customer service and business performance, the IRS needs to establish organizational timeliness standards to support improved service to all customers. The IRS should base such standards on the level of resources available and the length of time necessary to provide top quality service to each caller. The agency should not establish standards it cannot meet. Doing so leads to sacrifices in quality and poor service to customers. The focus of any evaluation against timeliness standards should not be on the number, but on the appropriateness of the actions taken. In some instances, it will be necessary to leave taxpayers on hold for longer periods of time.
+Q14. Is it permissible to rely on system data or reports to evaluate front-line employees?	No- with the exception of employees performing measured work (for example, Submission Processing uses the Measured Employee Performance System (MEPS) for frontline employee evaluations). System data, such as talk-time, call histories and sign-on and sign-off times, can serve as diagnostic indicators that point to areas where performance issues may exist. The manager needs to address these, and through review and monitoring of the employee's work, determine whether an actual performance problem exists.
+Example: System data alone could suggest a performance problem, but upon further review and monitoring, managers might find a valid or appropriate cause for the system results.
+Q15. Why is cycle time or overage considered a quality measure and not a quantity measure?	Under the balanced performance measurement system, quantity measures provide information about the amount of work performed and products or services provided. Quality measures provide information about the extent that work performed met prescribed standards, including accuracy, timeliness and completeness. Therefore, cycle time and overage measures assess the timeliness in which employees complete work. They do not reveal how much work was completed. However, each organizational unit may make its own determination about whether managers may use certain categories of outcome-neutral data in quality or quantity measures.
+Exhibit 1.5.1-2
+Checklists for Developing Measures, Targets and Operational Measures (Metrics)
+Measures to ensure results achievement
+
+Measures Development Checklist	Yes	No
+Is the measure results-oriented? Does it indicate achievement of outcomes?
+Is the measure specific and meaningful?
+Is this measurable?
+Will someone be accountable for the measure?
+Is the measure time bound? Does it indicate when the measure will realize results?
+
+Targets set milestones for results achievement
+
+Targets Development Checklist	Yes	No
+Have targets been established using baseline data or industry standards?
+Are targets aggressive, yet attainable?
+Do targets make sense to staff?
+Do targets measure positive progress?
+Do targets encompass a reasonable time frame?
+
+Metrics or Operational Measures track short-term progress toward results
+
+Metrics Development Checklist	Yes	No
+Do metrics reflect that which is most important to the customer?
+Will these metrics track progress and activity completion?
+Can the IRS collect and analyze this data?
+Is the data collection burden worth the result?
+Exhibit 1.5.1-3
+Defining Data: What Counts As Positive Performance?
+Measure
+Data Elements: What will the IRS collect?
+Data Source: Where is the data located?
+Data Definition/key terms
+Who is accountable for this measure?
+Who is responsible for collecting the data?
+What is the data collection process?
+How will the IRS calculate this measure?
+How often will the IRS collect this data?
+When and where will the IRS report the data?
+Exhibit 1.5.1-4
+Process to Create a Performance Model for New (or Revised) Programs
+Identify IRS Strategic Goal Addressed
+
+Review the IRS Strategic Plan
+Review Goals, Objectives and Activities in the IRS Strategic Plan.
+Identify End Outcomes
+
+What is the program’s "bottom line?"
+What evidence would you need to defend the program?
+What is the end benefit?
+How will you know you have been successful?
+Develop Intermediate Outcomes
+
+What needs to change to achieve outcome goals?
+Who has the capacity to make the change?
+Is the outcome measurable?
+Identify Activities and Outputs to Achieve Outcomes (Refers to Objectives and Activities in the IRS Strategic Plan)
+
+What will produce changes needed to achieve outcome?
+What specific things will influence the target of change?
+What products do you need?
+What services do you need?
+Develop Metrics and Output Measures to Track Activities
+
+What is trackable to assess progress of activities?
+What are the numerical values of outputs and activities?
+What efficiency measures concern customers and stakeholders?
+Prioritize and Choose Measures (Refers to Objectives and Activities in the IRS Strategic Plan)
+
+Identify links to strategic plan.
+Link and track with budgets.
+Assess results.
+Alter and improve strategies, activities and processes based on data.
+Set Targets for Measures
+
+What baseline data exists?
+If none, what baseline data do you need to collect?
+Identify and Allocate Resources Needed to Achieve Outcomes
+
+Use normal budget process or new initiative process.
+Define, Collect, Analyze and Report on Measures
+
+Use Data Collection Checklist.
+Will this be: Budget level? Operational? Oversight Board?
+Exhibit 1.5.1-5
+Detailed Measures Template
+REQUIRED INFORMATION	DESCRIPTION
+Operating Division(s)	Operating division(s) that owns this measure
+Measure Name	Name of measure/indicator
+Type of Measure	Identify whether this is a strategic measure, balanced measure, diagnostic tool, workload indicator or other non-performance statistic. Identify the component of the Balanced Measurement System that this measure applies to: customer satisfaction, employee satisfaction, business results quality or business results quantity.
+Program Category
+Related Strategic Goal
+Identify program category of performance measure (or Budget Activity Level), such as Pre-Filing Services, Filing and Account Services or Compliance Services.
+Identify the strategic goal that the measure supports in the current IRS strategic plan.
+Responsible Official	The IRS official responsible for the accuracy of the measure, such as: SB/SE director, Finance, Research and Strategy.
+Definition	Provide a clear narrative explanation of the measure that can be easily understood by non-IRS reviewers.
+Reporting Level(s)
+Report Data Source
+Reports
+Identify the organizational level(s) for which the measure/indicator is being used
+Example: Operating division, area, center, territory, division, branch, office, etc.
+Identify the source of the data
+Example: Integrated Data Retrieval System (IDRS), Command Code ISTSR.
+Identify where the organization reports the information
+Example: Business Performance Review Summary (BPRS), Monthly Business Performance Summary (MBPS) and strategy and program plans.
+Formula/Methodology	Provide a detailed narrative describing exactly how the IRS calculates the measure/indicator, including overall approach, scoring methodology, reporting period, etc.
+Example: Rolling averages for period ending xx/xx/xxxx), important status codes, if any, special cases (for example, suspense items)
+Data Source/Measurement Tools	Identify the report or management information system that provides the data and identify the mechanism used to collect the data being reported
+Example: Survey, sample reviews, audit
+Reliability of Data	Describe the process or procedures used to verify and/or validate the data collected. Then, describe the data quality of the measure by using the appropriate term: "Reasonable Accuracy" or "Questionable or Unknown Accuracy."
+Reasonable Accuracy: There is a reliable system or process in place that validates or verifies the accuracy of the data being reported.
+Questionable or Unknown Accuracy: A reliable system or process to validate or verify the accuracy of data is lacking. In such cases, the IRS should add a statement regarding efforts underway to improve the reliability of reported data.
+Frequency of Data Availability/Reporting	Frequency with which the IRS has measure/indicator data available and reports it, (daily, weekly, monthly, etc.). If the IRS reports the measure/indicator for periods different (that is, less often) than when the data is available, explain.
+Purpose of Measure	Describe how the measure applies to the segment of IRS operations the IRS is measuring.
+Data Limitations	Describe any limitations for the measure data.
+Example: The data for Automated Collection System (ACS) Taxpayer Delinquent Account Closures does not include the counts for inventory removed systemically.
+Calculation Changes	Describe any approved changes in the formula/methodology made during the fiscal year and the purpose for change.
+Example: A change to the methodology to back out calls to automated systems and better reflect the number of calls being handled by live assistors.
+Complete Description of the process(s) measure originates from:	Critical Path:
+1.
+2.
+3.
+4. (add additional items when necessary)
+Management Controls for items on critical path (supervisory or management reviews of data quality, include description of how supervisor or manager indicates completion of a review). If there are no supervisor or management reviews, describe how the IRS assures data reliability, completeness and accuracy:
+1.
+2.
+3.
+4. (add additional items when necessary)
+Exhibit 1.5.1-6
+Analyzing Performance Using the Traditional Problem-Solving Model
+The IRS may use balanced performance measures and corresponding underlying metrics to identify and understand changes in performance and to identify improvement options.
+
+The Traditional Problem-Solving Model is an approach the IRS has used effectively and has several steps.
+
+Receive Data
+Organizational units obtain data from a variety of sources such as performance results, quality review results and data collected by the Taxpayer Advocate. In other instances, organizational units may have to develop data locally.
+Organizational units may often repeat this step after they define a problem. For example, an initial scan of data, such as survey results, may suggest that a problem exists with customer service and lead to the development of an initial problem statement. This in turn would require additional data collection to accurately define the problem.
+Define the Problem
+In some cases, the problem may be obvious. In other cases, you will need to analyze the data to identify the problem.
+State the problem in objective terms. An accurately worded problem statement is important for the other steps in the process.
+Example: “Taxpayers do not have a sufficient understanding of IRS procedures.” Not: “IRS employees are not explaining our procedures sufficiently to taxpayers.”
+Determine Potential Causes of the Problem
+Determining potential causes requires research. Look at all the data available to you. Talk to employees and peers and search for potential causes.
+Assess the possible causes. Don’t jump to conclusions about the solution.
+Evaluate causes and prioritize them based upon their effect on the problem.
+Generate Alternative Solutions
+Include all involved parties to generate alternatives.
+Specify alternatives consistent with organizational goals.
+Specify short and long term alternatives.
+Brainstorm using others’ ideas.
+Evaluate and Select an Alternative
+Evaluate alternatives relative to goals.
+Evaluate both proven and possible outcomes.
+State the selected alternative explicitly.
+Implement and Follow Up on the Solution
+Plan and implement a pilot test of the chosen alternative.
+Gather feedback from all affected parties.
+Seek acceptance or consensus by those affected.
+Establish ongoing measures and monitoring.
+Evaluate long-term results based on the final solution.
+Note: In cases where you have no solutions that work, you will need to repeat step (4) Generate Alternative Solutions. Alternatively, consider re-evaluating the problem again as sometimes you may not find a solution because the problem definition is not well-defined.

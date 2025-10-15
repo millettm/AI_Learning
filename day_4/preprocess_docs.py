@@ -10,7 +10,7 @@ nltk.download('stopwords')
 # Load multiple sources
 files = []
 documents = []
-directory_path = 'C:/Users/the-s/PycharmProjects/AI_Learning/training_subset/'
+directory_path = 'C:/Users/the-s/PycharmProjects/AI_Learning/training_data/'
 
 def get_training_files_in_directory_os(directory_path):
     for training_doc in os.listdir(directory_path):
