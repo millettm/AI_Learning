@@ -7,7 +7,7 @@ import json
 
 # Set Hugging Face token (if not already set)
 import os
-os.environ["HF_TOKEN"] = ""  # Your token
+
 
 # Load dataset
 with open('C:/Users/the-s/PycharmProjects/AI_Learning/data/qa_pairs.jsonl', 'r') as f:

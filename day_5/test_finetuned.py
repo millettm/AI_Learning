@@ -7,7 +7,7 @@ nltk.download('vader_lexicon')
 
 # Set Hugging Face token
 import os
-os.environ["HF_TOKEN"] = ""  # Your token
+
 
 # Load base model
 base_model = AutoModelForCausalLM.from_pretrained(
