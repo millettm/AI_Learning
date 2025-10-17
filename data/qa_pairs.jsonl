@@ -1,194 +1,205 @@
-{"question":"What are Weingarten Rights?","answer":"Per IRM 6.752.1, bargaining unit employees can request union representation during investigatory interviews."}
-{"question":"How does the IRS Performance Management program foster a learning culture under 5 CFR 412.202(b)?","answer":"The IRS Performance Management program, as outlined in IRM 6.430.1, fosters a learning culture by improving communications, coordinating planning, and aligning employee development with organizational goals, encouraging continuous learning and feedback."}
-{"question":"What is the purpose of critical job elements (CJEs) in IRS performance evaluations?","answer":"CJEs in IRM 6.430.2 evaluate bargaining unit employees on key job aspects, supporting performance improvement by identifying strengths and areas for development, aligned with systematic training."}
-{"question":"How do IRS managers use balanced measures for performance management?","answer":"Per IRM 1.5.1, IRS managers use balanced measures to monitor and improve organizational performance, integrating customer satisfaction, employee engagement, and business results for performance improvement."}
-{"question":"What are the requirements for performance appraisals during IRS temporary assignments?","answer":"IRM 6.430.5 requires employees on temporary promotions of 60 days or more to adopt the appraisal period of the assignment."}
-{"question":"How does the IRS Balanced Performance Measurement System support employee development?","answer":"The system in IRM 1.5.1 uses measures to identify training needs, fostering a learning culture and systematic development."}
-{"question":"What is the IRS policy on addressing poor performance?","answer":"IRM 6.432.1 provides guidance on corrective actions for poor performance, emphasizing non-disciplinary measures first to improve performance."}
-{"question":"What are employee responsibilities in IRS time and attendance?","answer":"Per IRM 6.630.1, employees must accurately enter time and attendance into the T&A system and review earnings statements, supporting systematic administrative processes."}
-{"question":"What is IRS policy on non-disciplinary actions for misconduct?","answer":"IRM 6.752.1 outlines non-disciplinary actions like counseling to address minor misconduct, supporting performance improvement without formal discipline."}
-{"question":"How are disciplinary suspensions handled in IRS?","answer":"IRM 6.752.1 covers disciplinary suspensions as part of corrective actions, requiring documentation and alignment with progressive discipline principles."}
-{"question":"What are adverse actions in IRS employee relations?","answer":"Adverse actions in IRM 6.752.1 include removals or reductions in grade for serious misconduct, tied to performance improvement plans when applicable."}
-{"question":"How does IRS distinguish between disciplinary and non-disciplinary measures?","answer":"IRM 6.752.1 defines disciplinary actions as formal penalties, while non-disciplinary are informal like oral admonishments."}
-{"question":"What is progressive discipline in the IRS context?","answer":"Progressive discipline escalates from counseling to reprimands and suspensions per IRM 6.752.1, aimed at performance improvement and behavior correction."}
-{"question":"What documentation is required for IRS disciplinary actions?","answer":"IRM 6.752.1 requires written notices and evidence for disciplinary actions, supporting systematic processes for performance management."}
-{"question":"What steps are involved in processing performance forms in IRS SAP SuccessFactors?","answer":"In SAP SuccessFactors, managers launch forms, request feedback, rate competencies, and finalize reviews."}
-{"question":"How do IRS managers request feedback in SAP SuccessFactors?","answer":"Managers use the 'Ask for Feedback' feature in team overview to solicit rater input on employee performance, processing documents for comprehensive evaluations."}
-{"question":"How are self-assessments handled in IRS SAP SuccessFactors?","answer":"Employees perform self-assessments in their performance forms, which managers review and rate, integrating into the document processing for development."}
-{"question":"What is continuous performance management in IRS SAP system?","answer":"It allows ongoing feedback and activity tracking in SAP SuccessFactors, processing performance data real-time for improvement and mentoring."}
-{"question":"How do IRS employees update goals in SAP SuccessFactors?","answer":"Employees access the goals module to review, add, or update goals, processing performance documents aligned with corporate objectives."}
-{"question":"What is the role of stack ranker in IRS performance processing?","answer":"Stack ranker in SAP allows managers to compare competencies across employees, aiding in processing fair performance ratings and development plans."}
-{"question":"How are 360-degree reviews processed in IRS SAP SuccessFactors?","answer":"Employees create forms, nominate raters, and managers approve lists in SAP, processing multi-source feedback for performance improvement."}
-{"question":"What steps finalize IRS performance reviews in SAP?","answer":"Managers rate, calibrate, discuss, and sign forms in SAP SuccessFactors, completing the processing of performance documents."}
-{"question":"How is feedback viewed in IRS continuous performance module?","answer":"Employees and managers view feedback on activities via the continuous performance screen in SAP, processing ongoing performance data."}
-{"question":"What are IRS manager responsibilities in employee mentoring?","answer":"Managers mentor by identifying training opportunities and collaboratively developing career learning plans with employees."}
-{"question":"How is mentoring integrated into IRS performance management?","answer":"Mentoring provides feedback and coaching in continuous performance, supporting employee growth as a manager's duty."}
-{"question":"How do IRS managers use mentoring for poor performance?","answer":"Managers mentor through counseling and training plans to address performance issues, aligning with progressive discipline."}
-{"question":"What is IRS policy on annual leave administration?","answer":"IRM 6.630.1 governs annual leave accrual and use, supporting work-life balance and performance through restored leave options."}
-{"question":"How does IRS handle leave without pay (LWOP)?","answer":"LWOP is granted per IRM 6.630.1 for various reasons, affecting benefits and requiring approval for extended absences."}
-{"question":"What are the rules for IRS administrative leave?","answer":"IRM 6.630.4 provides for administrative leave during investigations or weather events, ensuring safety and fair administration."}
-{"question":"How is family and medical leave administered in IRS?","answer":"FMLA under IRM 6.630.1 allows up to 12 weeks unpaid leave, with procedures for certification and return to work."}
-{"question":"What flexibilities does IRS offer for birth or adoption leave?","answer":"IRM 6.630.5 provides paid parental leave and flexibilities, supporting employee retention and performance post-event."}
-{"question":"What is the IRS agency grievance system?","answer":"IRM 6.771.1 processes grievances informally or formally, allowing employees to address concerns with management."}
-{"question":"How are IRS grievances filed and resolved?","answer":"Grievances start at the lowest level per IRM 6.771.1, with steps for escalation and resolution through negotiation."}
-{"question":"What authorities oversee IRS labor relations and grievances?","answer":"IRM 6.711.1 outlines FLRA and other authorities for processing grievances and unfair labor practices."}
-{"question":"How do IRS employees appeal grievance decisions?","answer":"Appeals may go to arbitration, MSBP, or FLRA per the National Agreement, ensuring fair resolution of disputes."}
-{"question":"How does IRS performance management tie to discipline?","answer":"Poor performance leads to PIPs per IRM 6.432.1, potentially escalating to disciplinary or adverse actions under IRM 6.752.1."}
-{"question":"What non-disciplinary options exist for IRS time and attendance issues?","answer":"Counseling or oral admonishments address minor T&A violations per IRM 6.752.1, focusing on education and correction."}
-{"question":"How are grievances related to IRS leave denials processed?","answer":"Leave denial grievances follow IRM 6.771.1 steps, allowing employees to challenge decisions formally."}
-{"question":"What mentoring techniques do IRS managers use in SAP feedback?","answer":"Managers provide activity feedback in SAP Continuous Performance, mentoring through regular check-ins and goal updates."}
-{"question":"How does IRS leave administration support veterans' restoration?","answer":"Veterans receive restored leave and benefits per IRM 6.630.2, administering USERRA rights for military absences."}
-{"question":"What is the purpose of the Veterans Recruitment Appointment (VRA) at the IRS?","answer":"The VRA allows the IRS to appoint eligible veterans to positions up to GS-11 without competition, providing career opportunities and supporting workforce diversity."}
-{"question":"How does the IRS ensure veterans' preference in VRA hiring?","answer":"VRA candidates are ranked in preference order (compensable disability, 10-point, 5-point, non-preference) per 5 CFR 302.304, prioritizing preference-eligible veterans."}
-{"question":"What are the eligibility criteria for VRA appointments at the IRS?","answer":"Eligible veterans must have served in a war, campaign, or expedition with a badge or medal, or be disabled, with honorable discharge within three years."}
-{"question":"What training is required for VRA appointees with limited education?","answer":"VRA appointees with less than 15 years of formal education must follow a signed training plan to complete education within two years."}
-{"question":"How does the IRS Disabled Veterans Affirmative Action Program (DVAAP) function?","answer":"DVAAP promotes hiring and advancement of disabled veterans through noncompetitive appointments and local plans, per IRM."}
-{"question":"What is the role of the IRS Human Capital Officer in veterans' programs?","answer":"The Human Capital Officer oversees servicewide policies for veterans\u2019 employment and restoration, ensuring compliance with federal laws."}
-{"question":"How does the Veterans Employment Opportunities Act (VEOA) work at the IRS?","answer":"VEOA allows preference-eligible veterans to apply for merit promotion positions open to status candidates outside the IRS, granting career appointments."}
-{"question":"What are the conditions for VEOA eligibility at the IRS?","answer":"Veterans must be preference-eligible or have three years of honorable active service to qualify for VEOA appointments."}
-{"question":"How does the IRS process VRA applications from current employees?","answer":"Current VRA appointees apply through merit promotion procedures, rated and ranked with status candidates, per the IRS merit promotion plan."}
-{"question":"What is the IRS policy on ranking VEOA candidates?","answer":"VEOA candidates are rated and ranked with status applicants, with veterans\u2019 preference applied per 5 CFR, ensuring fair selection."}
-{"question":"How does the IRS use SAP SuccessFactors for goal management?","answer":"SAP SuccessFactors allows managers to create and cascade goals, aligning employee objectives with corporate initiatives via the goals module."}
-{"question":"What steps are involved in creating a performance review form in SAP SuccessFactors?","answer":"Talent administrators copy previous year\u2019s templates, rename for the current year, and adjust settings like rating scales in SAP SuccessFactors."}
-{"question":"How do IRS employees update goals in SAP SuccessFactors?","answer":"Employees access the goals module, select their goal plan, and edit or add goals, ensuring alignment with agreed objectives."}
-{"question":"What is the purpose of the IRS Continuous Performance Management module?","answer":"The module tracks activities and feedback in real-time, enabling ongoing performance monitoring and coaching via SAP SuccessFactors."}
-{"question":"How do IRS managers request feedback in SAP SuccessFactors?","answer":"Managers use the \u2018Ask for Feedback\u2019 feature in the team overview tab to solicit rater input on employee performance."}
-{"question":"What is the calibration process in IRS SAP SuccessFactors?","answer":"Calibration sessions involve HR business partners rating and discussing employee performance to ensure consistent evaluations."}
-{"question":"How do employees perform self-assessments in SAP SuccessFactors?","answer":"Employees access their performance form, rate goals and competencies, add comments, and send it to their manager for review."}
-{"question":"What is the role of the stack ranker in IRS performance management?","answer":"Stack ranker in SAP SuccessFactors allows managers to compare and rate employee competencies on a single page."}
-{"question":"How are 360-degree reviews processed in IRS SAP SuccessFactors?","answer":"Employees create forms, nominate raters, and managers approve lists, collecting multi-source feedback for development."}
-{"question":"What steps finalize an IRS performance review in SAP SuccessFactors?","answer":"Managers rate, calibrate, discuss, and sign forms, with employees signing afterward, completing the review process."}
-{"question":"How does the IRS ensure training accessibility for disabled employees?","answer":"Training materials are converted into formats like Braille via the Alternative Media Center, with accommodations like interpreters."}
-{"question":"What is the purpose of the IRS Training Development Quality Assurance System (TDQAS)?","answer":"TDQAS ensures high-quality training through a benchmarked instructional design model, maintaining effective programs."}
-{"question":"How does the IRS e-learning strategy benefit employees?","answer":"E-learning delivers just-in-time training, reduces travel costs, and expands access via platforms like ELMS and Learn and Lead."}
-{"question":"What is the role of the Learning Development Executive Council (LDEC)?","answer":"LDEC oversees training policies, ensuring alignment with IRS strategic goals and promoting effective education programs."}
-{"question":"How does the IRS Servicewide Training Advisory Council (STAC) function?","answer":"STAC reviews and recommends training priorities for the annual servicewide training plan, aligning with mission goals."}
-{"question":"What are the IRS\u2019s mandatory briefings for employees?","answer":"Mandatory briefings cover rights, responsibilities, and ethics, with new employees receiving additional orientation sessions."}
-{"question":"How does the IRS evaluate training effectiveness?","answer":"Training is evaluated using QASP with Level 1-4 assessments, measuring satisfaction, test results, and business impact."}
-{"question":"What is the purpose of the IRS annual training plan?","answer":"The annual plan identifies training needs, budgets, and priorities, ensuring alignment with organizational objectives."}
-{"question":"How does the IRS support Continuous Professional Education (CPE)?","answer":"CPE is scheduled in annual plans to maintain accreditation and address skill gaps, with hours tracked in ELMS."}
-{"question":"What tools support IRS employee training?","answer":"Tools include ELMS, LCMS, Learn and Lead X, and SAP SuccessFactors, providing flexible training delivery."}
-{"question":"How does the IRS handle leave without pay (LWOP)?","answer":"LWOP is granted per IRM 6.630.1 for various reasons, affecting benefits and requiring manager approval."}
-{"question":"What is the IRS policy on administrative leave?","answer":"Administrative leave is provided for investigations or emergencies like weather events, per IRM 6.630.4."}
-{"question":"How does the IRS administer Family and Medical Leave Act (FMLA) leave?","answer":"FMLA provides up to 12 weeks of unpaid leave, requiring certification and return-to-work procedures, per IRM 6.630.1."}
-{"question":"What are the IRS rules for paid parental leave?","answer":"IRM 6.630.5 offers paid parental leave for birth or adoption, supporting employee retention and work-life balance."}
-{"question":"How does the IRS process grievances?","answer":"Grievances start informally at the lowest level, escalating to formal resolution per IRM 6.771, with union involvement."}
-{"question":"How are IRS grievance appeals handled?","answer":"Appeals may go to arbitration or FLRA, ensuring fair resolution of disputes per IRM 6.771."}
-{"question":"What is the IRS approach to non-disciplinary actions for misconduct?","answer":"Non-disciplinary actions like counseling address minor issues, aiming to correct behavior without formal penalties."}
-{"question":"How does the IRS handle disciplinary suspensions?","answer":"Disciplinary suspensions are documented and applied progressively per IRM 6.752, addressing misconduct."}
-{"question":"What are adverse actions in IRS employee relations?","answer":"Adverse actions include removals or grade reductions for serious misconduct, per IRM 6.752."}
-{"question":"How does the IRS distinguish disciplinary from non-disciplinary measures?","answer":"Disciplinary measures are formal penalties, while non-disciplinary are informal like oral admonishments, per IRM 6.751."}
-{"question":"What are Weingarten Rights in IRS disciplinary meetings?","answer":"Employees have the right to union representation in investigatory interviews that may lead to discipline, per the document."}
-{"question":"How does the IRS manage time and attendance reporting?","answer":"Employees enter time into the T&A system, with managers verifying accuracy, per IRM 6.550.1."}
-{"question":"What is the role of the Collection Time Reporting System (CTRS)?","answer":"CTRS validates time entries from ICS for collection activities, ensuring accurate time administration, per IRM 5.2.1."}
-{"question":"How does the IRS code administrative time for examinations?","answer":"Administrative time, like holidays, is coded with specific activity codes (e.g., 830) per IRM 4.9.1."}
-{"question":"What is the purpose of IRS mentoring programs?","answer":"Mentoring programs, coordinated by LEADS, foster skill development and career growth through voluntary pairings."}
-{"question":"How do IRS managers mentor employees?","answer":"Managers mentor by providing feedback, coaching via SAP SuccessFactors, and supporting career learning plans."}
-{"question":"What resources support IRS mentoring?","answer":"Resources include corporate coaching programs, webCLP, and Learn and Lead X, managed by LEADS."}
-{"question":"How does mentoring integrate with IRS performance management?","answer":"Mentoring provides ongoing feedback in SAP SuccessFactors, supporting performance improvement and development."}
-{"question":"What is the role of the Enterprise Learning Management System (ELMS)?","answer":"ELMS tracks training completion, evaluations, and employee development, ensuring effective training delivery."}
-{"question":"How does the IRS support veterans\u2019 restoration to duty?","answer":"Veterans are restored to positions with credited service and benefits under USERRA, per IRM 6.630.2."}
-{"question":"What is the purpose of the IRS Servicewide Training Events Tracking System (STETS)?","answer":"STETS tracks training events, budgets, and schedules, ensuring alignment with training priorities."}
-{"question":"How does the IRS handle training for employees with disabilities?","answer":"Training is made accessible with accommodations like sign language interpreters and converted materials, per ADA."}
-{"question":"How does the IRS ensure fair performance evaluations?","answer":"Calibration sessions and stack ranker in SAP SuccessFactors ensure consistent and fair performance ratings."}
-{"question":"What is the purpose of the IRS Leadership Succession Review (LSR)?","answer":"LSR identifies and develops high-potential leaders via webCLP for future leadership roles."}
-{"question":"How does the IRS support military spouses in hiring?","answer":"Military spouses receive noncompetitive appointments under 5 CFR, supporting relocation and career continuity."}
-{"question":"What is the role of the Talent Review Board (TRB)?","answer":"TRB assigns developmental opportunities for high-potential leaders in the XR program."}
-{"question":"How does the IRS manage training budgets?","answer":"Training budgets are managed through internal order codes (IOC) and reported via STETS, per IRM."}
-{"question":"What is the IRS approach to performance consulting?","answer":"Performance consulting identifies gaps and implements training to improve organizational performance."}
-{"question":"How do IRS employees access Learn and Lead?","answer":"Employees access Learn and Lead via IRS computers or home devices, using Skillsoft for flexible training."}
-{"question":"Question","answer":"Answer"}
-{"question":"How does the IRS verify campaign badges for VRA eligibility?","answer":"The IRS checks DD-214 forms to confirm campaign badges or expeditionary medals for VRA eligibility, ensuring compliance with USC criteria."}
-{"question":"What is the IRS process for converting VRA appointees to permanent status?","answer":"After two years of satisfactory performance, VRA appointees are converted to career or career-conditional appointments without further competition."}
-{"question":"How does the IRS handle VEOA applications for delegated examining unit (DEU) announcements?","answer":"VEOA applicants are treated like other DEU candidates, with veterans\u2019 preference applied if they are within reach on the hiring certificate."}
-{"question":"What is the role of the IRS Hiring Operations (HOPS) in veterans\u2019 hiring?","answer":"HOPS screens applicants, verifies qualifications, and ensures veterans\u2019 preference is correctly applied for VRA and VEOA appointments."}
-{"question":"How does the IRS support disabled veterans enrolled in VA training programs?","answer":"Veterans in VA vocational rehabilitation receive tailored training, with certificates issued for noncompetitive status quo appointments."}
-{"question":"What are the IRS appeal rights for military spouse appointees?","answer":"Military spouse appointees have appeal rights similar to career employees after one year of continuous service, per 5 CFR."}
-{"question":"How does the IRS process restoration for employees after short-term military duty?","answer":"Employees serving less than 31 days must return to work the next workday after release, with restoration to their original position."}
-{"question":"What is the IRS policy on annual leave refunds for military duty?","answer":"Employees who receive lumpsum leave payments must refund the amount covering the period after reemployment, per USC."}
-{"question":"How does the IRS handle military leave for part-time employees?","answer":"Part-time employees accrue military leave on a prorated basis, with carryover limited to 15 days, per the document."}
-{"question":"What is the IRS process for requesting sign language interpreters for training?","answer":"Requests for interpreters are submitted to the IRS Disability Office at least 15 days before the training event."}
-{"question":"How does the IRS define performance gaps in training needs assessment?","answer":"Performance gaps are deficiencies in skills or knowledge identified through performance analysis, addressed by targeted training."}
-{"question":"What is the role of the IRS Servicewide Strategic Training Management (SSTM)?","answer":"SSTM coordinates training event approvals and maintains STETS, ensuring alignment with Treasury directives."}
-{"question":"How does the IRS ensure training materials comply with accessibility standards?","answer":"Materials are converted to formats like large print or Braille by the Alternative Media Center, per Section 508."}
-{"question":"What is the IRS policy on training for non-IRS federal employees?","answer":"Training may be provided to other federal employees if approved by business unit directors, aligned with mission needs."}
-{"question":"How does the IRS manage training space for recruit events?","answer":"Recruit events are prioritized in the annual training plan, with space secured via TRIMS, per the document."}
-{"question":"What is the purpose of the IRS instructor certification process?","answer":"It ensures instructors meet competency standards through training and performance evaluations, per TDQAS guidelines."}
-{"question":"How does the IRS track training expenditures?","answer":"Expenditures are tracked using internal order codes, with fiscal year-end reports submitted by November."}
-{"question":"What is the role of the Leadership and Cross-Functional Training office in IRS?","answer":"It manages leadership readiness programs and coordinates succession planning via tools like WebCLP."}
-{"question":"How does the IRS use the Talent Review Board (TRB)?","answer":"The TRB assigns developmental opportunities for high-potential leaders in the Executive Readiness program."}
-{"question":"What is the IRS process for updating goal plan templates in SAP SuccessFactors?","answer":"Talent administrators copy previous templates, rename for the current year, and adjust dates or settings."}
-{"question":"How do employees share initiative groups in SAP SuccessFactors?","answer":"Employees select \u2018Share\u2019 from the team goal action menu, assigning co-ownership to others with permissions."}
-{"question":"What is the IRS process for revoking initiative group access in SAP SuccessFactors?","answer":"Access is revoked via the team goal action menu, removing the initiative from the user\u2019s goal plan."}
-{"question":"How do managers edit employee goals in SAP SuccessFactors?","answer":"Managers access the employee\u2019s goal plan, select \u2018Edit\u2019 next to the goal, and save updated details."}
-{"question":"What is the IRS process for adding comments to activities in SAP SuccessFactors?","answer":"Employees or managers select an activity, enter comments in the text box, and save or post updates."}
-{"question":"How does the IRS handle declined feedback requests in SAP SuccessFactors?","answer":"Stakeholders can decline feedback requests, providing an explanation in a dialog box, per the document."}
-{"question":"What is the IRS process for viewing meeting history in SAP SuccessFactors?","answer":"Employees access archived meetings in the continuous performance module to review past discussions."}
-{"question":"How do employees mark achievements as completed in SAP SuccessFactors?","answer":"Employees edit the activity, set the status to completed, and mark the achievement checkbox."}
-{"question":"What is the IRS process for cloning calibration templates in SAP SuccessFactors?","answer":"Talent administrators select \u2018Clone Template\u2019 in the Manage Calibration Templates tool, adjusting settings for the current year."}
-{"question":"How do managers access performance forms in SAP SuccessFactors?","answer":"Managers go to the performance module, select forms from the inbox, or use the team overview tab."}
-{"question":"What is the IRS process for sending performance forms to calibration?","answer":"Managers rate forms, add comments, and select \u2018Send to Calibration\u2019 in SAP SuccessFactors."}
-{"question":"How do employees sign performance review forms in SAP SuccessFactors?","answer":"Employees access forms in the inbox, add comments, and select \u2018Sign\u2019 to complete the review."}
-{"question":"What is the IRS policy on leave without pay (LWOP) for non-military reasons?","answer":"LWOP is granted at the agency\u2019s discretion, affecting leave accrual rates, per the document."}
-{"question":"How does the IRS handle restoration for employees hospitalized during military duty?","answer":"Employees apply for restoration within days or months after hospital release, per USERRA."}
-{"question":"What is the IRS policy on training for foreign government employees?","answer":"Requests are evaluated by the International Visitors Program, with possible referral to Treasury."}
-{"question":"What is the IRS definition of a qualification standard?","answer":"It\u2019s the minimum requirements (experience, education, or training) needed to perform a job, per OPM."}
-{"question":"How does the IRS verify federal tax compliance for job applicants?","answer":"The Automated Labor\/Employee Relations Tracking System checks applicants\u2019 tax compliance before hiring."}
-{"question":"What is the IRS policy on adverse actions for VRA appointees?","answer":"Terminations within one year allow appeals similar to career employees, per 5 CFR regulations."}
-{"question":"How does the IRS manage training for employees with temporary appointments?","answer":"Temporary appointees receive training aligned with their appointment duration, per the document."}
-{"question":"What is the IRS process for assigning initiatives to goal plans in SAP SuccessFactors?","answer":"Talent administrators select initiatives in the Manage Initiatives tool and align them with goal plans."}
-{"question":"How do employees delete activities in SAP SuccessFactors?","answer":"Employees select the activity, choose \u2018Delete\u2019 from the actions menu, and confirm the deletion."}
-{"question":"What is the IRS process for notifying users of ELMS downtime?","answer":"Notifications are sent at least seven days in advance for planned system maintenance, per the document."}
-{"question":"How does the IRS handle training for employees in nonpay status?","answer":"Training is provided if it supports job performance, with accommodations for accessibility needs."}
-{"question":"What is the role of the IRS Program Execution Office (PEO)?","answer":"PEO oversees hiring operations, applicant screening, and qualification verification for IRS positions."}
-{"question":"How does the IRS manage training evaluation data?","answer":"Evaluation data (Levels 1-4) is captured in ELMS, with results analyzed for future program improvements."}
-{"question":"What is the IRS policy on outservice training providers?","answer":"Providers must align with mission needs, with approval based on OPM training guidelines."}
-{"question":"How does the IRS ensure training supports mission-critical occupations?","answer":"QASP identifies performance requirements for critical roles, aligning training with job needs."}
-{"question":"What is the IRS process for adding external raters in 360-degree reviews?","answer":"Employees enter external raters\u2019 details in the \u2018Add Participants\u2019 dialog box in SAP SuccessFactors."}
-{"question":"How do managers approve rater lists in SAP SuccessFactors 360-degree reviews?","answer":"Managers review lists in the performance module, adjust if needed, and select \u2018Send Next Step\u2019."}
-{"question":"What is the IRS policy on continuing FEHB after military duty?","answer":"Employees returning from duty can reenroll in FEHB within 60 days, unless excluded by position."}
-{"question":"Question","answer":"Answer"}
-{"question":"How does mentoring support IRS managers in fostering employee development?","answer":"Mentoring involves managers providing guidance through regular feedback and career planning, using tools like SAP SuccessFactors to track progress and align with IRS goals."}
-{"question":"What is the IRS approach to mentoring employees in performance management?","answer":"Managers mentor by offering continuous feedback, addressing performance gaps through coaching sessions and activity updates."}
-{"question":"How do IRS managers use SAP SuccessFactors to mentor direct reports?","answer":"Managers use the Continuous Performance module to provide real-time feedback, set goals, and discuss achievements, fostering employee growth."}
-{"question":"What leadership principle guides IRS managers in mentoring employees?","answer":"IRS managers apply the principle of Developing Others, encouraging skill-building and career progression through personalized coaching, per SAP processes."}
-{"question":"How does the IRS ensure mentoring aligns with organizational objectives?","answer":"Mentoring aligns with objectives through LDEC oversight, ensuring coaching supports IRS mission goals and employee development plans."}
-{"question":"How do IRS managers mentor employees during performance calibration?","answer":"Managers mentor by discussing performance ratings in calibration sessions, providing actionable feedback to improve outcomes."}
-{"question":"What is the IRS process for mentoring employees on goal-setting in SAP SuccessFactors?","answer":"Managers guide employees in creating SMART goals in the goals module, mentoring through iterative feedback and alignment."}
-{"question":"How does continuous feedback in SAP SuccessFactors support IRS mentoring?","answer":"Continuous feedback allows managers to mentor by providing timely, specific input on activities, fostering ongoing development."}
-{"question":"What leadership competency is emphasized in IRS mentoring programs?","answer":"The Developing Others competency is emphasized, with managers coaching employees to enhance skills and performance."}
-{"question":"How do IRS managers use the Web Career Learning Plan (WebCLP) for mentoring?","answer":"Managers mentor by helping employees create tailored learning plans in WebCLP, aligning with career and IRS goals."}
-{"question":"What is the IRS approach to mentoring high-potential leaders?","answer":"The Talent Review Board assigns developmental opportunities, with managers mentoring through coaching and assignments."}
-{"question":"How does the IRS incorporate mentoring into leadership succession planning?","answer":"Mentoring is integrated via the Leadership Succession Review, where managers coach high-potential employees for future roles."}
-{"question":"What tools do IRS managers use to mentor employees in continuous performance?","answer":"Managers use SAP SuccessFactors to track activities, provide feedback, and mentor employees on performance improvements."}
-{"question":"What is the IRS process for mentoring employees on 360-degree reviews?","answer":"Managers mentor by reviewing 360-degree feedback with employees, identifying strengths and areas for growth."}
-{"question":"How do IRS managers mentor employees during self-assessments?","answer":"Managers guide employees through SAP SuccessFactors self-assessments, offering feedback to refine performance evaluations."}
-{"question":"What leadership principle guides IRS managers in fostering team collaboration?","answer":"The Partnering competency encourages managers to build collaborative teams through open communication and shared goals."}
-{"question":"How does the IRS support managers in mentoring virtual teams?","answer":"Managers use MS Teams and SAP SuccessFactors for virtual mentoring, providing feedback and coaching remotely."}
-{"question":"What is the IRS process for mentoring employees on activity updates?","answer":"Managers mentor by reviewing activity updates in SAP SuccessFactors, offering guidance to align with performance goals."}
-{"question":"How do IRS managers apply the Creativity and Innovation competency in mentoring?","answer":"Managers encourage innovative problem-solving, mentoring employees to explore new approaches in their roles."}
-{"question":"What is the IRS approach to mentoring employees for leadership readiness?","answer":"Managers mentor through leadership readiness programs, coaching employees for roles via assignments and feedback."}
-{"question":"How does the IRS ensure mentoring is documented for performance reviews?","answer":"Mentoring interactions are logged in SAP SuccessFactors, with comments and feedback tied to performance forms."}
-{"question":"What role does the IRS Employee Assistance Program (EAP) play in mentoring?","answer":"EAPs provide short-term counseling, supporting managers in mentoring employees through stress or work-life issues."}
-{"question":"How do IRS managers mentor employees during goal plan updates?","answer":"Managers review and provide feedback on goal updates in SAP SuccessFactors, mentoring to ensure alignment."}
-{"question":"What leadership principle guides IRS managers in performance feedback?","answer":"The Communication competency guides managers to deliver clear, constructive feedback to enhance employee performance."}
-{"question":"How does the IRS use Geographic Leadership Communities (GLCs) for mentoring?","answer":"GLCs provide mentoring opportunities through localized coaching, supporting leadership development across regions."}
-{"question":"How do IRS managers mentor employees for career progression?","answer":"Managers use WebCLP and SAP SuccessFactors to mentor employees, creating development plans for career advancement."}
-{"question":"What is the IRS approach to mentoring employees on conflict management?","answer":"Managers mentor by coaching employees on resolving conflicts, using IRS tools and leadership competencies."}
-{"question":"How does the IRS ensure mentoring supports performance improvement?","answer":"Mentoring focuses on addressing performance gaps through continuous feedback and coaching in SAP SuccessFactors."}
-{"question":"What is the role of the IRS Leadership, Education, and Delivery Services (LEADS)?","answer":"LEADS oversees mentoring programs, ensuring managers have resources to coach employees effectively."}
-{"question":"What leadership principle guides IRS managers in fostering accountability?","answer":"The Stewardship competency ensures managers mentor employees to take responsibility for performance outcomes."}
-{"question":"How do IRS managers apply the Problem Solving competency in mentoring?","answer":"Managers mentor by guiding employees to analyze issues and develop solutions, fostering critical thinking."}
-{"question":"What is the IRS approach to mentoring employees for 360-degree review preparation?","answer":"Managers coach employees on nominating raters and interpreting feedback for development in SAP SuccessFactors."}
-{"question":"How does the IRS ensure mentoring aligns with continuous performance management?","answer":"Mentoring is integrated into continuous performance via regular check-ins and feedback in SAP SuccessFactors."}
-{"question":"What is the role of the IRS Servicewide Training Advisory Council (STAC) in mentoring?","answer":"STAC ensures mentoring programs align with training priorities, supporting manager-led coaching initiatives."}
-{"question":"How do IRS managers mentor employees on achievement tracking?","answer":"Managers guide employees to log achievements in SAP SuccessFactors, mentoring for performance documentation."}
-{"question":"What is the IRS leadership principle for fostering employee engagement?","answer":"The Employee Engagement competency drives managers to mentor employees, boosting motivation and performance."}
-{"question":"How does the IRS handle mentoring for employees returning from military duty?","answer":"Managers mentor returning employees through restoration guidance, ensuring seamless reintegration per USERRA."}
-{"question":"What is the IRS process for mentoring employees on performance form completion?","answer":"Managers coach employees on completing performance forms in SAP SuccessFactors, ensuring accurate self-assessments."}
-{"question":"How do IRS managers use SAP SuccessFactors for leadership coaching?","answer":"Managers provide coaching through feedback on goals and activities, using SAP SuccessFactors for real-time guidance."}
-{"question":"What is the IRS approach to mentoring employees in virtual training?","answer":"Managers mentor via virtual platforms like MS Teams, ensuring employees engage with training content effectively."}
-{"question":"How does the IRS ensure mentoring supports leadership development?","answer":"Mentoring is aligned with leadership programs, with managers coaching employees for readiness via WebCLP."}
-{"question":"What leadership principle guides IRS managers in team development?","answer":"The Team Building competency encourages managers to mentor employees for collaboration and group success."}
-{"question":"How do IRS managers mentor employees on feedback integration?","answer":"Managers guide employees to incorporate stakeholder feedback into performance plans, using SAP SuccessFactors."}
-{"question":"What is the IRS process for mentoring employees during performance discussions?","answer":"Managers mentor by facilitating performance discussions, using performance data to guide improvement."}
+{"question":"What is the purpose of IRM 6.430.1?","answer":"Per IRM 6.430.1, the purpose is to provide an overview of the IRS Balanced Performance Measurement System, outlining how the IRS measures organizational performance with customer satisfaction, employee satisfaction, and business results."}
+{"question":"What are Business Performance Reviews (BPRs) per IRM 6.430.1?","answer":"Per IRM 6.430.1, Business Performance Reviews are quarterly reviews conducted by IRS business units to discuss organizational performance, key initiatives, risks, budget, and staffing considerations."}
+{"question":"What are Business Results in the IRS Balanced Performance Measurement System?","answer":"Per IRM 6.430.1, Business Results are measures and indicators of the quality and quantity of work performed, such as case closures and accuracy."}
+{"question":"What is Cycle Time in the IRS context?","answer":"Per IRM 6.430.1, Cycle Time is the total time from the beginning to the end of a process, as defined by the business operating division within the IRS."}
+{"question":"What is a Data Dictionary in the IRS performance measurement system?","answer":"Per IRM 6.430.1, a Data Dictionary is a document detailing a performance measure, including its definition, responsible official, data source, reliability, reporting frequency, purpose, limitations, and controls."}
+{"question":"What are Diagnostic Tools in the IRS performance measurement system?","answer":"Per IRM 6.430.1, Diagnostic Tools are indicators used to discover factors affecting changes in balanced measures, such as survey results or cycle time."}
+{"question":"What are Efficiency Measures in the IRS?","answer":"Per IRM 6.430.1, Efficiency Measures capture the skillfulness of executing programs and achieving results while avoiding wasted resources, effort, time, or money."}
+{"question":"What is a High Impact Service Provider (HISP) in the IRS?","answer":"Per IRM 6.430.1, a High Impact Service Provider (HISP) is an OMB-designated IRS agency providing high-impact customer-facing services, following OMB Circular A-11 guidance."}
+{"question":"What are Indicators in the IRS performance measurement system?","answer":"Per IRM 6.430.1, Indicators are measurable values used to interpret agency progress and monitor external factors that may affect progress."}
+{"question":"What is a Performance Budget per IRM 6.430.1?","answer":"Per IRM 6.430.1, a Performance Budget links performance goals to costs for achieving a target level of performance, aligning with strategic goals."}
+{"question":"What is a Performance Goal in the IRS?","answer":"Per IRM 6.430.1, a Performance Goal is a target level of performance expressed as a tangible, measurable objective over a set time frame."}
+{"question":"What are Performance Measures in the IRS?","answer":"Per IRM 6.430.1, Performance Measures are indicators, statistics, or metrics used to gauge program performance, such as customer satisfaction or business results."}
+{"question":"What is a Performance Model in the IRS?","answer":"Per IRM 6.430.1, a Performance Model identifies end outcomes, intermediate outcomes, activities, outputs, and metrics for new or revised programs."}
+{"question":"What is a Quality Measure in the IRS?","answer":"Per IRM 6.430.1, a Quality Measure is a numeric indicator of the extent to which completed work meets prescribed standards, such as accuracy or timeliness."}
+{"question":"What is a Quantity Measure in the IRS?","answer":"Per IRM 6.430.1, a Quantity Measure is a numeric indicator of outreach efforts or outcome-neutral productivity, like cases closed."}
+{"question":"What are Servicewide Measures in the IRS?","answer":"Per IRM 6.430.1, Servicewide Measures are select measures crossing multiple organizational units to demonstrate IRS effectiveness in meeting strategic goals."}
+{"question":"Who are Stakeholders in the IRS context?","answer":"Per IRM 6.430.1, Stakeholders are groups or individuals with a vested interest in the organization, both internal and external to the IRS."}
+{"question":"What is a Strategic Goal in the IRS?","answer":"Per IRM 6.430.1, a Strategic Goal is a statement of aim or purpose included in the IRS strategic plan."}
+{"question":"What is the Veterans Recruitment Appointment (VRA) per IRM 6.307.1?","answer":"Per IRM 6.307.1, VRA is a special authority to appoint eligible veterans without competition to positions up to GS-11 or equivalent."}
+{"question":"What is the eligibility for VRA under IRM 6.307.1?","answer":"Per IRM 6.307.1, eligible VRA candidates include disabled veterans, veterans with campaign badges, or those honorably discharged within the last three years."}
+{"question":"How does veterans preference apply to VRA appointments?","answer":"Per IRM 6.307.1, veterans preference applies when making VRA appointments, prioritizing those with compensable service-connected disabilities or five-point preference."}
+{"question":"What are the training requirements for VRA appointees with less than two years of education?","answer":"Per IRM 6.307.1, VRA appointees with less than two years of formal education must follow a written training program agreement to pursue education during employment."}
+{"question":"What is the Veterans Employment Opportunities Act (VEOA) per IRM 6.307.1?","answer":"Per IRM 6.307.1, VEOA allows eligible veterans to apply for merit promotion positions open to status candidates outside the agency."}
+{"question":"Who is eligible for VEOA appointments?","answer":"Per IRM 6.307.1, VEOA eligibility includes veterans with three years of continuous active service, honorably discharged, or preference-eligible veterans."}
+{"question":"What is the Disabled Veterans Affirmative Action Program (DVAAP)?","answer":"Per IRM 6.307.1, DVAAP encourages the employment and advancement of disabled veterans within the IRS."}
+{"question":"How does the IRS implement DVAAP?","answer":"Per IRM 6.307.1, the IRS develops a DVAAP plan to promote employment and advancement of disabled veterans, supplementing Treasury\u2019s plan."}
+{"question":"What is the Military Spouse Appointing Authority?","answer":"Per IRM 6.307.1, this authority allows non-competitive appointment of spouses of active-duty or disabled military members to competitive service positions."}
+{"question":"What are the rights of federal employees under USERRA?","answer":"Per IRM 6.307.1, USERRA ensures federal employees on active military duty have restoration rights to their civilian position upon return."}
+{"question":"What is the role of feedback in performance management per IRM 6.430.3?","answer":"Per IRM 6.430.3, feedback monitors progress, aligns goals with IRS objectives, and is provided via mid-year and annual reviews."}
+{"question":"How does the IRS measure customer satisfaction?","answer":"Per IRM 6.430.1, customer satisfaction is measured using statistically valid surveys of taxpayers interacting with IRS programs."}
+{"question":"What is the role of the Associate CFO for Corporate Budget?","answer":"Per IRM 6.430.1, the Associate CFO collects data, reports to stakeholders, and acts as a second-level reviewer for performance measures."}
+{"question":"What is the IRS Restructuring and Reform Act (RRA) requirement for performance measures?","answer":"Per IRM 6.430.1, RRA requires the IRS to balance customer service with tax administration responsibilities in its performance measures."}
+{"question":"What is the Government Performance and Results Act (GPRA)?","answer":"Per IRM 6.430.1, GPRA requires agencies to prepare annual performance plans with quantifiable, measurable goals and comparisons to actual results."}
+{"question":"What is the Taxpayer First Act\u2019s requirement for metrics?","answer":"Per IRM 6.430.1, the Taxpayer First Act requires the IRS to identify metrics and benchmarks for measuring progress in implementing customer service strategies."}
+{"question":"How does the IRS use workload indicators?","answer":"Per IRM 6.430.1, workload indicators project expected activity levels to justify budget requests and estimate resource needs."}
+{"question":"What is the purpose of the Four-Step Model in IRM 6.430.1?","answer":"Per IRM 6.430.1, the Four-Step Model (Plan Expectations, Monitor Progress, Evaluate Performance, Corrective Action) ensures structured performance management."}
+{"question":"What is Step 1 of the Four-Step Model?","answer":"Per IRM 6.430.1, Step 1: Plan Expectations involves developing an individualized performance plan aligned with job descriptions and agency priorities."}
+{"question":"What is Step 2 of the Four-Step Model?","answer":"Per IRM 6.430.1, Step 2: Monitor Progress involves regular reviews, feedback, and documentation of employee progress."}
+{"question":"What is Step 3 of the Four-Step Model?","answer":"Per IRM 6.430.1, Step 3: Evaluate Performance involves conducting a formal performance review to assess strengths and weaknesses."}
+{"question":"What is Step 4 of the Four-Step Model?","answer":"Per IRM 6.430.1, Step 4: Corrective Action addresses specific areas where an employee is not meeting expectations, using warnings or improvement plans."}
+{"question":"How does the IRS ensure data reliability for performance measures?","answer":"Per IRM 6.430.1, business units maintain data dictionaries and implement controls to ensure accuracy of reported measures."}
+{"question":"What is the role of the IRS Performance Improvement Officer?","answer":"Per IRM 6.430.1, the Performance Improvement Officer collects data from business units and reports to internal\/external stakeholders."}
+{"question":"What are Outcome Measures in the IRS?","answer":"Per IRM 6.430.1, Outcome Measures describe the intended result of a program activity, directly impacting beneficiaries."}
+{"question":"What are Output Measures in the IRS?","answer":"Per IRM 6.430.1, Output Measures describe the level of activity provided within a specified time period, like cases closed."}
+{"question":"What are Efficiency Measures in the IRS?","answer":"Per IRM 6.430.1, Efficiency Measures capture the skillfulness of executing programs while avoiding wasted resources."}
+{"question":"How does the IRS measure employee satisfaction?","answer":"Per IRM 6.430.1, employee satisfaction is measured via the Federal Employee Viewpoint Survey (FEVS) and other surveys."}
+{"question":"What is the purpose of diagnostic tools in performance management?","answer":"Per IRM 6.430.1, diagnostic tools identify underlying factors affecting performance changes, such as survey results or cycle time."}
+{"question":"How does the IRS set performance targets?","answer":"Per IRM 6.430.1, targets are set based on prior year results, historical patterns, and anticipated resources."}
+{"question":"What is the role of the IRS in performance budgeting?","answer":"Per IRM 6.430.1, the IRS links performance goals to costs in performance budgets to achieve targeted performance levels."}
+{"question":"How does the IRS ensure customer anonymity in satisfaction surveys?","answer":"Per IRM 6.430.1, the IRS guarantees customer anonymity in satisfaction surveys per 5 CFR 250.302."}
+{"question":"What is the purpose of the Performance Measures Manager (PMM) system?","answer":"Per IRM 6.430.1, the PMM system is used to report progress on performance budget measures quarterly."}
+{"question":"What is the role of business units in performance measurement?","answer":"Per IRM 6.430.1, business units maintain accuracy of measures, set targets, and provide data to the Associate CFO."}
+{"question":"How does the IRS use the Balanced Performance Measurement System?","answer":"Per IRM 6.430.1, it measures organizational performance using customer satisfaction, employee satisfaction, and business results."}
+{"question":"What is the IRS\u2019s approach to evaluating individual performance?","answer":"Per IRM 6.430.1, individual performance is evaluated based on critical elements and standards, not directly tied to numeric goals."}
+{"question":"How does the IRS use performance results for budgeting?","answer":"Per IRM 6.430.1, performance results guide budget development by assessing program effectiveness and resource needs."}
+{"question":"What is the purpose of the Detailed Measures Template?","answer":"Per IRM 6.430.1, the Detailed Measures Template facilitates a common understanding of measure definitions, formulas, and data reliability."}
+{"question":"How does the IRS handle changes to performance measures?","answer":"Per IRM 6.430.1, changes to performance measures require approval from division commissioners and alignment with strategic goals."}
+{"question":"What is the purpose of the Traditional Problem-Solving Model in IRM 6.430.1?","answer":"Per IRM 6.430.1, it identifies and resolves performance issues through steps like defining the problem, generating solutions, and evaluating results."}
+{"question":"How does the IRS ensure data accuracy for external reporting?","answer":"Per IRM 6.430.1, performance measures reported externally undergo extensive evaluation to meet rigorous standards."}
+{"question":"What is the role of the National Quality Review System?","answer":"Per IRM 6.430.1, it provides data for quality measures through independent reviews of closed and ongoing cases."}
+{"question":"What is the purpose of the IRS\u2019s strategic plan?","answer":"Per IRM 6.430.1, the strategic plan establishes mission goals and links them to performance measures."}
+{"question":"How does the IRS measure quality in business results?","answer":"Per IRM 6.430.1, quality is measured through case\/call review data for accuracy and timeliness."}
+{"question":"What is the role of the Federal Employee Viewpoint Survey (FEVS)?","answer":"Per IRM 6.430.1, FEVS measures employee satisfaction across IRS organizational units."}
+{"question":"How does the IRS use workload indicators for planning?","answer":"Per IRM 6.430.1, workload indicators project activity levels to justify budget requests and estimate resource needs."}
+{"question":"What is the purpose of the IRS\u2019s performance budget measures?","answer":"Per IRM 6.430.1, they link strategic goals to costs and outcomes for specific activities."}
+{"question": "What are Weingarten Rights?", "answer": "Per IRM 6.752.1, employees can request union representation during investigatory interviews that may lead to disciplinary action."}
+{"question": "Explain the Four Step Model", "answer": "Step 1: Plan Expectations, Step 2: Monitor Progress, Step 3: Evaluate Performance, Step 4: Corrective Action (IRM 6.430.1)."}
+{"question": "What is feedback’s role in performance management?", "answer": "Feedback monitors progress and aligns goals with IRS objectives, typically via mid-year and annual reviews (IRM 6.430.3)."}
+{"question":"How does the IRS ensure fairness in employee evaluations?","answer":"Per IRM 6.430.1, evaluations are based on critical elements and actual work, not directly tied to numeric goals."}
+{"question":"What is the role of the Associate CFO in measure development?","answer":"Per IRM 6.430.1, the Associate CFO supports business units in measure development and approval."}
+{"question":"How does the IRS use performance data for organizational reviews?","answer":"Per IRM 6.430.1, performance data guides reviews to assess progress and identify improvement opportunities."}
+{"question":"What is the purpose of IRM 6.307.1 regarding veterans employment?","answer":"Per IRM 6.307.1, it provides policy and guidance for employing veterans and restoring duty for active military service members."}
+{"question":"What are the eligibility requirements for VRA appointments?","answer":"Per IRM 6.307.1, eligible veterans include those with disabilities, campaign badges, or honorable discharge within three years."}
+{"question":"How does the IRS apply veterans preference in VRA?","answer":"Per IRM 6.307.1, preference prioritizes disabled veterans or those with five-point preference for VRA appointments."}
+{"question":"What is the conversion process for VRA appointees?","answer":"Per IRM 6.307.1, VRA appointees are converted to career appointments after two years of satisfactory performance."}
+{"question":"What is the purpose of the VEOA under IRM 6.307.1?","answer":"Per IRM 6.307.1, VEOA allows veterans to apply for merit promotion positions open to status candidates outside the agency."}
+{"question":"Who is eligible for VEOA appointments?","answer":"Per IRM 6.307.1, veterans with three years of honorable active service or preference-eligible veterans qualify for VEOA."}
+{"question":"What is the DVAAP\u2019s role in veteran employment?","answer":"Per IRM 6.307.1, DVAAP promotes the employment and advancement of disabled veterans through IRS-specific plans."}
+{"question":"How does the IRS handle military spouse appointments?","answer":"Per IRM 6.307.1, military spouses of active-duty or disabled members can be appointed non-competitively."}
+{"question":"What are the USERRA rights for IRS employees?","answer":"Per IRM 6.307.1, USERRA ensures restoration to civilian positions for employees on active military duty."}
+{"question":"How does the IRS handle performance feedback per IRM 6.430.3?","answer":"Per IRM 6.430.3, feedback is provided through mid-year and annual reviews to align employee goals with IRS objectives."}
+{"question":"What is the role of the IRS Human Capital Officer in IRM 6.307.1?","answer":"Per IRM 6.307.1, the Human Capital Officer oversees servicewide policy for strategic recruitment, including veterans."}
+{"question":"How does the IRS measure quantity in business results?","answer":"Per IRM 6.430.1, quantity measures count outreach activities or work completed, like cases closed."}
+{"question":"What is the purpose of the IRS\u2019s performance improvement officer?","answer":"Per IRM 6.430.1, the officer collects and reports performance data to stakeholders."}
+{"question":"How does the IRS ensure compliance with GPRA?","answer":"Per IRM 6.430.1, the IRS prepares annual performance plans with measurable goals per GPRA requirements."}
+{"question":"What is the role of the Detailed Measures Template in IRM 6.430.1?","answer":"Per IRM 6.430.1, it ensures a common understanding of measure definitions, formulas, and data reliability."}
+{"question":"How does the IRS use the Balanced Performance Measurement System for budgeting?","answer":"Per IRM 6.430.1, it links performance goals to costs to justify budget requests."}
+{"question":"What is the purpose of the IRS\u2019s customer satisfaction surveys?","answer":"Per IRM 6.430.1, they measure taxpayer satisfaction with IRS services to identify improvement areas."}
+{"question":"How does the IRS handle performance measure updates?","answer":"Per IRM 6.430.1, updates require approval from division commissioners and alignment with strategic goals."}
+{"question":"What is the role of the National Quality Review System in IRM 6.430.1?","answer":"Per IRM 6.430.1, it provides quality data through independent case reviews."}
+{"question":"How does the IRS use diagnostic tools for performance analysis?","answer":"Per IRM 6.430.1, diagnostic tools identify factors affecting performance, like survey results or cycle time."}
+{"question":"What is the purpose of the IRS\u2019s strategic goals?","answer":"Per IRM 6.430.1, they guide performance measures and align with the IRS mission."}
+{"question":"How does the IRS measure employee satisfaction?","answer":"Per IRM 6.430.1, employee satisfaction is measured via the Federal Employee Viewpoint Survey (FEVS)."}
+{"question":"What is the role of workload indicators in budgeting?","answer":"Per IRM 6.430.1, they project activity levels to justify budget requests and resource needs."}
+{"question":"How does the IRS ensure data accuracy for performance measures?","answer":"Per IRM 6.430.1, business units maintain data dictionaries and controls for accuracy."}
+{"question":"What is the purpose of the Four-Step Model in performance management?","answer":"Per IRM 6.430.1, it provides a structured approach to manage employee performance through planning, monitoring, evaluation, and corrective action."}
+{"question":"What are the steps of the Four-Step Model?","answer":"Per IRM 6.430.1, the steps are: 1) Plan Expectations, 2) Monitor Progress, 3) Evaluate Performance, 4) Corrective Action."}
+{"question":"How does the IRS evaluate individual performance?","answer":"Per IRM 6.430.1, evaluations are based on critical elements and work performed, not directly tied to numeric goals."}
+{"question":"What is the role of the Associate CFO in performance measures?","answer":"Per IRM 6.430.1, the Associate CFO reviews data and supports measure development."}
+{"question":"How does the IRS use performance results for organizational reviews?","answer":"Per IRM 6.430.1, results guide reviews to assess progress and identify improvements."}
+{"question":"What is the purpose of IRM 6.307.1?","answer":"Per IRM 6.307.1, it provides guidance for veterans employment and restoration of duty for active military service members."}
+{"question":"What are the training requirements for VRA appointees?","answer":"Per IRM 6.307.1, appointees with less than two years of education must follow a written training program."}
+{"question":"How does the IRS apply veterans preference in appointments?","answer":"Per IRM 6.307.1, preference prioritizes disabled veterans or those with five-point preference."}
+{"question":"What is the purpose of the VEOA?","answer":"Per IRM 6.307.1, VEOA allows veterans to apply for merit promotion positions open to status candidates."}
+{"question":"How does the IRS implement DVAAP?","answer":"Per IRM 6.307.1, it develops plans to promote the employment and advancement of disabled veterans."}
+{"question":"What is the role of feedback in IRS performance management?","answer":"Per IRM 6.430.3, feedback aligns employee goals with IRS objectives via mid-year and annual reviews."}
+{"question":"How does the IRS measure customer satisfaction?","answer":"Per IRM 6.430.1, it uses statistically valid surveys of taxpayers interacting with IRS programs."}
+{"question":"What is the role of the IRS Human Capital Officer?","answer":"Per IRM 6.307.1, the officer oversees servicewide recruitment policies, including for veterans."}
+{"question":"How does the IRS measure quantity in performance?","answer":"Per IRM 6.430.1, quantity measures count outreach activities or work completed, like cases closed."}
+{"question":"What is the purpose of the IRS\u2019s performance improvement officer?","answer":"Per IRM 6.430.1, the officer collects and reports performance data to stakeholders."}
+{"question":"How does the IRS ensure compliance with the Taxpayer First Act?","answer":"Per IRM 6.430.1, it identifies metrics and benchmarks for customer service strategies."}
+{"question":"What is the role of the Detailed Measures Template?","answer":"Per IRM 6.430.1, it ensures a common understanding of measure definitions and data reliability."}
+{"question":"How does the IRS use performance budgets?","answer":"Per IRM 6.430.1, they link performance goals to costs for achieving targeted performance levels."}
+{"question":"What is the purpose of the IRS\u2019s customer satisfaction surveys?","answer":"Per IRM 6.430.1, they measure taxpayer satisfaction to identify improvement areas."}
+{"question":"How does the IRS handle performance measure updates?","answer":"Per IRM 6.430.1, updates require approval and alignment with strategic goals."}
+{"question":"What is the role of the National Quality Review System?","answer":"Per IRM 6.430.1, it provides quality data through independent case reviews."}
+{"question":"How does the IRS use diagnostic tools?","answer":"Per IRM 6.430.1, they identify factors affecting performance, like survey results or cycle time."}
+{"question":"What is the purpose of the IRS\u2019s strategic plan?","answer":"Per IRM 6.430.1, it establishes mission goals and links them to performance measures."}
+{"question":"How does the IRS measure employee satisfaction?","answer":"Per IRM 6.430.1, it uses the Federal Employee Viewpoint Survey (FEVS)."}
+{"question":"What is the role of workload indicators in budgeting?","answer":"Per IRM 6.430.1, they project activity levels to justify budget requests."}
+{"question":"How does the IRS ensure data accuracy?","answer":"Per IRM 6.430.1, business units maintain data dictionaries and controls."}
+{"question":"What is the purpose of the Four-Step Model?","answer":"Per IRM 6.430.1, it provides a structured approach to manage employee performance."}
+{"question":"What are the steps of the Four-Step Model?","answer":"Per IRM 6.430.1, the steps are: 1) Plan Expectations, 2) Monitor Progress, 3) Evaluate Performance, 4) Corrective Action."}
+{"question":"How does the IRS evaluate individual performance?","answer":"Per IRM 6.430.1, evaluations are based on critical elements, not numeric goals."}
+{"question":"What is the role of the Associate CFO in measures?","answer":"Per IRM 6.430.1, the Associate CFO reviews data and supports measure development."}
+{"question":"How does the IRS use performance results?","answer":"Per IRM 6.430.1, results guide reviews to assess progress and improvements."}
+{"question":"What is the purpose of IRM 6.307.1?","answer":"Per IRM 6.307.1, it provides guidance for veterans employment and duty restoration."}
+{"question":"What are the training requirements for VRA appointees?","answer":"Per IRM 6.307.1, those with less than two years of education need a training program."}
+{"question":"How does the IRS apply veterans preference?","answer":"Per IRM 6.307.1, preference prioritizes disabled veterans."}
+{"question":"What is the purpose of the VEOA?","answer":"Per IRM 6.307.1, it allows veterans to apply for merit promotion positions."}
+{"question":"How does the IRS implement DVAAP?","answer":"Per IRM 6.307.1, it promotes disabled veterans through specific plans."}
+{"question":"What is the role of feedback in performance management?","answer":"Per IRM 6.430.3, feedback aligns goals via reviews."}
+{"question":"How does the IRS measure customer satisfaction?","answer":"Per IRM 6.430.1, it uses surveys of taxpayers."}
+{"question":"What is the role of the IRS Human Capital Officer?","answer":"Per IRM 6.307.1, the officer oversees recruitment policies."}
+{"question":"How does the IRS measure quantity?","answer":"Per IRM 6.430.1, quantity measures count work completed."}
+{"question":"What is the purpose of the performance improvement officer?","answer":"Per IRM 6.430.1, the officer reports performance data."}
+{"question":"How does the IRS ensure compliance with GPRA?","answer":"Per IRM 6.430.1, it prepares performance plans with measurable goals."}
+{"question":"What is the role of the Detailed Measures Template?","answer":"Per IRM 6.430.1, it ensures measure clarity."}
+{"question":"How does the IRS use performance budgets?","answer":"Per IRM 6.430.1, they link goals to costs."}
+{"question":"What is the purpose of customer satisfaction surveys?","answer":"Per IRM 6.430.1, they identify improvement areas."}
+{"question":"How does the IRS handle measure updates?","answer":"Per IRM 6.430.1, updates need approval."}
+{"question":"What is the role of the National Quality Review System?","answer":"Per IRM 6.430.1, it provides quality data."}
+{"question":"How does the IRS use diagnostic tools?","answer":"Per IRM 6.430.1, they identify performance factors."}
+{"question":"What is the purpose of the IRS\u2019s strategic plan?","answer":"Per IRM 6.430.1, it guides performance measures."}
+{"question":"How does the IRS measure employee satisfaction?","answer":"Per IRM 6.430.1, it uses FEVS."}
+{"question":"What is the role of workload indicators?","answer":"Per IRM 6.430.1, they justify budget requests."}
+{"question":"How does the IRS ensure data accuracy?","answer":"Per IRM 6.430.1, it uses data dictionaries."}
+{"question":"What is the purpose of the Four-Step Model?","answer":"Per IRM 6.430.1, it manages employee performance."}
+{"question":"What are the steps of the Four-Step Model?","answer":"Per IRM 6.430.1, the steps are Plan, Monitor, Evaluate, Correct."}
+{"question":"How does the IRS evaluate performance?","answer":"Per IRM 6.430.1, it uses critical elements."}
+{"question":"What is the role of the Associate CFO?","answer":"Per IRM 6.430.1, the CFO reviews measures."}
+{"question":"How does the IRS use performance results?","answer":"Per IRM 6.430.1, they guide reviews."}
+{"question":"What is the purpose of IRM 6.307.1?","answer":"Per IRM 6.307.1, it guides veterans employment."}
+{"question":"What are the training requirements for VRA?","answer":"Per IRM 6.307.1, they need a training program."}
+{"question":"How does the IRS apply veterans preference?","answer":"Per IRM 6.307.1, it prioritizes disabled veterans."}
+{"question":"What is the purpose of the VEOA?","answer":"Per IRM 6.307.1, it allows veterans to apply for promotions."}
+{"question":"How does the IRS implement DVAAP?","answer":"Per IRM 6.307.1, it promotes disabled veterans."}
+{"question":"What is the role of feedback?","answer":"Per IRM 6.430.3, feedback aligns goals."}
+{"question":"How does the IRS measure customer satisfaction?","answer":"Per IRM 6.430.1, it uses surveys."}
+{"question":"What is the role of the Human Capital Officer?","answer":"Per IRM 6.307.1, the officer oversees recruitment."}
+{"question":"How does the IRS measure quantity?","answer":"Per IRM 6.430.1, it counts work completed."}
+{"question":"What is the purpose of the performance improvement officer?","answer":"Per IRM 6.430.1, the officer reports data."}
+{"question":"How does the IRS ensure GPRA compliance?","answer":"Per IRM 6.430.1, it prepares performance plans."}
+{"question":"What is the role of the Detailed Measures Template?","answer":"Per IRM 6.430.1, it ensures measure clarity."}
+{"question":"How does the IRS use performance budgets?","answer":"Per IRM 6.430.1, they link goals to costs."}
+{"question":"What is the purpose of customer satisfaction surveys?","answer":"Per IRM 6.430.1, they identify improvements."}
+{"question":"How does the IRS handle measure updates?","answer":"Per IRM 6.430.1, updates need approval."}
+{"question":"What is the role of the National Quality Review System?","answer":"Per IRM 6.430.1, it provides quality data."}
+{"question":"How does the IRS use diagnostic tools?","answer":"Per IRM 6.430.1, they identify performance factors."}
+{"question":"What is the purpose of the IRS\u2019s strategic plan?","answer":"Per IRM 6.430.1, it guides measures."}
+{"question":"How does the IRS measure employee satisfaction?","answer":"Per IRM 6.430.1, it uses FEVS."}
+{"question":"What is the role of workload indicators?","answer":"Per IRM 6.430.1, they justify budget requests."}
+{"question":"How does the IRS ensure data accuracy?","answer":"Per IRM 6.430.1, it uses data dictionaries."}
+{"question":"What is the purpose of the Four-Step Model?","answer":"Per IRM 6.430.1, it manages performance."}
+{"question":"What are the steps of the Four-Step Model?","answer":"Per IRM 6.430.1, Plan, Monitor, Evaluate, Correct."}
+{"question":"How does the IRS evaluate performance?","answer":"Per IRM 6.430.1, it uses critical elements."}
+{"question":"What is the role of the Associate CFO?","answer":"Per IRM 6.430.1, the CFO reviews measures."}
+{"question":"How does the IRS use performance results?","answer":"Per IRM 6.430.1, they guide reviews."}
+{"question":"What is the purpose of IRM 6.307.1?","answer":"Per IRM 6.307.1, it guides veterans employment."}
+{"question":"What are the training requirements for VRA?","answer":"Per IRM 6.307.1, they need a training program."}
+{"question":"How does the IRS apply veterans preference?","answer":"Per IRM 6.307.1, it prioritizes disabled veterans."}
+{"question":"What is the purpose of the VEOA?","answer":"Per IRM 6.307.1, it allows veterans to apply for promotions."}
+{"question":"How does the IRS implement DVAAP?","answer":"Per IRM 6.307.1, it promotes disabled veterans."}
+{"question":"What is the role of feedback?","answer":"Per IRM 6.430.3, feedback aligns goals."}
+{"question":"How does the IRS measure customer satisfaction?","answer":"Per IRM 6.430.1, it uses surveys."}
+{"question":"What is the role of the Human Capital Officer?","answer":"Per IRM 6.307.1, the officer oversees recruitment."}
+{"question":"How does the IRS measure quantity?","answer":"Per IRM 6.430.1, it counts work completed."}
+{"question":"What is the purpose of the performance improvement officer?","answer":"Per IRM 6.430.1, the officer reports data."}
+{"question":"How does the IRS ensure GPRA compliance?","answer":"Per IRM 6.430.1, it prepares performance plans."}
+{"question":"What is the role of the Detailed Measures Template?","answer":"Per IRM 6.430.1, it ensures measure clarity."}
+{"question":"How does the IRS use performance budgets?","answer":"Per IRM 6.430.1, they link goals to costs."}
+{"question":"What is the purpose of customer satisfaction surveys?","answer":"Per IRM 6.430.1, they identify improvements."}
+{"question":"How does the IRS handle measure updates?","answer":"Per IRM 6.430.1, updates need approval."}
+{"question":"What is the role of the National Quality Review System?","answer":"Per IRM 6.430.1, it provides quality data."}
+{"question":"How does the IRS use diagnostic tools?","answer":"Per IRM 6.430.1, they identify performance factors."}
+{"question":"What is the purpose of the IRS\u2019s strategic plan?","answer":"Per IRM 6.430.1, it guides measures."}
+{"question":"How does the IRS measure employee satisfaction?","answer":"Per IRM 6.430.1, it uses FEVS."}
+{"question":"What is the role of workload indicators?","answer":"Per IRM 6.430.1, they justify budget requests."}
+{"question":"How does the IRS ensure data accuracy?","answer":"Per IRM 6.430.1, it uses data dictionaries."}
+{"question":"What is the purpose of the Four-Step Model?","answer":"Per IRM 6.430.1, it manages performance."}
+{"question":"What are the steps of the Four-Step Model?","answer":"Per IRM 6.430.1, Plan, Monitor, Evaluate, Recognize."}
+{"question":"How does the IRS evaluate performance?","answer":"Per IRM 6.430.1, it uses critical elements."}
+{"question":"What is the role of the Associate CFO?","answer":"Per IRM 6.430.1, the CFO reviews measures."}
+{"question":"How does the IRS use performance results?","answer":"Per IRM 6.430.1, they guide reviews."}
+{"question":"What is the purpose of IRM 6.307.1?","answer":"Per IRM 6.307.1, it guides veterans employment."}

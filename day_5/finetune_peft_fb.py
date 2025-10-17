@@ -2,20 +2,16 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, TrainingArguments,
 from peft import LoraConfig, get_peft_model, TaskType
 from datasets import Dataset
 import torch
-import pandas as pd
 import json
-
-# Set Hugging Face token (if not already set)
 import os
-os.environ["HF_TOKEN"] = "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"  # Your token
 
 # Load dataset
-with open('C:/Users/the-s/PycharmProjects/AI_Learning/data/qa_pairs.jsonl', 'r') as f:
+with open('/home/ubuntu/AI_Learning/data/combined_dataset.jsonl', 'r') as f:
     data = [json.loads(line) for line in f]
 
 # Format for LoRA
 def format_prompt(example):
-    return f"### Question: {example['question']}\n### Answer: {example['answer']}<|endoftext|>"
+    return f"{example['instruction']}\n### Input: {example['input']}\n### Output: {example['output']}<|endoftext|>"
 
 data = [format_prompt(d) for d in data]
 dataset = Dataset.from_list([{'text': d} for d in data])
@@ -24,38 +20,37 @@ dataset = Dataset.from_list([{'text': d} for d in data])
 model_name = "meta-llama/Llama-3.2-3B"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 tokenizer.pad_token = tokenizer.eos_token
-model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float32, device_map="cpu")
+model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16, device_map="auto")
 
 # LoRA config
 lora_config = LoraConfig(
     task_type=TaskType.CAUSAL_LM,
-    r=8,
-    lora_alpha=16,
-    lora_dropout=0.05,
+    r=16,
+    lora_alpha=32,
+    lora_dropout=0.1,
     target_modules=["q_proj", "v_proj"]
 )
 model = get_peft_model(model, lora_config)
 
-# Tokenize dataset with labels
+# Tokenize dataset
 def tokenize_function(examples):
     tokenized = tokenizer(examples['text'], truncation=True, padding="max_length", max_length=512)
-    tokenized['labels'] = tokenized['input_ids'].copy()  # Set labels for loss
+    tokenized['labels'] = tokenized['input_ids'].copy()
     return tokenized
 
 tokenized_dataset = dataset.map(tokenize_function, batched=True)
 
-# Training args
+# Training args (GPU tweaks)
 training_args = TrainingArguments(
-    output_dir="C:/Users/the-s/PycharmProjects/AI_Learning/finetuned_peft",
-    per_device_train_batch_size=1,
-    gradient_accumulation_steps=4,
-    num_train_epochs=3,
+    output_dir="/home/ubuntu/AI_Learning/finetuned_peft",
+    per_device_train_batch_size=4,
+    gradient_accumulation_steps=1,
+    num_train_epochs=5,
     warmup_steps=1,
     logging_steps=1,
     save_steps=10,
-    fp16=False,
-    dataloader_num_workers=0,
-    resume_from_checkpoint="C:/Users/the-s/PycharmProjects/AI_Learning/finetuned_peft/checkpoint-130"
+    fp16=True,
+    dataloader_num_workers=4
 )
 
 # Trainer
@@ -67,9 +62,9 @@ trainer = Trainer(
 )
 
 # Train
-trainer.train(resume_from_checkpoint="C:/Users/the-s/PycharmProjects/AI_Learning/finetuned_peft/checkpoint-130")
+trainer.train()
 
 # Save
-model.save_pretrained("C:/Users/the-s/PycharmProjects/AI_Learning/finetuned_peft")
-tokenizer.save_pretrained("C:/Users/the-s/PycharmProjects/AI_Learning/finetuned_peft")
+model.save_pretrained("/home/ubuntu/AI_Learning/finetuned_peft")
+tokenizer.save_pretrained("/home/ubuntu/AI_Learning/finetuned_peft")
 print("Fine-tuning complete!")

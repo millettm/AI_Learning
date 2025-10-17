@@ -1,13 +1,10 @@
 import streamlit as st
 import pandas as pd
-from llama_index.core.tools import FunctionTool
-from llama_index.core.agent import ReActAgent
-from llama_index.core import PromptTemplate
-from llama_index.core import Document, VectorStoreIndex, Settings
-from llama_index.llms.ollama import Ollama
+from llama_index.core import PromptTemplate, Document, VectorStoreIndex, Settings
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
-import requests
-import json
+from transformers import AutoModelForCausalLM, AutoTokenizer
+from peft import PeftModel
+import torch
 import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
 nltk.download('vader_lexicon')
@@ -16,23 +13,12 @@ nltk.download('vader_lexicon')
 st.title("IRS Leadership Assistant")
 st.write("Query performance management or request quizzes/simulations (e.g., 'Explain Weingarten Rights' or '3-question quiz on feedback').")
 
-# Set up Ollama explicitly
-ollama_llm = Ollama(model='llama3.2:3b', base_url='http://127.0.0.1:11434', request_timeout=1800.0, options={'num_gpu': 0})
-Settings.llm = ollama_llm  # Force Ollama, no OpenAI fallback
+# Set up embeddings
 Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5", device='cpu')
-
-# Pre-flight Ollama check
-try:
-    test_response = ollama_llm.complete("Test connection")
-    st.write("Ollama connection successful!")
-except Exception as e:
-    st.error(f"Ollama connection failed: {str(e)}")
 
 # Load CSV
 df = pd.read_csv('C:/Users/the-s/PycharmProjects/AI_Learning/data/cleaned_combined_docs.csv')
 df = df.dropna(subset=['text']).astype(str)
-
-# Convert to Documents
 documents = [Document(text=row['text']) for index, row in df.iterrows()]
 
 # Query template
@@ -47,50 +33,36 @@ query_template = PromptTemplate(
 v_index = VectorStoreIndex.from_documents(documents)
 query_engine = v_index.as_query_engine(text_qa_template=query_template)
 
-# Direct Ollama API call (fallback if agent fails)
-def call_ollama(prompt, model='llama3.2:3b'):
-    url = 'http://127.0.0.1:11434/api/generate'
-    payload = {
-        'model': model,
-        'prompt': prompt,
-        'stream': False,
-        'options': {'num_gpu': 0, 'temperature': 0.7}
-    }
-    response = requests.post(url, json=payload)
-    if response.status_code == 200:
-        return response.json()['response']
-    else:
-        return f"Error: {response.status_code} - {response.text}"
+# Load fine-tuned model
+finetuned_path = "C:/Users/the-s/PycharmProjects/AI_Learning/finetuned_peft"
+if not os.path.exists(finetuned_path):
+    st.error(f"Error: Fine-tuned model directory {finetuned_path} not found. Rerun finetune_peft.py.")
+else:
+    base_model = AutoModelForCausalLM.from_pretrained(
+        "meta-llama/Llama-3.2-3B",
+        torch_dtype=torch.float32,
+        device_map="cpu"
+    )
+    model = PeftModel.from_pretrained(base_model, finetuned_path)
+    tokenizer = AutoTokenizer.from_pretrained(finetuned_path)
 
-# Agent setup
-def query_rag(query: str) -> str:
-    """Query IRS performance management data."""
-    return str(query_engine.query(query))
+    def query_finetuned(query):
+        rag_context = str(query_engine.query(query))
+        full_prompt = f"You are an IRS leadership trainer. Provide a precise answer citing relevant IRM sections. {query_template.format(context_str=rag_context, query_str=query)}"
+        inputs = tokenizer(full_prompt, return_tensors="pt").to("cpu")
+        outputs = model.generate(**inputs, max_new_tokens=500, do_sample=True, temperature=0.3)
+        return tokenizer.decode(outputs[0], skip_special_tokens=True)
 
-rag_tool = FunctionTool.from_defaults(fn=query_rag)
-
-agent = ReActAgent(
-    tools=[rag_tool],
-    llm=Settings.llm,
-    verbose=True,
-    max_iterations=100,
-    system_prompt="You are an IRS leadership trainer. Use query_rag to fetch data from multiple sources, then generate items like quizzes. Output 3 multiple-choice questions with 4 options and answers for quizzes, citing IRM if possible."
-)
-
-# Streamlit UI
-query = st.text_input("Enter your query:", placeholder="e.g., 'Explain IRS Performance Management' or '3-question quiz on feedback'")
-if st.button("Submit"):
-    with st.spinner("Processing..."):
-        try:
-            # Use direct Ollama call with RAG context
-            rag_context = str(query_engine.query(query))
-            full_prompt = query_template.format(context_str=rag_context, query_str=query)
-            response = call_ollama(full_prompt)
-            st.write("**Response:**")
-            st.write(response)
-            # Sentiment and keyword analysis
-            sia = SentimentIntensityAnalyzer()
-            st.write("**Sentiment Analysis:**", sia.polarity_scores(response))
-            st.write("**Top Keywords:**", nltk.FreqDist(nltk.word_tokenize(response.lower())).most_common(5))
-        except Exception as e:
-            st.error(f"Error: {str(e)}")
+    # Streamlit UI
+    query = st.text_input("Enter your query:", placeholder="e.g., 'Explain IRS Performance Management' or '3-question quiz on feedback'")
+    if st.button("Submit"):
+        with st.spinner("Processing..."):
+            try:
+                response = query_finetuned(query)
+                st.write("**Response:**")
+                st.write(response)
+                sia = SentimentIntensityAnalyzer()
+                st.write("**Sentiment Analysis:**", sia.polarity_scores(response))
+                st.write("**Top Keywords:**", nltk.FreqDist(nltk.word_tokenize(response.lower())).most_common(5))
+            except Exception as e:
+                st.error(f"Error: {str(e)}")
